@@ -316,10 +316,14 @@ function buildSourceGroupNode(source, items) {
   title.textContent = source;
   const count = document.createElement("span");
   count.textContent = `${fmtNumber(items.length)} 条`;
+  const toggle = document.createElement("span");
+  toggle.className = "group-toggle";
+  toggle.textContent = "▾";
   const listEl = document.createElement("div");
   listEl.className = "source-group-list";
-  header.append(title, count);
+  header.append(title, count, toggle);
   section.append(header, listEl);
+  header.addEventListener("click", () => section.classList.toggle("collapsed"));
   items.forEach((item) => listEl.appendChild(renderItemNode(item)));
   return section;
 }
@@ -376,10 +380,14 @@ function renderGroupedBySiteAndSource(items) {
     title.textContent = site.siteName;
     const count = document.createElement("span");
     count.textContent = `${fmtNumber(site.items.length)} 条`;
+    const toggle = document.createElement("span");
+    toggle.className = "group-toggle";
+    toggle.textContent = "▾";
     const siteListEl = document.createElement("div");
     siteListEl.className = "site-group-list";
-    header.append(title, count);
+    header.append(title, count, toggle);
     siteSection.append(header, siteListEl);
+    header.addEventListener("click", () => siteSection.classList.toggle("collapsed"));
 
     const sourceGroups = groupBySource(site.items);
     sourceGroups.forEach(([source, groupItems]) => {
