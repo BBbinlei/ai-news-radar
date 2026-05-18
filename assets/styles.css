@@ -542,6 +542,31 @@ summary:focus-visible {
   gap: 10px;
   padding: 12px 16px;
   border-bottom: 1px solid rgba(23, 23, 23, 0.08);
+  cursor: pointer;
+  user-select: none;
+}
+
+.group-toggle {
+  font-size: 13px;
+  color: var(--muted);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.site-group.collapsed .group-toggle,
+.source-group.collapsed .group-toggle {
+  transform: rotate(-90deg);
+}
+
+.site-group.collapsed .site-group-list,
+.source-group.collapsed .source-group-list {
+  display: none;
+}
+
+.site-group.collapsed .site-group-head,
+.source-group.collapsed .source-group-head {
+  border-bottom: 0;
 }
 
 .site-group-head {
