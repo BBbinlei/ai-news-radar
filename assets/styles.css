@@ -607,6 +607,79 @@ summary:focus-visible {
   border-top: 0;
 }
 
+/* ── Category groups ────────────────────────────────────────────────────── */
+
+.category-group {
+  min-width: 0;
+  border-top: 1px solid rgba(23, 23, 23, 0.08);
+}
+
+.category-group:first-child {
+  border-top: 0;
+}
+
+.category-group-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(23, 23, 23, 0.08);
+  cursor: pointer;
+  user-select: none;
+}
+
+.category-group-head h3 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 700;
+  min-width: 0;
+}
+
+.category-group-head span {
+  color: var(--muted);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.category-group[data-category="科技"] .category-group-head { background: rgba(18, 106, 115, 0.08); }
+.category-group[data-category="学术"] .category-group-head { background: rgba(79, 70, 229, 0.07); }
+.category-group[data-category="金融"] .category-group-head { background: rgba(154, 103, 0, 0.07); }
+.category-group[data-category="八卦"] .category-group-head { background: rgba(180, 35, 24, 0.07); }
+
+.category-group[data-category="科技"] .category-group-head h3 { color: var(--accent); }
+.category-group[data-category="学术"] .category-group-head h3 { color: #4f46e5; }
+.category-group[data-category="金融"] .category-group-head h3 { color: var(--warn); }
+.category-group[data-category="八卦"] .category-group-head h3 { color: var(--bad); }
+
+.category-summary {
+  padding: 10px 16px 11px;
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--muted);
+  background: var(--surface-soft);
+  border-bottom: 1px solid rgba(23, 23, 23, 0.06);
+}
+
+.category-summary::before {
+  content: "AI 摘要 · ";
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.category-group-list {
+  display: grid;
+}
+
+.category-group.collapsed .category-group-list,
+.category-group.collapsed .category-summary {
+  display: none;
+}
+
+.category-group.collapsed .category-group-head {
+  border-bottom: 0;
+}
+
 .news-card {
   min-width: 0;
   padding: 13px 16px;
