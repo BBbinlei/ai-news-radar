@@ -63,6 +63,7 @@ jobs:
           X_API_RUN_UTC_HOUR: ${{ vars.X_API_RUN_UTC_HOUR }}
           X_API_RUN_UTC_MINUTE_MAX: ${{ vars.X_API_RUN_UTC_MINUTE_MAX }}
           RSS_MAX_FEEDS: ${{ vars.RSS_MAX_FEEDS || 10 }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
           if [ -f feeds/follow.opml ]; then
             python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
@@ -76,7 +77,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest-24h.json data/latest-24h-all.json data/archive.json data/source-status.json data/waytoagi-7d.json data/title-zh-cache.json
+          git add data/latest-24h.json data/latest-24h-all.json data/archive.json data/source-status.json data/waytoagi-7d.json data/title-zh-cache.json data/category-cache.json
           if [ -f data/email-digest.json ] && [ "$EMAIL_DIGEST_PUBLISH" = "1" ]; then
             git add data/email-digest.json
           fi
