@@ -2857,6 +2857,16 @@ def load_category_cache(path: Path) -> dict[str, str]:
     return {}
 
 
+_GOSSIP_KWS_ZH = [
+    "败诉", "胜诉", "陪审团", "被开除", "被解雇", "被迫离职",
+    "起诉", "诉讼", "官司",
+]
+_GOSSIP_KWS_EN = [
+    "jury", "verdict", " sued", "lawsuit", "fired ceo", "ceo fired",
+    "resigns", "ousted",
+]
+
+
 def _rule_based_category(item: dict[str, Any]) -> str | None:
     """Return a category from deterministic rules, or None to defer to DeepSeek."""
     url = (item.get("url") or "").lower()
@@ -2874,6 +2884,13 @@ def _rule_based_category(item: dict[str, Any]) -> str | None:
     # Financial sources
     if any(k in url for k in ("bloomberg", "reuters", "cnbc", "wsj.com", "ft.com", "crunchbase")):
         return "金融"
+    # 八卦: court verdicts, lawsuits, firings — keyword match on title
+    title_zh = (item.get("title_zh") or "").lower()
+    title_en = (item.get("title") or "").lower()
+    if any(kw in title_zh for kw in _GOSSIP_KWS_ZH):
+        return "八卦"
+    if any(kw in title_en for kw in _GOSSIP_KWS_EN):
+        return "八卦"
     return None
 
 
