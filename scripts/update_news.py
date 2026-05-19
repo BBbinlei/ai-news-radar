@@ -2826,6 +2826,142 @@ def load_title_zh_cache(path: Path) -> dict[str, str]:
     return {}
 
 
+# ── DeepSeek category classification ─────────────────────────────────────────
+
+DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
+CATEGORY_LABELS = ["科技", "学术", "金融", "八卦"]
+
+_CLASSIFY_SYSTEM = (
+    "你是AI资讯分类助手。将文章分入以下4类之一：\n"
+    "- 科技：产品发布、模型更新、应用工具、公司动态、技术突破\n"
+    "- 学术：论文研究、数据集、基准测试、学术会议、实验结果\n"
+    "- 金融：融资、收购、估值、市场分析、商业合作、IPO\n"
+    "- 八卦：人事变动、行业争议、观点争论、社区热点、创业故事\n"
+    "输入JSON数组[{\"id\":\"...\",\"title\":\"...\",\"source\":\"...\"}]，"
+    "输出同结构加\"category\"字段，仅输出合法JSON，无其他内容。"
+)
+
+
+def load_category_cache(path: Path) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if isinstance(data, dict):
+            return {str(k): str(v) for k, v in data.items() if str(k).strip() and str(v).strip()}
+    except Exception:
+        pass
+    return {}
+
+
+def classify_items_deepseek(items: list[dict[str, Any]], api_key: str, cache: dict[str, str]) -> dict[str, str]:
+    """Classify items into CATEGORY_LABELS using DeepSeek. Updates cache in-place and returns it."""
+    uncached = [it for it in items if it.get("id") and it["id"] not in cache]
+    if not uncached:
+        return cache
+
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    batch_size = 50
+
+    for batch_start in range(0, len(uncached), batch_size):
+        batch = uncached[batch_start : batch_start + batch_size]
+        payload_items = [
+            {
+                "id": it["id"],
+                "title": (it.get("title_zh") or it.get("title") or "").strip(),
+                "source": (it.get("source") or "").strip(),
+            }
+            for it in batch
+        ]
+        try:
+            resp = requests.post(
+                DEEPSEEK_API_URL,
+                headers=headers,
+                json={
+                    "model": "deepseek-chat",
+                    "messages": [
+                        {"role": "system", "content": _CLASSIFY_SYSTEM},
+                        {"role": "user", "content": json.dumps(payload_items, ensure_ascii=False)},
+                    ],
+                    "temperature": 0,
+                    "max_tokens": 2000,
+                },
+                timeout=60,
+            )
+            resp.raise_for_status()
+            text = resp.json()["choices"][0]["message"]["content"].strip()
+            if text.startswith("```"):
+                text = re.sub(r"^```[^\n]*\n?", "", text)
+                text = re.sub(r"\n?```$", "", text.strip())
+            result = json.loads(text)
+            if isinstance(result, list):
+                for row in result:
+                    item_id = str(row.get("id") or "")
+                    cat = str(row.get("category") or "科技")
+                    if cat not in CATEGORY_LABELS:
+                        cat = "科技"
+                    if item_id:
+                        cache[item_id] = cat
+        except Exception as exc:
+            print(f"[category] classify batch {batch_start // batch_size} error: {exc}")
+            for it in batch:
+                if it.get("id") and it["id"] not in cache:
+                    cache[it["id"]] = "科技"
+
+    return cache
+
+
+def generate_category_summaries(categorized: dict[str, list[dict[str, Any]]], api_key: str) -> dict[str, str]:
+    """Generate a 2-3 sentence summary for each category via DeepSeek."""
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    summaries: dict[str, str] = {}
+
+    for category in CATEGORY_LABELS:
+        items = categorized.get(category, [])
+        if len(items) < 3:
+            summaries[category] = "今日暂无相关资讯"
+            continue
+
+        top_items = sorted(items, key=lambda x: float(x.get("ai_score") or 0), reverse=True)[:30]
+        titles = "\n".join(
+            f"- {(it.get('title_zh') or it.get('title') or '').strip()}"
+            for it in top_items
+            if (it.get("title_zh") or it.get("title") or "").strip()
+        )
+        if not titles:
+            summaries[category] = "今日暂无相关资讯"
+            continue
+
+        try:
+            resp = requests.post(
+                DEEPSEEK_API_URL,
+                headers=headers,
+                json={
+                    "model": "deepseek-chat",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": (
+                                f"以下是今日「{category}」类AI资讯标题，"
+                                "请用2-3句中文总结今日主要动态，语言精练专业，不要用列表格式：\n"
+                                + titles
+                            ),
+                        }
+                    ],
+                    "temperature": 0.3,
+                    "max_tokens": 200,
+                },
+                timeout=30,
+            )
+            resp.raise_for_status()
+            summaries[category] = resp.json()["choices"][0]["message"]["content"].strip()
+        except Exception as exc:
+            print(f"[category] summary {category} error: {exc}")
+            summaries[category] = f"今日{category}动态汇总生成失败"
+
+    return summaries
+
+
 def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
     s = (text or "").strip()
     if not s:
@@ -3126,6 +3262,28 @@ def main() -> int:
     latest_items_ai_dedup = dedupe_items_by_title_url(latest_items, random_pick=False)
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
 
+    # ── Category classification + summaries ──────────────────────────────────
+    category_cache_path = output_dir / "category-cache.json"
+    deepseek_api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+    category_cache = load_category_cache(category_cache_path)
+    category_summaries: dict[str, str] = {}
+
+    if deepseek_api_key:
+        category_cache = classify_items_deepseek(latest_items_ai_dedup, deepseek_api_key, category_cache)
+        for item in latest_items_ai_dedup:
+            item["category"] = category_cache.get(item.get("id", ""), "科技")
+        categorized: dict[str, list[dict[str, Any]]] = {c: [] for c in CATEGORY_LABELS}
+        for item in latest_items_ai_dedup:
+            categorized.setdefault(item["category"], []).append(item)
+        category_summaries = generate_category_summaries(categorized, deepseek_api_key)
+        category_cache_path.write_text(
+            json.dumps(category_cache, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        print(f"Wrote: {category_cache_path} ({len(category_cache)} entries)")
+    else:
+        for item in latest_items_ai_dedup:
+            item["category"] = category_cache.get(item.get("id", ""), "科技")
+
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
     raw_count_by_site: dict[str, int] = {}
@@ -3175,6 +3333,7 @@ def main() -> int:
         "site_count": len(site_stat),
         "source_count": len({f"{i['site_id']}::{i['source']}" for i in latest_items_ai_dedup}),
         "site_stats": sorted(site_stat.values(), key=lambda x: x["count"], reverse=True),
+        "category_summaries": category_summaries,
         "items": latest_items_ai_dedup,
         "items_ai": latest_items_ai_dedup,
         "items_all_raw": latest_items_all,
