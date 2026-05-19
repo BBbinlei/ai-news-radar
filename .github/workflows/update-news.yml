@@ -86,4 +86,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update ai news snapshot"
+          git pull --rebase origin master
           git push
