@@ -2854,8 +2854,36 @@ def load_category_cache(path: Path) -> dict[str, str]:
     return {}
 
 
+def _rule_based_category(item: dict[str, Any]) -> str | None:
+    """Return a category from deterministic rules, or None to defer to DeepSeek."""
+    url = (item.get("url") or "").lower()
+    source = (item.get("source") or "").lower()
+    site_id = (item.get("site_id") or "").lower()
+    # Academic sources — arXiv, HuggingFace papers, research blogs
+    if "arxiv.org" in url or "arxiv" in source:
+        return "学术"
+    if "huggingface.co/papers" in url or "papers" in source:
+        return "学术"
+    if site_id in ("lil-log", "lilianweng") or "lilianweng" in url:
+        return "学术"
+    if "ruder.io" in url or "sebastian ruder" in source.lower():
+        return "学术"
+    # Financial sources
+    if any(k in url for k in ("bloomberg", "reuters", "cnbc", "wsj.com", "ft.com", "crunchbase")):
+        return "金融"
+    return None
+
+
 def classify_items_deepseek(items: list[dict[str, Any]], api_key: str, cache: dict[str, str]) -> dict[str, str]:
     """Classify items into CATEGORY_LABELS using DeepSeek. Updates cache in-place and returns it."""
+    # Apply deterministic rules first (free, accurate for well-known sources)
+    for it in items:
+        item_id = it.get("id")
+        if item_id and item_id not in cache:
+            rule_cat = _rule_based_category(it)
+            if rule_cat:
+                cache[item_id] = rule_cat
+
     uncached = [it for it in items if it.get("id") and it["id"] not in cache]
     if not uncached:
         return cache
