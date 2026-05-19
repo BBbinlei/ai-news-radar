@@ -13,6 +13,7 @@ const state = {
   siteFilter: "",
   query: "",
   mode: "ai",
+  categorySummaries: {},
   waytoagiMode: "today",
   waytoagiData: null,
   sourceStatus: null,
@@ -30,6 +31,7 @@ const listTitleEl = document.getElementById("listTitle");
 const itemTpl = document.getElementById("itemTpl");
 const modeAiBtnEl = document.getElementById("modeAiBtn");
 const modeAllBtnEl = document.getElementById("modeAllBtn");
+const modeCategoryBtnEl = document.getElementById("modeCategoryBtn");
 const modeHintEl = document.getElementById("modeHint");
 const allDedupeWrapEl = document.getElementById("allDedupeWrap");
 const allDedupeToggleEl = document.getElementById("allDedupeToggle");
@@ -244,12 +246,16 @@ function renderSiteFilters() {
 function renderModeSwitch() {
   modeAiBtnEl.classList.toggle("active", state.mode === "ai");
   modeAllBtnEl.classList.toggle("active", state.mode === "all");
+  if (modeCategoryBtnEl) modeCategoryBtnEl.classList.toggle("active", state.mode === "category");
   if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
     modeHintEl.textContent = `AI强相关 · ${fmtNumber(state.totalAi)} 条`;
     if (listTitleEl) listTitleEl.textContent = "AI 信号流";
+  } else if (state.mode === "category") {
+    modeHintEl.textContent = `分类视图 · ${fmtNumber(state.totalAi)} 条`;
+    if (listTitleEl) listTitleEl.textContent = "分类浏览";
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
@@ -399,6 +405,55 @@ function renderGroupedBySiteAndSource(items) {
   newsListEl.appendChild(frag);
 }
 
+const CATEGORY_ORDER = ["科技", "学术", "金融", "八卦"];
+
+function renderGroupedByCategory(items) {
+  const catMap = new Map();
+  CATEGORY_ORDER.forEach((c) => catMap.set(c, []));
+  items.forEach((item) => {
+    const cat = item.category || "科技";
+    if (!catMap.has(cat)) catMap.set(cat, []);
+    catMap.get(cat).push(item);
+  });
+
+  const frag = document.createDocumentFragment();
+  CATEGORY_ORDER.forEach((cat) => {
+    const catItems = catMap.get(cat) || [];
+    const section = document.createElement("section");
+    section.className = "category-group";
+    section.dataset.category = cat;
+
+    const header = document.createElement("header");
+    header.className = "category-group-head";
+    const title = document.createElement("h3");
+    title.textContent = cat;
+    const count = document.createElement("span");
+    count.textContent = `${fmtNumber(catItems.length)} 条`;
+    const toggle = document.createElement("span");
+    toggle.className = "group-toggle";
+    toggle.textContent = "▾";
+    header.append(title, count, toggle);
+    header.addEventListener("click", () => section.classList.toggle("collapsed"));
+
+    const summary = document.createElement("div");
+    summary.className = "category-summary";
+    summary.textContent = state.categorySummaries[cat] || "加载中…";
+
+    const listEl = document.createElement("div");
+    listEl.className = "category-group-list";
+
+    const sourceGroups = groupBySource(catItems);
+    sourceGroups.forEach(([source, groupItems]) => {
+      listEl.appendChild(buildSourceGroupNode(source, groupItems));
+    });
+
+    section.append(header, summary, listEl);
+    frag.appendChild(section);
+  });
+
+  newsListEl.appendChild(frag);
+}
+
 function renderList() {
   const filtered = getFilteredItems();
   resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
@@ -410,6 +465,11 @@ function renderList() {
     empty.className = "empty";
     empty.textContent = "当前筛选条件下没有结果。";
     newsListEl.appendChild(empty);
+    return;
+  }
+
+  if (state.mode === "category") {
+    renderGroupedByCategory(filtered);
     return;
   }
 
@@ -647,6 +707,7 @@ async function init() {
     state.allDataUrl = payload.all_mode_data_url || state.allDataUrl;
     state.allDataLoaded = Boolean(payload.items_all || payload.items_all_raw);
     state.generatedAt = payload.generated_at;
+    state.categorySummaries = payload.category_summaries || {};
 
     setStats(payload);
     renderModeSwitch();
@@ -716,6 +777,15 @@ modeAllBtnEl.addEventListener("click", async () => {
     newsListEl.appendChild(failed);
   }
 });
+
+if (modeCategoryBtnEl) {
+  modeCategoryBtnEl.addEventListener("click", () => {
+    state.mode = "category";
+    renderModeSwitch();
+    renderSiteFilters();
+    renderList();
+  });
+}
 
 if (allDedupeToggleEl) {
   allDedupeToggleEl.addEventListener("change", (e) => {
