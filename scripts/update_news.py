@@ -2894,7 +2894,12 @@ def _rule_based_category(item: dict[str, Any]) -> str | None:
     return None
 
 
-def classify_items_deepseek(items: list[dict[str, Any]], api_key: str, cache: dict[str, str]) -> dict[str, str]:
+def classify_items_deepseek(
+    items: list[dict[str, Any]],
+    api_key: str,
+    cache: dict[str, str],
+    cache_path: Path | None = None,
+) -> dict[str, str]:
     """Classify items into CATEGORY_LABELS using DeepSeek. Updates cache in-place and returns it."""
     # Apply deterministic rules first (free, accurate for well-known sources)
     for it in items:
@@ -2908,6 +2913,7 @@ def classify_items_deepseek(items: list[dict[str, Any]], api_key: str, cache: di
     if not uncached:
         return cache
 
+    print(f"[category] classifying {len(uncached)} uncached items via DeepSeek …")
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     batch_size = 50
 
@@ -2955,6 +2961,9 @@ def classify_items_deepseek(items: list[dict[str, Any]], api_key: str, cache: di
             for it in batch:
                 if it.get("id") and it["id"] not in cache:
                     cache[it["id"]] = "科技"
+        # Save partial cache after every batch so progress survives job cancellation
+        if cache_path is not None:
+            cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
     return cache
 
@@ -3317,7 +3326,7 @@ def main() -> int:
     category_summaries: dict[str, str] = {}
 
     if deepseek_api_key:
-        category_cache = classify_items_deepseek(latest_items_ai_dedup, deepseek_api_key, category_cache)
+        category_cache = classify_items_deepseek(latest_items_ai_dedup, deepseek_api_key, category_cache, category_cache_path)
         for item in latest_items_ai_dedup:
             item["category"] = category_cache.get(item.get("id", ""), "科技")
         categorized: dict[str, list[dict[str, Any]]] = {c: [] for c in CATEGORY_LABELS}
