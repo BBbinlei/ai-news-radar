@@ -115,6 +115,11 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
         "html_url": "https://github.com/openai/skills",
         "include_keywords": "hatch,pet,migrate-to-codex",
     },
+    {
+        "title": "ML Papers of the Week",
+        "xml_url": "https://github.com/dair-ai/ML-Papers-of-the-Week/commits/main.atom",
+        "html_url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
+    },
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
@@ -167,6 +172,54 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "xml_url": "https://github.com/anthropics/claude-code/releases.atom",
         "html_url": "https://github.com/anthropics/claude-code/releases",
         "max_entries": 6,
+    },
+    {
+        "title": "MIT News AI",
+        "xml_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+        "html_url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "max_entries": 8,
+    },
+    {
+        "title": "Wired AI",
+        "xml_url": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "html_url": "https://www.wired.com/tag/artificial-intelligence/",
+        "include_keywords": "ai,artificial intelligence,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,copilot",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
+    {
+        "title": "The Gradient",
+        "xml_url": "https://thegradientpub.substack.com/feed",
+        "html_url": "https://thegradientpub.substack.com/",
+        "max_entries": 6,
+        "research_only": True,
+    },
+    {
+        "title": "Andrej Karpathy Blog",
+        "xml_url": "https://karpathy.github.io/feed.xml",
+        "html_url": "https://karpathy.github.io/",
+        "max_entries": 6,
+    },
+    {
+        "title": "Lilian Weng Blog",
+        "xml_url": "https://lilianweng.github.io/index.xml",
+        "html_url": "https://lilianweng.github.io/",
+        "max_entries": 6,
+        "research_only": True,
+    },
+    {
+        "title": "Sebastian Ruder Blog",
+        "xml_url": "https://www.ruder.io/rss/",
+        "html_url": "https://www.ruder.io/",
+        "max_entries": 6,
+        "research_only": True,
+    },
+    {
+        "title": "arXiv cs.AI",
+        "xml_url": "https://rss.arxiv.org/rss/cs.AI",
+        "html_url": "https://arxiv.org/list/cs.AI/recent",
+        "max_entries": 15,
+        "research_only": True,
     },
 )
 AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
