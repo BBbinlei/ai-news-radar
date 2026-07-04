@@ -1,68 +1,87 @@
 {
-  "generated_at": "2026-07-04T14:06:26.337262Z",
+  "generated_at": "2026-07-04T15:38:54.429311Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1cc388fb9b67",
-      "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "primary_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_00231a9b6301",
+      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+      "url": "https://github.com/teamchong/pxpipe",
+      "primary_url": "https://github.com/teamchong/pxpipe",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-03T14:25:43Z"
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        },
+        {
+          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
+          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:50:49Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google DeepMind"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-03T14:25:43Z"
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        },
+        {
+          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
+          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:50:49Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7104,
-        "story_heat": 0.0
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7457,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T14:25:43Z",
-      "latest_at": "2026-07-03T14:25:43Z",
+      "earliest_at": "2026-07-03T15:50:49Z",
+      "latest_at": "2026-07-03T19:19:45.726000Z",
       "primary_item": {
-        "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-        "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
+        "id": "11edb9790de076ca000c9866976f227f4603ec39",
+        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+        "url": "https://github.com/teamchong/pxpipe",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9104,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,87 +162,6 @@
         "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
         "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_00231a9b6301",
-      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-      "url": "https://github.com/teamchong/pxpipe",
-      "primary_url": "https://github.com/teamchong/pxpipe",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "11edb9790de076ca000c9866976f227f4603ec39",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45.726000Z"
-        },
-        {
-          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T15:50:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "11edb9790de076ca000c9866976f227f4603ec39",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45.726000Z"
-        },
-        {
-          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T15:50:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7625,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:50:49Z",
-      "latest_at": "2026-07-03T19:19:45.726000Z",
-      "primary_item": {
-        "id": "11edb9790de076ca000c9866976f227f4603ec39",
-        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-        "url": "https://github.com/teamchong/pxpipe",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -262,21 +200,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.877,
+        "recency": 0.8577,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-04T05:01:02Z",
       "latest_at": "2026-07-04T05:01:02Z",
@@ -285,105 +222,6 @@
         "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
         "url": "https://www.ithome.com/0/972/526.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5fa8133bc14c",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://mistral.ai/news/leanstral-1-5",
-      "primary_url": "https://mistral.ai/news/leanstral-1-5",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
-          "title": "Leanstral 1.5：面向所有人的丰富性证明",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T03:03:37.023000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Mistral AI：News（网页）",
-        "mistral.ai"
-      ],
-      "items": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
-          "title": "Leanstral 1.5：面向所有人的丰富性证明",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T03:03:37.023000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7197,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52.792000Z",
-      "latest_at": "2026-07-04T03:03:37.023000Z",
-      "primary_item": {
-        "id": "f671b636d24355b474d498f38c883db269d5f550",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://mistral.ai/news/leanstral-1-5",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -422,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8966,
+        "recency": 0.8768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7572,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -596,15 +434,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6028,
-      "importance": 0.6028,
-      "importance_score": 0.6028,
+      "score": 0.5999,
+      "importance": 0.5999,
+      "importance_score": 0.5999,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.747,
+        "recency": 0.7306,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -694,15 +532,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.911,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -811,15 +649,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7743,
+        "recency": 0.7573,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -889,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -986,15 +824,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.846,
+        "recency": 0.8274,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1065,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1144,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9423,
+        "recency": 0.9216,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9129,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,104 +1084,6 @@
         "url": "https://news.ycombinator.com/item?id=48782890",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_24e2bdc66332",
-      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-      "url": "https://github.com/jamesob/local-llm",
-      "primary_url": "https://github.com/jamesob/local-llm",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T18:47:44.003000Z"
-        },
-        {
-          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
-          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://news.ycombinator.com/item?id=48775921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T15:56:36.548000Z"
-        },
-        {
-          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T15:03:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T18:47:44.003000Z"
-        },
-        {
-          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
-          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://news.ycombinator.com/item?id=48775921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T15:56:36.548000Z"
-        },
-        {
-          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T15:03:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7566,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T15:03:43Z",
-      "latest_at": "2026-07-03T18:47:44.003000Z",
-      "primary_item": {
-        "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
-        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-        "url": "https://github.com/jamesob/local-llm",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1400,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8772,
+        "recency": 0.8579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
+        "recency": 0.8528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,6 +1242,85 @@
         "url": "https://danluu.com/ai-coding",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：面向所有人的丰富性证明",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8338,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:33:10Z",
+      "latest_at": "2026-07-04T03:03:37.023000Z",
+      "primary_item": {
+        "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+        "title": "Leanstral 1.5：面向所有人的丰富性证明",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1558,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9494,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1660,6 +1479,163 @@
         "url": "https://www.huxiu.com/article/4872670.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f7fd9ce4f776",
+      "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+      "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "primary_url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9145,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T09:05:02Z",
+      "latest_at": "2026-07-04T09:27:38.407000Z",
+      "primary_item": {
+        "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+        "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+        "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b21c281561e9",
+      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7203,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:51:47.909000Z",
+      "latest_at": "2026-07-03T16:55:50.711000Z",
+      "primary_item": {
+        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     }
   ]
