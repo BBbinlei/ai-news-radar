@@ -182,6 +182,18 @@ baseline, then let the aggregator layer add breadth.
   secrets. For a single-newsletter demo, set
   `AGENTMAIL_ALLOWED_SENDER_DOMAINS=alphasignal.ai` to keep shared-inbox output
   scoped to AlphaSignal metadata.
+- **DeepSeek daily-sections-brief**: supported as an advanced, key-first LLM
+  adapter through `DEEPSEEK_ENABLED` (default on when a key is present) and
+  `DEEPSEEK_API_KEY`, disabled by default without a key. It runs inside the
+  same 30-minute cron as every other source, but `DEEPSEEK_RUN_INTERVAL_HOURS`
+  (default 24) throttles the actual DeepSeek call to about once a day via the
+  same `paid_source_run_gate` mechanism TikHub/SocialData use. Each run feeds
+  the day's merged stories to DeepSeek and asks it to classify them into four
+  AI-industry lenses (科技 product/model releases, 金融 funding/valuation,
+  学术 papers/research, 八卦 industry personnel/drama) with a short Chinese
+  summary per pick, writing `data/daily-sections-brief.json`. On a throttled or
+  failed run, the previous day's file is kept as-is so the frontend's left-edge
+  简报 drawer never goes blank between successful runs.
 
 See `docs/research/advanced-source-free-tier-budget-2026-05-10.md` for the X API
 and AgentMail budget notes.

@@ -24,6 +24,8 @@ const state = {
   dailyBrief: null,
   storiesMerged: null,
   storiesDataUrl: "data/stories-merged.json",
+  sectionsBrief: null,
+  sectionsBriefOpen: false,
   activeSection: "hot",
   boleView: "timeline",
   boleExpanded: false,
@@ -76,6 +78,12 @@ const sectionTabsEl = document.getElementById("sectionTabs");
 const sectionSummaryEl = document.getElementById("sectionSummary");
 const topStoriesTitleEl = document.getElementById("topStoriesTitle");
 const listSortToolsEl = document.getElementById("listSortTools");
+const sectionsBriefTabEl = document.getElementById("sectionsBriefTab");
+const sectionsBriefPanelEl = document.getElementById("sectionsBriefPanel");
+const sectionsBriefBodyEl = document.getElementById("sectionsBriefBody");
+const sectionsBriefMetaEl = document.getElementById("sectionsBriefMeta");
+const sectionsBriefCloseEl = document.getElementById("sectionsBriefClose");
+const sectionsBriefBackdropEl = document.getElementById("sectionsBriefBackdrop");
 
 const SOURCE_KINDS = {
   official_ai: { label: "官方", tone: "official" },
@@ -2837,14 +2845,27 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadSectionsBriefData() {
+  const res = await fetch(`./data/daily-sections-brief.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 daily-sections-brief.json 失败: ${res.status}`);
+  return res.json();
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult] = await Promise.allSettled([
-    loadNewsData(),
-    loadWaytoagiData(),
-    loadSourceStatusData(),
-    loadDailyBriefData(),
-    loadStoriesData(),
-  ]);
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, sectionsBriefResult] =
+    await Promise.allSettled([
+      loadNewsData(),
+      loadWaytoagiData(),
+      loadSourceStatusData(),
+      loadDailyBriefData(),
+      loadStoriesData(),
+      loadSectionsBriefData(),
+    ]);
+
+  // Missing daily-sections-brief.json just means the fork never configured
+  // DeepSeek; hide the entry point rather than showing an empty drawer.
+  state.sectionsBrief = sectionsBriefResult.status === "fulfilled" ? sectionsBriefResult.value : null;
+  renderSectionsBrief();
 
   if (briefResult.status === "fulfilled") {
     state.dailyBrief = briefResult.value;
@@ -3030,6 +3051,82 @@ if (boleTimelineBtnEl) {
     state.boleExpanded = false;
     renderBolePicks();
   });
+}
+
+const SECTIONS_BRIEF_ORDER = ["tech", "finance", "academic", "gossip"];
+
+function setSectionsBriefOpen(open) {
+  state.sectionsBriefOpen = open;
+  if (sectionsBriefPanelEl) {
+    sectionsBriefPanelEl.hidden = !open;
+    sectionsBriefPanelEl.setAttribute("aria-hidden", open ? "false" : "true");
+    sectionsBriefPanelEl.classList.toggle("open", open);
+  }
+  if (sectionsBriefBackdropEl) sectionsBriefBackdropEl.hidden = !open;
+  if (sectionsBriefTabEl) sectionsBriefTabEl.setAttribute("aria-expanded", open ? "true" : "false");
+}
+
+function renderSectionsBrief() {
+  if (!sectionsBriefTabEl || !sectionsBriefPanelEl || !sectionsBriefBodyEl) return;
+  const brief = state.sectionsBrief;
+  const sections = brief && brief.sections;
+  if (!sections) {
+    sectionsBriefTabEl.hidden = true;
+    setSectionsBriefOpen(false);
+    return;
+  }
+
+  sectionsBriefTabEl.hidden = false;
+  if (sectionsBriefMetaEl) sectionsBriefMetaEl.textContent = fmtTime(brief.generated_at);
+
+  sectionsBriefBodyEl.innerHTML = "";
+  SECTIONS_BRIEF_ORDER.forEach((key) => {
+    const section = sections[key];
+    if (!section) return;
+    const block = document.createElement("section");
+    block.className = "sections-brief-block";
+
+    const heading = document.createElement("h3");
+    heading.textContent = section.label || key;
+    block.appendChild(heading);
+
+    const items = Array.isArray(section.items) ? section.items : [];
+    if (!items.length) {
+      const empty = document.createElement("p");
+      empty.className = "sections-brief-empty";
+      empty.textContent = "今日暂无内容";
+      block.appendChild(empty);
+    } else {
+      const list = document.createElement("ul");
+      items.forEach((item) => {
+        const li = document.createElement("li");
+        const link = document.createElement("a");
+        link.href = item.url || "#";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = item.title || "";
+        li.appendChild(link);
+        if (item.summary) {
+          const summary = document.createElement("p");
+          summary.textContent = item.summary;
+          li.appendChild(summary);
+        }
+        list.appendChild(li);
+      });
+      block.appendChild(list);
+    }
+    sectionsBriefBodyEl.appendChild(block);
+  });
+}
+
+if (sectionsBriefTabEl) {
+  sectionsBriefTabEl.addEventListener("click", () => setSectionsBriefOpen(!state.sectionsBriefOpen));
+}
+if (sectionsBriefCloseEl) {
+  sectionsBriefCloseEl.addEventListener("click", () => setSectionsBriefOpen(false));
+}
+if (sectionsBriefBackdropEl) {
+  sectionsBriefBackdropEl.addEventListener("click", () => setSectionsBriefOpen(false));
 }
 
 init();

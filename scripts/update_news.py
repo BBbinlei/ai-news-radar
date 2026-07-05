@@ -239,8 +239,30 @@ PAID_SOURCE_DEFAULT_INTERVAL_HOURS = 24
 PAID_SOURCE_DEFAULT_INTERVAL_HOURS_BY_PREFIX = {
     "SOCIALDATA": 12,
     "TIKHUB": 24,
+    "DEEPSEEK": 24,
 }
 PAID_SOURCE_MAX_INTERVAL_HOURS = 24 * 14
+DEEPSEEK_API_BASE_DEFAULT = "https://api.deepseek.com"
+DEEPSEEK_BRIEF_FILE = "daily-sections-brief.json"
+DEEPSEEK_DEFAULT_MODEL = "deepseek-chat"
+DEEPSEEK_DEFAULT_MAX_INPUT_ITEMS = 150
+DEEPSEEK_BRIEF_SECTIONS = {
+    "tech": "科技",
+    "finance": "金融",
+    "academic": "学术",
+    "gossip": "八卦",
+}
+DEEPSEEK_BRIEF_SYSTEM_PROMPT = (
+    "你是伯乐Skill,一名帮 AI 从业者从大量新闻里挑出高信号内容的编辑。"
+    "给定一批过去 24 小时的 AI/科技新闻故事,把其中值得关注的内容分到四个板块:"
+    "tech(科技:产品与模型发布)、finance(金融:融资/估值/资本动向)、"
+    "academic(学术:论文与研究进展)、gossip(八卦:行业人事变动、纷争、传闻)。"
+    "每个板块挑 5 到 8 条最值得看的故事,用一句简体中文概括其看点。"
+    "只输出严格的 JSON,不要输出多余文字,格式为:"
+    '{"tech": [{"title": "...", "url": "...", "summary": "..."}], '
+    '"finance": [...], "academic": [...], "gossip": [...]}。'
+    "如果某个板块没有合适的内容,返回空数组。"
+)
 X_API_BASE_DEFAULT = "https://api.x.com"
 X_API_POST_READ_COST_USD = 0.005
 X_API_DEFAULT_QUERY = '(AI OR "artificial intelligence" OR "large language model" OR LLM) lang:en -is:retweet has:links'
@@ -4494,6 +4516,163 @@ def maybe_fetch_tikhub_updates(
         return [], status
 
 
+def deepseek_should_run_now(now: datetime, paid_source_state: dict[str, Any] | None = None) -> tuple[bool, str | None]:
+    """Gate the paid DeepSeek classification call to roughly once/day even
+    though this function is invoked on every 30-minute cron run."""
+    return paid_source_run_gate("DEEPSEEK", "deepseek_brief", now, paid_source_state)
+
+
+def deepseek_status_base(now: datetime, paid_source_state: dict[str, Any] | None = None) -> dict[str, Any]:
+    enable_toggle = env_flag_default("DEEPSEEK_ENABLED", True)
+    api_key_present = bool(str(os.environ.get("DEEPSEEK_API_KEY") or "").strip())
+    max_input_items = max(1, env_int("DEEPSEEK_MAX_INPUT_ITEMS", DEEPSEEK_DEFAULT_MAX_INPUT_ITEMS))
+    state_entry = paid_source_state_entry(paid_source_state, "deepseek_brief")
+    return {
+        "enabled": enable_toggle and api_key_present,
+        "enable_toggle": enable_toggle,
+        "api_key_present": api_key_present,
+        "enabled_by": "disabled_by_toggle" if not enable_toggle else ("ready" if api_key_present else "no_api_key"),
+        "ok": None,
+        "item_count": 0,
+        "sections": list(DEEPSEEK_BRIEF_SECTIONS.keys()),
+        "published_by_default": True,
+        "billing": "deepseek_chat_completion",
+        "max_input_items": max_input_items,
+        "run_interval_hours": paid_source_interval_hours("DEEPSEEK"),
+        "run_utc_hour": max(0, min(env_int("DEEPSEEK_RUN_UTC_HOUR", 0), 23)),
+        "run_utc_minute_max": max(0, min(env_int("DEEPSEEK_RUN_UTC_MINUTE_MAX", 10), 59)),
+        "last_run_at": state_entry.get("last_run_at"),
+        "last_success_at": state_entry.get("last_success_at"),
+        "generated_date_utc": now.astimezone(UTC).date().isoformat(),
+    }
+
+
+def build_deepseek_brief_prompt(stories: list[dict[str, Any]], max_items: int) -> str:
+    """Render a compact candidate list for the DeepSeek classification prompt."""
+
+    def sort_key(story: dict[str, Any]) -> str:
+        return str(story.get("latest_at") or story.get("earliest_at") or "")
+
+    ranked = sorted(
+        (story for story in stories if story.get("title") and story.get("url")),
+        key=sort_key,
+        reverse=True,
+    )[: max(0, max_items)]
+
+    lines = ["以下是过去 24 小时的候选故事列表,按时间倒序排列:"]
+    for idx, story in enumerate(ranked, start=1):
+        lines.append(
+            f"{idx}. title: {story.get('title')} | url: {story.get('url')} | "
+            f"source: {story.get('source_name') or story.get('source') or ''} | "
+            f"source_count: {story.get('source_count') or 1} | "
+            f"category: {story.get('category') or ''} | "
+            f"latest_at: {story.get('latest_at') or ''}"
+        )
+    return "\n".join(lines)
+
+
+def call_deepseek_api(
+    session: requests.Session,
+    api_key: str,
+    base_url: str,
+    model: str,
+    user_prompt: str,
+) -> Any:
+    """POST to DeepSeek's OpenAI-compatible chat completion endpoint and return
+    the parsed JSON object from the model's response content. Any failure
+    (network, auth, non-JSON content) is left to the caller to catch."""
+    resp = session.post(
+        f"{base_url.rstrip('/')}/chat/completions",
+        headers={"Authorization": f"Bearer {api_key}"},
+        json={
+            "model": model,
+            "messages": [
+                {"role": "system", "content": DEEPSEEK_BRIEF_SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
+            ],
+            "temperature": 0.3,
+            "response_format": {"type": "json_object"},
+        },
+        timeout=60,
+    )
+    resp.raise_for_status()
+    payload = resp.json()
+    content = payload["choices"][0]["message"]["content"]
+    return json.loads(content)
+
+
+def parse_deepseek_brief_response(raw: Any) -> dict[str, Any] | None:
+    """Normalize a DeepSeek response into the four fixed sections, dropping
+    malformed entries instead of failing the whole payload."""
+    if not isinstance(raw, dict):
+        return None
+    sections: dict[str, Any] = {}
+    for key, label in DEEPSEEK_BRIEF_SECTIONS.items():
+        raw_items = raw.get(key)
+        items: list[dict[str, Any]] = []
+        if isinstance(raw_items, list):
+            for entry in raw_items:
+                if not isinstance(entry, dict):
+                    continue
+                title = str(entry.get("title") or "").strip()
+                url = str(entry.get("url") or "").strip()
+                summary = str(entry.get("summary") or "").strip()
+                if not title or not url:
+                    continue
+                items.append({"title": title, "url": url, "summary": summary})
+        sections[key] = {"label": label, "items": items}
+    return sections
+
+
+def maybe_generate_daily_sections_brief(
+    session: requests.Session,
+    now: datetime,
+    stories: list[dict[str, Any]],
+    paid_source_state: dict[str, Any] | None,
+    previous_payload: dict[str, Any] | None,
+) -> tuple[dict[str, Any] | None, dict[str, Any]]:
+    """Classify today's stories into 科技/金融/学术/八卦 via DeepSeek, throttled
+    to ~once/day by paid_source_run_gate even though this runs inside the
+    30-minute cron. Falls back to the previous payload on skip/failure so the
+    sidebar never goes blank between successful runs."""
+    status = deepseek_status_base(now, paid_source_state)
+    if not status["enable_toggle"]:
+        status["disabled_reason"] = "disabled_by_toggle"
+        return None, status
+    if not status["api_key_present"]:
+        status["disabled_reason"] = "no_api_key"
+        return None, status
+
+    should_run, skip_reason = deepseek_should_run_now(now, paid_source_state)
+    if not should_run:
+        status["skipped"] = True
+        status["skip_reason"] = skip_reason or "outside_deepseek_run_window"
+        return previous_payload, status
+
+    api_key = str(os.environ.get("DEEPSEEK_API_KEY") or "").strip()
+    base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or DEEPSEEK_API_BASE_DEFAULT).strip()
+    model = str(os.environ.get("DEEPSEEK_MODEL") or DEEPSEEK_DEFAULT_MODEL).strip()
+    status["attempted"] = True
+    try:
+        user_prompt = build_deepseek_brief_prompt(stories, status["max_input_items"])
+        raw = call_deepseek_api(session, api_key, base_url, model, user_prompt)
+        sections = parse_deepseek_brief_response(raw)
+        if sections is None:
+            raise ValueError("deepseek_response_not_a_json_object")
+        payload = {
+            "generated_at": iso(now),
+            "model": model,
+            "sections": sections,
+        }
+        status["ok"] = True
+        status["item_count"] = sum(len(section["items"]) for section in sections.values())
+        return payload, status
+    except Exception as exc:
+        status["ok"] = False
+        status["error"] = type(exc).__name__
+        return previous_payload, status
+
+
 def has_mojibake_noise(text: str) -> bool:
     if not text:
         return False
@@ -5247,9 +5426,16 @@ def main() -> int:
     title_cache_path = output_dir / "title-zh-cache.json"
     email_digest_path = output_dir / AGENTMAIL_DIGEST_FILE
     paid_source_state_path = output_dir / PAID_SOURCE_STATE_FILE
+    sections_brief_path = output_dir / DEEPSEEK_BRIEF_FILE
 
     archive = load_archive(archive_path)
     paid_source_state = load_paid_source_state(paid_source_state_path)
+    previous_sections_brief_payload: dict[str, Any] | None = None
+    if sections_brief_path.exists():
+        try:
+            previous_sections_brief_payload = json.loads(sections_brief_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            previous_sections_brief_payload = None
 
     session = create_session()
     raw_items, statuses = collect_all(session, now)
@@ -5485,6 +5671,17 @@ def main() -> int:
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
+
+    sections_brief_payload, deepseek_status = maybe_generate_daily_sections_brief(
+        session,
+        now,
+        stories,
+        paid_source_state,
+        previous_sections_brief_payload,
+    )
+    update_paid_source_state(paid_source_state, "deepseek_brief", deepseek_status, now)
+    sync_paid_source_status_timestamps(deepseek_status, paid_source_state, "deepseek_brief")
+
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     merge_log_payload = build_merge_log_payload(merge_events, generated_at=generated_at)
@@ -5617,6 +5814,7 @@ def main() -> int:
         "x_api": x_api_status,
         "socialdata": socialdata_status,
         "tikhub": tikhub_status,
+        "deepseek_brief": deepseek_status,
     }
 
     latest_payload, latest_all_payload = build_latest_payloads(latest_payload)
@@ -5649,6 +5847,11 @@ def main() -> int:
             json.dumps(sanitize_public_payload(email_digest_payload), ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
+    if sections_brief_payload is not None:
+        sections_brief_path.write_text(
+            json.dumps(sanitize_public_payload(sections_brief_payload), ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
     waytoagi_path.write_text(json.dumps(sanitize_public_payload(waytoagi_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     title_cache_path.write_text(json.dumps(sanitize_public_payload(title_cache), ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -5662,6 +5865,8 @@ def main() -> int:
     print(f"Wrote: {paid_source_state_path}")
     if email_digest_payload is not None:
         print(f"Wrote: {email_digest_path} ({email_digest_payload.get('total_messages', 0)} email items)")
+    if sections_brief_payload is not None:
+        print(f"Wrote: {sections_brief_path}")
     print(f"Wrote: {waytoagi_path} ({waytoagi_payload.get('count_7d', 0)} items)")
     print(f"Wrote: {title_cache_path} ({len(title_cache)} entries)")
 

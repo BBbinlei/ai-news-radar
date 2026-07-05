@@ -36,6 +36,26 @@
     <link rel="stylesheet" href="./assets/styles.css?v=ui-polish-0626a" />
   </head>
   <body>
+    <button
+      id="sectionsBriefTab"
+      class="sections-brief-tab"
+      type="button"
+      aria-expanded="false"
+      aria-controls="sectionsBriefPanel"
+      hidden
+    >
+      <span>今日简报</span>
+    </button>
+    <div id="sectionsBriefBackdrop" class="sections-brief-backdrop" hidden></div>
+    <aside id="sectionsBriefPanel" class="sections-brief-panel" aria-hidden="true" hidden>
+      <div class="sections-brief-header">
+        <strong>今日简报</strong>
+        <span class="sections-brief-meta" id="sectionsBriefMeta"></span>
+        <button id="sectionsBriefClose" class="sections-brief-close" type="button" aria-label="关闭简报">×</button>
+      </div>
+      <div class="sections-brief-body" id="sectionsBriefBody"></div>
+    </aside>
+
     <main class="shell">
       <header class="hero">
         <div class="hero-main">

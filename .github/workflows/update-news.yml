@@ -8,6 +8,11 @@ on:
         required: false
         default: false
         type: boolean
+      force_deepseek:
+        description: "Force a DeepSeek sections-brief refresh even before its normal interval"
+        required: false
+        default: false
+        type: boolean
   schedule:
     - cron: "*/30 * * * *"
 
@@ -91,6 +96,18 @@ jobs:
           TIKHUB_RUN_UTC_HOUR: ${{ vars.TIKHUB_RUN_UTC_HOUR }}
           TIKHUB_RUN_UTC_MINUTE_MAX: ${{ vars.TIKHUB_RUN_UTC_MINUTE_MAX }}
           TIKHUB_FORCE_RUN: ${{ inputs.force_tikhub && '1' || '' }}
+          # DeepSeek daily-sections-brief (科技/金融/学术/八卦): key-first, runs
+          # inside this same 30-minute cron but is throttled to ~once/day via
+          # DEEPSEEK_RUN_INTERVAL_HOURS + paid-source-state.json.
+          DEEPSEEK_ENABLED: ${{ secrets.DEEPSEEK_ENABLED || vars.DEEPSEEK_ENABLED }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+          DEEPSEEK_MAX_INPUT_ITEMS: ${{ vars.DEEPSEEK_MAX_INPUT_ITEMS }}
+          DEEPSEEK_RUN_INTERVAL_HOURS: ${{ vars.DEEPSEEK_RUN_INTERVAL_HOURS }}
+          DEEPSEEK_RUN_UTC_HOUR: ${{ vars.DEEPSEEK_RUN_UTC_HOUR }}
+          DEEPSEEK_RUN_UTC_MINUTE_MAX: ${{ vars.DEEPSEEK_RUN_UTC_MINUTE_MAX }}
+          DEEPSEEK_FORCE_RUN: ${{ inputs.force_deepseek && '1' || '' }}
           RSS_MAX_FEEDS: ${{ vars.RSS_MAX_FEEDS || 10 }}
         run: |
           if [ -f feeds/follow.opml ]; then
