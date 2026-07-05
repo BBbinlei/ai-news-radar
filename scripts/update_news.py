@@ -4667,6 +4667,13 @@ def maybe_generate_daily_sections_brief(
         status["ok"] = True
         status["item_count"] = sum(len(section["items"]) for section in sections.values())
         return payload, status
+    except requests.HTTPError as exc:
+        status["ok"] = False
+        status["error"] = type(exc).__name__
+        if exc.response is not None:
+            status["http_status"] = exc.response.status_code
+            status["error_detail"] = exc.response.text[:300]
+        return previous_payload, status
     except Exception as exc:
         status["ok"] = False
         status["error"] = type(exc).__name__

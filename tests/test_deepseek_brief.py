@@ -3,6 +3,8 @@ import unittest
 from datetime import datetime, timezone
 from unittest.mock import patch
 
+import requests
+
 from scripts.update_news import (
     build_deepseek_brief_prompt,
     deepseek_status_base,
@@ -195,6 +197,29 @@ class MaybeGenerateDailySectionsBriefTests(unittest.TestCase):
         self.assertEqual(payload, previous)
         self.assertFalse(status["ok"])
         self.assertEqual(status["error"], "ConnectionError")
+
+    def test_http_error_captures_status_code_and_body_for_debugging(self):
+        class FakeErrorResponse:
+            status_code = 401
+            text = "Authentication Fails, Your api key: ******abcd is invalid"
+
+            def raise_for_status(self):
+                raise requests.HTTPError(response=self)
+
+        class FakeSession:
+            def post(self, *args, **kwargs):
+                return FakeErrorResponse()
+
+        env = {"DEEPSEEK_API_KEY": "sk-test", "DEEPSEEK_FORCE_RUN": "1"}
+        with patch.dict("os.environ", env, clear=True):
+            payload, status = maybe_generate_daily_sections_brief(
+                FakeSession(), NOW, self.stories, None, None
+            )
+        self.assertIsNone(payload)
+        self.assertFalse(status["ok"])
+        self.assertEqual(status["error"], "HTTPError")
+        self.assertEqual(status["http_status"], 401)
+        self.assertIn("Authentication Fails", status["error_detail"])
 
 
 if __name__ == "__main__":
