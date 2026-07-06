@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-07-05T08:17:08.011383Z",
+  "generated_at": "2026-07-06T12:21:34.266606Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "Claude Sonnet 5 来了，Fable 5 也回来了",
-          "url": "https://www.oschina.net/news/470795/claude-sonnet-5",
-          "summary": "Anthropic 发布 Claude Sonnet 5 模型，并恢复 Fable 5 编码代理，工程师角色转向验收。"
+          "title": "腾讯混元Hy3发布并开源，接入元宝，Agent能力全免费",
+          "url": "https://www.huxiu.com/article/4873047.html?f=rss",
+          "summary": "腾讯混元Hy3模型发布并开源，性能比肩2~5倍参数规模旗舰模型，Agent能力全免费。"
         },
         {
-          "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
-          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
-          "summary": "OpenAI 核心 leader 解释 Codex 与 ChatGPT 整合的原因及未来方向。"
+          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
+          "url": "https://www.aibase.com/news/29403",
+          "summary": "Mistral AI发布开源模型Leanstral 1.5，专注于数学形式化证明，119B参数仅激活6B，成本极低。"
         },
         {
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "summary": "用户报告 GPT-5.5 Codex 因推理令牌聚类出现性能下降问题。"
+          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
+          "url": "https://www.aibase.com/news/29398",
+          "summary": "通义千问发布实时语音识别模型Fun-ASR-Realtime，提升语音交互能力。"
         },
         {
-          "title": "因社区强烈反对，Fedora 系统 AI 桌面计划搁浅",
-          "url": "https://www.ithome.com/0/972/792.htm",
-          "summary": "Fedora 因社区反对暂停 AI 桌面集成计划。"
+          "title": "谷歌要放大招？Gemini 3.5 Pro 传 7 月 17 日发布，前端碾压 Fable 5",
+          "url": "https://wallstreetcn.com/articles/3776301",
+          "summary": "传闻谷歌Gemini 3.5 Pro将于7月17日发布，性能大幅提升。"
         },
         {
-          "title": "Midjourney 反击好莱坞：要求迪士尼等制片厂披露自身 AI 使用情况",
-          "url": "https://www.ithome.com/0/972/681.htm",
-          "summary": "Midjourney 要求好莱坞制片厂披露 AI 使用情况，反击行业争议。"
+          "title": "英伟达新一代 AI 机柜系统推迟至 2028 年推出",
+          "url": "https://stock.jrj.com.cn/2026/07/06195257715905.shtml",
+          "summary": "英伟达Kyber AI机柜系统因电路板问题推迟至2028年。"
         },
         {
-          "title": "Shadcn/UI 现在默认为 Base UI 而不是 Radix",
-          "url": "https://ui.shadcn.com/docs/changelog",
-          "summary": "Shadcn/UI 默认组件库从 Radix 切换为 Base UI。"
+          "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "summary": "Hugging Face发布LeRobot v0.6.0，聚焦机器人学习中的想象、评估与改进。"
         },
         {
-          "title": "丰田将借助 AI 把各部门 4.5 万个专业术语精简至 5000 个",
-          "url": "https://www.ithome.com/0/972/724.htm",
-          "summary": "丰田利用 AI 将内部术语从 4.5 万精简至 5000，提升生产效率。"
+          "title": "日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产",
+          "url": "https://www.ithome.com/0/973/227.htm",
+          "summary": "日本企业TAI完成40nm边缘AI芯片原型，计划2027年量产。"
         }
       ]
     },
@@ -46,39 +46,34 @@
       "label": "金融",
       "items": [
         {
-          "title": "消息称 Anthropic 拟在澳大利亚布局 1.4GW 数据中心算力，建设成本达 150 亿美元",
-          "url": "https://www.ithome.com/0/972/774.htm",
-          "summary": "Anthropic 计划在澳大利亚建设 1.4GW 数据中心，投资 150 亿美元。"
+          "title": "智能眼镜制造商 Even Realities 估值达到 10 亿美元，美团和腾讯领投 1.5 亿美元融资",
+          "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent",
+          "summary": "Even Realities获美团、腾讯领投1.5亿美元，估值达10亿美元。"
         },
         {
-          "title": "Meta Platforms 将在 2026 年在人工智能领域投入 1350 亿美元",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-spend-135-billion-215500767.html",
-          "summary": "Meta 宣布 2026 年 AI 投资 1350 亿美元，创行业纪录。"
+          "title": "没有产品、没有营收，这家AI公司如何做到51亿美元估值？",
+          "url": "https://www.huxiu.com/article/4872989.html?f=rss",
+          "summary": "一家无产品无营收的AI公司估值达51亿美元，引发市场关注。"
         },
         {
-          "title": "总部位于纽约的 LinqAlpha 为对冲基金提供人工智能驱动的市场研究工具，筹集了 2200 万美元的 A 轮融资",
-          "url": "https://www.techmeme.com/260705/p3",
-          "summary": "AI 对冲基金研究工具 LinqAlpha 完成 2200 万美元 A 轮融资。"
+          "title": "AI 交易风向生变！大摩发声：芯片股上涨动能减弱 资金将轮动至超大规模云厂商",
+          "url": "https://stock.jrj.com.cn/2026/07/06193557715677.shtml",
+          "summary": "摩根士丹利认为AI芯片股动能减弱，资金将转向云厂商。"
         },
         {
-          "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资",
-          "url": "https://36kr.com/p/3882364132077577?f=rss",
-          "summary": "清华团队具身智能创业公司获数亿元天使轮融资，聚焦汽车产业。"
+          "title": "AI内存需求旺盛，三星利润将增长18倍",
+          "url": "https://thenextweb.com/news/samsung-18-fold-q2-profit-ai-memory",
+          "summary": "三星Q2利润预计增长18倍，受益于AI内存需求。"
         },
         {
-          "title": "昆仑芯将在港股上市，目标估值 500 亿美元超过百度；可灵 AI 落地近 30 亿美元融资",
-          "url": "https://www.cyzone.cn/article/838944.html",
-          "summary": "昆仑芯计划港股上市估值 500 亿美元；可灵 AI 融资近 30 亿美元。"
+          "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官",
+          "url": "https://36kr.com/p/3883591654895873?f=rss",
+          "summary": "AI销售平台APTSell获DCM Ventures数百万美元投资。"
         },
         {
-          "title": "ChatGPT开发商OpenAI即将进行1万亿美元的首次公开募股",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
-          "summary": "OpenAI 传闻将进行万亿美元级别 IPO，微软或成最大赢家。"
-        },
-        {
-          "title": "被华为、阿里、美团追捧，这家「Token 工厂」为何着急 IPO？",
-          "url": "https://www.huxiu.com/article/4872736.html?f=rss",
-          "summary": "AI 数据服务公司「Token 工厂」获巨头追捧，加速 IPO 进程。"
+          "title": "随着芯片企业借势人工智能热潮，台湾联微电子计划通过发行存托凭证筹集14亿美元",
+          "url": "https://www.reuters.com/world/asia-pacific/taiwans-unimicron-seeks-14-billion-depositary-share-sale-chip-firms-tap-ai-boom-2026-07-06",
+          "summary": "台湾联微电子计划通过存托凭证筹资14亿美元，借AI芯片热潮。"
         }
       ]
     },
@@ -86,39 +81,34 @@
       "label": "学术",
       "items": [
         {
-          "title": "235B 参数也没用！港中文等发布 7 模态数据集，专测顶级 VLM 的感知盲区",
-          "url": "https://hub.baai.ac.cn/view/56093",
-          "summary": "港中文发布 7 模态数据集，揭示顶级 VLM 在感知上的盲区。"
+          "title": "CVPR 2026 新作：AI 绘画正式迈入「所控即所得」时代",
+          "url": "https://hub.baai.ac.cn/view/56117",
+          "summary": "CVPR 2026论文提出AI绘画新方法，实现精准控制生成内容。"
         },
         {
-          "title": "ACL 2026｜块越大，推理越差？扩散语言模型的新难题被 T * 破解了",
-          "url": "https://news.qq.com/rain/a/20260705A04AM700",
-          "summary": "ACL 2026 论文发现扩散语言模型块大小与推理性能负相关，并提出解决方案。"
+          "title": "ICML 2026｜如何对 Multi-Agent 系统进行过程评估？重新认识多智能体系统中的 Orchestrator",
+          "url": "https://news.qq.com/rain/a/20260706A0779000",
+          "summary": "ICML 2026论文探讨多智能体系统的过程评估与编排器角色。"
         },
         {
-          "title": "李飞飞署名具身新论文：Sim2Real 烧不起，Real2Sim 量大管饱",
-          "url": "https://www.qbitai.com/2026/07/443066.html",
-          "summary": "李飞飞团队提出 Real2Sim 方法，降低具身智能仿真成本。"
+          "title": "ICRA'26 双奖加冕！华人博士生重新定义机器人长时程操控",
+          "url": "https://hub.baai.ac.cn/view/56115",
+          "summary": "ICRA 2026最佳论文奖授予华人博士生，突破机器人长时程操控。"
         },
         {
-          "title": "AI+ 生物论文 | Nature Machine Intelligence 2026 | 学习细胞群体的最优传输图",
-          "url": "https://hub.baai.ac.cn/view/56095",
-          "summary": "Nature MI 发表利用最优传输学习细胞群体动态的 AI 方法。"
+          "title": "OpenAI 塌房！Scaling law 原作曝 bug，万亿算力全白烧",
+          "url": "https://hub.baai.ac.cn/view/56116",
+          "summary": "OpenAI Scaling law原始论文被发现存在bug，可能影响大规模训练。"
         },
         {
-          "title": "日志是代理 / The Log Is the Agent",
-          "url": "https://arxiv.org/abs/2605.21997",
-          "summary": "新论文提出将日志作为代理核心，简化 AI 系统架构。"
+          "title": "研究人员利用人工智能评估了一个用于描述液态水分子有序性的系统性框架",
+          "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
+          "summary": "AI用于评估液态水分子有序性框架，推动分子科学进展。"
         },
         {
-          "title": "Qwen 的前任领导关于混合思维出了什么问题——以及为什么他现在支持特工",
-          "url": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents",
-          "summary": "Qwen 前负责人反思混合思维缺陷，转向支持 Agent 范式。"
-        },
-        {
-          "title": "更好的模型：更差的工具 / Better Models: Worse Tools",
-          "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools",
-          "summary": "文章探讨模型能力提升反而导致工具易用性下降的现象。"
+          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+          "url": "https://www.aibase.com/news/29397",
+          "summary": "面壁智能发布ForgeTrain训练框架，大幅提升训练效率。"
         }
       ]
     },
@@ -126,39 +116,39 @@
       "label": "八卦",
       "items": [
         {
-          "title": "Epic CEO 斯威尼暗示生成式 AI 本可「拯救」《命运 2》游戏",
-          "url": "https://www.ithome.com/0/972/771.htm",
-          "summary": "Epic CEO 称生成式 AI 本可挽救《命运 2》，引发行业讨论。"
+          "title": "Claude Code 为了封禁中国用户，竟然在代码里下毒",
+          "url": "https://juejin.cn/post/7659217248749912114",
+          "summary": "Claude Code被曝在代码中植入针对中国用户的封禁逻辑。"
         },
         {
-          "title": "扎克伯格：Meta的人工智能重组目标“尚未实现”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-meta-ai-reorganization-goals-023300733.html",
-          "summary": "扎克伯格承认 Meta AI 重组未达预期，引发市场担忧。"
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "summary": "Meta被指雇佣外包人员伪装未成年人，诱导竞争对手AI讨论敏感内容。"
         },
         {
-          "title": "清华特奖获得者顾煜贤，加入 DeepSeek",
-          "url": "https://news.qq.com/rain/a/20260705A04AM100",
-          "summary": "清华特奖得主顾煜贤加入 DeepSeek，人才流动受关注。"
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
+          "summary": "一名15岁少年利用AI工具发起勒索攻击，导致平台停服。"
         },
         {
-          "title": "消息称美国政府与 Anthropic 尚未商议政府入股该公司一事",
-          "url": "https://www.ithome.com/0/972/692.htm",
-          "summary": "美国政府入股 Anthropic 传闻被否认。"
+          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+          "url": "https://www.aibase.com/news/29396",
+          "summary": "JadePuffer勒索软件首次实现全自动AI智能体攻击。"
         },
         {
-          "title": "有报道称SpaceX将推出一款可与iPhone抗衡的人工智能手持设备，埃隆·马斯克称该报道“完全不实”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-calls-report-spacex-213349921.html",
-          "summary": "马斯克否认 SpaceX 将推出 AI 手持设备。"
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+          "url": "https://www.36kr.com/p/3883456791163138",
+          "summary": "AI导致大厂高绩效员工被裁，引发行业讨论。"
         },
         {
-          "title": "Anthropic 对其用户执行提示注入",
-          "url": "https://old.reddit.com/r/LLMDevs/comments/1udpw9h/just_got_this_response_from_claude_what_is_going",
-          "summary": "用户发现 Anthropic 对 Claude 响应进行提示注入，引发隐私争议。"
+          "title": "美国智库“打脸”Anthropic，AI消灭就业只是个笑话？",
+          "url": "https://www.huxiu.com/article/4873020.html?f=rss",
+          "summary": "美国智库质疑Anthropic关于AI消灭就业的预测。"
         },
         {
-          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "summary": "英国 Stargate 项目被指为 PR 噱头，OpenAI 未实际考察。"
+          "title": "在用户反对后，微软在人工智能方面做出了重大转变——将让 Teams 用户关闭 Copilot、Facilitator 和 Recap",
+          "url": "https://www.techradar.com/pro/microsoft-makes-major-ai-u-turn-following-user-revolt-will-let-teams-users-turn-off-copilot-facilitator-and-recap",
+          "summary": "微软因用户反对，允许Teams用户关闭AI功能。"
         }
       ]
     }

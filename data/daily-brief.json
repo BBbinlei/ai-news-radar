@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-06T08:12:08.941560Z",
+  "generated_at": "2026-07-06T12:21:34.266606Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0a1d2bd6cc12",
+      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.87,
+      "importance": 0.87,
+      "importance_score": 0.87,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_c57690ad336e",
       "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8883,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,125 +125,6 @@
         "url": "https://huggingface.co/blog/revamped-kernels",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "Anthropic Claude Design 反向工程提示词开源更新",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:18:55.655000Z"
-        },
-        {
-          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:18:55.655000Z"
-        },
-        {
-          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7868,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T08:43:37Z",
-      "latest_at": "2026-07-05T15:35:42.919000Z",
-      "primary_item": {
-        "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-        "title": "Anthropic Claude Design 反向工程提示词开源更新",
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -238,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9417,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.9313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8184,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -550,63 +493,82 @@
       }
     },
     {
-      "story_id": "story_1cdb1783355f",
-      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "source": "公众号：卡尔的AI沃茨",
+      "story_id": "story_44de5f528adc",
+      "title": "Anthropic Claude Design 反向工程提示词开源更新",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
-        "story_heat": 0.0
+        "recency": 0.7409,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T01:19:09Z",
-      "latest_at": "2026-07-06T01:19:09Z",
+      "earliest_at": "2026-07-05T15:35:42.919000Z",
+      "latest_at": "2026-07-05T15:35:42.919000Z",
       "primary_item": {
-        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-        "source": "公众号：卡尔的AI沃茨",
+        "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+        "title": "Anthropic Claude Design 反向工程提示词开源更新",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -645,21 +607,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7689,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T14:00:18Z",
       "latest_at": "2026-07-05T14:00:18Z",
@@ -668,6 +629,66 @@
         "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
         "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1cdb1783355f",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8526,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:19:09Z",
+      "latest_at": "2026-07-06T01:19:09Z",
+      "primary_item": {
+        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -706,21 +727,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8012,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T21:00:27Z",
       "latest_at": "2026-07-05T21:00:27Z",
@@ -733,21 +753,21 @@
       }
     },
     {
-      "story_id": "story_aaeb755b7c2e",
-      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-      "url": "https://www.aibase.com/news/29397",
-      "primary_url": "https://www.aibase.com/news/29397",
+      "story_id": "story_083716f16ea9",
+      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+      "url": "https://www.aibase.com/news/29405",
+      "primary_url": "https://www.aibase.com/news/29405",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "source_count": 1,
@@ -756,13 +776,13 @@
       ],
       "items": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "item_count": 1,
@@ -783,94 +803,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T08:12:08.941560Z",
-      "latest_at": "2026-07-06T08:12:08.941560Z",
+      "earliest_at": "2026-07-06T12:21:34.266606Z",
+      "latest_at": "2026-07-06T12:21:34.266606Z",
       "primary_item": {
-        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-        "url": "https://www.aibase.com/news/29397",
+        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+        "url": "https://www.aibase.com/news/29405",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bbaeaf520e1a",
-      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "primary_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
-        },
-        {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0） / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
-        },
-        {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0） / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7959,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T11:44:04Z",
-      "latest_at": "2026-07-05T16:23:44.440000Z",
-      "primary_item": {
-        "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-        "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-        "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -908,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,21 +874,21 @@
       }
     },
     {
-      "story_id": "story_03bd63676800",
-      "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-      "url": "https://www.aibase.com/news/29396",
-      "primary_url": "https://www.aibase.com/news/29396",
+      "story_id": "story_a2d65654a136",
+      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
+      "url": "https://www.aibase.com/news/29403",
+      "primary_url": "https://www.aibase.com/news/29403",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-          "url": "https://www.aibase.com/news/29396",
+          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
+          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
+          "url": "https://www.aibase.com/news/29403",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "source_count": 1,
@@ -957,13 +897,13 @@
       ],
       "items": [
         {
-          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-          "url": "https://www.aibase.com/news/29396",
+          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
+          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
+          "url": "https://www.aibase.com/news/29403",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "item_count": 1,
@@ -984,32 +924,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T08:12:08.941560Z",
-      "latest_at": "2026-07-06T08:12:08.941560Z",
+      "earliest_at": "2026-07-06T12:21:34.266606Z",
+      "latest_at": "2026-07-06T12:21:34.266606Z",
       "primary_item": {
-        "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-        "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-        "url": "https://www.aibase.com/news/29396",
+        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
+        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
+        "url": "https://www.aibase.com/news/29403",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_51eb5e109a14",
-      "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
-      "url": "https://www.aibase.com/news/29395",
-      "primary_url": "https://www.aibase.com/news/29395",
+      "story_id": "story_07dd471aa88d",
+      "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+      "url": "https://www.aibase.com/news/29404",
+      "primary_url": "https://www.aibase.com/news/29404",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
-          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
-          "url": "https://www.aibase.com/news/29395",
+          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+          "url": "https://www.aibase.com/news/29404",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "source_count": 1,
@@ -1018,13 +958,13 @@
       ],
       "items": [
         {
-          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
-          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
-          "url": "https://www.aibase.com/news/29395",
+          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+          "url": "https://www.aibase.com/news/29404",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:08.941560Z"
+          "published_at": "2026-07-06T12:21:34.266606Z"
         }
       ],
       "item_count": 1,
@@ -1045,88 +985,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T08:12:08.941560Z",
-      "latest_at": "2026-07-06T08:12:08.941560Z",
+      "earliest_at": "2026-07-06T12:21:34.266606Z",
+      "latest_at": "2026-07-06T12:21:34.266606Z",
       "primary_item": {
-        "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
-        "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
-        "url": "https://www.aibase.com/news/29395",
+        "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+        "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+        "url": "https://www.aibase.com/news/29404",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0a49822c4024",
-      "title": "三周前，我不小心创办了一家小公司",
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8114,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T17:43:57.442000Z",
-      "latest_at": "2026-07-05T17:43:57.442000Z",
-      "primary_item": {
-        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-        "title": "三周前，我不小心创办了一家小公司",
-        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_99f4f77fa6f9",
-      "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-      "url": "https://www.aibase.com/news/29401",
-      "primary_url": "https://www.aibase.com/news/29401",
+      "story_id": "story_aaeb755b7c2e",
+      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+      "url": "https://www.aibase.com/news/29397",
+      "primary_url": "https://www.aibase.com/news/29397",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-          "url": "https://www.aibase.com/news/29401",
+          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+          "url": "https://www.aibase.com/news/29397",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1139,9 +1019,9 @@
       ],
       "items": [
         {
-          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-          "url": "https://www.aibase.com/news/29401",
+          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+          "url": "https://www.aibase.com/news/29397",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1150,15 +1030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1169,9 +1049,9 @@
       "earliest_at": "2026-07-06T08:12:08.941560Z",
       "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-        "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-        "url": "https://www.aibase.com/news/29401",
+        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+        "url": "https://www.aibase.com/news/29397",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1283,15 +1163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6336,
-      "importance": 0.6336,
-      "importance_score": 0.6336,
+      "score": 0.6252,
+      "importance": 0.6252,
+      "importance_score": 0.6252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8025,
+        "recency": 0.7557,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1309,17 +1189,17 @@
       }
     },
     {
-      "story_id": "story_f046d5c4cef0",
-      "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-      "url": "https://www.aibase.com/news/29399",
-      "primary_url": "https://www.aibase.com/news/29399",
+      "story_id": "story_03bd63676800",
+      "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+      "url": "https://www.aibase.com/news/29396",
+      "primary_url": "https://www.aibase.com/news/29396",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-          "url": "https://www.aibase.com/news/29399",
+          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+          "url": "https://www.aibase.com/news/29396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1332,9 +1212,9 @@
       ],
       "items": [
         {
-          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-          "url": "https://www.aibase.com/news/29399",
+          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+          "url": "https://www.aibase.com/news/29396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1343,15 +1223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,25 +1242,25 @@
       "earliest_at": "2026-07-06T08:12:08.941560Z",
       "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-        "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-        "url": "https://www.aibase.com/news/29399",
+        "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+        "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+        "url": "https://www.aibase.com/news/29396",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c744290c7f43",
-      "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-      "url": "https://www.aibase.com/news/29398",
-      "primary_url": "https://www.aibase.com/news/29398",
+      "story_id": "story_51eb5e109a14",
+      "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+      "url": "https://www.aibase.com/news/29395",
+      "primary_url": "https://www.aibase.com/news/29395",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-          "url": "https://www.aibase.com/news/29398",
+          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+          "url": "https://www.aibase.com/news/29395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1393,9 +1273,9 @@
       ],
       "items": [
         {
-          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-          "url": "https://www.aibase.com/news/29398",
+          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+          "url": "https://www.aibase.com/news/29395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1404,15 +1284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1423,11 +1303,109 @@
       "earliest_at": "2026-07-06T08:12:08.941560Z",
       "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-        "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-        "url": "https://www.aibase.com/news/29398",
+        "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+        "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+        "url": "https://www.aibase.com/news/29395",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a293cb3a14b0",
+      "title": "当人工智能的成本高于工程师时",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+      "primary_url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+      "source": "tomtunguz.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "feab0bbe08d53e37fd5fd8ac3de716f0b671876b",
+          "title": "当人工智能的成本高于工程师时",
+          "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+          "source": "tomtunguz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:35:39.815000Z"
+        },
+        {
+          "id": "55244cfa994115ad74b481bc2aa5ca1bb9ec2c18",
+          "title": "当人工智能的成本超过工程师时 / When AI Costs More Than the Engineer",
+          "url": "https://news.ycombinator.com/item?id=48801493",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-06T08:12:51.160000Z"
+        },
+        {
+          "id": "3a2519201112e874ab37af21a47eac3a4d16b67e",
+          "title": "当人工智能的成本高于工程师时 / When AI Costs More Than the Engineer",
+          "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T07:05:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "tomtunguz.com"
+      ],
+      "items": [
+        {
+          "id": "feab0bbe08d53e37fd5fd8ac3de716f0b671876b",
+          "title": "当人工智能的成本高于工程师时",
+          "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+          "source": "tomtunguz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:35:39.815000Z"
+        },
+        {
+          "id": "55244cfa994115ad74b481bc2aa5ca1bb9ec2c18",
+          "title": "当人工智能的成本超过工程师时 / When AI Costs More Than the Engineer",
+          "url": "https://news.ycombinator.com/item?id=48801493",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-06T08:12:51.160000Z"
+        },
+        {
+          "id": "3a2519201112e874ab37af21a47eac3a4d16b67e",
+          "title": "当人工智能的成本高于工程师时 / When AI Costs More Than the Engineer",
+          "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T07:05:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.989,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T07:05:25Z",
+      "latest_at": "2026-07-06T11:35:39.815000Z",
+      "primary_item": {
+        "id": "feab0bbe08d53e37fd5fd8ac3de716f0b671876b",
+        "title": "当人工智能的成本高于工程师时",
+        "url": "https://tomtunguz.com/ai-spend-breakeven-2029",
+        "source": "tomtunguz.com",
+        "source_name": "Buzzing"
       }
     }
   ]
