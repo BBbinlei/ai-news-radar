@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-06T03:47:38.474909Z",
+  "generated_at": "2026-07-06T08:12:08.941560Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8883,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_44de5f528adc",
       "title": "Anthropic Claude Design 反向工程提示词开源更新",
@@ -40,7 +102,7 @@
         },
         {
           "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新 / Claude Design System Prompt",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
           "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -85,7 +147,7 @@
         },
         {
           "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新 / Claude Design System Prompt",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
           "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -95,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8385,
+        "recency": 0.7868,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +181,249 @@
         "title": "Anthropic Claude Design 反向工程提示词开源更新",
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_503c1a6c1abe",
+      "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
+      "url": "https://www.aibase.com/news/29400",
+      "primary_url": "https://www.aibase.com/news/29400",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
+          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
+          "url": "https://www.aibase.com/news/29400",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T08:12:08.941560Z"
+        },
+        {
+          "id": "a7ff61077368d3137c4cb75909028f744aa2dbfe",
+          "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
+          "url": "https://www.aibase.com/zh/news/29400",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
+          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
+          "url": "https://www.aibase.com/news/29400",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T08:12:08.941560Z"
+        },
+        {
+          "id": "a7ff61077368d3137c4cb75909028f744aa2dbfe",
+          "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
+          "url": "https://www.aibase.com/zh/news/29400",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
+      "primary_item": {
+        "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
+        "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
+        "url": "https://www.aibase.com/news/29400",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ad950dcc282c",
+      "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
+      "url": "https://www.ithome.com/0/973/106.htm",
+      "primary_url": "https://www.ithome.com/0/973/106.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
+          "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
+          "url": "https://www.ithome.com/0/973/106.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T07:25:43Z"
+        },
+        {
+          "id": "b82af68a33bc5d5c452150194af008df9b2f8da7",
+          "title": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
+          "url": "https://www.ithome.com/0/973/106.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T07:25:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
+          "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
+          "url": "https://www.ithome.com/0/973/106.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T07:25:43Z"
+        },
+        {
+          "id": "b82af68a33bc5d5c452150194af008df9b2f8da7",
+          "title": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
+          "url": "https://www.ithome.com/0/973/106.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T07:25:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T07:25:43Z",
+      "latest_at": "2026-07-06T07:25:43Z",
+      "primary_item": {
+        "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
+        "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
+        "url": "https://www.ithome.com/0/973/106.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_28fb2bef73e3",
+      "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+      "primary_url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "561750708a1628527fd977ffc842c2a553754c12",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T05:07:12Z"
+        },
+        {
+          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T05:07:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "561750708a1628527fd977ffc842c2a553754c12",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T05:07:12Z"
+        },
+        {
+          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T05:07:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9565,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:07:12Z",
+      "latest_at": "2026-07-06T05:07:12Z",
+      "primary_item": {
+        "id": "561750708a1628527fd977ffc842c2a553754c12",
+        "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+        "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -157,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8722,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -184,49 +489,49 @@
       }
     },
     {
-      "story_id": "story_3fc6b379c5e2",
-      "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
-      "url": "https://www.aibase.com/news/29387",
-      "primary_url": "https://www.aibase.com/news/29387",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_fee7021d79c4",
+      "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
+      "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
+      "primary_url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3e45893744618c84531937954f8f68d50556bd73",
-          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
-          "url": "https://www.aibase.com/news/29387",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
+          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
+          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T06:09:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：通义实验室（千问）"
       ],
       "items": [
         {
-          "id": "3e45893744618c84531937954f8f68d50556bd73",
-          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
-          "url": "https://www.aibase.com/news/29387",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
+          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
+          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T06:09:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -234,14 +539,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T06:09:29Z",
+      "latest_at": "2026-07-06T06:09:29Z",
       "primary_item": {
-        "id": "3e45893744618c84531937954f8f68d50556bd73",
-        "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
-        "url": "https://www.aibase.com/news/29387",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
+        "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
+        "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -279,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -302,67 +607,6 @@
         "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
         "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d28fc2c68cfb",
-      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-      "primary_url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T21:00:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
-      ],
-      "items": [
-        {
-          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T21:00:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9066,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T21:00:27Z",
-      "latest_at": "2026-07-05T21:00:27Z",
-      "primary_item": {
-        "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-        "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-        "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
         "source_name": "AI HOT"
       }
     },
@@ -401,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8195,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -428,49 +672,49 @@
       }
     },
     {
-      "story_id": "story_3bc87a70e847",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "primary_url": "https://www.ithome.com/0/972/896.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_d28fc2c68cfb",
+      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+      "primary_url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
+          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
+          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
+          "published_at": "2026-07-05T21:00:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：SemiAnalysis (@SemiAnalysis_)"
       ],
       "items": [
         {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
+          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
+          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
+          "published_at": "2026-07-05T21:00:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -478,112 +722,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T01:09:29Z",
-      "latest_at": "2026-07-06T01:09:29Z",
+      "earliest_at": "2026-07-05T21:00:27Z",
+      "latest_at": "2026-07-05T21:00:27Z",
       "primary_item": {
-        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-        "url": "https://www.ithome.com/0/972/896.htm",
-        "source": "IT之家（RSS）",
+        "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
+        "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+        "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ae60d5911c44",
-      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-      "primary_url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
-        },
-        {
-          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-05T07:50:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
-        },
-        {
-          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-05T07:50:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7496,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T07:50:19Z",
-      "latest_at": "2026-07-05T07:50:19Z",
-      "primary_item": {
-        "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_909b01672156",
-      "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
-      "url": "https://www.aibase.com/news/29391",
-      "primary_url": "https://www.aibase.com/news/29391",
+      "story_id": "story_aaeb755b7c2e",
+      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+      "url": "https://www.aibase.com/news/29397",
+      "primary_url": "https://www.aibase.com/news/29397",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
-          "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
-          "url": "https://www.aibase.com/news/29391",
+          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+          "url": "https://www.aibase.com/news/29397",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -592,13 +756,13 @@
       ],
       "items": [
         {
-          "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
-          "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
-          "url": "https://www.aibase.com/news/29391",
+          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+          "url": "https://www.aibase.com/news/29397",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -619,12 +783,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
-        "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
-        "url": "https://www.aibase.com/news/29391",
+        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
+        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
+        "url": "https://www.aibase.com/news/29397",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -683,22 +847,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8482,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T11:44:04Z",
       "latest_at": "2026-07-05T16:23:44.440000Z",
@@ -711,21 +874,81 @@
       }
     },
     {
-      "story_id": "story_97be09b05ad8",
-      "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
-      "url": "https://www.aibase.com/news/29383",
-      "primary_url": "https://www.aibase.com/news/29383",
+      "story_id": "story_3bc87a70e847",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "primary_url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9033,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:09:29Z",
+      "latest_at": "2026-07-06T01:09:29Z",
+      "primary_item": {
+        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_03bd63676800",
+      "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+      "url": "https://www.aibase.com/news/29396",
+      "primary_url": "https://www.aibase.com/news/29396",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
-          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
-          "url": "https://www.aibase.com/news/29383",
+          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+          "url": "https://www.aibase.com/news/29396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -734,13 +957,13 @@
       ],
       "items": [
         {
-          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
-          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
-          "url": "https://www.aibase.com/news/29383",
+          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+          "url": "https://www.aibase.com/news/29396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -761,32 +984,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
-        "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
-        "url": "https://www.aibase.com/news/29383",
+        "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
+        "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
+        "url": "https://www.aibase.com/news/29396",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1400d5a8cf38",
-      "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
-      "url": "https://www.aibase.com/news/29384",
-      "primary_url": "https://www.aibase.com/news/29384",
+      "story_id": "story_51eb5e109a14",
+      "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+      "url": "https://www.aibase.com/news/29395",
+      "primary_url": "https://www.aibase.com/news/29395",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
-          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
-          "url": "https://www.aibase.com/news/29384",
+          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+          "url": "https://www.aibase.com/news/29395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -795,13 +1018,13 @@
       ],
       "items": [
         {
-          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
-          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
-          "url": "https://www.aibase.com/news/29384",
+          "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+          "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+          "url": "https://www.aibase.com/news/29395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -822,12 +1045,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
-        "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
-        "url": "https://www.aibase.com/news/29384",
+        "id": "fbb7179bc2f3b95dfe1cb8d27900528cf6b0d685",
+        "title": "哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱\"老法师\"",
+        "url": "https://www.aibase.com/news/29395",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -867,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8648,
+        "recency": 0.8114,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,21 +1116,21 @@
       }
     },
     {
-      "story_id": "story_0aae4f63f51e",
-      "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-      "url": "https://www.aibase.com/news/29381",
-      "primary_url": "https://www.aibase.com/news/29381",
+      "story_id": "story_99f4f77fa6f9",
+      "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
+      "url": "https://www.aibase.com/news/29401",
+      "primary_url": "https://www.aibase.com/news/29401",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-          "url": "https://www.aibase.com/news/29381",
+          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
+          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
+          "url": "https://www.aibase.com/news/29401",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -916,13 +1139,13 @@
       ],
       "items": [
         {
-          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-          "url": "https://www.aibase.com/news/29381",
+          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
+          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
+          "url": "https://www.aibase.com/news/29401",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -943,12 +1166,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-        "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-        "url": "https://www.aibase.com/news/29381",
+        "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
+        "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
+        "url": "https://www.aibase.com/news/29401",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1060,15 +1283,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6431,
-      "importance": 0.6431,
-      "importance_score": 0.6431,
+      "score": 0.6336,
+      "importance": 0.6336,
+      "importance_score": 0.6336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8552,
+        "recency": 0.8025,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1086,21 +1309,21 @@
       }
     },
     {
-      "story_id": "story_e295a2fb0082",
-      "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
-      "url": "https://www.aibase.com/news/29386",
-      "primary_url": "https://www.aibase.com/news/29386",
+      "story_id": "story_f046d5c4cef0",
+      "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
+      "url": "https://www.aibase.com/news/29399",
+      "primary_url": "https://www.aibase.com/news/29399",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
-          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
-          "url": "https://www.aibase.com/news/29386",
+          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
+          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
+          "url": "https://www.aibase.com/news/29399",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -1109,13 +1332,13 @@
       ],
       "items": [
         {
-          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
-          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
-          "url": "https://www.aibase.com/news/29386",
+          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
+          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
+          "url": "https://www.aibase.com/news/29399",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -1136,32 +1359,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
-        "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
-        "url": "https://www.aibase.com/news/29386",
+        "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
+        "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
+        "url": "https://www.aibase.com/news/29399",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_523ce8f8d5c0",
-      "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-      "url": "https://www.aibase.com/news/29393",
-      "primary_url": "https://www.aibase.com/news/29393",
+      "story_id": "story_c744290c7f43",
+      "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
+      "url": "https://www.aibase.com/news/29398",
+      "primary_url": "https://www.aibase.com/news/29398",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-          "url": "https://www.aibase.com/news/29393",
+          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
+          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
+          "url": "https://www.aibase.com/news/29398",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "source_count": 1,
@@ -1170,13 +1393,13 @@
       ],
       "items": [
         {
-          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-          "url": "https://www.aibase.com/news/29393",
+          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
+          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
+          "url": "https://www.aibase.com/news/29398",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
+          "published_at": "2026-07-06T08:12:08.941560Z"
         }
       ],
       "item_count": 1,
@@ -1197,271 +1420,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
+      "earliest_at": "2026-07-06T08:12:08.941560Z",
+      "latest_at": "2026-07-06T08:12:08.941560Z",
       "primary_item": {
-        "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-        "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-        "url": "https://www.aibase.com/news/29393",
+        "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
+        "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
+        "url": "https://www.aibase.com/news/29398",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0a5406dd2dc7",
-      "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://news.ycombinator.com/item?id=48799256",
-      "primary_url": "https://news.ycombinator.com/item?id=48799256",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T03:48:17.726000Z"
-        },
-        {
-          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "www.readtheline.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T03:19:43.349000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.readtheline.ca"
-      ],
-      "items": [
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T03:48:17.726000Z"
-        },
-        {
-          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "www.readtheline.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T03:19:43.349000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:04:48Z",
-      "latest_at": "2026-07-06T03:48:17.726000Z",
-      "primary_item": {
-        "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-        "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "url": "https://news.ycombinator.com/item?id=48799256",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_71f698610ab9",
-      "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
-      "url": "https://www.aibase.com/news/29388",
-      "primary_url": "https://www.aibase.com/news/29388",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
-          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
-          "url": "https://www.aibase.com/news/29388",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
-          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
-          "url": "https://www.aibase.com/news/29388",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:47:38.474909Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T03:47:38.474909Z",
-      "latest_at": "2026-07-06T03:47:38.474909Z",
-      "primary_item": {
-        "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
-        "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
-        "url": "https://www.aibase.com/news/29388",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_54e97f468046",
-      "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "source": "intextbooks.science.uu.nl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
-        },
-        {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:49:02.771000Z"
-        },
-        {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "intextbooks.science.uu.nl"
-      ],
-      "items": [
-        {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
-        },
-        {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:49:02.771000Z"
-        },
-        {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9268,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T18:47:43Z",
-      "latest_at": "2026-07-05T22:31:42.105000Z",
-      "primary_item": {
-        "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-        "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "source": "intextbooks.science.uu.nl",
-        "source_name": "Buzzing"
       }
     }
   ]
