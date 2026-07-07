@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-07T20:22:34.403125Z",
+  "generated_at": "2026-07-07T21:50:00.622203Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ca9a2a21da07",
+      "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8585,
+      "importance": 0.8585,
+      "importance_score": 0.8585,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T21:15:33Z",
+      "latest_at": "2026-07-07T21:15:33Z",
+      "primary_item": {
+        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+        "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f7eb2a868aac",
       "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8473,
+        "recency": 0.8296,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,68 +144,6 @@
         "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_024a3808c07a",
-      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9298,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:20:06Z",
-      "latest_at": "2026-07-07T15:20:06Z",
-      "primary_item": {
-        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9276,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7451,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -272,83 +272,63 @@
       }
     },
     {
-      "story_id": "story_b29a21395768",
-      "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "primary_url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "story_id": "story_024a3808c07a",
+      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
-          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        },
-        {
-          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
-          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
-          "url": "https://huggingface.co/blog/skypilot-hf-storage",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
+          "published_at": "2026-07-07T15:20:06Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
-          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        },
-        {
-          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
-          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
-          "url": "https://huggingface.co/blog/skypilot-hf-storage",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
+          "published_at": "2026-07-07T15:20:06Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7451,
-        "story_heat": 0.25
+        "ai_relevance": 0.95,
+        "recency": 0.9104,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
+      "earliest_at": "2026-07-07T15:20:06Z",
+      "latest_at": "2026-07-07T15:20:06Z",
       "primary_item": {
-        "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
-        "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-        "url": "https://huggingface.co/blog/skypilot-hf-storage",
+        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -426,15 +406,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -488,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9233,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,6 +492,88 @@
         "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
         "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b29a21395768",
+      "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "primary_url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        },
+        {
+          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        },
+        {
+          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7296,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+        "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+        "url": "https://huggingface.co/blog/skypilot-hf-storage",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -569,15 +631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9747,
+        "recency": 0.9544,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -650,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -674,6 +736,67 @@
         "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
         "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4930f6a41be1",
+      "title": "中国拟限制外国访问最强AI模型",
+      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9092,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:14:30Z",
+      "latest_at": "2026-07-07T15:14:30Z",
+      "primary_item": {
+        "id": "241f566835a2017dff0514efc1065475f7186340",
+        "title": "中国拟限制外国访问最强AI模型",
+        "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -712,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9546,
+        "recency": 0.9347,
         "story_heat": 0.0
       },
       "category": "official",
@@ -737,67 +860,6 @@
         "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4930f6a41be1",
-      "title": "中国拟限制外国访问最强AI模型",
-      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "241f566835a2017dff0514efc1065475f7186340",
-          "title": "中国拟限制外国访问最强AI模型",
-          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T15:14:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "241f566835a2017dff0514efc1065475f7186340",
-          "title": "中国拟限制外国访问最强AI模型",
-          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T15:14:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9285,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:14:30Z",
-      "latest_at": "2026-07-07T15:14:30Z",
-      "primary_item": {
-        "id": "241f566835a2017dff0514efc1065475f7186340",
-        "title": "中国拟限制外国访问最强AI模型",
-        "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -853,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -915,15 +977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9153,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1061,68 +1123,6 @@
         "url": "https://x.com/omarsar0/status/2074506169352180108",
         "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0a1d2bd6cc12",
-      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7451,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-        "url": "https://huggingface.co/blog/lerobot-release-v060",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1179,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8485,
+        "recency": 0.8308,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1241,15 +1241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,6 +1264,66 @@
         "title": "Claude Cowork 向移动端和网页端开放",
         "url": "https://claude.com/blog/cowork-web-mobile",
         "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_817f6d9af0b1",
+      "title": "Krea 2 身份保留功能上线",
+      "url": "https://x.com/krea_ai/status/2074589965653303321",
+      "primary_url": "https://x.com/krea_ai/status/2074589965653303321",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://x.com/krea_ai/status/2074589965653303321",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://x.com/krea_ai/status/2074589965653303321",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9792,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T20:22:46Z",
+      "latest_at": "2026-07-07T20:22:46Z",
+      "primary_item": {
+        "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
+        "title": "Krea 2 身份保留功能上线",
+        "url": "https://x.com/krea_ai/status/2074589965653303321",
+        "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1302,15 +1362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9637,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,68 +1385,6 @@
         "url": "https://x.com/NotebookLM/status/2074551227594264799",
         "source": "X：NotebookLM (@NotebookLM)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7d245f6dc1a1",
-      "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9485,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T16:43:04Z",
-      "latest_at": "2026-07-07T16:43:04Z",
-      "primary_item": {
-        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-        "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
