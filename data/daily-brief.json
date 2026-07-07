@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:26:05.824093Z",
+  "generated_at": "2026-07-07T20:22:34.403125Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8714,
+        "recency": 0.8473,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9562,
+        "recency": 0.9298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.954,
+        "recency": 0.9276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,6 +206,150 @@
         "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
         "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_60d1b56766e3",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "primary_url": "https://openai.com/index/australian-payments-plus",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "url": "https://openai.com/index/australian-payments-plus",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "url": "https://openai.com/index/australian-payments-plus",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7451,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "f279ec273cd2591f98ed861aa8d61a1a8c24e372",
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "url": "https://openai.com/index/australian-payments-plus",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b29a21395768",
+      "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "primary_url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        },
+        {
+          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        },
+        {
+          "id": "dcef1c0923ebe6f0b074f2fddab3af9da6a878bb",
+          "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7451,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "72f32d6258c1ed4384ffc2d90e317b728447b3ed",
+        "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储 / Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+        "url": "https://huggingface.co/blog/skypilot-hf-storage",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -236,18 +380,18 @@
           "published_at": "2026-07-07T17:52:12.864000Z"
         },
         {
-          "id": "d2c1ac9e79a3b7ec041b3b7e434c2d6bab0d7b29",
+          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
           "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
           "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-07T08:39:51Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.fastcompany.com"
       ],
@@ -271,26 +415,26 @@
           "published_at": "2026-07-07T17:52:12.864000Z"
         },
         {
-          "id": "d2c1ac9e79a3b7ec041b3b7e434c2d6bab0d7b29",
+          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
           "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
           "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-07T08:39:51Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9645,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -344,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9496,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,65 +516,84 @@
       }
     },
     {
-      "story_id": "story_0a1d2bd6cc12",
-      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_87248c3e75db",
+      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "primary_url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
+          "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
+        },
+        {
+          "id": "ed234fe6766f5ee1e028bd4a44996734bc959055",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型 / Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
+          "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
+        },
+        {
+          "id": "ed234fe6766f5ee1e028bd4a44996734bc959055",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型 / Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.71,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7663,
-        "story_heat": 0.0
+        "recency": 0.9747,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
+      "earliest_at": "2026-07-07T18:35:58Z",
+      "latest_at": "2026-07-07T18:35:58Z",
       "primary_item": {
-        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-        "url": "https://huggingface.co/blog/lerobot-release-v060",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+        "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -487,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -512,6 +675,68 @@
         "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7722e8723f31",
+      "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T17:09:29Z",
+      "latest_at": "2026-07-07T17:09:29Z",
+      "primary_item": {
+        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+        "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -549,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -628,15 +853,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.9056,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,65 +881,64 @@
       }
     },
     {
-      "story_id": "story_7d245f6dc1a1",
-      "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6c66b920b7bd",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "url": "https://x.com/AIatMeta/status/2074577662840832382",
+      "primary_url": "https://x.com/AIatMeta/status/2074577662840832382",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
+          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://x.com/AIatMeta/status/2074577662840832382",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：AI at Meta (@AIatMeta)"
       ],
       "items": [
         {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
+          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://x.com/AIatMeta/status/2074577662840832382",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
-      "importance_label": "官方更新",
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9755,
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T16:43:04Z",
-      "latest_at": "2026-07-07T16:43:04Z",
+      "earliest_at": "2026-07-07T19:33:53Z",
+      "latest_at": "2026-07-07T19:33:53Z",
       "primary_item": {
-        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-        "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+        "url": "https://x.com/AIatMeta/status/2074577662840832382",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -752,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9153,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,6 +1061,68 @@
         "url": "https://x.com/omarsar0/status/2074506169352180108",
         "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0a1d2bd6cc12",
+      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7451,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -893,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -955,15 +1241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,21 +1302,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T17:48:50Z",
       "latest_at": "2026-07-07T17:48:50Z",
@@ -1043,21 +1328,21 @@
       }
     },
     {
-      "story_id": "story_32d22c096387",
-      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "story_id": "story_7d245f6dc1a1",
+      "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
+          "published_at": "2026-07-07T16:43:04Z"
         }
       ],
       "source_count": 1,
@@ -1066,26 +1351,26 @@
       ],
       "items": [
         {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
+          "published_at": "2026-07-07T16:43:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9553,
+        "recency": 0.9485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1094,274 +1379,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:15:54Z",
-      "latest_at": "2026-07-07T15:15:54Z",
+      "earliest_at": "2026-07-07T16:43:04Z",
+      "latest_at": "2026-07-07T16:43:04Z",
       "primary_item": {
-        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+        "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_aaea887ddc70",
-      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-      "primary_url": "https://www.tomtunguz.com/the-10b-fde-boom",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
-          "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-          "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-          "source": "Tomer Tunguz 博客（VC 分析）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tomer Tunguz 博客（VC 分析）"
-      ],
-      "items": [
-        {
-          "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
-          "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-          "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-          "source": "Tomer Tunguz 博客（VC 分析）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
-        "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-        "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_efce1537dac0",
-      "title": "Grok Imagine 更新：支持 15 秒视频",
-      "url": "https://x.com/elonmusk/status/2074378653501128833",
-      "primary_url": "https://x.com/elonmusk/status/2074378653501128833",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8403,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T06:23:05Z",
-      "latest_at": "2026-07-07T06:23:05Z",
-      "primary_item": {
-        "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-        "title": "Grok Imagine 更新：支持 15 秒视频",
-        "url": "https://x.com/elonmusk/status/2074378653501128833",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94d69a90ce66",
-      "title": "Claude Code v2.1.202 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7537,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T22:51:16Z",
-      "latest_at": "2026-07-06T22:51:16Z",
-      "primary_item": {
-        "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-        "title": "Claude Code v2.1.202 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1fb59e790347",
-      "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-      "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "primary_url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "source": "Apple Machine Learning Research（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-          "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-          "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-          "source": "Apple Machine Learning Research（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Apple Machine Learning Research（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-          "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-          "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-          "source": "Apple Machine Learning Research（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-        "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-        "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-        "source": "Apple Machine Learning Research（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
