@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:30:08.217058Z",
+  "generated_at": "2026-07-07T07:59:28.933875Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -138,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.879,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -200,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.829,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,6 +225,87 @@
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_32d306e067bc",
+      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.aibase.com/news/29432",
+      "primary_url": "https://www.aibase.com/news/29432",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:08.217058Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:08.217058Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9509,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:30:08.217058Z",
+      "latest_at": "2026-07-07T07:59:28.933875Z",
+      "primary_item": {
+        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+        "url": "https://www.aibase.com/news/29432",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -281,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.824,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -309,49 +390,49 @@
       }
     },
     {
-      "story_id": "story_d318fef7b9ba",
-      "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-      "url": "https://www.aibase.com/news/29419",
-      "primary_url": "https://www.aibase.com/news/29419",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_9af14cc051d7",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "url": "https://x.com/emollick/status/2074348274136346871",
+      "primary_url": "https://x.com/emollick/status/2074348274136346871",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-          "url": "https://www.aibase.com/news/29419",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Ethan Mollick (@emollick)"
       ],
       "items": [
         {
-          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-          "url": "https://www.aibase.com/news/29419",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,14 +440,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T04:30:08.217058Z",
-      "latest_at": "2026-07-07T04:30:08.217058Z",
+      "earliest_at": "2026-07-07T04:22:22Z",
+      "latest_at": "2026-07-07T04:22:22Z",
       "primary_item": {
-        "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-        "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-        "url": "https://www.aibase.com/news/29419",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+        "url": "https://x.com/emollick/status/2074348274136346871",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_efce1537dac0",
+      "title": "Grok Imagine 更新：支持 15 秒视频",
+      "url": "https://x.com/elonmusk/status/2074378653501128833",
+      "primary_url": "https://x.com/elonmusk/status/2074378653501128833",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://x.com/elonmusk/status/2074378653501128833",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://x.com/elonmusk/status/2074378653501128833",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9771,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:23:05Z",
+      "latest_at": "2026-07-07T06:23:05Z",
+      "primary_item": {
+        "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+        "title": "Grok Imagine 更新：支持 15 秒视频",
+        "url": "https://x.com/elonmusk/status/2074378653501128833",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -423,15 +565,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.8764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -447,6 +589,87 @@
         "title": "Claude Code v2.1.202 发布",
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
         "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_224f5f92f80b",
+      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "828c057884ba8f799263c06c670626174e279508",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "828c057884ba8f799263c06c670626174e279508",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:59:54Z",
+      "latest_at": "2026-07-07T06:45:06.341000Z",
+      "primary_item": {
+        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -504,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -566,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,6 +812,67 @@
         "url": "https://x.com/GeminiApp/status/2074280473581572600",
         "source": "X：Gemini (@GeminiApp)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf5265d5a9bf",
+      "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+      "url": "https://www.aibase.com/news/29436",
+      "primary_url": "https://www.aibase.com/news/29436",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:59:28.933875Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:59:28.933875Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T07:59:28.933875Z",
+      "latest_at": "2026-07-07T07:59:28.933875Z",
+      "primary_item": {
+        "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+        "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+        "url": "https://www.aibase.com/news/29436",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -626,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,82 +936,324 @@
       }
     },
     {
-      "story_id": "story_ad950dcc282c",
-      "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
-      "url": "https://www.ithome.com/0/973/106.htm",
-      "primary_url": "https://www.ithome.com/0/973/106.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_cb93fdb7a13f",
+      "title": "Claude Code 团队详解四种智能体循环类型",
+      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
-          "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
-          "url": "https://www.ithome.com/0/973/106.htm",
-          "source": "IT之家（RSS）",
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T07:25:43Z"
-        },
-        {
-          "id": "b82af68a33bc5d5c452150194af008df9b2f8da7",
-          "title": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
-          "url": "https://www.ithome.com/0/973/106.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T07:25:43Z"
+          "published_at": "2026-07-06T19:08:45Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
-          "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
-          "url": "https://www.ithome.com/0/973/106.htm",
-          "source": "IT之家（RSS）",
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T07:25:43Z"
-        },
-        {
-          "id": "b82af68a33bc5d5c452150194af008df9b2f8da7",
-          "title": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
-          "url": "https://www.ithome.com/0/973/106.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T07:25:43Z"
+          "published_at": "2026-07-06T19:08:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7376,
+        "recency": 0.8307,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T19:08:45Z",
+      "latest_at": "2026-07-06T19:08:45Z",
+      "primary_item": {
+        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+        "title": "Claude Code 团队详解四种智能体循环类型",
+        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b25a47366a60",
+      "title": "Claude Fable实地指南：发现你的未知",
+      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.821,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T18:20:11.364000Z",
+      "latest_at": "2026-07-06T18:20:11.364000Z",
+      "primary_item": {
+        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+        "title": "Claude Fable实地指南：发现你的未知",
+        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9074fbe55dba",
+      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+      "url": "https://www.ithome.com/0/973/207.htm",
+      "primary_url": "https://www.ithome.com/0/973/207.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7215,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T09:23:28Z",
+      "latest_at": "2026-07-06T09:23:28Z",
+      "primary_item": {
+        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+        "url": "https://www.ithome.com/0/973/207.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_131f99f8c6ac",
+      "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+      "url": "https://www.aibase.com/news/29437",
+      "primary_url": "https://www.aibase.com/news/29437",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+          "url": "https://www.aibase.com/news/29437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:59:28.933875Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+          "url": "https://www.aibase.com/news/29437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:59:28.933875Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T07:59:28.933875Z",
+      "latest_at": "2026-07-07T07:59:28.933875Z",
+      "primary_item": {
+        "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+        "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+        "url": "https://www.aibase.com/news/29437",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_524024212bc7",
+      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8063,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T07:25:43Z",
-      "latest_at": "2026-07-06T07:25:43Z",
+      "earliest_at": "2026-07-06T17:04:58Z",
+      "latest_at": "2026-07-06T17:04:58Z",
       "primary_item": {
-        "id": "9b8235397272e5b843ce0586218afa7aaded21bc",
-        "title": "腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型",
-        "url": "https://www.ithome.com/0/973/106.htm",
-        "source": "IT之家（RSS）",
+        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -785,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7864,
+        "recency": 0.7477,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -813,161 +1339,21 @@
       }
     },
     {
-      "story_id": "story_cb93fdb7a13f",
-      "title": "Claude Code 团队详解四种智能体循环类型",
-      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8736,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T19:08:45Z",
-      "latest_at": "2026-07-06T19:08:45Z",
-      "primary_item": {
-        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-        "title": "Claude Code 团队详解四种智能体循环类型",
-        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_28fb2bef73e3",
-      "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-      "primary_url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "561750708a1628527fd977ffc842c2a553754c12",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T05:07:12Z"
-        },
-        {
-          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T05:07:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "561750708a1628527fd977ffc842c2a553754c12",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T05:07:12Z"
-        },
-        {
-          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T05:07:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7134,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T05:07:12Z",
-      "latest_at": "2026-07-06T05:07:12Z",
-      "primary_item": {
-        "id": "561750708a1628527fd977ffc842c2a553754c12",
-        "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-        "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_150cf288ab79",
-      "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-      "url": "https://www.aibase.com/news/29411",
-      "primary_url": "https://www.aibase.com/news/29411",
+      "story_id": "story_d09a7f859582",
+      "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+      "url": "https://www.aibase.com/news/29439",
+      "primary_url": "https://www.aibase.com/news/29439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-          "url": "https://www.aibase.com/news/29411",
+          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+          "url": "https://www.aibase.com/news/29439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
+          "published_at": "2026-07-07T07:59:28.933875Z"
         }
       ],
       "source_count": 1,
@@ -976,13 +1362,13 @@
       ],
       "items": [
         {
-          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-          "url": "https://www.aibase.com/news/29411",
+          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+          "url": "https://www.aibase.com/news/29439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
+          "published_at": "2026-07-07T07:59:28.933875Z"
         }
       ],
       "item_count": 1,
@@ -1003,396 +1389,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T04:30:08.217058Z",
-      "latest_at": "2026-07-07T04:30:08.217058Z",
+      "earliest_at": "2026-07-07T07:59:28.933875Z",
+      "latest_at": "2026-07-07T07:59:28.933875Z",
       "primary_item": {
-        "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-        "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-        "url": "https://www.aibase.com/news/29411",
+        "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+        "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+        "url": "https://www.aibase.com/news/29439",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b25a47366a60",
-      "title": "Claude Fable实地指南：发现你的未知",
-      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11.364000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11.364000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8635,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T18:20:11.364000Z",
-      "latest_at": "2026-07-06T18:20:11.364000Z",
-      "primary_item": {
-        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-        "title": "Claude Fable实地指南：发现你的未知",
-        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fee7021d79c4",
-      "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-      "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-      "primary_url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T06:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T06:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T06:09:29Z",
-      "latest_at": "2026-07-06T06:09:29Z",
-      "primary_item": {
-        "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-        "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-        "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de6778c5c1da",
-      "title": "OpenClaw 登陆 HuggingFace 本地应用",
-      "url": "https://x.com/openclaw/status/2074187998602871212",
-      "primary_url": "https://x.com/openclaw/status/2074187998602871212",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://x.com/openclaw/status/2074187998602871212",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://x.com/openclaw/status/2074187998602871212",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8563,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T17:45:30Z",
-      "latest_at": "2026-07-06T17:45:30Z",
-      "primary_item": {
-        "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-        "title": "OpenClaw 登陆 HuggingFace 本地应用",
-        "url": "https://x.com/openclaw/status/2074187998602871212",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_524024212bc7",
-      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.848,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:04:58Z",
-      "latest_at": "2026-07-06T17:04:58Z",
-      "primary_item": {
-        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9e57ddb245d",
-      "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-      "url": "https://www.aibase.com/news/29431",
-      "primary_url": "https://www.aibase.com/news/29431",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-          "url": "https://www.aibase.com/news/29431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-          "url": "https://www.aibase.com/news/29431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:08.217058Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T04:30:08.217058Z",
-      "latest_at": "2026-07-07T04:30:08.217058Z",
-      "primary_item": {
-        "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-        "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-        "url": "https://www.aibase.com/news/29431",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9074fbe55dba",
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://www.ithome.com/0/973/207.htm",
-      "primary_url": "https://www.ithome.com/0/973/207.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7588,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T09:23:28Z",
-      "latest_at": "2026-07-06T09:23:28Z",
-      "primary_item": {
-        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-        "url": "https://www.ithome.com/0/973/207.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
