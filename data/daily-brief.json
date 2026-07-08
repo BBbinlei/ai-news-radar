@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-07-08T07:44:09.340393Z",
+  "generated_at": "2026-07-08T10:08:41.635907Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_779e86c533da",
+      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
+          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://news.ycombinator.com/item?id=48827858",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-08T07:44:59.130000Z"
+        },
+        {
+          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T05:25:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "noma.security"
+      ],
+      "items": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
+          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://news.ycombinator.com/item?id=48827858",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-08T07:44:59.130000Z"
+        },
+        {
+          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T05:25:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8654,
+      "importance": 0.8654,
+      "importance_score": 0.8654,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9765,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T05:25:35Z",
+      "latest_at": "2026-07-08T08:29:47.091000Z",
+      "primary_item": {
+        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_69bcbdfd037d",
       "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
@@ -38,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9596,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8596,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,207 +244,6 @@
         "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7eb2a868aac",
-      "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        },
-        {
-          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        },
-        {
-          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7191,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T08:54:00Z",
-      "latest_at": "2026-07-07T08:54:00Z",
-      "primary_item": {
-        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-        "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_269964bab90b",
-      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-      "primary_url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
-          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "blog.zksecurity.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
-          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://news.ycombinator.com/item?id=48821749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T20:01:46.700000Z"
-        },
-        {
-          "id": "5a0f5dce4efc759d39f185db4a0b3655c88e3107",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T18:36:35Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "blog.zksecurity.xyz",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
-          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "blog.zksecurity.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
-          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://news.ycombinator.com/item?id=48821749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T20:01:46.700000Z"
-        },
-        {
-          "id": "5a0f5dce4efc759d39f185db4a0b3655c88e3107",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T18:36:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9542,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T18:36:35Z",
-      "latest_at": "2026-07-08T04:29:33.609000Z",
-      "primary_item": {
-        "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-        "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -346,6 +264,15 @@
           "published_at": "2026-07-08T07:00:51Z"
         },
         {
+          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
+          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T07:41:47.077000Z"
+        },
+        {
           "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
           "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
           "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
@@ -355,10 +282,11 @@
           "published_at": "2026-07-08T07:00:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Ars Technica",
-        "Ars Technica：AI（RSS）"
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
       ],
       "items": [
         {
@@ -371,6 +299,15 @@
           "published_at": "2026-07-08T07:00:51Z"
         },
         {
+          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
+          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T07:41:47.077000Z"
+        },
+        {
           "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
           "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
           "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
@@ -380,27 +317,27 @@
           "published_at": "2026-07-08T07:00:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
-        "story_heat": 0.25
+        "recency": 0.9558,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-08T07:00:51Z",
-      "latest_at": "2026-07-08T07:00:51Z",
+      "latest_at": "2026-07-08T07:41:47.077000Z",
       "primary_item": {
         "id": "eb5a5231597292933b2f6d273d45680e417563bb",
         "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
@@ -463,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8955,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,55 +490,173 @@
       }
     },
     {
-      "story_id": "story_9f11ba8b60f2",
-      "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-      "url": "https://www.aibase.com/news/29464",
-      "primary_url": "https://www.aibase.com/news/29464",
+      "story_id": "story_269964bab90b",
+      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "primary_url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
+          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://news.ycombinator.com/item?id=48821749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-07T20:01:46.700000Z"
+        },
+        {
+          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T18:36:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.zksecurity.xyz",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
+          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://news.ycombinator.com/item?id=48821749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-07T20:01:46.700000Z"
+        },
+        {
+          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T18:36:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9216,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T18:36:35Z",
+      "latest_at": "2026-07-08T04:29:33.609000Z",
+      "primary_item": {
+        "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_35faf30a1448",
+      "title": "OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队",
+      "url": "https://www.aibase.com/news/29456",
+      "primary_url": "https://www.aibase.com/news/29456",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
-          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-          "url": "https://www.aibase.com/news/29464",
+          "id": "e838a0b0a15ddba036ed8391b01e195601e7dcd7",
+          "title": "OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队",
+          "url": "https://www.aibase.com/news/29456",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T07:44:09.340393Z"
+          "published_at": "2026-07-08T10:08:41.635907Z"
         },
         {
-          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
-          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T07:20:05Z"
+          "id": "5674df6307a9212f764f4e688ced6227e6bce03e",
+          "title": "腾讯混元多模态团队再添强援，OpenAI 前研究员田永龙被曝加入",
+          "url": "https://www.aibase.com/news/29456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T05:13:56.037510Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
         "AIbase"
       ],
       "items": [
         {
-          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
-          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-          "url": "https://www.aibase.com/news/29464",
+          "id": "e838a0b0a15ddba036ed8391b01e195601e7dcd7",
+          "title": "OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队",
+          "url": "https://www.aibase.com/news/29456",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T07:44:09.340393Z"
+          "published_at": "2026-07-08T10:08:41.635907Z"
         },
         {
-          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
-          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T07:20:05Z"
+          "id": "5674df6307a9212f764f4e688ced6227e6bce03e",
+          "title": "腾讯混元多模态团队再添强援，OpenAI 前研究员田永龙被曝加入",
+          "url": "https://www.aibase.com/news/29456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T05:13:56.037510Z"
         }
       ],
       "item_count": 2,
@@ -623,12 +678,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T07:20:05Z",
-      "latest_at": "2026-07-08T07:44:09.340393Z",
+      "earliest_at": "2026-07-08T05:13:56.037510Z",
+      "latest_at": "2026-07-08T10:08:41.635907Z",
       "primary_item": {
-        "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
-        "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-        "url": "https://www.aibase.com/news/29464",
+        "id": "e838a0b0a15ddba036ed8391b01e195601e7dcd7",
+        "title": "OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队",
+        "url": "https://www.aibase.com/news/29456",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -668,15 +723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7891,
+        "recency": 0.7621,
         "story_heat": 0.0
       },
       "category": "official",
@@ -768,15 +823,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7715,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -830,15 +885,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9027,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -972,15 +1027,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,6 +1051,87 @@
         "url": "https://x.com/shao__meng/status/2074661249804366310",
         "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f11ba8b60f2",
+      "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+      "url": "https://www.aibase.com/news/29464",
+      "primary_url": "https://www.aibase.com/news/29464",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://www.aibase.com/news/29464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T07:44:09.340393Z"
+        },
+        {
+          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T07:20:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://www.aibase.com/news/29464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T07:44:09.340393Z"
+        },
+        {
+          "id": "9ed2a663314dc62c98060d50c58d8466b82cc81e",
+          "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+          "url": "https://36kr.com/newsflashes/3886665005166600?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T07:20:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9658,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T07:20:05Z",
+      "latest_at": "2026-07-08T07:44:09.340393Z",
+      "primary_item": {
+        "id": "3dfcf67f3000638ab828821c44a64e0450adf814",
+        "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
+        "url": "https://www.aibase.com/news/29464",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1052,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8969,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1137,106 +1273,6 @@
         "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
         "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76f0f9625b07",
-      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-      "primary_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
-          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T08:39:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.fastcompany.com"
-      ],
-      "items": [
-        {
-          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
-          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T08:39:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8185,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T08:39:51Z",
-      "latest_at": "2026-07-07T17:52:12.864000Z",
-      "primary_item": {
-        "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-        "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1275,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7872,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1337,21 +1373,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7881,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T15:14:30Z",
       "latest_at": "2026-07-07T15:14:30Z",
@@ -1398,15 +1433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7768,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,15 +1493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8388,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "industry",
