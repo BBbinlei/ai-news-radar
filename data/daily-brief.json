@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T01:07:48.953135Z",
+  "generated_at": "2026-07-09T05:29:55.692839Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8851,
-      "importance": 0.8851,
-      "importance_score": 0.8851,
+      "score": 0.8758,
+      "importance": 0.8758,
+      "importance_score": 0.8758,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8393,
+        "recency": 0.788,
         "story_heat": 0.5
       },
       "category": "official",
@@ -102,162 +102,6 @@
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_779e86c533da",
-      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T07:44:59.130000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "noma.security"
-      ],
-      "items": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T07:44:59.130000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7865,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:25:35Z",
-      "latest_at": "2026-07-08T14:37:37.637000Z",
-      "primary_item": {
-        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -295,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8927,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -357,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9373,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9448,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,6 +288,124 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_779e86c533da",
+      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
+          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T14:37:37.637000Z"
+        },
+        {
+          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T14:04:11Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "noma.security"
+      ],
+      "items": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
+          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T14:37:37.637000Z"
+        },
+        {
+          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T14:04:11Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7384,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:29:47.091000Z",
+      "latest_at": "2026-07-08T14:37:37.637000Z",
+      "primary_item": {
+        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -538,15 +500,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8059,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -600,15 +562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9076,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8765,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -686,68 +648,6 @@
         "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_41b85c9cdb7a",
-      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "primary_url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8454,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:30:00Z",
-      "latest_at": "2026-07-08T13:30:00Z",
-      "primary_item": {
-        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-        "url": "https://openai.com/index/government-national-security-partnerships",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -824,15 +724,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7228,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -849,6 +749,68 @@
         "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_41b85c9cdb7a",
+      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "primary_url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T13:30:00Z",
+      "latest_at": "2026-07-08T13:30:00Z",
+      "primary_item": {
+        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -905,15 +867,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8431,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -930,6 +892,229 @@
         "url": "https://x.com/testingcatalog/status/2074911600008466474",
         "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b5e863e8173e",
+      "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+      "url": "https://www.ithome.com/0/974/275.htm",
+      "primary_url": "https://www.ithome.com/0/974/275.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
+          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+          "url": "https://www.ithome.com/0/974/275.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T22:30:38Z"
+        },
+        {
+          "id": "0d25e77df6ff4ac33bfe310a50eb51b99cb77370",
+          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
+          "url": "https://www.ithome.com/0/974/275.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T22:30:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
+          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+          "url": "https://www.ithome.com/0/974/275.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T22:30:38Z"
+        },
+        {
+          "id": "0d25e77df6ff4ac33bfe310a50eb51b99cb77370",
+          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
+          "url": "https://www.ithome.com/0/974/275.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T22:30:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.904,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T22:30:38Z",
+      "latest_at": "2026-07-08T22:30:38Z",
+      "primary_item": {
+        "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
+        "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+        "url": "https://www.ithome.com/0/974/275.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_123c3b05241e",
+      "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+      "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed770107cfac540b8fd1a942953419666a534758",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T00:45:39Z"
+        },
+        {
+          "id": "17bc39a48bca8c98fb83c567d5be8ce7e778c934",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型 / Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T00:45:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ed770107cfac540b8fd1a942953419666a534758",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T00:45:39Z"
+        },
+        {
+          "id": "17bc39a48bca8c98fb83c567d5be8ce7e778c934",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型 / Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T00:45:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9339,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T00:45:39Z",
+      "latest_at": "2026-07-09T00:45:39Z",
+      "primary_item": {
+        "id": "ed770107cfac540b8fd1a942953419666a534758",
+        "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+        "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8975b8eaee74",
+      "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+      "url": "https://www.aibase.com/news/29483",
+      "primary_url": "https://www.aibase.com/news/29483",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+          "url": "https://www.aibase.com/news/29483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T05:29:55.692839Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+          "url": "https://www.aibase.com/news/29483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T05:29:55.692839Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T05:29:55.692839Z",
+      "latest_at": "2026-07-09T05:29:55.692839Z",
+      "primary_item": {
+        "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+        "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+        "url": "https://www.aibase.com/news/29483",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -967,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9491,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -992,148 +1177,6 @@
         "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b657dc98587",
-      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-      "url": "https://www.ithome.com/0/973/922.htm",
-      "primary_url": "https://www.ithome.com/0/973/922.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7319,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T03:30:52Z",
-      "latest_at": "2026-07-08T03:30:52Z",
-      "primary_item": {
-        "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-        "url": "https://www.ithome.com/0/973/922.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ace290e598a1",
-      "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-      "url": "https://www.aibase.com/news/29474",
-      "primary_url": "https://www.aibase.com/news/29474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-          "url": "https://www.aibase.com/news/29474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:07:48.953135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-          "url": "https://www.aibase.com/news/29474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:07:48.953135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T01:07:48.953135Z",
-      "latest_at": "2026-07-09T01:07:48.953135Z",
-      "primary_item": {
-        "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-        "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-        "url": "https://www.aibase.com/news/29474",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1171,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,15 +1275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8037,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1260,63 +1303,122 @@
       }
     },
     {
-      "story_id": "story_e57b456ec9fb",
-      "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-      "url": "https://x.com/testingcatalog/status/2074909146156081417",
-      "primary_url": "https://x.com/testingcatalog/status/2074909146156081417",
-      "source": "X：Testing Catalog (@testingcatalog)",
+      "story_id": "story_5d670371f68d",
+      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+      "url": "https://x.com/runwayml/status/2074982268175630814",
+      "primary_url": "https://x.com/runwayml/status/2074982268175630814",
+      "source": "X：Runway (@runwayml)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f2565704df7f892739adb02e92988dfe47916a11",
-          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-          "url": "https://x.com/testingcatalog/status/2074909146156081417",
-          "source": "X：Testing Catalog (@testingcatalog)",
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T17:31:05Z"
+          "published_at": "2026-07-08T22:21:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
+        "X：Runway (@runwayml)"
       ],
       "items": [
         {
-          "id": "f2565704df7f892739adb02e92988dfe47916a11",
-          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-          "url": "https://x.com/testingcatalog/status/2074909146156081417",
-          "source": "X：Testing Catalog (@testingcatalog)",
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T17:31:05Z"
+          "published_at": "2026-07-08T22:21:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8959,
+        "recency": 0.9021,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-08T17:31:05Z",
-      "latest_at": "2026-07-08T17:31:05Z",
+      "earliest_at": "2026-07-08T22:21:38Z",
+      "latest_at": "2026-07-08T22:21:38Z",
       "primary_item": {
-        "id": "f2565704df7f892739adb02e92988dfe47916a11",
-        "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-        "url": "https://x.com/testingcatalog/status/2074909146156081417",
-        "source": "X：Testing Catalog (@testingcatalog)",
+        "id": "32865bd97cf74f27440efce695f063620648524a",
+        "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+        "url": "https://x.com/runwayml/status/2074982268175630814",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7695175fa495",
+      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "primary_url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T23:27:02.554000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T23:27:02.554000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9164,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T23:27:02.554000Z",
+      "latest_at": "2026-07-08T23:27:02.554000Z",
+      "primary_item": {
+        "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+        "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+        "url": "https://www.anthropic.com/research/off-switch-dual-use",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1355,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,128 +1480,6 @@
         "url": "https://x.com/berryxia/status/2074827915779580055",
         "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f63cacb1008",
-      "title": "工信部发布Claude Code后门安全风险提示",
-      "url": "https://x.com/xiaohu/status/2074736623284256881",
-      "primary_url": "https://x.com/xiaohu/status/2074736623284256881",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T06:05:32Z",
-      "latest_at": "2026-07-08T06:05:32Z",
-      "primary_item": {
-        "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-        "title": "工信部发布Claude Code后门安全风险提示",
-        "url": "https://x.com/xiaohu/status/2074736623284256881",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce2436329e7b",
-      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9399,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T20:50:07Z",
-      "latest_at": "2026-07-08T20:50:07Z",
-      "primary_item": {
-        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
