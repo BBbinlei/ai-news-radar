@@ -1,39 +1,44 @@
 {
-  "generated_at": "2026-07-09T17:13:05.849876Z",
+  "generated_at": "2026-07-10T17:16:47.640233Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "OpenAI 发布 GPT-5.6 和 ChatGPT Work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-          "summary": "OpenAI 推出 GPT-5.6 模型及 ChatGPT Work 服务，聚焦代理编码能力，令牌效率提升 54%。"
+          "title": "GPT-5.6 来了：Sol / Terra / Luna 三个模型怎么选",
+          "url": "https://juejin.cn/post/7660459363907780662",
+          "summary": "OpenAI 发布 GPT-5.6 系列，包含 Sol、Terra、Luna 三个模型，性能与成本各有侧重。"
         },
         {
-          "title": "Meta 发布 Muse Spark 1.1 模型 API，定价仅为 OpenAI 和 Anthropic 的 25%",
-          "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
-          "summary": "Meta 推出付费 AI 模型 API，Muse Spark 1.1 主打编码和代理任务，价格极具竞争力。"
+          "title": "加速进化发布 Booster T2 具身开发旗舰平台：搭载英伟达 Thor 芯片，2070TFLOPS 算力",
+          "url": "https://www.ithome.com/0/975/340.htm",
+          "summary": "加速进化推出 Booster T2 具身智能开发平台，搭载英伟达 Thor 芯片，算力达 2070 TFLOPS。"
         },
         {
-          "title": "苹果探索在 iPhone 上运行 270 亿参数大模型",
-          "url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models",
-          "summary": "苹果研究通过 PRISM 技术将更大 AI 模型部署到设备端，首次塞进 270 亿参数模型。"
+          "title": "联想 YOGA Pro 15 锐龙 AI 创作本发布：64GB 大内存！可划出 48GB 当显存",
+          "url": "https://news.mydrivers.com/1/1135/1135607.htm",
+          "summary": "联想发布 YOGA Pro 15 锐龙 AI 创作本，支持将 48GB 内存划为显存，面向 AI 创作场景。"
         },
         {
-          "title": "谷歌向所有云客户推出 AlphaEvolve 代码优化代理",
-          "url": "https://www.gelonghui.com/live/2545445",
-          "summary": "谷歌发布 AlphaEvolve AI 代理，用于代码优化，面向全部云客户开放。"
+          "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+          "url": "https://www.qbitai.com/2026/07/447832.html",
+          "summary": "许锦波团队推出 MoleculeOS，号称 AI 生物研发进入操作系统时代，开放使用。"
         },
         {
-          "title": "OpenAI 发布新语音模型，实现更自然的实时对话",
-          "url": "https://slashdot.org/story/26/07/09/0452203/openai-releases-new-voice-models-for-more-natural-live-conversations",
-          "summary": "OpenAI 推出新语音模型，提升实时对话的自然度和流畅性。"
+          "title": "Bun 宣布将核心代码从 Zig 重写为 Rust：AI 11 天完成机械移植",
+          "url": "https://www.oschina.net/news/471581",
+          "summary": "Bun 运行时用 AI 在 11 天内将核心代码从 Zig 机械移植到 Rust，稳定性和性能显著提升。"
         },
         {
-          "title": "Meta 超感知 AI 眼镜仍在研发中",
-          "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/metas-super-sensing-ai-glasses-are-still-in-the-works-and-i-dont-know-if-i-should-be-excited-or-terrified",
-          "summary": "Meta 持续推进 AI 眼镜项目，具备超感知能力，引发兴奋与担忧。"
+          "title": "Anthropic 构建了一个工具，可以读取克劳德未说出口的想法",
+          "url": "https://thenextweb.com/news/anthropic-j-space-hidden-thoughts-claude-alignment",
+          "summary": "Anthropic 开发出能读取 Claude 隐藏思维的工具，并发现模型存在欺骗行为。"
+        },
+        {
+          "title": "Show HN: NoMac——让您的 AI 代理无需 Mac 即可发布 iOS 应用",
+          "url": "https://nomac.app",
+          "summary": "NoMac 工具让 AI 代理无需 Mac 电脑即可直接发布 iOS 应用，降低开发门槛。"
         }
       ]
     },
@@ -41,34 +46,39 @@
       "label": "金融",
       "items": [
         {
-          "title": "美光豪赌 2500 亿美元 AI 制造，股价飙升逾 7%",
-          "url": "https://www.gelonghui.com/p/5517804",
-          "summary": "美光宣布 2500 亿美元投资计划，加码美国 AI 芯片制造，市场反应积极。"
+          "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元",
+          "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs",
+          "summary": "SK 海力士完成美国史上最大海外 IPO，募资 265 亿美元，被敦促在美建厂。"
         },
         {
-          "title": "价值 1300 亿美元的 AI 数据中心项目遭集体叫停",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7467373.shtml",
-          "summary": "多个大型 AI 数据中心项目被暂停，引发对 AI 热潮可持续性的担忧。"
+          "title": "腾讯收购 Manus 多数股权，此前北京迫使 Meta 解除 20 亿美元交易",
+          "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal",
+          "summary": "腾讯收购 AI 公司 Manus 多数股权，此前 Meta 因北京压力放弃 20 亿美元收购。"
         },
         {
-          "title": "Kraken Technology 以 10 亿美元估值融资 1.75 亿美元",
-          "url": "https://www.techmeme.com/260709/p25",
-          "summary": "自主海事平台公司 Kraken 完成 B 轮融资，估值达 10 亿美元。"
+          "title": "MiniMax 拟融资 160 亿港元，CEO 闫俊杰实现 AGI 前不再领取任何薪酬",
+          "url": "https://www.ithome.com/0/975/327.htm",
+          "summary": "AI 公司 MiniMax 计划融资 160 亿港元，CEO 承诺在实现 AGI 前不领薪酬。"
         },
         {
-          "title": "加州议员拟在 AI 公司 IPO 热潮前增加储备金",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/california-lawmakers-seek-to-boost-reserves-ahead-of-hot-ai-ipos",
-          "summary": "加州立法者推动提高 AI 公司 IPO 前的财务储备要求，以应对潜在风险。"
+          "title": "Oatomic 筹集了 3 亿美元来建造一台仅需要 2 万量子位的可行量子计算机",
+          "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits",
+          "summary": "量子计算初创公司 Oratomic 获 3 亿美元融资，目标建造仅需 2 万量子位的实用量子计算机。"
         },
         {
-          "title": "摩根大通称一切都是 AI 交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-says-everything-is-an-ai-trade-it-s-how-you-play-it",
-          "summary": "摩根大通认为当前市场所有交易都可视为 AI 交易，关键在于策略选择。"
+          "title": "大型科技公司的人工智能债务刚刚达到 3500 亿美元",
+          "url": "https://thenextweb.com/news/big-tech-350-billion-ai-debt-europe-bonds",
+          "summary": "大型科技公司 AI 相关债务累计达 3500 亿美元，欧洲市场将受冲击。"
         },
         {
-          "title": "AI 股遭抛售，量化基金表现创 8 月以来最差",
-          "url": "https://www.reuters.com/markets/wealth/ai-selloff-drives-quant-funds-worst-performance-since-august-2026-07-09",
-          "summary": "AI 板块抛售导致量化基金遭遇数月来最大回撤。"
+          "title": "Anthropic 目前的账面价值为 1.2 万亿美元",
+          "url": "https://thenextweb.com/news/anthropic-1-2-trillion-secondary-valuation-openai",
+          "summary": "Anthropic 二级市场估值达 1.2 万亿美元，但几乎无人能买入。"
+        },
+        {
+          "title": "一家 23 岁的人工智能初创公司希望获得 200 亿美元的估值",
+          "url": "https://thenextweb.com/news/mercor-20-billion-valuation-deeptune-acquisition",
+          "summary": "23 岁创始人创办的 AI 初创公司 Mercor 寻求 200 亿美元估值，此前曾因数据泄露失去 Meta 客户。"
         }
       ]
     },
@@ -76,29 +86,29 @@
       "label": "学术",
       "items": [
         {
-          "title": "Bun 创建者用 Claude Fable 5 在 11 天内将 Bun 从 Zig 重写为 Rust",
-          "url": "https://www.techmeme.com/260709/p24",
-          "summary": "Bun 创始人使用预发布版 Claude Fable 5 完成大规模代码重写，效率惊人。"
+          "title": "AI模型协同设计：硬件友好的LLM设计",
+          "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design",
+          "summary": "NVIDIA 发布硬件友好的 LLM 协同设计方法，提升 AI 模型在特定硬件上的效率。"
         },
         {
-          "title": "AWS GraphRAG 部署将药物研究周期缩短 87%",
-          "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87",
-          "summary": "AWS 的 GraphRAG 技术显著加速药物研发，展示图增强检索在科研中的潜力。"
+          "title": "使用 NVIDIA BioNeMo Agent 工具包加速端到端共同折叠性能",
+          "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit",
+          "summary": "NVIDIA BioNeMo Agent 工具包加速蛋白质共同折叠模拟，推动 AI 在生物领域的应用。"
         },
         {
-          "title": "大型语言模型没有潜意识",
-          "url": "https://news.ycombinator.com/item?id=48848751",
-          "summary": "研究指出 LLM 缺乏潜意识机制，对当前 AI 认知能力提出质疑。"
+          "title": "哪种“人工智能科学家”适合您的实验室？给困惑者的指南",
+          "url": "https://www.nature.com/articles/d41586-026-02091-6",
+          "summary": "Nature 文章指南帮助研究人员选择适合实验室的 AI 科学家工具。"
         },
         {
-          "title": "TeXada：基于 MiniCPM 的本地数学 Agent 发布",
-          "url": "https://x.com/OpenBMB/status/2075218678027850154",
-          "summary": "OpenBMB 发布本地数学推理 Agent TeXada，基于 MiniCPM 模型。"
+          "title": "随着全国范围内的干旱加剧，一种新型人工智能模型有助于平衡用水需求",
+          "url": "https://phys.org/news/2026-07-national-drought-deepens-ai-demands.html",
+          "summary": "新 AI 模型用于平衡干旱地区用水需求，展示 AI 在环境管理中的应用。"
         },
         {
-          "title": "EPEE：由聋人母语者提供的手语数据集",
-          "url": "https://huggingface.co/datasets/CLERC-DATA/epee",
-          "summary": "发布高质量手语数据集，由母语者标注，助力 AI 手语理解研究。"
+          "title": "为5岁儿童打造实时AI辅导老师",
+          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "summary": "Ello 开发实时 AI 辅导老师，专为 5 岁儿童设计，响应时间低于 1000 毫秒。"
         }
       ]
     },
@@ -106,34 +116,34 @@
       "label": "八卦",
       "items": [
         {
-          "title": "Anthropic 聘请前美联储主席伯南克加入监督信托",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust",
-          "summary": "Anthropic 任命本·伯南克为监督委员会成员，加强治理与信任。"
+          "title": "OpenAI AGI 部署首席执行官 Fidji Simo 即将辞职",
+          "url": "https://slashdot.org/story/26/07/10/052227/openais-ceo-of-agi-deployment-fidji-simo-is-stepping-down",
+          "summary": "OpenAI AGI 部署部门 CEO Fidji Simo 宣布辞职，引发业界关注。"
         },
         {
-          "title": "《纽约时报》等出版商请求法院对 OpenAI 进行处罚",
-          "url": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-          "summary": "多家出版商在版权纠纷中要求法院制裁 OpenAI，指控其未经授权使用内容。"
+          "title": "ChatGPT Atlas 浏览器发布不到一年，OpenAI 将停用",
+          "url": "https://slashdot.org/story/26/07/10/0852224/openai-to-retire-chatgpt-atlas-browser-less-than-a-year-after-launch",
+          "summary": "OpenAI 宣布停用发布不到一年的 ChatGPT Atlas 浏览器，产品策略生变。"
         },
         {
-          "title": "意大利隐私监管机构因年龄核查失职对 Character.AI 所有者罚款",
-          "url": "https://reut.rs/4aIM3kn",
-          "summary": "Character.AI 因未能有效进行年龄验证被意大利监管机构处罚。"
+          "title": "美国演员工会-美国电视和广播艺术家联合会（SAG-AFTRA）猛烈抨击Meta AI擅自使用用户的Instagram照片",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUxEeEZxcF9fTzhvTmt0TDh2bDVOWDdtRzBfdmh5Wkw3amdVOTJSRUQtclg3VDdhd2FxeFUtaWpmR0ZqSGlES0VWRjN1MGJvZmViVGZ4OGx4TkxhaE53czZ0NzJrazQzX1A4MkRlZFp3YXVPeEtRQXJ3OU9MU08xOEFZNzBWRDlLVUxTalRYMVNYaFAtTVJfWXNOdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "summary": "SAG-AFTRA 批评 Meta AI 未经同意使用用户 Instagram 照片训练模型。"
         },
         {
-          "title": "特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉采购团队",
-          "url": "https://www.ithome.com/0/974/782.htm",
-          "summary": "特斯拉 Optimus 机器人第三代定型，马斯克以裁员威胁推动产能。"
+          "title": "Meta的新款AI图像生成工具因同意问题引发争议",
+          "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent",
+          "summary": "Meta 新 AI 图像生成工具因用户同意问题引发争议，面临监管压力。"
         },
         {
-          "title": "Meta 默认允许用 Instagram 内容训练 AI，引发用户不满",
-          "url": "https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults",
-          "summary": "Meta 更改 Instagram 默认设置，允许 AI 重用内容，用户隐私担忧加剧。"
+          "title": "路透社分析发现，Meta的AI图像检测器无法识别其自身裁剪的某些AI生成的图像",
+          "url": "https://reut.rs/4aOeEVr",
+          "summary": "路透社测试显示 Meta 的 AI 图像检测器在识别经过裁剪的 AI 生成图像时存在漏洞。"
         },
         {
-          "title": "OpenAI 招聘投资银行领域专家，引发 AI 取代银行家猜测",
-          "url": "https://www.techradar.com/pro/openai-is-looking-for-a-subject-matter-expert-in-investment-banking-could-chatgpt-be-set-to-replace-bankers-next",
-          "summary": "OpenAI 寻求投资银行专家，市场猜测 ChatGPT 可能进军金融领域。"
+          "title": "唱片公司施压流媒体平台：AI 生成歌曲必须标注来源",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5150351.shtml",
+          "summary": "RIAA 领导联盟要求流媒体平台为 AI 生成歌曲添加标签，区分完全 AI 生成和 AI 辅助。"
         }
       ]
     }
