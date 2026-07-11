@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T18:25:40.804727Z",
+  "generated_at": "2026-07-11T19:39:08.149386Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8717,
-      "importance": 0.8717,
-      "importance_score": 0.8717,
+      "score": 0.8686,
+      "importance": 0.8686,
+      "importance_score": 0.8686,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9728,
+        "recency": 0.9558,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -194,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7305,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,125 +219,6 @@
         "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a02db43ccd2c",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cdn.openai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7232,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T18:29:19Z",
-      "latest_at": "2026-07-10T19:59:11.362000Z",
-      "primary_item": {
-        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -394,15 +275,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -494,15 +375,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7645,
+        "recency": 0.7511,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -575,15 +456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.8444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,15 +537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.7162,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -718,15 +599,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7244,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -799,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.8397,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -861,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7524,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,125 +765,6 @@
         "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
         "url": "https://x.com/dotey/status/2075712647723397452",
         "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_04c3e5477225",
-      "title": "博科圣地如何利用前沿AI技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-          "title": "博科圣地如何利用前沿AI技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "78fdf7c9ed27afcfbbee4adfcdea6ffd4666d818",
-          "title": "博科圣地如何利用前沿AI技术 / How the Terrorist Group Boko Haram Uses Frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "casp.ac",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-          "title": "博科圣地如何利用前沿AI技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "78fdf7c9ed27afcfbbee4adfcdea6ffd4666d818",
-          "title": "博科圣地如何利用前沿AI技术 / How the Terrorist Group Boko Haram Uses Frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7459,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T18:49:26Z",
-      "latest_at": "2026-07-10T22:07:19.177000Z",
-      "primary_item": {
-        "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-        "title": "博科圣地如何利用前沿AI技术",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1041,21 +803,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9593,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T16:46:22Z",
       "latest_at": "2026-07-11T16:46:22Z",
@@ -1064,6 +825,87 @@
         "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
         "url": "https://x.com/sama/status/2075985056846451123",
         "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a02db43ccd2c",
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cdn.openai.com"
+      ],
+      "items": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7105,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T19:59:11.362000Z",
+      "latest_at": "2026-07-10T19:59:11.362000Z",
+      "primary_item": {
+        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1102,15 +944,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7592,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7882,
+        "recency": 0.7744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7338,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,82 +1090,83 @@
       }
     },
     {
-      "story_id": "story_f94505a7aa2e",
-      "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-      "primary_url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_04c3e5477225",
+      "title": "博科圣地如何利用前沿AI技术",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "201a8c3f65a11258d55e501a43026018616c509d",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T18:43:47Z"
+          "published_at": "2026-07-10T22:07:19.177000Z"
         },
         {
-          "id": "13edc5dda80deb02bbccb30706590c831090d519",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T18:43:47Z"
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "casp.ac"
       ],
       "items": [
         {
-          "id": "201a8c3f65a11258d55e501a43026018616c509d",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T18:43:47Z"
+          "published_at": "2026-07-10T22:07:19.177000Z"
         },
         {
-          "id": "13edc5dda80deb02bbccb30706590c831090d519",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T18:43:47Z"
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7102,
+        "recency": 0.7328,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-10T18:43:47Z",
-      "latest_at": "2026-07-10T18:43:47Z",
+      "earliest_at": "2026-07-10T22:07:19.177000Z",
+      "latest_at": "2026-07-10T22:07:19.177000Z",
       "primary_item": {
-        "id": "201a8c3f65a11258d55e501a43026018616c509d",
-        "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-        "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+        "title": "博科圣地如何利用前沿AI技术",
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1416,15 +1259,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6542,
-      "importance": 0.6542,
-      "importance_score": 0.6542,
+      "score": 0.6511,
+      "importance": 0.6511,
+      "importance_score": 0.6511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9862,
+        "recency": 0.969,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1495,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5812,
-      "importance": 0.5812,
-      "importance_score": 0.5812,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7404,
+        "recency": 0.7274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5765,
-      "importance": 0.5765,
-      "importance_score": 0.5765,
+      "score": 0.5739,
+      "importance": 0.5739,
+      "importance_score": 0.5739,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8119,
+        "recency": 0.7977,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,6 +1440,104 @@
         "url": "https://arxiv.org/abs/2607.08147",
         "source": "arXiv cs.AI",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b5d19d55b601",
+      "title": "《AI 2040》与“智能崇拜”",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "geohot.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:10:45.953000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "geohot.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:10:45.953000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T19:27:11.440000Z",
+      "primary_item": {
+        "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+        "title": "《AI 2040》与“智能崇拜”",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "source": "geohot.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1691,15 +1632,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.5508,
+      "importance": 0.5508,
+      "importance_score": 0.5508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7633,
+        "recency": 0.7499,
         "story_heat": 0.75
       },
       "category": "multi_source",
