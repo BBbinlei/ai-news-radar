@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:42:33.053713Z",
+  "generated_at": "2026-07-14T16:08:26.051675Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9743,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,130 @@
         "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
         "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dc9597f1b62f",
+      "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:00:00Z",
+      "latest_at": "2026-07-14T16:00:00Z",
+      "primary_item": {
+        "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+        "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.144.4",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+          "title": "Codex CLI 0.144.4",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+          "title": "Codex CLI 0.144.4",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7921,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+        "title": "Codex CLI 0.144.4",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8086,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8086,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,7 +332,7 @@
         },
         {
           "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -217,7 +341,7 @@
         },
         {
           "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -242,7 +366,7 @@
         },
         {
           "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -251,7 +375,7 @@
         },
         {
           "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -261,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7678,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -286,6 +410,149 @@
         "url": "https://playcode.io/blog/real-price-of-frontier-models",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4b29ff806d7",
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "primary_url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:59Z",
+      "latest_at": "2026-07-14T15:17:59Z",
+      "primary_item": {
+        "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+        "title": "纽约州暂停所有新建大型数据中心项目",
+        "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9b4cfc04bcb",
+      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7882,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -342,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9067,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -367,68 +634,6 @@
         "url": "https://www.aibase.com/news/29584",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8046,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -485,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7393,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,15 +790,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8963,
+        "recency": 0.8779,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -609,6 +814,67 @@
         "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
         "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_963623cb91e6",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "primary_url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI for Developers (@googleaidevs)"
+      ],
+      "items": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:40Z",
+      "latest_at": "2026-07-14T15:17:40Z",
+      "primary_item": {
+        "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+        "url": "https://x.com/googleaidevs/status/2077049898059354565",
+        "source": "X：Google AI for Developers (@googleaidevs)",
         "source_name": "AI HOT"
       }
     },
@@ -647,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8603,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -796,83 +1062,62 @@
       }
     },
     {
-      "story_id": "story_dc42d63d4f1a",
-      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-      "primary_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_d37ce11fa5e9",
+      "title": "Anthropic 推出 Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "primary_url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://www.anthropic.com/news/claude-for-teachers",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
-        },
-        {
-          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T15:11:11.440000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://www.anthropic.com/news/claude-for-teachers",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
-        },
-        {
-          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T15:11:11.440000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8086,
-        "story_heat": 0.25
+        "recency": 0.9863,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-14T15:11:11.440000Z",
+      "latest_at": "2026-07-14T15:11:11.440000Z",
       "primary_item": {
-        "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-        "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-        "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+        "title": "Anthropic 推出 Claude for Teachers",
+        "url": "https://www.anthropic.com/news/claude-for-teachers",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -930,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9067,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -992,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,68 +1320,6 @@
         "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
         "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_416032e0a850",
-      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T15:57:56Z",
-      "latest_at": "2026-07-13T15:57:56Z",
-      "primary_item": {
-        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1174,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1197,229 +1380,6 @@
         "url": "https://www.anthropic.com/research/how-canada-uses-claude",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd885fb42c2e",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "primary_url": "https://www.ithome.com/0/976/538.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9048,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T07:46:46Z",
-      "latest_at": "2026-07-14T07:46:46Z",
-      "primary_item": {
-        "id": "d175968ce830a107641f2faabd1b491517898122",
-        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "url": "https://www.ithome.com/0/976/538.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cd28e9a14eb0",
-      "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-      "url": "https://www.aibase.com/news/29583",
-      "primary_url": "https://www.aibase.com/news/29583",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:21:34.141243Z"
-        },
-        {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "url": "https://www.ithome.com/0/976/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:21:34.141243Z"
-        },
-        {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "url": "https://www.ithome.com/0/976/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9257,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:46:08Z",
-      "latest_at": "2026-07-14T09:21:34.141243Z",
-      "primary_item": {
-        "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-        "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-        "url": "https://www.aibase.com/news/29583",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f0fb835f03f6",
-      "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-      "url": "https://www.aibase.com/news/29572",
-      "primary_url": "https://www.aibase.com/news/29572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/news/29572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:43:00.279008Z"
-        },
-        {
-          "id": "7147a9bbdf06564a0aae61fce61e4ab575f7e125",
-          "title": "QuestMobile 六月 AI 原生 App 月活榜：豆包 3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/zh/news/29572",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/news/29572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:43:00.279008Z"
-        },
-        {
-          "id": "7147a9bbdf06564a0aae61fce61e4ab575f7e125",
-          "title": "QuestMobile 六月 AI 原生 App 月活榜：豆包 3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/zh/news/29572",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8656,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:43:00.279008Z",
-      "latest_at": "2026-07-14T04:43:00.279008Z",
-      "primary_item": {
-        "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-        "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-        "url": "https://www.aibase.com/news/29572",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
