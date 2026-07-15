@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T12:48:27.465428Z",
+  "generated_at": "2026-07-15T14:42:22.352180Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8609,
+      "importance": 0.8609,
+      "importance_score": 0.8609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8011,
+        "recency": 0.7795,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -157,6 +157,68 @@
         "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d7569c2afe3",
+      "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8087,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:00:00Z",
+      "latest_at": "2026-07-15T00:00:00Z",
+      "primary_item": {
+        "id": "80a3de57206305e274a186a394d0d50502b735a3",
+        "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -194,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8314,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -275,15 +337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -337,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7405,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -399,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8267,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
       "category": "official",
@@ -518,15 +580,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7829,
+        "recency": 0.7617,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -580,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,15 +722,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -741,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8056,
+        "recency": 0.7838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -803,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,15 +945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -964,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9419,
+        "recency": 0.9165,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1026,15 +1088,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7756,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1148,15 +1210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,15 +1270,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1286,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1367,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7683,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1447,15 +1509,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1472,68 +1534,6 @@
         "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed3a2198d15e",
-      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
-      "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
