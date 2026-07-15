@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T17:43:36.317942Z",
+  "generated_at": "2026-07-15T18:57:23.485321Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8562,
+      "importance": 0.8562,
+      "importance_score": 0.8562,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9967,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
         "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ee230258f27f",
+      "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8787,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:00:00Z",
+      "latest_at": "2026-07-15T10:00:00Z",
+      "primary_item": {
+        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+        "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -108,32 +170,12 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
-          "title": "光标 0day：当完全披露成为唯一的保护时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://news.ycombinator.com/item?id=48910676",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T20:10:18.321000Z"
-        },
-        {
-          "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Lobsters (技术社区)",
-        "hackernews",
         "mindgard.ai"
       ],
       "items": [
@@ -172,38 +214,20 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
-          "title": "光标 0day：当完全披露成为唯一的保护时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://news.ycombinator.com/item?id=48910676",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T20:10:18.321000Z"
-        },
-        {
-          "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8549,
-      "importance": 0.8549,
-      "importance_score": 0.8549,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7462,
-        "story_heat": 1.0
+        "recency": 0.7331,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -211,7 +235,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T17:58:35Z",
+      "earliest_at": "2026-07-14T21:27:11.693000Z",
       "latest_at": "2026-07-15T04:55:21.542000Z",
       "primary_item": {
         "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
@@ -219,68 +243,6 @@
         "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee230258f27f",
-      "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8944,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T10:00:00Z",
-      "latest_at": "2026-07-15T10:00:00Z",
-      "primary_item": {
-        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-        "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -318,15 +280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8561,
+      "importance": 0.8561,
+      "importance_score": 0.8561,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.996,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -380,15 +342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7744,
+        "recency": 0.7608,
         "story_heat": 0.0
       },
       "category": "official",
@@ -442,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9206,
+        "recency": 0.9044,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,15 +485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8777,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.77,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -613,120 +575,82 @@
       }
     },
     {
-      "story_id": "story_449874491314",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "primary_url": "https://prismml.com/news/bonsai-27b",
+      "story_id": "story_e21c965e6aed",
+      "title": "Telegram 无服务器架构",
+      "url": "https://core.telegram.org/bots/serverless",
+      "primary_url": "https://core.telegram.org/bots/serverless",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
+          "published_at": "2026-07-15T15:37:19.450000Z"
         },
         {
-          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
-          "title": "Bonsai 27B（1 位 LLM）：第一个在手机上运行的 27B 级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "url": "https://news.ycombinator.com/item?id=48910545",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T18:40:05.936000Z"
-        },
-        {
-          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T17:50:48Z"
-        },
-        {
-          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B: A 27B-Class model that runs on a phone",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-14T17:50:48Z"
+          "published_at": "2026-07-15T10:06:39Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
+          "published_at": "2026-07-15T15:37:19.450000Z"
         },
         {
-          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
-          "title": "Bonsai 27B（1 位 LLM）：第一个在手机上运行的 27B 级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "url": "https://news.ycombinator.com/item?id=48910545",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T18:40:05.936000Z"
-        },
-        {
-          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T17:50:48Z"
-        },
-        {
-          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B: A 27B-Class model that runs on a phone",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-14T17:50:48Z"
+          "published_at": "2026-07-15T10:06:39Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7292,
-        "story_heat": 0.75
+        "recency": 0.953,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T17:50:48Z",
-      "latest_at": "2026-07-14T19:51:19.560000Z",
+      "earliest_at": "2026-07-15T10:06:39Z",
+      "latest_at": "2026-07-15T15:37:19.450000Z",
       "primary_item": {
-        "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "url": "https://prismml.com/news/bonsai-27b",
+        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+        "title": "Telegram 无服务器架构",
+        "url": "https://core.telegram.org/bots/serverless",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -766,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.8365,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -927,15 +851,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7371,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -955,17 +879,17 @@
       }
     },
     {
-      "story_id": "story_5d7569c2afe3",
-      "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "story_id": "story_210f6726bf4a",
+      "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "primary_url": "https://huggingface.co/blog/thinkingmachines-inkling",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -978,9 +902,9 @@
       ],
       "items": [
         {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -989,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7742,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1009,9 +933,9 @@
       "earliest_at": "2026-07-15T00:00:00Z",
       "latest_at": "2026-07-15T00:00:00Z",
       "primary_item": {
-        "id": "80a3de57206305e274a186a394d0d50502b735a3",
-        "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+        "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
+        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -1051,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8012,
+        "recency": 0.7871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,87 +997,6 @@
         "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
         "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e21c965e6aed",
-      "title": "Telegram 无服务器架构",
-      "url": "https://core.telegram.org/bots/serverless",
-      "primary_url": "https://core.telegram.org/bots/serverless",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9701,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T10:06:39Z",
-      "latest_at": "2026-07-15T15:37:19.450000Z",
-      "primary_item": {
-        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-        "title": "Telegram 无服务器架构",
-        "url": "https://core.telegram.org/bots/serverless",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1211,15 +1054,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.8365,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1273,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,6 +1139,68 @@
         "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
         "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_77d490ebaf47",
+      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T19:12:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T19:12:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7097,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T19:12:48Z",
+      "latest_at": "2026-07-14T19:12:48Z",
+      "primary_item": {
+        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1352,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1377,68 +1282,6 @@
         "url": "https://www.ithome.com/0/977/105.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_77d490ebaf47",
-      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7225,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
-      "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1476,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1499,6 +1342,68 @@
         "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d7569c2afe3",
+      "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7605,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:00:00Z",
+      "latest_at": "2026-07-15T00:00:00Z",
+      "primary_item": {
+        "id": "80a3de57206305e274a186a394d0d50502b735a3",
+        "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
