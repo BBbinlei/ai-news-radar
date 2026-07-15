@@ -1,44 +1,39 @@
 {
-  "generated_at": "2026-07-14T19:04:49.593552Z",
+  "generated_at": "2026-07-15T20:05:42.631370Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "Bonsai 27B（1 位 LLM）：第一个在手机上运行的 27B 级模型",
-          "url": "https://news.ycombinator.com/item?id=48910545",
-          "summary": "首个可在手机上运行的27B参数1-bit LLM，大幅降低端侧AI门槛。"
+          "title": "Thinking Machines 发布开放权重模型 Inkling",
+          "url": "https://thinkingmachines.ai/inkling",
+          "summary": "Mira Murati 创立的 Thinking Machines 发布 975B 参数开放权重模型 Inkling，挑战通用 AI 模式。"
         },
         {
-          "title": "苹果正在与 PrismML 洽谈，旨在缩小人工智能模型以便在 iPhone 上运行",
-          "url": "https://api3.cls.cn/share/article/2426501?os=web&sv=8.4.6&app=CailianpressWeb",
-          "summary": "苹果洽谈PrismML，其技术可将模型内存占用减少15倍，有望让Siri更强大。"
+          "title": "OpenAI 推出 Codex Micro 键盘",
+          "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex",
+          "summary": "OpenAI 发布售价 230 美元的 Codex Micro 键盘，专为 AI 代理控制设计，内置背光按键和操纵杆。"
         },
         {
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "url": "https://x.com/googleaidevs/status/2077049898059354565",
-          "summary": "Google推出Gemini 3.5 Live Translate，支持70+语言近实时语音翻译。"
+          "title": "OpenAI 推出 GPT-Red 自动化红队模型",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+          "summary": "OpenAI 内部自动化红队模型 GPT-Red 可大规模发现并修复提示注入漏洞，表现优于人类。"
         },
         {
-          "title": "Anthropic 宣布一项新的 Claude for Teachers 计划",
-          "url": "https://www.anthropic.com/news/claude-for-teachers",
-          "summary": "Anthropic为美国K-12教师免费提供高级Claude功能，并承诺不基于学生数据训练模型。"
+          "title": "Bonsai 27B 推理模型可运行于 iPhone",
+          "url": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone",
+          "summary": "全开放推理模型 Bonsai 27B 体积小巧，可在 iPhone 上本地运行。"
         },
         {
-          "title": "Spotify 推出用于音乐和收听历史记录的人工智能聊天机器人",
-          "url": "https://mashable.com/life/spotify-ai-chatbot-listening-history",
-          "summary": "Spotify推出AI聊天机器人，可基于音乐和收听历史进行交互。"
+          "title": "国行苹果 AI 通过备案，接入通义千问",
+          "url": "https://www.36kr.com/p/3896830991320962",
+          "summary": "苹果 AI 在中国获批，将集成阿里通义千问模型，阿里美股大涨 5.6%。"
         },
         {
-          "title": "Google Images 推出了类似 Pinterest 的重新设计，并新增 AI 图像生成功能",
-          "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery",
-          "summary": "Google Images改版为类似Pinterest的发现式布局，并支持在搜索中生成AI图像。"
-        },
-        {
-          "title": "OpenAI 在 ChatGPT 中展示了 Kalshi 的世界杯赔率",
-          "url": "https://nyti.ms/44sP6cU",
-          "summary": "OpenAI与Kalshi合作，在ChatGPT搜索结果中显示FIFA世界杯预测市场数据。"
+          "title": "英伟达 CEO 否认 Vera Rubin 延期",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhns7915107.shtml",
+          "summary": "黄仁勋回击 SemiAnalysis 报告，称 Vera Rubin 将按计划交付客户。"
         }
       ]
     },
@@ -46,39 +41,39 @@
       "label": "金融",
       "items": [
         {
-          "title": "DeepSeek 据报道正在洽谈筹集 1.5B 美元，然后进行 IPO",
-          "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo",
-          "summary": "DeepSeek在完成70亿美元融资后仅数周，又洽谈15亿美元融资并筹备IPO。"
+          "title": "Anthropic 计划 IPO 投资者会议",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-said-to-plan-ipo-investor-meetings-as-listing-nears",
+          "summary": "Anthropic 据称将在几周内召开 IPO 投资者会议，最快 10 月上市，估值或超 OpenAI。"
         },
         {
-          "title": "IBM 股票在对人工智能发出严重警告后暴跌",
-          "url": "https://hardware.slashdot.org/story/26/07/14/1634227/ibm-stock-collapses-after-a-grave-warning-about-ai",
-          "summary": "IBM Q2营收不及预期，AI预订量激增但成本压力导致股价暴跌23%。"
+          "title": "阿波罗主导 350 亿美元 AI 信贷交易",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7982395.shtml",
+          "summary": "阿波罗全球管理公司主导 350 亿美元 AI 信贷交易，挑战传统华尔街银行。"
         },
         {
-          "title": "标普将甲骨文评级下调至BBB——仅比垃圾级高一级",
-          "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-          "summary": "标普下调甲骨文评级至BBB，仅比垃圾级高一级，反映AI转型压力。"
+          "title": "DeepSeek 考虑新一轮融资",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-considers-fundraising-first-103844155.html",
+          "summary": "中国 AI 公司 DeepSeek 据报正考虑筹集更多资金，加速扩张。"
         },
         {
-          "title": "华尔街银行认为，人工智能“超级周期”将推动交易和融资",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-banks-see-ai-173528744.html",
-          "summary": "华尔街银行看好AI超级周期，预计将推动并购和融资活动。"
+          "title": "Chai Discovery 融资 4 亿美元",
+          "url": "https://thenextweb.com/news/chai-discovery-400m-series-c-ai-drug-discovery",
+          "summary": "AI 药物发现公司 Chai Discovery 完成 4 亿美元 C 轮融资，估值达 38 亿美元。"
         },
         {
-          "title": "Reflection 与 Nebius 签署 10 亿美元计算协议",
-          "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius",
-          "summary": "AI公司Reflection与云服务商Nebius签署10亿美元计算协议，用于模型训练。"
+          "title": "Neko Health 再获 7 亿美元融资",
+          "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m",
+          "summary": "Spotify 创始人 Daniel Ek 的身体扫描初创公司 Neko Health 再次融资 7 亿美元。"
         },
         {
-          "title": "纽约州禁止建设数据中心一年，引发人工智能行业震动",
-          "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium",
-          "summary": "纽约州成为首个暂停新建数据中心一年的州，影响AI算力扩张。"
+          "title": "苹果寻求收购 AI 芯片公司",
+          "url": "https://www.reuters.com/business/apple-chasing-ai-chip-company-deals-information-reports-2026-07-15",
+          "summary": "据 The Information 报道，苹果正积极寻求收购 AI 芯片公司，以加强自研能力。"
         },
         {
-          "title": "135 亿接盘 Manus，腾讯 AI 疯狂「扫货」",
-          "url": "https://www.163.com/dy/article/L1R3T72505319LDA.html",
-          "summary": "腾讯以135亿元收购AI创企Manus，加速AI领域布局。"
+          "title": "戴尔等 AI 硬件股重挫",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-falls-14-hpe-super-164251809.html",
+          "summary": "AI 硬件股涨势逆转，戴尔跌 14%，HPE 和超微走低，市场担忧估值过高。"
         }
       ]
     },
@@ -86,29 +81,29 @@
       "label": "学术",
       "items": [
         {
-          "title": "排行榜的经验教训：5,000 多名 Kaggler 教我们如何改进 AI 推理",
-          "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning",
-          "summary": "NVIDIA总结Kaggle竞赛经验，提出改进AI推理的实用方法。"
+          "title": "GPT-5.6 Sol 反驳 30 年统计猜想",
+          "url": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it",
+          "summary": "OpenAI 的 GPT-5.6 Sol 在 90 分钟内反驳了一个人类无法破解的 30 年统计猜想。"
         },
         {
-          "title": "人工智能帮助科学家更准确地预测哪些DNA序列会相互结合",
-          "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
-          "summary": "AI模型提升DNA序列结合预测准确性，助力基因组学研究。"
+          "title": "Claude 一夜解开弦论难题",
+          "url": "https://hub.baai.ac.cn/view/56365",
+          "summary": "Claude 模型成功解开困扰东大教授半年的弦论难题，引发学界震动。"
         },
         {
-          "title": "可验证的AI推理",
-          "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference",
-          "summary": "探讨如何实现可验证的AI推理，增强模型可信度。"
+          "title": "晶体结构操作基准发布，顶级模型翻车",
+          "url": "https://hub.baai.ac.cn/view/56367",
+          "summary": "首个晶体结构操作基准发布，顶级大模型集体表现不佳，显示 Scaling Law 并非万能。"
         },
         {
-          "title": "AI+ 化学书 | 2026 年 | 聚合物科学与纳米技术中的人工智能应用",
-          "url": "https://hub.baai.ac.cn/view/56341",
-          "summary": "综述AI在聚合物科学和纳米技术中的应用，涵盖自主实验室和材料模拟。"
+          "title": "对抗性自对弈消除编码代理低效",
+          "url": "https://usetelos.ai/blog/killing-coding-agent-slop",
+          "summary": "研究提出利用对抗性自对弈减少编码代理的无效步骤，成功率提升 16.7%。"
         },
         {
-          "title": "Legal World 司法角色扮演・智能体训练｜打造法律智能体的全生命周期模拟世界",
-          "url": "https://hub.baai.ac.cn/view/56335",
-          "summary": "提出法律智能体训练框架，通过角色扮演模拟司法场景。"
+          "title": "DSL 使 LLM 可靠投入使用",
+          "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+          "summary": "Martin Fowler 文章探讨如何通过领域特定语言（DSL）提升 LLM 在实际应用中的可靠性。"
         }
       ]
     },
@@ -116,39 +111,34 @@
       "label": "八卦",
       "items": [
         {
-          "title": "Meta 被 26 名员工起诉，称其人工智能系统针对休病假的员工进行裁员",
-          "url": "https://thenextweb.com/news/meta-lawsuit-ai-layoffs-medical-leave-disability",
-          "summary": "Meta被26名前员工起诉，指控AI系统在裁员中歧视病假员工。"
+          "title": "DeepMind 研究员因军事交易辞职",
+          "url": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7",
+          "summary": "DeepMind 研究员因谷歌与五角大楼的 AI 军事合同辞职，称无法凭良心留下。"
         },
         {
-          "title": "Google 因 AI 训练再遭出版商集体诉讼",
-          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-          "summary": "多家出版商和作者起诉Google，指控其未经授权使用版权内容训练AI。"
+          "title": "OpenAI 员工捐款反对 Greg Brockman 支持的 PAC",
+          "url": "https://www.techmeme.com/260715/p38",
+          "summary": "OpenAI 员工向 Guardrails Alliance 捐款超 21.5 万美元，反对 Greg Brockman 支持的超级政治行动委员会。"
         },
         {
-          "title": "Character.AI「致死案」后：AI「意图」拟制归责架构渐成",
-          "url": "https://www.huxiu.com/article/4875304.html?f=rss",
-          "summary": "Character.AI致死案推动AI意图归责法律框架讨论。"
+          "title": "Suno 被曝从 YouTube 抓取数百万首歌曲训练",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+          "summary": "AI 音乐生成器 Suno 被指通过黑客手段从 YouTube、Genius 等平台抓取数百万首歌曲用于训练。"
         },
         {
-          "title": "Palantir CEO 批评 AI 行业高管：一边宣扬失业风险 一边赚得盆满钵满",
-          "url": "https://www.gelonghui.com/live/2552687",
-          "summary": "Palantir CEO抨击AI高管言行不一，既渲染失业焦虑又从中获利。"
+          "title": "AWS 高级副总裁 Dave Brown 离职",
+          "url": "https://www.techmeme.com/260715/p43",
+          "summary": "AWS 计算、AI 和平台高级副总裁 Dave Brown 在任职 19 年后离职，寻求新机会。"
         },
         {
-          "title": "DeepMind首席执行官呼吁建立独立标准机构来规范前沿人工智能",
-          "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai",
-          "summary": "Demis Hassabis呼吁建立类似FINRA的独立机构监管前沿AI，并有权暂停危险开发。"
+          "title": "OpenAI 在欧盟商标纠纷中败诉",
+          "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143",
+          "summary": "OpenAI 在欧盟法院的商标纠纷中败诉，可能影响其品牌在欧洲的使用。"
         },
         {
-          "title": "摩根大通敦促员工慎用高价 AI 处理简单任务，企业高管开始忧心成本",
-          "url": "https://wallstreetcn.com/livenews/3133798",
-          "summary": "摩根大通提醒员工避免用昂贵AI处理简单任务，企业开始关注AI成本。"
-        },
-        {
-          "title": "戴蒙表示人工智能已经消除了摩根大通某些部门 30% 至 40% 的工作岗位",
-          "url": "https://thenextweb.com/news/jpmorgan-dimon-ai-jobs-cuts-margins-q2-earnings",
-          "summary": "摩根大通CEO戴蒙称AI已导致部分部门30-40%岗位消失，但成本未显著降低。"
+          "title": "微软培训销售团队攻击 AI 巨头",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1166234.shtml",
+          "summary": "微软培训销售团队重点突出竞争对手 AI 产品的不足，以争夺企业客户。"
         }
       ]
     }
