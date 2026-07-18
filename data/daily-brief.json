@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T18:50:32.243240Z",
+  "generated_at": "2026-07-18T19:59:24.805124Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7618,
+        "recency": 0.7493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c03164d67fef",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T19:47:45Z",
-      "latest_at": "2026-07-17T19:47:45Z",
-      "primary_item": {
-        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.741,
+        "recency": 0.7288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -185,6 +123,68 @@
         "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
         "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
         "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d7c9b0f9da4b",
+      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7289,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
+      "primary_item": {
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8163,
+        "recency": 0.8029,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,68 +268,6 @@
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -367,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.731,
+        "recency": 0.719,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,15 +421,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6415,
-      "importance": 0.6415,
-      "importance_score": 0.6415,
+      "score": 0.6386,
+      "importance": 0.6386,
+      "importance_score": 0.6386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.969,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -600,15 +538,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
+      "score": 0.5766,
+      "importance": 0.5766,
+      "importance_score": 0.5766,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9081,
+        "recency": 0.8932,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -622,6 +560,104 @@
         "title": "为什么人工智能公司的标志看起来像肛门？",
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "source": "velvetshark.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:21:10.936000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "ykdojo.github.io"
+      ],
+      "items": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:21:10.936000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9947,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
+      "primary_item": {
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -698,15 +734,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9473,
+        "recency": 0.9317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -796,15 +832,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.9211,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -894,15 +930,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5547,
+      "importance": 0.5547,
+      "importance_score": 0.5547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9256,
+        "recency": 0.9104,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -917,6 +953,85 @@
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
         "source": "data.stackexchange.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2087c81ffa1f",
+      "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://news.ycombinator.com/item?id=48961157",
+      "primary_url": "https://news.ycombinator.com/item?id=48961157",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T20:00:08.700000Z"
+        },
+        {
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T20:00:08.700000Z"
+        },
+        {
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T19:06:23Z",
+      "latest_at": "2026-07-18T20:00:08.700000Z",
+      "primary_item": {
+        "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+        "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+        "url": "https://news.ycombinator.com/item?id=48961157",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -973,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -996,85 +1111,6 @@
         "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
         "source": "softwaremaxims.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://news.ycombinator.com/item?id=48959392",
-      "primary_url": "https://news.ycombinator.com/item?id=48959392",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:21:10.936000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:21:10.936000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9647,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T16:21:10.936000Z",
-      "primary_item": {
-        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://news.ycombinator.com/item?id=48959392",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1131,15 +1167,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9475,
+        "recency": 0.9319,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,15 +1246,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9305,
+        "recency": 0.9152,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,15 +1325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9221,
+        "recency": 0.9069,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,15 +1404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9185,
+        "recency": 0.9034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,15 +1483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9045,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,6 +1505,104 @@
         "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
         "url": "https://news.ycombinator.com/item?id=48957109",
         "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "localnewsmatters.org"
+      ],
+      "items": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7453,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
+      "primary_item": {
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
         "source_name": "Buzzing"
       }
     },
@@ -1526,15 +1660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8989,
+        "recency": 0.8841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,85 +1682,6 @@
         "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_334727c4b329",
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8989,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:30:23Z",
-      "latest_at": "2026-07-18T11:27:42.542272Z",
-      "primary_item": {
-        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     }
