@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:50:13.778171Z",
+  "generated_at": "2026-07-21T19:05:47.192539Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9205,
-      "importance": 0.9205,
-      "importance_score": 0.9205,
+      "score": 0.9173,
+      "importance": 0.9173,
+      "importance_score": 0.9173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9637,
+        "recency": 0.9463,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "score": 0.8611,
+      "importance": 0.8611,
+      "importance_score": 0.8611,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9738,
+        "recency": 0.9563,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.988,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.853,
-      "importance": 0.853,
-      "importance_score": 0.853,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9609,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,15 +421,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8265,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -446,6 +446,68 @@
         "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.145.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+          "title": "Codex CLI 0.145.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+          "title": "Codex CLI 0.145.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.759,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T00:00:00Z",
+      "latest_at": "2026-07-21T00:00:00Z",
+      "primary_item": {
+        "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+        "title": "Codex CLI 0.145.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -483,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7729,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.8277,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9729,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -745,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -807,15 +869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,19 +922,19 @@
           "published_at": "2026-07-21T17:15:35.727000Z"
         },
         {
-          "id": "91fd98664185cd1b76aaa069147340e3163b64a8",
+          "id": "0e7348a53197753b98fa8bcb4f9b5116fc70522a",
           "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
           "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News (黑客新闻)",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-21T14:49:18Z"
+          "published_at": "2026-07-21T15:51:04Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
         "blog.exe.dev"
       ],
       "items": [
@@ -895,26 +957,26 @@
           "published_at": "2026-07-21T17:15:35.727000Z"
         },
         {
-          "id": "91fd98664185cd1b76aaa069147340e3163b64a8",
+          "id": "0e7348a53197753b98fa8bcb4f9b5116fc70522a",
           "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
           "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News (黑客新闻)",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-21T14:49:18Z"
+          "published_at": "2026-07-21T15:51:04Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9738,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -923,7 +985,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T14:49:18Z",
+      "earliest_at": "2026-07-21T15:51:04Z",
       "latest_at": "2026-07-21T17:15:35.727000Z",
       "primary_item": {
         "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
@@ -968,15 +1030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1029,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8644,
+        "recency": 0.8489,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1190,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9685,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1215,68 +1277,6 @@
         "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4b8abada7fb",
-      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T18:24:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T18:24:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7129,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T18:24:14Z",
-      "latest_at": "2026-07-20T18:24:14Z",
-      "primary_item": {
-        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1314,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9726,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1394,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1422,122 +1422,122 @@
       }
     },
     {
-      "story_id": "story_5d5986221c3c",
-      "title": "xAI 推出 Grok for Outlook 加载项",
-      "url": "https://x.ai/news/introducing-outlook-addin",
-      "primary_url": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI：News（网页）",
+      "story_id": "story_55c157c7389e",
+      "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
+      "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "primary_url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b4608009217062e825e5d839e023f1c13117770d",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://x.ai/news/introducing-outlook-addin",
-          "source": "xAI：News（网页）",
+          "id": "27426a3573d58880530fc42c93df48bd900b2522",
+          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
+          "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49.842000Z"
+          "published_at": "2026-07-21T17:54:42.493000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "xAI：News（网页）"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "b4608009217062e825e5d839e023f1c13117770d",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://x.ai/news/introducing-outlook-addin",
-          "source": "xAI：News（网页）",
+          "id": "27426a3573d58880530fc42c93df48bd900b2522",
+          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
+          "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49.842000Z"
+          "published_at": "2026-07-21T17:54:42.493000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.983,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-21T17:22:49.842000Z",
-      "latest_at": "2026-07-21T17:22:49.842000Z",
+      "earliest_at": "2026-07-21T17:54:42.493000Z",
+      "latest_at": "2026-07-21T17:54:42.493000Z",
       "primary_item": {
-        "id": "b4608009217062e825e5d839e023f1c13117770d",
-        "title": "xAI 推出 Grok for Outlook 加载项",
-        "url": "https://x.ai/news/introducing-outlook-addin",
-        "source": "xAI：News（网页）",
+        "id": "27426a3573d58880530fc42c93df48bd900b2522",
+        "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
+        "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_13620a541e68",
-      "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
-      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-      "primary_url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-      "source": "Google Developers Blog（RSS）",
+      "story_id": "story_0ec7596b548a",
+      "title": "OpenAI 发布奖励寻求行为新研究",
+      "url": "https://x.com/OpenAI/status/2079628886950994005",
+      "primary_url": "https://x.com/OpenAI/status/2079628886950994005",
+      "source": "X：OpenAI (@OpenAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aa8ea8b19ef2137b5c336d79a4a5bc2a9c6d6ce8",
-          "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
-          "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-          "source": "Google Developers Blog（RSS）",
+          "id": "e55a831a4fa4a4b1d5615f32655a012cbdef6966",
+          "title": "OpenAI 发布奖励寻求行为新研究",
+          "url": "https://x.com/OpenAI/status/2079628886950994005",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T16:00:05.337000Z"
+          "published_at": "2026-07-21T18:05:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Developers Blog（RSS）"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "aa8ea8b19ef2137b5c336d79a4a5bc2a9c6d6ce8",
-          "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
-          "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-          "source": "Google Developers Blog（RSS）",
+          "id": "e55a831a4fa4a4b1d5615f32655a012cbdef6966",
+          "title": "OpenAI 发布奖励寻求行为新研究",
+          "url": "https://x.com/OpenAI/status/2079628886950994005",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T16:00:05.337000Z"
+          "published_at": "2026-07-21T18:05:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-21T16:00:05.337000Z",
-      "latest_at": "2026-07-21T16:00:05.337000Z",
+      "earliest_at": "2026-07-21T18:05:38Z",
+      "latest_at": "2026-07-21T18:05:38Z",
       "primary_item": {
-        "id": "aa8ea8b19ef2137b5c336d79a4a5bc2a9c6d6ce8",
-        "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
-        "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-        "source": "Google Developers Blog（RSS）",
+        "id": "e55a831a4fa4a4b1d5615f32655a012cbdef6966",
+        "title": "OpenAI 发布奖励寻求行为新研究",
+        "url": "https://x.com/OpenAI/status/2079628886950994005",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     }
