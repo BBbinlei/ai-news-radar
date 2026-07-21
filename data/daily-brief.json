@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:06:18.089871Z",
+  "generated_at": "2026-07-21T14:31:14.810938Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9143,
+        "recency": 0.883,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7478,
+        "recency": 0.7222,
         "story_heat": 0.25
       },
       "category": "official",
@@ -277,15 +277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.8842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,68 +302,6 @@
         "url": "https://qwen.ai/blog?id=qwen-image-3.0",
         "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f07ea0986edc",
-      "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "primary_url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-          "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
-          "url": "https://huggingface.co/blog/grabette",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-          "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
-          "url": "https://huggingface.co/blog/grabette",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8396,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T00:00:00Z",
-      "latest_at": "2026-07-21T00:00:00Z",
-      "primary_item": {
-        "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-        "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
-        "url": "https://huggingface.co/blog/grabette",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -401,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7481,
+        "recency": 0.7224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,6 +364,149 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f07ea0986edc",
+      "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "primary_url": "https://huggingface.co/blog/grabette",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
+          "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
+          "url": "https://huggingface.co/blog/grabette",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
+          "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
+          "url": "https://huggingface.co/blog/grabette",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8108,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T00:00:00Z",
+      "latest_at": "2026-07-21T00:00:00Z",
+      "primary_item": {
+        "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
+        "title": "Grabette：记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
+        "url": "https://huggingface.co/blog/grabette",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_72097f626dd8",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+      "primary_url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e91adf7d7bb5e2be8570ba214fc4c424055214a",
+          "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+          "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T12:54:02Z"
+        },
+        {
+          "id": "941ce0d0c63c8e26d932e94845fd601cadb561ee",
+          "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80% / A Fireside Chat with Cat and Thariq from the Claude Code team",
+          "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-21T12:54:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "9e91adf7d7bb5e2be8570ba214fc4c424055214a",
+          "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+          "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T12:54:02Z"
+        },
+        {
+          "id": "941ce0d0c63c8e26d932e94845fd601cadb561ee",
+          "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80% / A Fireside Chat with Cat and Thariq from the Claude Code team",
+          "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-21T12:54:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9769,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T12:54:02Z",
+      "latest_at": "2026-07-21T12:54:02Z",
+      "primary_item": {
+        "id": "9e91adf7d7bb5e2be8570ba214fc4c424055214a",
+        "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -463,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,12 +678,12 @@
           "published_at": "2026-07-20T18:28:23.600000Z"
         },
         {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
           "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-20T16:36:36Z"
         },
         {
@@ -618,6 +699,7 @@
       "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "unslop.run"
       ],
@@ -641,12 +723,12 @@
           "published_at": "2026-07-20T18:28:23.600000Z"
         },
         {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
           "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-20T16:36:36Z"
         },
         {
@@ -661,15 +743,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7486,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -723,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7744,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8342,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -885,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7649,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -966,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,68 +1073,6 @@
         "url": "https://www.aibase.com/news/29739",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7165,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
-      "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1128,15 +1148,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.8178,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1152,146 +1172,6 @@
         "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
         "url": "https://cursor.com/blog/agent-swarm-model-economics",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d41379acd239",
-      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-      "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-      "primary_url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8838,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T03:33:08Z",
-      "latest_at": "2026-07-21T03:33:08Z",
-      "primary_item": {
-        "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
-        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-        "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4ff01821c40",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
-      "primary_item": {
-        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1330,15 +1210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,15 +1271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,15 +1459,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6685,
-      "importance": 0.6685,
-      "importance_score": 0.6685,
+      "score": 0.6639,
+      "importance": 0.6639,
+      "importance_score": 0.6639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.7419,
+        "recency": 0.7164,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1605,83 +1485,186 @@
       }
     },
     {
-      "story_id": "story_157f79bd67e3",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_f21e1902b7f0",
+      "title": "​YouTube 收紧政策，严打低质 AI 内容",
+      "url": "https://www.aibase.com/news/29757",
+      "primary_url": "https://www.aibase.com/news/29757",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T12:21:09.021000Z"
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T12:21:09.021000Z"
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7096,
-        "story_heat": 0.25
+        "recency": 0.9406,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T12:21:09.021000Z",
-      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "earliest_at": "2026-07-21T10:16:49.203243Z",
+      "latest_at": "2026-07-21T10:16:49.203243Z",
       "primary_item": {
-        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-        "url": "https://github.com/Saivineeth147/lora-speedrun",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+        "title": "​YouTube 收紧政策，严打低质 AI 内容",
+        "url": "https://www.aibase.com/news/29757",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b9222b9b54ba",
+      "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
+      "url": "https://www.aibase.com/news/29765",
+      "primary_url": "https://www.aibase.com/news/29765",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
+          "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
+          "url": "https://www.aibase.com/news/29765",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
+          "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
+          "url": "https://www.aibase.com/news/29765",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9406,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T10:16:49.203243Z",
+      "latest_at": "2026-07-21T10:16:49.203243Z",
+      "primary_item": {
+        "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
+        "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
+        "url": "https://www.aibase.com/news/29765",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cd2b0c797786",
+      "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
+      "url": "https://www.aibase.com/news/29767",
+      "primary_url": "https://www.aibase.com/news/29767",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
+          "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
+          "url": "https://www.aibase.com/news/29767",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
+          "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
+          "url": "https://www.aibase.com/news/29767",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T10:16:49.203243Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9406,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T10:16:49.203243Z",
+      "latest_at": "2026-07-21T10:16:49.203243Z",
+      "primary_item": {
+        "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
+        "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
+        "url": "https://www.aibase.com/news/29767",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
