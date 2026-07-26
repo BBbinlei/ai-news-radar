@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:35:42.780076Z",
+  "generated_at": "2026-07-26T14:24:25.760785Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8594,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,87 @@
         "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
         "url": "https://github.com/slvDev/esp32-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f8f08a1eac71",
+      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+      "url": "https://www.ithome.com/0/981/797.htm",
+      "primary_url": "https://www.ithome.com/0/981/797.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T12:54:28Z"
+        },
+        {
+          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
+          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T12:54:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T12:54:28Z"
+        },
+        {
+          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
+          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T12:54:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9786,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T12:54:28Z",
+      "latest_at": "2026-07-26T12:54:28Z",
+      "primary_item": {
+        "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "url": "https://www.ithome.com/0/981/797.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.8801,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -341,87 +422,6 @@
         "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
         "url": "https://x.com/elonmusk/status/2081174079969632347",
         "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5baddcdfddd2",
-      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "primary_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T13:45:50Z"
-        },
-        {
-          "id": "f8d3f272c889e78bd20b2d681cba5a9082802c17",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T13:45:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T13:45:50Z"
-        },
-        {
-          "id": "f8d3f272c889e78bd20b2d681cba5a9082802c17",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T13:45:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7191,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-25T13:45:50Z",
-      "latest_at": "2026-07-25T13:45:50Z",
-      "primary_item": {
-        "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -514,15 +514,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6061,
-      "importance": 0.6061,
-      "importance_score": 0.6061,
+      "score": 0.6024,
+      "importance": 0.6024,
+      "importance_score": 0.6024,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7883,
+        "recency": 0.7679,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -629,15 +629,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5746,
-      "importance": 0.5746,
-      "importance_score": 0.5746,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8822,
+        "recency": 0.8594,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -727,15 +727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
+      "score": 0.5547,
+      "importance": 0.5547,
+      "importance_score": 0.5547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.9105,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -825,15 +825,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8822,
+        "recency": 0.8594,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -847,6 +847,85 @@
         "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
         "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_87c41df62615",
+      "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
+      "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+      "primary_url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
+          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
+          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T13:30:56.504000Z"
+        },
+        {
+          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
+          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
+          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T09:34:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
+          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
+          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T13:30:56.504000Z"
+        },
+        {
+          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
+          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
+          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T09:34:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9872,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T09:34:01Z",
+      "latest_at": "2026-07-26T13:30:56.504000Z",
+      "primary_item": {
+        "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
+        "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
+        "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -904,15 +983,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9975,
+        "recency": 0.9718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -983,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9788,
+        "recency": 0.9536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,85 +1084,6 @@
         "title": "就业形势如何？区分人工智能的炒作与现实",
         "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
         "source": "siepr.stanford.edu",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79cae2a287d1",
-      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9676,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:03:01Z",
-      "latest_at": "2026-07-26T10:18:47.689000Z",
-      "primary_item": {
-        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1160,15 +1160,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.805,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1239,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,15 +1337,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.768,
+        "recency": 0.7482,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,15 +1415,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1494,15 +1494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.847,
+        "recency": 0.8251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,6 +1517,85 @@
         "url": "https://www.huxiu.com/article/4878184.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_79cae2a287d1",
+      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T10:18:47.689000Z"
+        },
+        {
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T10:18:47.689000Z"
+        },
+        {
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9426,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T10:03:01Z",
+      "latest_at": "2026-07-26T10:18:47.689000Z",
+      "primary_item": {
+        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1537,18 +1616,18 @@
           "published_at": "2026-07-25T19:55:34.429000Z"
         },
         {
-          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
           "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
           "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:39:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "claude.ai"
       ],
       "items": [
@@ -1562,26 +1641,26 @@
           "published_at": "2026-07-25T19:55:34.429000Z"
         },
         {
-          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
           "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
           "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:39:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7861,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1595,85 +1674,6 @@
         "title": "Show HN: 《扫雷》光线投射版",
         "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
         "source": "claude.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a3b5dcaa1793",
-      "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-      "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9419,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T08:11:01Z",
-      "latest_at": "2026-07-26T08:26:52.518000Z",
-      "primary_item": {
-        "id": "32983f03804d9d312c734f42395e4adf75445c37",
-        "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-        "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1731,15 +1731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7419,
+        "recency": 0.7227,
         "story_heat": 0.25
       },
       "category": "watch",
