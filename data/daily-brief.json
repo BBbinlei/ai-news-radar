@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:11:07.366990Z",
+  "generated_at": "2026-07-30T21:39:05.877173Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9104,
-      "importance": 0.9104,
-      "importance_score": 0.9104,
+      "score": 0.9071,
+      "importance": 0.9071,
+      "importance_score": 0.9071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8632,
+        "recency": 0.8451,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8761,
-      "importance": 0.8761,
-      "importance_score": 0.8761,
+      "score": 0.8726,
+      "importance": 0.8726,
+      "importance_score": 0.8726,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9281,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8702,
-      "importance": 0.8702,
-      "importance_score": 0.8702,
+      "score": 0.8665,
+      "importance": 0.8665,
+      "importance_score": 0.8665,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9621,
+        "recency": 0.9419,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9446,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9299,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,6 +428,230 @@
         "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7315,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T00:00:00Z",
+      "latest_at": "2026-07-30T00:00:00Z",
+      "primary_item": {
+        "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+        "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2875a4400bb8",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:26:38Z",
+      "latest_at": "2026-07-30T20:26:38Z",
+      "primary_item": {
+        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_570402ed1c5f",
+      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9658,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T19:14:22Z",
+      "latest_at": "2026-07-30T19:14:22Z",
+      "primary_item": {
+        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -466,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9283,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,68 +713,6 @@
         "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
         "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
         "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_af33f72d4acf",
-      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9642,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:39:46Z",
-      "latest_at": "2026-07-30T17:39:46Z",
-      "primary_item": {
-        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -609,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9089,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -690,15 +852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8353,
+        "recency": 0.8178,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -852,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8629,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,6 +1039,67 @@
         "url": "https://www.aibase.com/news/30013",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_afc6fe5a6238",
+      "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+      "url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "primary_url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:15:28Z",
+      "latest_at": "2026-07-30T20:15:28Z",
+      "primary_item": {
+        "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+        "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+        "url": "https://x.com/GeminiApp/status/2082923048362299629",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -914,15 +1137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -975,15 +1198,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,22 +1278,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.7262,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T23:29:34Z",
       "latest_at": "2026-07-29T23:29:34Z",
@@ -1080,6 +1302,68 @@
         "url": "https://www.ithome.com/0/983/374.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_af33f72d4acf",
+      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:39:46Z",
+      "latest_at": "2026-07-30T17:39:46Z",
+      "primary_item": {
+        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1117,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,68 +1424,6 @@
         "url": "https://x.com/AravSrinivas/status/2082872551538380939",
         "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9cb4cbdb834e",
-      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9267,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T14:54:47Z",
-      "latest_at": "2026-07-30T14:54:47Z",
-      "primary_item": {
-        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1239,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,207 +1483,6 @@
         "title": "腾讯混元Hyra破解50年数学难题",
         "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
         "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f94517e704d2",
-      "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-      "url": "https://www.aibase.com/news/30009",
-      "primary_url": "https://www.aibase.com/news/30009",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T07:28:42.927366Z"
-        },
-        {
-          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
-          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/zh/news/30009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T07:28:42.927366Z"
-        },
-        {
-          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
-          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/zh/news/30009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8324,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T07:28:42.927366Z",
-      "latest_at": "2026-07-30T09:58:40.429440Z",
-      "primary_item": {
-        "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-        "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-        "url": "https://www.aibase.com/news/30009",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9c352ca7201e",
-      "title": "Replit Design 发布：AI 赋能设计愿景",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "primary_url": "https://x.com/Replit/status/2082568269119062019",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T20:45:42Z",
-      "latest_at": "2026-07-29T20:45:42Z",
-      "primary_item": {
-        "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-        "title": "Replit Design 发布：AI 赋能设计愿景",
-        "url": "https://x.com/Replit/status/2082568269119062019",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_071f7e647b41",
-      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9392,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T15:50:35.428000Z",
-      "latest_at": "2026-07-30T15:50:35.428000Z",
-      "primary_item": {
-        "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-        "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-        "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     }
