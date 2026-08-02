@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:35:04.627529Z",
+  "generated_at": "2026-08-02T16:49:45.844313Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -188,13 +188,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+      "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-01",
+      "source": "社区更新 · 2026-08-02",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+          "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
+          "id": "cc419cc91b2ee4849448a4918d30a682c93d5e00",
+          "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
+          "id": "56642e3a381f2e92a105fec8510054c4aa23e6da",
+          "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
           "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
           "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -220,32 +247,42 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-01T16:51:25.787329Z"
-        },
-        {
-          "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
-          "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T15:53:56.449320Z"
-        },
-        {
-          "id": "4a5eb18c0f953f38d547226fa91d38a5829ecfcb",
-          "title": "阿K烧了5w积分，用30+案例全面测试了MiniMax H3，覆盖商用级多场景、多模态参考、原生音画生成、精准编辑、复杂复合内容生成等等。结果发现H3在UI 动效、产品广告、片头字体、拼贴动画、短剧上表现比较突出。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T15:53:56.449320Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-08-01"
+        "社区更新 · 2026-08-01",
+        "社区更新 · 2026-08-02"
       ],
       "items": [
         {
+          "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+          "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
+          "id": "cc419cc91b2ee4849448a4918d30a682c93d5e00",
+          "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
+          "id": "56642e3a381f2e92a105fec8510054c4aa23e6da",
+          "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:49:45.844313Z"
+        },
+        {
           "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
           "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -271,50 +308,32 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-01T16:51:25.787329Z"
-        },
-        {
-          "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
-          "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T15:53:56.449320Z"
-        },
-        {
-          "id": "4a5eb18c0f953f38d547226fa91d38a5829ecfcb",
-          "title": "阿K烧了5w积分，用30+案例全面测试了MiniMax H3，覆盖商用级多场景、多模态参考、原生音画生成、精准编辑、复杂复合内容生成等等。结果发现H3在UI 动效、产品广告、片头字体、拼贴动画、短剧上表现比较突出。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T15:53:56.449320Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.625,
-      "importance": 0.625,
-      "importance_score": 0.625,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6817,
+      "importance": 0.6817,
+      "importance_score": 0.6817,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4752,
+        "editorial": 0.4896,
         "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7312,
+        "ai_relevance": 0.68,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T15:53:56.449320Z",
-      "latest_at": "2026-08-01T17:54:10.237311Z",
+      "earliest_at": "2026-08-01T16:51:25.787329Z",
+      "latest_at": "2026-08-02T16:49:45.844313Z",
       "primary_item": {
-        "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
-        "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+        "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+        "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-01",
+        "source": "社区更新 · 2026-08-02",
         "source_name": "WaytoAGI"
       }
     },
@@ -372,15 +391,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8494,
+        "recency": 0.8343,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -488,15 +507,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8064,
+        "recency": 0.7921,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -514,54 +533,55 @@
       }
     },
     {
-      "story_id": "story_65ef8d2bbdc6",
-      "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-      "url": "https://hub.baai.ac.cn/view/56822",
-      "primary_url": "https://hub.baai.ac.cn/view/56822",
+      "story_id": "story_5a3c7608e5bd",
+      "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+      "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4880099.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
+          "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+          "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7ba7b252657370e380709b2095f58c1f3c886e7",
+          "title": "AI不会成为世界的主人，但AI公司可能会。",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:00:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
+          "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+          "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7ba7b252657370e380709b2095f58c1f3c886e7",
+          "title": "AI不会成为世界的主人，但AI公司可能会。",
+          "url": "https://www.huxiu.com/article/4880099.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:00:22Z"
         }
       ],
       "item_count": 2,
@@ -581,12 +601,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T11:11:21.818288Z",
-      "latest_at": "2026-08-02T15:35:04.627529Z",
+      "earliest_at": "2026-08-02T16:00:22Z",
+      "latest_at": "2026-08-02T16:49:45.844313Z",
       "primary_item": {
-        "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-        "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-        "url": "https://hub.baai.ac.cn/view/56822",
+        "id": "ca097917620308fa4cedc97f93c203ce311b5ebd",
+        "title": "AI 不会成为世界的主人，但 AI 公司可能会",
+        "url": "https://www.huxiu.com/article/4880099.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -664,15 +684,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8505,
+        "recency": 0.8354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -687,6 +707,84 @@
         "url": "https://news.ycombinator.com/item?id=49140340",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0405ae091a4a",
+      "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9719,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T14:51:18Z",
+      "latest_at": "2026-08-02T14:51:18Z",
+      "primary_item": {
+        "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+        "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -743,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9851,
+        "recency": 0.9676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,15 +920,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9385,
+        "recency": 0.9218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -901,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9334,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -980,15 +1078,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.888,
+        "recency": 0.8721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,6 +1101,85 @@
         "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "source": "www.wafer.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_09e43c4dbf4f",
+      "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+      "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4880101.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
+          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:04:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
+          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T16:04:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T16:04:41Z",
+      "latest_at": "2026-08-02T16:49:45.844313Z",
+      "primary_item": {
+        "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
+        "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
+        "url": "https://www.huxiu.com/article/4880101.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1076,15 +1253,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8505,
+        "recency": 0.8354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1155,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7671,
+        "recency": 0.7534,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1178,84 +1355,6 @@
         "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
         "source": "www.bfswa.blog",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a408ae343b81",
-      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.75,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:39:43Z",
-      "latest_at": "2026-08-01T19:39:43Z",
-      "primary_item": {
-        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1312,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9016,
+        "recency": 0.8855,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1338,80 +1437,79 @@
       }
     },
     {
-      "story_id": "story_099ccf3a13ec",
-      "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-      "url": "https://news.qq.com/rain/a/20260802A07RV800",
-      "primary_url": "https://news.qq.com/rain/a/20260802A07RV800",
+      "story_id": "story_65ef8d2bbdc6",
+      "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+      "url": "https://hub.baai.ac.cn/view/56822",
+      "primary_url": "https://hub.baai.ac.cn/view/56822",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-          "url": "https://news.qq.com/rain/a/20260802A07RV800",
+          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
-          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
-          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T05:07:32Z"
+          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
+          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-          "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-          "url": "https://news.qq.com/rain/a/20260802A07RV800",
+          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e5eabaf8fccf9a37472fc8330ceeaeb2714e432c",
-          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
-          "url": "https://www.huxiu.com/article/4880039.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T05:07:32Z"
+          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
+          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
+          "url": "https://hub.baai.ac.cn/view/56822",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8893,
+        "recency": 0.9822,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T05:07:32Z",
-      "latest_at": "2026-08-02T07:27:28.114395Z",
+      "earliest_at": "2026-08-02T11:11:21.818288Z",
+      "latest_at": "2026-08-02T15:35:04.627529Z",
       "primary_item": {
-        "id": "bbaa0fc68a3a20473cf5c1290e76fd3c26728363",
-        "title": "从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步",
-        "url": "https://news.qq.com/rain/a/20260802A07RV800",
+        "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
+        "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
+        "url": "https://hub.baai.ac.cn/view/56822",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1470,15 +1568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9573,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,30 +1594,30 @@
       }
     },
     {
-      "story_id": "story_bc4ec80770d1",
-      "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "primary_url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "story_id": "story_a408ae343b81",
+      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
+          "published_at": "2026-08-01T19:39:43Z"
         },
         {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
+          "published_at": "2026-08-01T19:39:43Z"
         }
       ],
       "source_count": 2,
@@ -1528,128 +1626,49 @@
       ],
       "items": [
         {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
+          "published_at": "2026-08-01T19:39:43Z"
         },
         {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
+          "published_at": "2026-08-01T19:39:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7316,
+        "recency": 0.7366,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T17:56:41Z",
-      "latest_at": "2026-08-01T17:56:41Z",
+      "earliest_at": "2026-08-01T19:39:43Z",
+      "latest_at": "2026-08-01T19:39:43Z",
       "primary_item": {
-        "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-        "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_2df07cd64bff",
-      "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-      "url": "https://www.ithome.com/0/984/712.htm",
-      "primary_url": "https://www.ithome.com/0/984/712.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8559,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T04:07:32Z",
-      "latest_at": "2026-08-02T04:48:43.913039Z",
-      "primary_item": {
-        "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-        "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-        "url": "https://www.ithome.com/0/984/712.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
