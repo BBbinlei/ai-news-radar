@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:54:28.563920Z",
+  "generated_at": "2026-08-03T14:18:36.283699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -92,18 +92,18 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -127,26 +127,26 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8667,
+        "recency": 0.8371,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -244,6 +244,67 @@
         "url": "https://www.aibase.com/news/30081",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fb1e9b75e4ab",
+      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+      "url": "https://blog.cloudflare.com/billable-usage-api",
+      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:00:00Z",
+      "primary_item": {
+        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+        "url": "https://blog.cloudflare.com/billable-usage-api",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,6 +386,67 @@
         "url": "https://www.aibase.com/news/30079",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1afd7fe290fc",
+      "title": "Kimi Work 幻灯片制作教程发布",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9653,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:51:51Z",
+      "latest_at": "2026-08-03T11:51:51Z",
+      "primary_item": {
+        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+        "title": "Kimi Work 幻灯片制作教程发布",
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -381,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7836,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,15 +582,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,6 +607,67 @@
         "url": "https://www.aibase.com/news/30077",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6522dfbb2ee3",
+      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+      "url": "https://blog.cloudflare.com/cloudflare-computer",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-computer",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T13:15:24Z",
+      "latest_at": "2026-08-03T13:15:24Z",
+      "primary_item": {
+        "id": "9874b290d806248194911e23c5f40476c3a608d3",
+        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+        "url": "https://blog.cloudflare.com/cloudflare-computer",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -541,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -566,6 +749,66 @@
         "url": "https://www.aibase.com/news/30072",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5c8c3f9f413d",
+      "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+      "url": "https://blog.cloudflare.com/grpc-workers",
+      "primary_url": "https://blog.cloudflare.com/grpc-workers",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:00:00Z",
+      "primary_item": {
+        "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+        "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+        "url": "https://blog.cloudflare.com/grpc-workers",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -694,15 +937,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6646,
-      "importance": 0.6646,
-      "importance_score": 0.6646,
+      "score": 0.6587,
+      "importance": 0.6587,
+      "importance_score": 0.6587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9511,
+        "recency": 0.9187,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -773,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -854,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -879,6 +1122,84 @@
         "url": "https://www.aibase.com/news/30066",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_92f8a546317f",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6071,
+      "importance": 0.6071,
+      "importance_score": 0.6071,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9536,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:01:11Z",
+      "latest_at": "2026-08-03T11:01:11Z",
+      "primary_item": {
+        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -935,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1007,19 +1328,19 @@
           "published_at": "2026-08-02T19:42:08Z"
         },
         {
-          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "id": "85c464d06f44c53ea531320315e322572052549d",
           "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "frogs.vaguespac.es",
         "hackernews"
       ],
@@ -1061,26 +1382,26 @@
           "published_at": "2026-08-02T19:42:08Z"
         },
         {
-          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "id": "85c464d06f44c53ea531320315e322572052549d",
           "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.603,
-      "importance": 0.603,
-      "importance_score": 0.603,
+      "score": 0.5975,
+      "importance": 0.5975,
+      "importance_score": 0.5975,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9012,
+        "recency": 0.8705,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1151,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8737,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1251,15 +1572,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5499,
+      "importance": 0.5499,
+      "importance_score": 0.5499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.8837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1330,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7527,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,457 +1674,6 @@
         "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
         "source": "The Verge AI",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_d1aa340a6435",
-      "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "primary_url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:27:52.873000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:27:52.873000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:27:52.873000Z",
-      "latest_at": "2026-08-03T11:54:28.563920Z",
-      "primary_item": {
-        "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-        "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-        "url": "https://github.com/Alishahryar1/free-claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_09e43c4dbf4f",
-      "title": "AI正导致一场知识的转基因危机，多数人将沦为认知“肉鸡”？",
-      "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "6be63d4e65ca0a753b56dbe8897f929838443825",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知“肉鸡”？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T23:20:01Z"
-        },
-        {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "6be63d4e65ca0a753b56dbe8897f929838443825",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知“肉鸡”？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T23:20:01Z"
-        },
-        {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.834,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T16:04:41Z",
-      "latest_at": "2026-08-02T23:20:01Z",
-      "primary_item": {
-        "id": "6be63d4e65ca0a753b56dbe8897f929838443825",
-        "title": "AI正导致一场知识的转基因危机，多数人将沦为认知“肉鸡”？",
-        "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5cc7a8dbf672",
-      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://news.ycombinator.com/item?id=49154127",
-      "primary_url": "https://news.ycombinator.com/item?id=49154127",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:43:25.310000Z"
-        },
-        {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "e26c1761cb03d39dc2334236ed6d930297f5cfc9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:43:25.310000Z"
-        },
-        {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "e26c1761cb03d39dc2334236ed6d930297f5cfc9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9973,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:06:15Z",
-      "latest_at": "2026-08-03T11:43:25.310000Z",
-      "primary_item": {
-        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "url": "https://news.ycombinator.com/item?id=49154127",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cfdd2789b4ea",
-      "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "primary_url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "source": "www.euronews.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "www.euronews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T22:48:54.109000Z"
-        },
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.euronews.com"
-      ],
-      "items": [
-        {
-          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "www.euronews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T22:48:54.109000Z"
-        },
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8277,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:40:19Z",
-      "latest_at": "2026-08-02T22:48:54.109000Z",
-      "primary_item": {
-        "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-        "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "source": "www.euronews.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_883225bae80f",
-      "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-      "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "primary_url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9618,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:00:02Z",
-      "latest_at": "2026-08-03T09:12:43.310000Z",
-      "primary_item": {
-        "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-        "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-        "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
