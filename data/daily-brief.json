@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-04T06:20:08.905987Z",
+  "generated_at": "2026-08-04T09:17:52.270799Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2163b413300d",
+      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8495,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:00:00Z",
+      "latest_at": "2026-08-04T07:20:54.985000Z",
+      "primary_item": {
+        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_3949965c0b54",
       "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9055,
+        "recency": 0.8676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,65 +148,103 @@
       }
     },
     {
-      "story_id": "story_c5ad624a6ffb",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cbde97d8260",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "公众号：数字生命卡兹克",
+        "公众号：腾讯混元",
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9126,
-        "story_heat": 0.0
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9309,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T08:12:36Z",
       "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -219,15 +339,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8179,
+        "recency": 0.7836,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -247,102 +367,21 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9716,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:06:00Z",
-      "latest_at": "2026-08-04T04:20:28Z",
-      "primary_item": {
-        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2163b413300d",
-      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "story_id": "story_c5ad624a6ffb",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -351,26 +390,26 @@
       ],
       "items": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8866,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -379,14 +418,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-03T22:00:00Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_468690ebbddb",
+      "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+      "url": "https://www.aibase.com/news/30108",
+      "primary_url": "https://www.aibase.com/news/30108",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T09:17:52.270799Z"
+        },
+        {
+          "id": "4bb7fa6146d31be883cf8b8302030a572f56182b",
+          "title": "腾讯混元发布 Hy ASR3.0preview: 语音识别迈入「懂语境」新阶段",
+          "url": "https://www.aibase.com/zh/news/30108",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T09:17:52.270799Z"
+        },
+        {
+          "id": "4bb7fa6146d31be883cf8b8302030a572f56182b",
+          "title": "腾讯混元发布 Hy ASR3.0preview: 语音识别迈入「懂语境」新阶段",
+          "url": "https://www.aibase.com/zh/news/30108",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T09:17:52.270799Z",
+      "latest_at": "2026-08-04T09:17:52.270799Z",
+      "primary_item": {
+        "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+        "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+        "url": "https://www.aibase.com/news/30108",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -424,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8985,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "official",
@@ -452,68 +572,129 @@
       }
     },
     {
-      "story_id": "story_3f407814a854",
-      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-      "url": "https://www.aibase.com/news/30091",
-      "primary_url": "https://www.aibase.com/news/30091",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_96066178f07d",
+      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+      "primary_url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T03:45:26.907812Z"
+          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9952,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T08:57:47Z",
+      "latest_at": "2026-08-04T08:57:47Z",
+      "primary_item": {
+        "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+        "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+        "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8e9b4ad079fc",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "primary_url": "https://github.com/leonickson1/Swiftlet",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         },
         {
-          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
-          "url": "https://www.aibase.com/zh/news/30091",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd94efb556ce551a00d9ca0e1c7d4b2f30fc8349",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版 / Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T16:54:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T03:45:26.907812Z"
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         },
         {
-          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
-          "url": "https://www.aibase.com/zh/news/30091",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd94efb556ce551a00d9ca0e1c7d4b2f30fc8349",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版 / Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T16:54:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9635,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,14 +703,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T03:45:26.907812Z",
-      "latest_at": "2026-08-04T03:45:26.907812Z",
+      "earliest_at": "2026-08-03T16:54:15Z",
+      "latest_at": "2026-08-04T06:32:44.149000Z",
       "primary_item": {
-        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-        "url": "https://www.aibase.com/news/30091",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f234c9d5df2e",
+      "title": "GPT-5.6 Luna降价80%永久生效",
+      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        },
+        {
+          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
+          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        },
+        {
+          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
+          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9415,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T05:07:32Z",
+      "latest_at": "2026-08-04T05:07:32Z",
+      "primary_item": {
+        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+        "title": "GPT-5.6 Luna降价80%永久生效",
+        "url": "https://x.com/thsottiaux/status/2084506501834829833",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -586,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8326,
+        "recency": 0.7977,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8521,
+        "recency": 0.8164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,26 +1019,26 @@
       }
     },
     {
-      "story_id": "story_b6f027be6c66",
-      "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-      "url": "https://www.aibase.com/news/30093",
-      "primary_url": "https://www.aibase.com/news/30093",
+      "story_id": "story_3f407814a854",
+      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+      "url": "https://www.aibase.com/news/30091",
+      "primary_url": "https://www.aibase.com/news/30091",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-          "url": "https://www.aibase.com/news/30093",
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
-          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
-          "url": "https://www.aibase.com/zh/news/30093",
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -790,18 +1052,18 @@
       ],
       "items": [
         {
-          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-          "url": "https://www.aibase.com/news/30093",
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
-          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
-          "url": "https://www.aibase.com/zh/news/30093",
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -810,15 +1072,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9635,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,11 +1092,91 @@
       "earliest_at": "2026-08-04T03:45:26.907812Z",
       "latest_at": "2026-08-04T03:45:26.907812Z",
       "primary_item": {
-        "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-        "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-        "url": "https://www.aibase.com/news/30093",
+        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+        "url": "https://www.aibase.com/news/30091",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a46f9f764e9f",
+      "title": "Claude Code 连接器可复用至 Artifacts",
+      "url": "https://x.com/trq212/status/2084387303959740449",
+      "primary_url": "https://x.com/trq212/status/2084387303959740449",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8401,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T21:13:53Z",
+      "latest_at": "2026-08-03T21:13:53Z",
+      "primary_item": {
+        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+        "title": "Claude Code 连接器可复用至 Artifacts",
+        "url": "https://x.com/trq212/status/2084387303959740449",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -891,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7785,
+        "recency": 0.7459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,125 +1260,64 @@
       }
     },
     {
-      "story_id": "story_f234c9d5df2e",
-      "title": "GPT-5.6 Luna降价80%永久生效",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "source": "X：Tibo (@thsottiaux)",
+      "story_id": "story_816cf70e8aa0",
+      "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+      "primary_url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效",
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "14623a3657214a0e035814d6230e1127908fe081",
+          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+          "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
+          "published_at": "2026-08-04T08:12:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效",
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "14623a3657214a0e035814d6230e1127908fe081",
+          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+          "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
+          "published_at": "2026-08-04T08:12:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.9844,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T05:07:32Z",
-      "latest_at": "2026-08-04T05:07:32Z",
-      "primary_item": {
-        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-        "title": "GPT-5.6 Luna降价80%永久生效",
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d04cc35bd3cc",
-      "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:00:00Z",
-      "latest_at": "2026-08-03T07:00:00Z",
+      "earliest_at": "2026-08-04T08:12:36Z",
+      "latest_at": "2026-08-04T08:12:36Z",
       "primary_item": {
-        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-        "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "14623a3657214a0e035814d6230e1127908fe081",
+        "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+        "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1074,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,26 +1381,26 @@
       }
     },
     {
-      "story_id": "story_df2d2241c86e",
-      "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-      "url": "https://www.aibase.com/news/30096",
-      "primary_url": "https://www.aibase.com/news/30096",
+      "story_id": "story_b6f027be6c66",
+      "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
+      "url": "https://www.aibase.com/news/30093",
+      "primary_url": "https://www.aibase.com/news/30093",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
+          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
+          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
+          "url": "https://www.aibase.com/news/30093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
+          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
+          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
+          "url": "https://www.aibase.com/zh/news/30093",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1133,18 +1414,18 @@
       ],
       "items": [
         {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
+          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
+          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
+          "url": "https://www.aibase.com/news/30093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
+          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
+          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
+          "url": "https://www.aibase.com/zh/news/30093",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1153,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9635,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1171,73 +1452,13 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-04T03:45:26.907812Z",
-      "latest_at": "2026-08-04T06:20:08.905987Z",
+      "latest_at": "2026-08-04T03:45:26.907812Z",
       "primary_item": {
-        "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-        "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-        "url": "https://www.aibase.com/news/30096",
+        "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
+        "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
+        "url": "https://www.aibase.com/news/30093",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a46f9f764e9f",
-      "title": "Claude Code 连接器可复用至 Artifacts",
-      "url": "https://x.com/trq212/status/2084387303959740449",
-      "primary_url": "https://x.com/trq212/status/2084387303959740449",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8768,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T21:13:53Z",
-      "latest_at": "2026-08-03T21:13:53Z",
-      "primary_item": {
-        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-        "title": "Claude Code 连接器可复用至 Artifacts",
-        "url": "https://x.com/trq212/status/2084387303959740449",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1275,15 +1496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8257,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1300,126 +1521,6 @@
         "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2ef22af5488a",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "primary_url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8639,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T20:12:03.229000Z",
-      "latest_at": "2026-08-03T20:12:03.229000Z",
-      "primary_item": {
-        "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8bd7492eeab5",
-      "title": "微软开源 Orchard 智能体训练框架",
-      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T19:43:28Z",
-      "latest_at": "2026-08-03T19:43:28Z",
-      "primary_item": {
-        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-        "title": "微软开源 Orchard 智能体训练框架",
-        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
       }
     }
   ]
