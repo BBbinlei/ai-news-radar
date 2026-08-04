@@ -1,39 +1,44 @@
 {
-  "generated_at": "2026-08-03T14:18:36.283699Z",
+  "generated_at": "2026-08-04T16:07:45.273319Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "url": "https://www.aibase.com/news/30081",
-          "summary": "商汤开源8B多模态模型，原生支持4K图像生成，编辑能力进化。"
+          "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
+          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+          "summary": "NVIDIA 发布面向自动驾驶的开源模型 Alpamayo 2 Super，开放商用，推动自动驾驶技术发展。"
         },
         {
-          "title": "中国MiniMax H3成为首款登上AI视频排行榜榜首的开放机型",
-          "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking",
-          "summary": "MiniMax H3开放权重模型登顶AI视频排行榜，支持原生音频和2K视频，ComfyUI已提供Day-0支持。"
+          "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
+          "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
+          "summary": "NVIDIA 开源 cuFile API，实现 GPU 直连存储，提升 AI 数据处理效率。"
         },
         {
-          "title": "阿里巴巴的开放权重 Qwen3.8-Max 承担具有 2.4 万亿参数的长视野 AI 任务",
-          "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters",
-          "summary": "阿里发布2.4万亿参数开放权重模型Qwen3.8-Max，挑战长视野AI任务，冲击美国AI霸主地位。"
+          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
+          "url": "https://x.com/AntLingAGI/status/2084656533489754475",
+          "summary": "蚂蚁百灵发布 Ling-3.0-flash 开源权重，为开发者提供更轻量级的大模型选择。"
         },
         {
-          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-          "url": "https://blog.cloudflare.com/cloudflare-computer",
-          "summary": "Cloudflare发布智能体虚拟文件系统与多执行环境，扩展AI代理能力。"
+          "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
+          "url": "https://blog.cloudflare.com/agents-on-cloudflare",
+          "summary": "Cloudflare 推出 Agents 平台，提供智能体追踪功能，助力开发者构建和调试 AI 代理。"
         },
         {
-          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "url": "https://www.aibase.com/news/30082",
-          "summary": "腾讯CodeBuddy集成DeepSeek-V4-Flash，增强Agent能力。"
+          "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
+          "url": "https://blog.cloudflare.com/agent-development-lifecycle",
+          "summary": "Cloudflare 推出 Agent Development Lifecycle，推动智能体在软件开发全流程中的应用。"
         },
         {
-          "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-          "url": "https://www.qbitai.com/2026/08/465673.html",
-          "summary": "国产开源生图模型支持4K直出，引发关注。"
+          "title": "IntelliJ IDEA 支持 LSP：Java 和 Kotlin 智能功能现已登陆 VS Code、Cursor 和 Agentic Flows",
+          "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp",
+          "summary": "JetBrains 为 IntelliJ IDEA 添加 LSP 支持，使 Java 和 Kotlin 智能功能扩展到 VS Code 等编辑器。"
+        },
+        {
+          "title": "使用 LFM2.5-2.6B 随处部署本地代理",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "summary": "Liquid AI 发布 LFM2.5-2.6B 模型，支持在本地部署 AI 代理，降低推理成本。"
         }
       ]
     },
@@ -41,34 +46,34 @@
       "label": "金融",
       "items": [
         {
-          "title": "Zenity 开发了一个用于保护 AI 代理的平台，筹集了由 Norwest Venture Partners 领投的 1.25 亿美元 C 轮融资",
-          "url": "https://www.techmeme.com/260803/p21",
-          "summary": "AI代理安全平台Zenity完成1.25亿美元C轮融资，总融资约1.85亿美元。"
+          "title": "Anthropic 锁定了 Volta 价值 100 亿美元的计算资源，Volta 是一家六个月前还不存在的云初创公司",
+          "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago",
+          "summary": "Anthropic 与成立仅六个月的云初创公司 Volta 签署 100 亿美元算力协议，凸显 AI 算力需求激增。"
         },
         {
-          "title": "Horizon3 的 AI 渗透测试平台 NodeZero 以 20 亿美元的估值筹集了 2.5 亿美元的 E 轮融资",
-          "url": "https://www.techmeme.com/260803/p19",
-          "summary": "AI渗透测试公司Horizon3获2.5亿美元E轮融资，估值达20亿美元。"
+          "title": "Convex 为开发人员提供人工智能优化的应用程序后端，筹集了由 Insight Partners 领投的 5700 万美元 B 轮融资",
+          "url": "https://www.techmeme.com/260804/p23",
+          "summary": "AI 后端服务商 Convex 完成 5700 万美元 B 轮融资，总融资达 1.105 亿美元。"
         },
         {
-          "title": "总部位于伦敦的人工智能芯片初创公司 Olix 筹集了 3.12 亿美元，估值达 3.3B 美元",
-          "url": "https://www.techmeme.com/260803/p9",
-          "summary": "AI芯片初创Olix融资3.12亿美元，估值升至33亿美元，Arm参投。"
+          "title": "前 Nubank 团队为人工智能财富顾问 Decade 筹集了 8500 万美元，承诺“一代百万富翁”",
+          "url": "https://thenextweb.com/news/decade-85m-seed-ai-wealth-brazil-nubank",
+          "summary": "前 Nubank 团队为 AI 财富顾问 Decade 筹集 8500 万美元种子资金，主打普惠财富管理。"
         },
         {
-          "title": "Visa 计划以 2.4 亿美元现金收购以色列公司 BioCatch",
-          "url": "https://www.techmeme.com/260803/p20",
-          "summary": "Visa拟24亿美元收购AI欺诈检测公司BioCatch。"
+          "title": "HappyRobot 使用人工智能实现货运运营商通信自动化，以 1.2B 美元的估值筹集了 1.5 亿美元的 C 轮融资",
+          "url": "https://www.techmeme.com/260804/p20",
+          "summary": "AI 货运通信公司 HappyRobot 完成 1.5 亿美元 C 轮融资，估值达 12 亿美元。"
         },
         {
-          "title": "June 旨在通过寻找瓶颈和构建代理来帮助企业人工智能部署，由马克·贝尼奥夫领投 2000 万美元",
-          "url": "https://www.techmeme.com/260803/p17",
-          "summary": "企业AI部署初创June获2000万美元融资，由Marc Benioff的Time Ventures领投。"
+          "title": "Obsidian Security 帮助公司确保 AI 代理的安全，以 1.1B 美元的估值筹集了 8500 万美元的 D 轮融资",
+          "url": "https://www.techmeme.com/260804/p21",
+          "summary": "AI 安全公司 Obsidian Security 完成 8500 万美元 D 轮融资，估值达 11 亿美元。"
         },
         {
-          "title": "消息来源：韩国 AI 芯片设计公司 DeepX 以约 2.2B 估值筹集了约 2900 万美元的 D 轮融资",
-          "url": "https://www.techmeme.com/260803/p14",
-          "summary": "韩国AI芯片公司DeepX完成D轮融资，估值约22亿美元，并洽谈更高估值融资。"
+          "title": "Nvidia 和戴尔以 24 亿美元的估值支持人工智能云初创公司 Volta",
+          "url": "https://thenextweb.com/news/volta-ai-cloud-300m-nvidia-dell-2-4bn",
+          "summary": "Nvidia 和戴尔投资 AI 云初创公司 Volta，估值达 24 亿美元，显示 AI 基础设施投资热度。"
         }
       ]
     },
@@ -76,29 +81,24 @@
       "label": "学术",
       "items": [
         {
-          "title": "80 亿参数记性不如 U 盘：他算出了大模型记忆天花板",
-          "url": "https://hub.baai.ac.cn/view/56847",
-          "summary": "研究揭示80亿参数大模型的记忆上限，引发对模型容量与记忆关系的讨论。"
+          "title": "超越 VLA：世界动作模型如何重塑机器人操控",
+          "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
+          "summary": "NVIDIA 博客探讨世界动作模型在机器人操控中的应用，超越传统 VLA 方法。"
         },
         {
-          "title": "MIRACLE 实现单细胞多模态数据的持续整合",
-          "url": "https://hub.baai.ac.cn/view/56843",
-          "summary": "新方法MIRACLE实现单细胞多模态数据持续整合，推动生物信息学进展。"
+          "title": "最新研究为管理者提供了一个框架，帮助他们理解在人工智能生态系统中谁能胜出以及原因何在",
+          "url": "https://phys.org/news/2026-08-framework-ai-ecosystems.html",
+          "summary": "新研究提出框架，帮助管理者理解 AI 生态系统中的竞争格局和胜出因素。"
         },
         {
-          "title": "超过 1B 参数都是浪费？多模态情感模型进入「小」时代 | ACM MM'26",
-          "url": "https://hub.baai.ac.cn/view/56846",
-          "summary": "ACM MM'26论文表明多模态情感模型参数超10亿可能浪费，小模型更高效。"
+          "title": "计算机选集：不断发展的人工智能代理基准系列",
+          "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+          "summary": "Computer Anthology 推出持续演进的 AI 代理基准系列，用于评估代理性能。"
         },
         {
-          "title": "港科大（广州）开源首个无需训练的开放词汇 3D 占据地图构建系统 FreeOcc",
-          "url": "https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html",
-          "summary": "港科大开源FreeOcc，无需训练即可构建开放词汇3D占据地图。"
-        },
-        {
-          "title": "两个团队仅相隔三个小时就使用 GPT-5.6 解决了相同的量子加密问题",
-          "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
-          "summary": "两个团队用GPT-5.6在3小时内独立解决同一量子加密问题，展示LLM科研潜力。"
+          "title": "Homebench – 对本地法学硕士的速度、内存和质量进行基准测试",
+          "url": "https://news.ycombinator.com/item?id=49166308",
+          "summary": "Homebench 项目提供本地 LLM 基准测试工具，评估速度、内存和质量。"
         }
       ]
     },
@@ -106,34 +106,34 @@
       "label": "八卦",
       "items": [
         {
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "url": "https://www.aibase.com/news/30077",
-          "summary": "月之暗面否认本月提交香港IPO申请，辟谣上市传闻。"
+          "title": "苹果公司请求法官禁止OpenAI使用涉嫌的商业秘密",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-asks-judge-to-bar-openai-from-using-alleged-trade-secrets",
+          "summary": "苹果在商业秘密诉讼中申请初步禁令，禁止 OpenAI 使用涉嫌窃取的机密数据。"
         },
         {
-          "title": "资料来源：Dario Amodei 对员工来到 Anthropic 是为了钱而不是使命表示担忧",
-          "url": "https://www.techmeme.com/260803/p15",
-          "summary": "Anthropic CEO担忧员工因金钱而非使命加入，反映AI人才争夺战激烈。"
+          "title": "OpenAI称苹果的商业秘密诉讼“咄咄逼人且莫名带有个人色彩”",
+          "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
+          "summary": "OpenAI 公开反击苹果的诉讼，称其“咄咄逼人且莫名带有个人色彩”。"
         },
         {
-          "title": "YouTuber Hank Green 在使用 ChatGPT 帮助研究脚本后遭批评，称 LLM 使用“不健康”",
-          "url": "https://www.techmeme.com/260803/p10",
-          "summary": "知名YouTuber因用ChatGPT研究脚本遭批评，引发对AI使用伦理的讨论。"
+          "title": "在“失控的人工智能代理”事件引发的余波中，Meta、Anthropic、谷歌和OpenAI将与特朗普的顾问们会面",
+          "url": "https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04",
+          "summary": "AI 巨头将与白宫会面，讨论“失控 AI 代理”事件后的监管问题。"
         },
         {
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "url": "https://www.aibase.com/news/30079",
-          "summary": "德国法院裁定Suno侵犯版权，驳回合理使用抗辩，对AI音乐生成行业影响深远。"
+          "title": "OpenAI 让有影响力的人士前往自然度假胜地来修复其形象。互联网称之为“绿色清洗”。",
+          "url": "https://thenextweb.com/news/openai-summer-camp-influencer-retreat-greenwashing-backlash",
+          "summary": "OpenAI 邀请网红参加自然度假村活动以改善形象，被网友批评为“绿色清洗”。"
         },
         {
-          "title": "小米通报：两网友使用 AI 生成虚假车祸视频，已被行政拘留 7 日、行政罚款",
-          "url": "https://www.ithome.com/0/985/202.htm",
-          "summary": "两网友用AI生成虚假车祸视频被行政拘留，凸显AI滥用法律风险。"
+          "title": "苹果表示，可能还有更多前员工将机密数据带到了OpenAI",
+          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+          "summary": "苹果称更多前员工可能将机密数据带到 OpenAI，扩大诉讼范围。"
         },
         {
-          "title": "SE 称《王国之心合集》游戏宣传图并非 AI 生成，纯属人为失误",
-          "url": "https://www.ithome.com/0/985/205.htm",
-          "summary": "Square Enix澄清《王国之心》宣传图非AI生成，否认AI使用争议。"
+          "title": "埃隆·马斯克 (Elon Musk) 在特斯拉财报电话会议上花了一半时间谈论机器人和人工智能",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls",
+          "summary": "马斯克在特斯拉财报电话会议上大谈机器人和 AI，引发投资者关注。"
         }
       ]
     }
