@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:53:38.666566Z",
+  "generated_at": "2026-08-04T00:00:25.618808Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -46,7 +46,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
         "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_36483847691e",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:55:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:55:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9845,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
+      "primary_item": {
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -157,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9106,
+        "recency": 0.8961,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -182,68 +244,6 @@
         "url": "https://github.com/lyogavin/airllm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61a162b6e7ab",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9194,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
-      "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -319,15 +319,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7395,
+        "recency": 0.7278,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -347,21 +347,21 @@
       }
     },
     {
-      "story_id": "story_545d6c402c71",
-      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "story_id": "story_61a162b6e7ab",
+      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "source_count": 1,
@@ -370,26 +370,26 @@
       ],
       "items": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9125,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,14 +398,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
       "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0f03d6926d63",
+      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "primary_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T23:19:50Z"
+        },
+        {
+          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T23:19:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T23:19:50Z"
+        },
+        {
+          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T23:19:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9903,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T23:19:50Z",
+      "latest_at": "2026-08-03T23:19:50Z",
+      "primary_item": {
+        "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -443,15 +524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7949,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.927,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -549,6 +630,68 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_545d6c402c71",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.898,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -605,15 +748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8397,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -686,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8669,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -710,6 +853,66 @@
         "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
         "url": "https://blog.cloudflare.com/billable-usage-api",
         "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a2535cc9c733",
+      "title": "GPT-Live实时音频新架构发布",
+      "url": "https://x.com/gdb/status/2084405421041963356",
+      "primary_url": "https://x.com/gdb/status/2084405421041963356",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://x.com/gdb/status/2084405421041963356",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T22:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://x.com/gdb/status/2084405421041963356",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T22:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T22:25:53Z",
+      "latest_at": "2026-08-03T22:25:53Z",
+      "primary_item": {
+        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+        "title": "GPT-Live实时音频新架构发布",
+        "url": "https://x.com/gdb/status/2084405421041963356",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -748,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -868,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 0.94,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,15 +1131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1007,15 +1210,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8397,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1069,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.8392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,282 +1358,62 @@
       }
     },
     {
-      "story_id": "story_580322e06e25",
-      "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-      "primary_url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-      "source": "Google AI：DEV 作者专属（RSS）",
+      "story_id": "story_6cbde97d8260",
+      "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+      "source": "公众号：MiniMax（稀宇科技）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91f220893f2400bc27c184837617352ac1befa1d",
-          "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "c55144031f2da38d6618d9f6db13012813ce8abf",
+          "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T14:33:20Z"
+          "published_at": "2026-08-03T02:44:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "公众号：MiniMax（稀宇科技）"
       ],
       "items": [
         {
-          "id": "91f220893f2400bc27c184837617352ac1befa1d",
-          "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "c55144031f2da38d6618d9f6db13012813ce8abf",
+          "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T14:33:20Z"
+          "published_at": "2026-08-03T02:44:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8866,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T14:33:20Z",
-      "latest_at": "2026-08-03T14:33:20Z",
+      "earliest_at": "2026-08-03T02:44:09Z",
+      "latest_at": "2026-08-03T02:44:09Z",
       "primary_item": {
-        "id": "91f220893f2400bc27c184837617352ac1befa1d",
-        "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-        "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_740a8ac055ff",
-      "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-      "url": "https://www.aibase.com/news/30077",
-      "primary_url": "https://www.aibase.com/news/30077",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:54:28.563920Z"
-        },
-        {
-          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
-          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:26:21.666695Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:54:28.563920Z"
-        },
-        {
-          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
-          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:26:21.666695Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8533,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:26:21.666695Z",
-      "latest_at": "2026-08-03T11:54:28.563920Z",
-      "primary_item": {
-        "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-        "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-        "url": "https://www.aibase.com/news/30077",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c8c3f9f413d",
-      "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-      "url": "https://blog.cloudflare.com/grpc-workers",
-      "primary_url": "https://blog.cloudflare.com/grpc-workers",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        },
-        {
-          "id": "22b783d9737e743d6f6fb189ff5be9caaf4a0451",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T13:30:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Cloudflare Blog",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        },
-        {
-          "id": "22b783d9737e743d6f6fb189ff5be9caaf4a0451",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T13:30:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8669,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T13:00:00Z",
-      "latest_at": "2026-08-03T13:30:53Z",
-      "primary_item": {
-        "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-        "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-        "url": "https://blog.cloudflare.com/grpc-workers",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6522dfbb2ee3",
-      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-      "url": "https://blog.cloudflare.com/cloudflare-computer",
-      "primary_url": "https://blog.cloudflare.com/cloudflare-computer",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9874b290d806248194911e23c5f40476c3a608d3",
-          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-          "url": "https://blog.cloudflare.com/cloudflare-computer",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:15:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "9874b290d806248194911e23c5f40476c3a608d3",
-          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-          "url": "https://blog.cloudflare.com/cloudflare-computer",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:15:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T13:15:24Z",
-      "latest_at": "2026-08-03T13:15:24Z",
-      "primary_item": {
-        "id": "9874b290d806248194911e23c5f40476c3a608d3",
-        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-        "url": "https://blog.cloudflare.com/cloudflare-computer",
-        "source": "Cloudflare Blog",
+        "id": "c55144031f2da38d6618d9f6db13012813ce8abf",
+        "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+        "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
       }
     }
