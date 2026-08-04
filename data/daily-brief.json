@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:45:26.907812Z",
+  "generated_at": "2026-08-04T06:20:08.905987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9398,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9472,
+        "recency": 0.9126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8489,
+        "recency": 0.8179,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -244,6 +244,149 @@
         "url": "https://github.com/lyogavin/airllm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9716,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T04:20:28Z",
+      "primary_item": {
+        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2163b413300d",
+      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8866,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:00:00Z",
+      "latest_at": "2026-08-03T22:00:00Z",
+      "primary_item": {
+        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+        "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -281,15 +424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9326,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -468,68 +611,6 @@
         "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d04cc35bd3cc",
-      "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T07:00:00Z",
-      "latest_at": "2026-08-03T07:00:00Z",
-      "primary_item": {
-        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-        "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -586,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8326,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -611,6 +692,68 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9d307834399b",
+      "title": "Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8521,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
+      "primary_item": {
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "Trigger Copilot automations with comments",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -667,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,68 +835,6 @@
         "url": "https://www.aibase.com/news/30093",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_61a162b6e7ab",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8571,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
-      "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -810,22 +891,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7785,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T13:00:00Z",
       "latest_at": "2026-08-03T17:18:06Z",
@@ -835,6 +915,128 @@
         "url": "https://blog.cloudflare.com/billable-usage-api",
         "source": "Cloudflare Blog",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f234c9d5df2e",
+      "title": "GPT-5.6 Luna降价80%永久生效",
+      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T05:07:32Z",
+      "latest_at": "2026-08-04T05:07:32Z",
+      "primary_item": {
+        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+        "title": "GPT-5.6 Luna降价80%永久生效",
+        "url": "https://x.com/thsottiaux/status/2084506501834829833",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d04cc35bd3cc",
+      "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7139,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T07:00:00Z",
+      "latest_at": "2026-08-03T07:00:00Z",
+      "primary_item": {
+        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+        "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -872,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,26 +1100,26 @@
       }
     },
     {
-      "story_id": "story_797efe2f3319",
-      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-      "url": "https://www.aibase.com/news/30084",
-      "primary_url": "https://www.aibase.com/news/30084",
+      "story_id": "story_df2d2241c86e",
+      "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+      "url": "https://www.aibase.com/news/30096",
+      "primary_url": "https://www.aibase.com/news/30096",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
+          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+          "url": "https://www.aibase.com/news/30096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
+          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
+          "url": "https://www.aibase.com/zh/news/30096",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -931,18 +1133,18 @@
       ],
       "items": [
         {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
+          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+          "url": "https://www.aibase.com/news/30096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T03:45:26.907812Z"
         },
         {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
+          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
+          "url": "https://www.aibase.com/zh/news/30096",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -951,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -969,73 +1171,13 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-04T03:45:26.907812Z",
-      "latest_at": "2026-08-04T03:45:26.907812Z",
+      "latest_at": "2026-08-04T06:20:08.905987Z",
       "primary_item": {
-        "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-        "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-        "url": "https://www.aibase.com/news/30084",
+        "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+        "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+        "url": "https://www.aibase.com/news/30096",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9486,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T00:06:00Z",
-      "latest_at": "2026-08-04T00:06:00Z",
-      "primary_item": {
-        "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1073,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9101,
+        "recency": 0.8768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1096,6 +1238,68 @@
         "url": "https://x.com/trq212/status/2084387303959740449",
         "source": "X：Thariq (@trq212)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61a162b6e7ab",
+      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8257,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
+      "primary_item": {
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1133,15 +1337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8966,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,68 +1360,6 @@
         "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
         "source": "Runway：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_545d6c402c71",
-      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8506,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
-      "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1255,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1277,126 +1419,6 @@
         "title": "微软开源 Orchard 智能体训练框架",
         "url": "https://x.com/MSFTResearch/status/2084364547142418722",
         "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ebde7e0c4422",
-      "title": "OpenRouter 推出 Ori Eval 简化评估流程",
-      "url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.838,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T15:31:21Z",
-      "latest_at": "2026-08-03T15:31:21Z",
-      "primary_item": {
-        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-        "title": "OpenRouter 推出 Ori Eval 简化评估流程",
-        "url": "https://x.com/OpenRouter/status/2084301100078027143",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1afd7fe290fc",
-      "title": "Kimi Work 幻灯片制作教程发布",
-      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
-          "title": "Kimi Work 幻灯片制作教程发布",
-          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T11:51:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
-          "title": "Kimi Work 幻灯片制作教程发布",
-          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T11:51:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7949,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:51:51Z",
-      "latest_at": "2026-08-03T11:51:51Z",
-      "primary_item": {
-        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
-        "title": "Kimi Work 幻灯片制作教程发布",
-        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     }
