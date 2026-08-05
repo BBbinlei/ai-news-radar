@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:37:32.024973Z",
+  "generated_at": "2026-08-05T10:26:55.057204Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8333,
+        "recency": 0.8,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8352,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8338,
+        "recency": 0.8005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,6 +206,68 @@
         "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ea7f6df3de1a",
+      "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
+          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:58:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
+          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:58:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.744,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T13:58:29Z",
+      "latest_at": "2026-08-04T13:58:29Z",
+      "primary_item": {
+        "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
+        "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -282,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8596,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,68 +369,6 @@
         "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ea7f6df3de1a",
-      "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.775,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:58:29Z",
-      "latest_at": "2026-08-04T13:58:29Z",
-      "primary_item": {
-        "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-        "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7642,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -434,26 +434,26 @@
       }
     },
     {
-      "story_id": "story_df0c9d1fbfff",
-      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-      "url": "https://www.aibase.com/news/30130",
-      "primary_url": "https://www.aibase.com/news/30130",
+      "story_id": "story_a81431320936",
+      "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+      "url": "https://www.aibase.com/news/30138",
+      "primary_url": "https://www.aibase.com/news/30138",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
+          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+          "url": "https://www.aibase.com/news/30138",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T07:37:32.024973Z"
+          "published_at": "2026-08-05T10:26:55.057204Z"
         },
         {
-          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/zh/news/30130",
+          "id": "edc73d573e54f4d200e0e8c7a1e1a9d04f6d9e01",
+          "title": "无需云端 API! 手机即可本地运行，Liquid AI 推出端侧智能体模型 LFM2.5",
+          "url": "https://www.aibase.com/zh/news/30138",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -467,18 +467,18 @@
       ],
       "items": [
         {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
+          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+          "url": "https://www.aibase.com/news/30138",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T07:37:32.024973Z"
+          "published_at": "2026-08-05T10:26:55.057204Z"
         },
         {
-          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/zh/news/30130",
+          "id": "edc73d573e54f4d200e0e8c7a1e1a9d04f6d9e01",
+          "title": "无需云端 API! 手机即可本地运行，Liquid AI 推出端侧智能体模型 LFM2.5",
+          "url": "https://www.aibase.com/zh/news/30138",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -504,24 +504,33 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T07:37:32.024973Z",
-      "latest_at": "2026-08-05T07:37:32.024973Z",
+      "earliest_at": "2026-08-05T10:26:55.057204Z",
+      "latest_at": "2026-08-05T10:26:55.057204Z",
       "primary_item": {
-        "id": "45d71f070884471c1302c577a523eae2763a2385",
-        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "url": "https://www.aibase.com/news/30130",
+        "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+        "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+        "url": "https://www.aibase.com/news/30138",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_6cbde97d8260",
-      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "source": "公众号：数字生命卡兹克",
+      "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+      "source": "公众号：卡尔的AI沃茨",
       "source_name": "AI HOT",
       "sources": [
+        {
+          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T06:46:00Z"
+        },
         {
           "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
           "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
@@ -530,23 +539,23 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-05T01:35:42Z"
-        },
-        {
-          "id": "51868ebba24a0c391770271a0455d8d630015049",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：腾讯混元"
+        "公众号：卡尔的AI沃茨",
+        "公众号：数字生命卡兹克"
       ],
       "items": [
+        {
+          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T06:46:00Z"
+        },
         {
           "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
           "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
@@ -555,28 +564,19 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-05T01:35:42Z"
-        },
-        {
-          "id": "51868ebba24a0c391770271a0455d8d630015049",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,13 +585,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T08:12:36Z",
-      "latest_at": "2026-08-05T01:35:42Z",
+      "earliest_at": "2026-08-05T01:35:42Z",
+      "latest_at": "2026-08-05T06:46:00Z",
       "primary_item": {
-        "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
-        "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-        "source": "公众号：数字生命卡兹克",
+        "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+        "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6bcc72be98e2",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9711,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T08:25:11Z",
+      "latest_at": "2026-08-05T08:25:11Z",
+      "primary_item": {
+        "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+        "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+        "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -668,15 +729,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7919,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -730,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8364,
+        "recency": 0.803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -758,126 +819,26 @@
       }
     },
     {
-      "story_id": "story_070483894b02",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
-        },
-        {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T11:37:44.847000Z"
-        },
-        {
-          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T10:00:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
-        },
-        {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T11:37:44.847000Z"
-        },
-        {
-          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T10:00:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7636,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T10:00:55Z",
-      "latest_at": "2026-08-04T12:56:45.712000Z",
-      "primary_item": {
-        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d320d5876b8b",
-      "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-      "url": "https://www.aibase.com/news/30121",
-      "primary_url": "https://www.aibase.com/news/30121",
+      "story_id": "story_aed2ee455d40",
+      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+      "url": "https://www.aibase.com/news/30132",
+      "primary_url": "https://www.aibase.com/news/30132",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/news/30121",
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T04:58:05.584064Z"
+          "published_at": "2026-08-05T07:37:32.024973Z"
         },
         {
-          "id": "aa5c7372ac6b27dd16da41af18798aebc2eb0c18",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/zh/news/30121",
+          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/zh/news/30132",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -891,18 +852,18 @@
       ],
       "items": [
         {
-          "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/news/30121",
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T04:58:05.584064Z"
+          "published_at": "2026-08-05T07:37:32.024973Z"
         },
         {
-          "id": "aa5c7372ac6b27dd16da41af18798aebc2eb0c18",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/zh/news/30121",
+          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/zh/news/30132",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -911,15 +872,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -928,12 +889,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T04:58:05.584064Z",
-      "latest_at": "2026-08-05T04:58:05.584064Z",
+      "earliest_at": "2026-08-05T07:37:32.024973Z",
+      "latest_at": "2026-08-05T10:26:55.057204Z",
       "primary_item": {
-        "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-        "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-        "url": "https://www.aibase.com/news/30121",
+        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+        "url": "https://www.aibase.com/news/30132",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -973,21 +934,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.828,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T21:22:30Z",
       "latest_at": "2026-08-04T21:22:30Z",
@@ -1034,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.798,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.797,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1156,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,66 +1138,6 @@
         "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
         "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83cec0d2f04b",
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T02:40:31Z",
-      "latest_at": "2026-08-05T02:40:31Z",
-      "primary_item": {
-        "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-        "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
@@ -1295,15 +1195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7867,
+        "recency": 0.7553,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1318,6 +1218,66 @@
         "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
         "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
         "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83cec0d2f04b",
+      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T02:40:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T02:40:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8938,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T02:40:31Z",
+      "latest_at": "2026-08-05T02:40:31Z",
+      "primary_item": {
+        "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
+        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+        "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
@@ -1356,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.954,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8354,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "industry",
