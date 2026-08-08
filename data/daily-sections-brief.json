@@ -1,39 +1,44 @@
 {
-  "generated_at": "2026-08-05T16:27:36.888246Z",
+  "generated_at": "2026-08-08T01:02:15.270095Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "Black Forest Labs 全面推出 FLUX 3 Video，并声称它击败了 Seedance 2.0",
-          "url": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0",
-          "summary": "FLUX 3 Video正式发布，宣称性能超越Seedance 2.0，视频生成模型竞争加剧。"
+          "title": "Claude Code 将于 8 月 14 日默认启用自动模式，可自主执行更长任务并拦截危险操作",
+          "url": "https://www.gelonghui.com/live/2600739",
+          "summary": "Claude Code 即将默认启用自动模式，提升自主执行能力并加强安全拦截。"
         },
         {
-          "title": "MiniMax H3 视频模型登顶开源社区第一，定义视频模型领域「斩杀线」",
-          "url": "https://www.leiphone.com/category/industrynews/aiUMBoeUYbi8fX4x.html",
-          "summary": "MiniMax H3开源视频模型登顶社区，以低成本高性能树立新标杆。"
+          "title": "蚂蚁集团百灵开源 Ling-3.0-flash 模型：124B 总参数、5.1B 激活参数",
+          "url": "https://www.ithome.com/0/987/231.htm",
+          "summary": "蚂蚁集团开源百灵 Ling-3.0-flash 模型，采用 MoE 架构，参数规模可观。"
         },
         {
-          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-          "url": "https://blog.cloudflare.com/cloudflare-os",
-          "summary": "Cloudflare推出开源AI生产力环境，旨在成为AI智能体的操作系统。"
+          "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "summary": "MiniMax 开源 H3 技能库，覆盖多种视频创作场景，提升生成质量。"
         },
         {
-          "title": "Qwen 3.0 图像专业版",
-          "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-          "summary": "阿里发布Qwen 3.0图像专业版，强化图像生成能力。"
+          "title": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心",
+          "url": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0",
+          "summary": "腾讯云开源 Agent Memory v2.0，为 AI 编码代理提供团队级内存管理。"
         },
         {
-          "title": "Hark 预览其浏览器使用代理来完成任务",
-          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
-          "summary": "Hark推出浏览器代理，可自动完成网页任务，智能体应用场景再拓展。"
+          "title": "NVIDIA AI 发布 NOOA：一个面向对象的 Python 框架，可将 AI 代理转变为单个 Python 类",
+          "url": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework",
+          "summary": "NVIDIA 发布 NOOA 框架，简化 AI 代理的构建和部署。"
         },
         {
-          "title": "开源版 Claude Science 发布：零依赖、MIT 协议，内置 30+ 科研 Skills",
-          "url": "https://hub.baai.ac.cn/view/56897",
-          "summary": "开源科研AI工具Claude Science发布，内置30多个科研技能，助力学术研究。"
+          "title": "Cloudflare 首次推出 Kitesurf，这是一款基于 Workers 无服务器服务构建的云托管人工智能代理浏览器",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "summary": "Cloudflare 推出 Kitesurf，为 AI 代理提供云托管浏览器服务。"
+        },
+        {
+          "title": "DeepSeek V4 闪存 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "summary": "DeepSeek V4 Flash 模型在 ARC 基准上取得新成绩。"
         }
       ]
     },
@@ -41,34 +46,39 @@
       "label": "金融",
       "items": [
         {
-          "title": "谷歌正就一笔超过15亿美元的交易与人工智能编程代理初创公司Mechanize进行谈判",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaldnQnR0ZzRCS1ZqUnY0RWZ1TkdkZzBkNzlRSm9WQjJJZW9OU1BmeEIwRTN3V3o0bW1qNmdiVlNra1lMYVRObzBaQkpnUy05b0FpSXFTM25JekFkRDZ3b0p0dmF0R3U0SlI1Qk1wWmdzajJVdGJSX1Z5aFI0UEpMLTVuMW4ySmh2b0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "谷歌拟超15亿美元收购AI编程代理初创公司Mechanize，显示巨头加码AI编程赛道。"
+          "title": "消息来源：Cursor 周四告诉员工，SpaceX 最快可能下周完成 60B 美元的收购",
+          "url": "https://www.techmeme.com/260807/p26",
+          "summary": "SpaceX 拟以 600 亿美元收购 Cursor，交易可能下周完成。"
         },
         {
-          "title": "又一家AI基金暴雷了",
-          "url": "https://www.qbitai.com/2026/08/467001.html",
-          "summary": "继450亿美元AI基金崩盘后，又一家AI基金暴雷，AI投资泡沫引发担忧。"
+          "title": "资料来源：合法的人工智能初创公司 Harvey 正在洽谈融资 5 亿美元以上，估值为 15.5 亿美元",
+          "url": "https://www.techmeme.com/260807/p22",
+          "summary": "法律 AI 初创 Harvey 洽谈融资，估值达 155 亿美元，年化收入超 3.5 亿美元。"
         },
         {
-          "title": "莱奥波德·阿申布伦纳的450亿美元AI基金崩盘后，他能从沃伦·巴菲特身上学到什么",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkJZaGszamg2dVZLREFtYm5pWl9OMk5ieHJSRW91THYxV3hDSmR6TnJFQkl2VTU5NVFlU204eWs1ZnI4NFdjSnlKM2hLdGlsX0NYWU15ZTNYN0lnUVhEOUhpX1dnekp6VnZZOVRCRlFFT05nZ0duN1pOTTktdWIydWJBRm9LVkNoNXpvMjFWREhpNk0zWU1nVUphUWd0dEFVeGt5SnZ1Q3lKY2trVllSaUpDOExxbDc4MGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "AI明星基金经理Aschenbrenner的基金崩盘，引发对AI投资泡沫的反思。"
+          "title": "资料来源：Situational Awareness 向 Source Foundry 投资了 5 亿美元",
+          "url": "https://www.techmeme.com/260807/p31",
+          "summary": "Situational Awareness 向 AI 芯片制造工具初创 Source Foundry 投资 5 亿美元。"
         },
         {
-          "title": "SpaceX股价下跌，因第二季度人工智能资本支出激增",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamEwcHpmX3BFbGxwSHg4bVZsbkpzX3VuSWRJVmtCMWpXRm9MQzhtWVRJaWlOZUNKbU1kcFhvdGZ3ZEhJTlhsQ0RpYURMOG9wdXhERGVkSlNla0ZtbWlUbmhDanpaX21XQ0FLeE9xNmh0M0l6RnNCcTh5WG1lc1FwT296QmdWd1ZWd3RQQjBhZXpkTkxLd2lGRC05cUxuRU5sZUJhMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "SpaceX因AI资本支出激增导致股价下跌，市场担忧回报率。"
+          "title": "在“态势感知”风波后，投资者争相押注这位AI神童的基金",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2VqelJlaHRqX1MxOVlBd3Y2UGpNVHBpdVEzV2F0OVJ2VmlNRmVpb2oxemsxa1Q3OTVFOEQwaXVvWjRWR1ZGcm12VkpkZDdoc2Vka29TZFBhb3FCdHdEaXUtbVZ3QWQxeklGaUVyUjl0TVB6TGNIaW5hMTBPMnZlNXJpdmlyQXlKZkxvNWpuMzFBclNObk1TaVlvaWxZYmJTblE3TldUakNpam9UQ0tZTFVnRWg4OGpoc0dNVkFaLXdsU00wTVY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "summary": "AI 神童的基金在风波后吸引投资者争相押注。"
         },
         {
-          "title": "Faye 提供旅行保险服务并使用人工智能帮助解决索赔，筹集了由 Madrona 领投的 5000 万美元 C 轮融资",
-          "url": "https://www.techmeme.com/260805/p23",
-          "summary": "AI旅行保险初创Faye获5000万美元C轮融资，AI在保险业应用受青睐。"
+          "title": "如果这家人工智能初创公司Anthropic的IPO估值如传闻所言得以维持，亚马逊持有的其股份价值可能超过2000亿美元",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html",
+          "summary": "Anthropic 若按传闻估值 IPO，亚马逊持股价值或超 2000 亿美元。"
         },
         {
-          "title": "Robinhood 将上市一只基金，任何人都可以支持 Y Combinator 初创公司",
-          "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups",
-          "summary": "Robinhood推出YC初创基金，降低投资门槛，AI初创公司或受益。"
+          "title": "AMD 收购 Taalas，一家将 AI 模型直接烘焙到芯片中的初创公司",
+          "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon",
+          "summary": "AMD 收购 Taalas，强化 AI 芯片技术。"
+        },
+        {
+          "title": "在痴迷于人工智能的硅谷，直播电商平台Whatnot刚刚完成新一轮融资，公司估值达到200亿美元",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbG40Z1l6WnRHU3FYXzNFOTRoODl1bTlDMC12N2F4WmhRLUNJVklwTTlYT3hzZThlS0o0eGZraktnRFdJa2J5cmVHUlNla1JtcXB0eGdxOXNJbXdMc21hOVlaVU5qVGtueEdzdXFOZG5wZ0VXc2xPbFFWZ3d1OTdERzRuUUhCeHRab0JOOHpINGVPRkR6ZUhUdFAtbGw2TE5kekk2TkxMU2p6SV9TRzYwLXA0U05SX051N3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "summary": "直播电商平台 Whatnot 完成新一轮融资，估值达 200 亿美元。"
         }
       ]
     },
@@ -76,29 +86,29 @@
       "label": "学术",
       "items": [
         {
-          "title": "“虚拟组织”基础模型实现了跨尺度的空间蛋白质组学分析",
-          "url": "https://www.nature.com/articles/s41586-026-10884-y",
-          "summary": "Nature发表虚拟组织基础模型，实现跨尺度空间蛋白质组学分析，AI助力生命科学。"
+          "title": "新 AI 模型估算全球冰川冰量约 15 万立方千米，融化或致海平面上升 32.3 厘米",
+          "url": "https://www.ithome.com/0/987/225.htm",
+          "summary": "AI 模型估算全球冰川冰量，预测海平面上升影响。"
         },
         {
-          "title": "大模型灾难性遗忘新解法：秩 1 联想记忆实现无损持续学习 | ICML'26",
-          "url": "https://hub.baai.ac.cn/view/56902",
-          "summary": "ICML'26论文提出秩1联想记忆方法，解决大模型灾难性遗忘问题。"
+          "title": "新型人工智能模型揭示了全球冰川的体积",
+          "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
+          "summary": "AI 模型揭示全球冰川体积，为气候研究提供数据。"
         },
         {
-          "title": "智源 & 北大用一句话完成音视频联合编辑 | SIGGRAPH Asia'26",
-          "url": "https://hub.baai.ac.cn/view/56894",
-          "summary": "智源与北大提出一句话音视频联合编辑技术，SIGGRAPH Asia'26收录。"
+          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "summary": "AI 导师 TutorMoments 研究何时介入帮助的时机。"
         },
         {
-          "title": "为什么 Erdős 问题都落到了人工智能的头上",
-          "url": "https://news.ycombinator.com/item?id=49181519",
-          "summary": "AI在解决数学难题上取得进展，Erdős问题被AI攻克引发热议。"
+          "title": "人工智能方法揭示了瓦尔诺河口微生物群落中的隐藏规律",
+          "url": "https://phys.org/news/2026-08-ai-method-reveals-hidden-patterns.html",
+          "summary": "AI 方法在微生物群落中发现隐藏模式。"
         },
         {
-          "title": "观点：大型语言模型无法“跳跃”",
-          "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-          "summary": "OpenReview观点文章指出LLM缺乏跳跃性思维，引发对AI推理局限的讨论。"
+          "title": "研究人员表示：不要轻信生成式人工智能的炒作，而应从中汲取经验",
+          "url": "https://phys.org/news/2026-08-dont-genai-hype.html",
+          "summary": "研究人员呼吁理性看待生成式 AI 的炒作。"
         }
       ]
     },
@@ -106,34 +116,39 @@
       "label": "八卦",
       "items": [
         {
-          "title": "Jeff Dean 和其他三名 Google 高管将离职，推出 Discovery Loop",
-          "url": "https://www.techmeme.com/260805/p27",
-          "summary": "谷歌AI灵魂人物Jeff Dean等高管离职创业，成立Discovery Loop专注AI驱动科学突破。"
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "summary": "OpenAI 意外攻击 Hugging Face 的时间线被公布，引发关注。"
         },
         {
-          "title": "谷歌 DeepMind 首席执行官杰米斯·哈萨比斯 (Demis Hassabis) 辞职",
-          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-          "summary": "DeepMind CEO Hassabis辞职，转任主席与Alphabet首席科学家，谷歌AI领导层大变动。"
+          "title": "谷歌AI，杯酒释兵权",
+          "url": "https://www.huxiu.com/article/4881609.html?f=rss",
+          "summary": "谷歌 AI 部门领导层调整，引发外界猜测。"
         },
         {
-          "title": "Anthropic 将为 Claude 组建内部芯片设计团队，并招聘工程师",
-          "url": "https://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05",
-          "summary": "Anthropic确认自研AI芯片，组建内部团队为Claude定制芯片，硬件自研趋势加剧。"
+          "title": "Meta首席技术官表示，员工应利用人工智能带来的效率提升来完成更多工作——而不是多休假",
+          "url": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+          "summary": "Meta CTO 言论引发争议，称 AI 效率提升应投入更多工作。"
         },
         {
-          "title": "OpenAI 以 320 万美元和解针对美国工人的歧视指控",
-          "url": "https://news.ycombinator.com/item?id=49182971",
-          "summary": "OpenAI支付320万美元和解歧视指控，涉及员工待遇问题。"
+          "title": "OpenAI因网络安全担忧暂停了新Astra模型的部分研发工作",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
+          "summary": "OpenAI 因网络安全担忧暂停 Astra 模型部分研发。"
         },
         {
-          "title": "Reddit 推出新版主：AI",
-          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-          "summary": "Reddit引入AI版主，社区管理自动化引发争议。"
+          "title": "谷歌地球收回了制作虚假卫星图像的人工智能工具，该工具发布后立即被滥用",
+          "url": "https://daringfireball.net/linked/2026/08/07/google-earth-ai-shitposts",
+          "summary": "谷歌地球撤回 AI 卫星图像工具，因发布后即被滥用。"
         },
         {
-          "title": "老 Reddit 可能成为 Reddit 人工智能抓取战争的下一个受害者",
-          "url": "https://www.engadget.com/2230544/old-reddit-could-be-the-next-casualty-of-reddits-war-on-ai-scraping",
-          "summary": "Reddit与AI抓取的战争升级，老Reddit可能被牺牲。"
+          "title": "“谷歌的顶级人工智能大脑将离开并推出 Discovery Loop”",
+          "url": "https://daringfireball.net/linked/2026/08/07/levy-discovery-loop",
+          "summary": "谷歌顶级 AI 人才离职创业，成立 Discovery Loop。"
+        },
+        {
+          "title": "OpenAI 申请驳回苹果公司提起的商业秘密诉讼",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-asks-us-judge-dismiss-061124418.html",
+          "summary": "OpenAI 请求驳回苹果的商业秘密诉讼，称苹果自身安全措施削弱其主张。"
         }
       ]
     }
