@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:02:15.270095Z",
+  "generated_at": "2026-08-08T03:05:05.630138Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8692,
+        "recency": 0.8439,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,144 +83,6 @@
         "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "source": "公众号：火山引擎",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        },
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        },
-        {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
-        },
-        {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
-        },
-        {
-          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
-          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:04:51Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "公众号：千问APP（阿里）",
-        "公众号：小红书技术（dots.llm）",
-        "公众号：火山引擎",
-        "公众号：蚂蚁百灵（Ling）",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        },
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        },
-        {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
-        },
-        {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
-        },
-        {
-          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
-          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:04:51Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.76,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T02:04:51Z",
-      "latest_at": "2026-08-07T12:02:16Z",
-      "primary_item": {
-        "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-        "source": "公众号：火山引擎",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -258,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9748,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.902,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,6 +207,125 @@
         "url": "https://huggingface.co/blog/allenai/tutormoments",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+      "source": "公众号：火山引擎",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        },
+        {
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T09:59:00Z"
+        },
+        {
+          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
+          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:41:21Z"
+        },
+        {
+          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:01:45Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）",
+        "公众号：火山引擎",
+        "公众号：蚂蚁百灵（Ling）",
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        },
+        {
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T09:59:00Z"
+        },
+        {
+          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
+          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:41:21Z"
+        },
+        {
+          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:01:45Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7378,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T06:01:45Z",
+      "latest_at": "2026-08-07T12:02:16Z",
+      "primary_item": {
+        "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+        "source": "公众号：火山引擎",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -420,15 +401,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9153,
+        "recency": 0.8886,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -482,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9446,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -544,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7933,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -606,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.941,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.8142,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9015,
+        "recency": 0.8752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9288,
+        "recency": 0.9017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7989,
+        "recency": 0.7757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,21 +994,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.8883,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T18:52:48Z",
       "latest_at": "2026-08-07T18:52:48Z",
@@ -1074,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9079,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1136,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8182,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,22 +1255,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.7606,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T08:07:55.886181Z",
       "latest_at": "2026-08-07T08:07:55.886181Z",
@@ -1300,66 +1279,6 @@
         "url": "https://www.aibase.com/news/30194",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b16ed8a79ee0",
-      "title": "Suno移动端上线Voices功能",
-      "url": "https://x.com/suno/status/2085731234970227145",
-      "primary_url": "https://x.com/suno/status/2085731234970227145",
-      "source": "X：Suno (@suno)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
-          "title": "Suno移动端上线Voices功能",
-          "url": "https://x.com/suno/status/2085731234970227145",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T14:14:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Suno (@suno)"
-      ],
-      "items": [
-        {
-          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
-          "title": "Suno移动端上线Voices功能",
-          "url": "https://x.com/suno/status/2085731234970227145",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T14:14:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T14:14:12Z",
-      "latest_at": "2026-08-07T14:14:12Z",
-      "primary_item": {
-        "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
-        "title": "Suno移动端上线Voices功能",
-        "url": "https://x.com/suno/status/2085731234970227145",
-        "source": "X：Suno (@suno)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1397,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9525,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1422,6 +1341,86 @@
         "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d2df922b8b97",
+      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+      "url": "https://www.aibase.com/news/30196",
+      "primary_url": "https://www.aibase.com/news/30196",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T08:07:55.886181Z"
+        },
+        {
+          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
+          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/zh/news/30196",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T08:07:55.886181Z"
+        },
+        {
+          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
+          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/zh/news/30196",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7606,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T08:07:55.886181Z",
+      "latest_at": "2026-08-07T08:07:55.886181Z",
+      "primary_item": {
+        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "url": "https://www.aibase.com/news/30196",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
