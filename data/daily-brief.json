@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:21:14.292465Z",
+  "generated_at": "2026-08-09T20:59:55.655078Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.9104,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.8204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7841,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.783,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6711,
-      "importance": 0.6711,
-      "importance_score": 0.6711,
+      "score": 0.6695,
+      "importance": 0.6695,
+      "importance_score": 0.6695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9855,
+        "recency": 0.9764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -554,15 +554,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6425,
+      "importance": 0.6425,
+      "importance_score": 0.6425,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9907,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -631,9 +631,18 @@
           "source_name": "Hacker News",
           "site_id": "hackernews",
           "published_at": "2026-08-09T11:56:16Z"
+        },
+        {
+          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "HN Algolia · AI 24h",
         "Hacker News",
@@ -686,19 +695,28 @@
           "source_name": "Hacker News",
           "site_id": "hackernews",
           "published_at": "2026-08-09T11:56:16Z"
+        },
+        {
+          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6132,
-      "importance": 0.6132,
-      "importance_score": 0.6132,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.958,
+        "recency": 0.9491,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -769,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6354,
-      "importance": 0.6354,
-      "importance_score": 0.6354,
+      "score": 0.6338,
+      "importance": 0.6338,
+      "importance_score": 0.6338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9256,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -792,6 +810,104 @@
         "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_c889f9e34eab",
+      "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "primary_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "source": "laurentiugabriel.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
+        },
+        {
+          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
+          "url": "https://news.ycombinator.com/item?id=49234675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T19:37:49.635000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "laurentiugabriel.github.io"
+      ],
+      "items": [
+        {
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
+        },
+        {
+          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
+          "url": "https://news.ycombinator.com/item?id=49234675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T19:37:49.635000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T19:16:49Z",
+      "latest_at": "2026-08-09T20:30:33.242000Z",
+      "primary_item": {
+        "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+        "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+        "source": "laurentiugabriel.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -848,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7304,
+        "recency": 0.7237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -946,15 +1062,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5553,
-      "importance": 0.5553,
-      "importance_score": 0.5553,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9139,
+        "recency": 0.9054,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1024,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9351,
+        "recency": 0.9265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9316,
+        "recency": 0.9229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1394,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7394,
+        "recency": 0.7325,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1304,80 +1420,98 @@
       }
     },
     {
-      "story_id": "story_c889f9e34eab",
-      "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-      "url": "https://news.ycombinator.com/item?id=49234675",
-      "primary_url": "https://news.ycombinator.com/item?id=49234675",
+      "story_id": "story_644ee0a04941",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412",
+      "primary_url": "https://news.ycombinator.com/item?id=49229412",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://news.ycombinator.com/item?id=49234675",
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T19:37:49.635000Z"
+          "published_at": "2026-08-09T10:06:30.781000Z"
         },
         {
-          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:16:49Z"
+          "id": "043e5a58ca2dc5197f19b6d486667dada039441e",
+          "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘 / SAP stops most travel and hiring because of AI's soaring cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T08:00:51Z"
+        },
+        {
+          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T08:00:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://news.ycombinator.com/item?id=49234675",
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T19:37:49.635000Z"
+          "published_at": "2026-08-09T10:06:30.781000Z"
         },
         {
-          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:16:49Z"
+          "id": "043e5a58ca2dc5197f19b6d486667dada039441e",
+          "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘 / SAP stops most travel and hiring because of AI's soaring cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T08:00:51Z"
+        },
+        {
+          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T08:00:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9896,
-        "story_heat": 0.25
+        "recency": 0.8545,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T19:16:49Z",
-      "latest_at": "2026-08-09T19:37:49.635000Z",
+      "earliest_at": "2026-08-09T08:00:51Z",
+      "latest_at": "2026-08-09T10:06:30.781000Z",
       "primary_item": {
-        "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-        "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-        "url": "https://news.ycombinator.com/item?id=49234675",
+        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "url": "https://news.ycombinator.com/item?id=49229412",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1436,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8172,
+        "recency": 0.8097,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9244,
+        "recency": 0.9159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,85 +1671,6 @@
         "title": "现在轮到OpenAI出招了",
         "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc805777cb92",
-      "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-      "url": "https://github.com/howieyoung/cli-times",
-      "primary_url": "https://github.com/howieyoung/cli-times",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8299,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T07:25:08Z",
-      "latest_at": "2026-08-09T07:26:34.934000Z",
-      "primary_item": {
-        "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-        "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-        "url": "https://github.com/howieyoung/cli-times",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
