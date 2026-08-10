@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:29:03.902003Z",
+  "generated_at": "2026-08-10T16:23:04.848977Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8982,
-      "importance": 0.8982,
-      "importance_score": 0.8982,
+      "score": 0.8959,
+      "importance": 0.8959,
+      "importance_score": 0.8959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9788,
+        "recency": 0.9662,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,68 +101,6 @@
         "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
         "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_47efcab38b5c",
-      "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:27:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:27:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9852,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:27:04Z",
-      "latest_at": "2026-08-10T14:27:04Z",
-      "primary_item": {
-        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-        "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -220,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7996,
+        "recency": 0.7893,
         "story_heat": 0.25
       },
       "category": "official",
@@ -245,6 +183,68 @@
         "title": "Meta 发布 Muse Glimmer：本地化、智能体、多模态且开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
         "url": "https://huggingface.co/blog/muse-glimmer",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_47efcab38b5c",
+      "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:27:04Z",
+      "latest_at": "2026-08-10T14:27:04Z",
+      "primary_item": {
+        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+        "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9859,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,15 +402,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.967,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -464,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9509,
+        "recency": 0.9386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -526,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9251,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9615,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.9108,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -731,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9254,
+        "recency": 0.9134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.789,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.8139,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -954,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -977,6 +977,67 @@
         "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
         "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
         "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c180c0dbe774",
+      "title": "Claude Code 自动模式默认开启原理",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理",
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理",
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T15:58:56Z",
+      "latest_at": "2026-08-10T15:58:56Z",
+      "primary_item": {
+        "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+        "title": "Claude Code 自动模式默认开启原理",
+        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -1015,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.949,
+        "recency": 0.9368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,6 +1099,66 @@
         "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
         "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e9b5272ea89a",
+      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1076,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.8709,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1236,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.739,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1297,15 +1418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,147 +1440,6 @@
         "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
         "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a5c5772c6d72",
-      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-      "url": "https://www.ithome.com/0/987/649.htm",
-      "primary_url": "https://www.ithome.com/0/987/649.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "url": "https://www.ithome.com/0/987/649.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T23:07:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "url": "https://www.ithome.com/0/987/649.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T23:07:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7895,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T23:07:08Z",
-      "latest_at": "2026-08-09T23:07:08Z",
-      "primary_item": {
-        "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-        "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-        "url": "https://www.ithome.com/0/987/649.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_80fd6ac1cf18",
-      "title": "OpenChamber：一个基于代理的开发环境",
-      "url": "https://openchamber.dev",
-      "primary_url": "https://openchamber.dev",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-          "title": "OpenChamber：一个基于代理的开发环境",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:46:27.596000Z"
-        },
-        {
-          "id": "b0c33956015ed12f048b57acb7284c6ab31ec7be",
-          "title": "OpenChamber：一个基于代理的开发环境 / OpenChamber: An Agentic Development Environment",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T17:27:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-          "title": "OpenChamber：一个基于代理的开发环境",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:46:27.596000Z"
-        },
-        {
-          "id": "b0c33956015ed12f048b57acb7284c6ab31ec7be",
-          "title": "OpenChamber：一个基于代理的开发环境 / OpenChamber: An Agentic Development Environment",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T17:27:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8086,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T17:27:16Z",
-      "latest_at": "2026-08-10T00:46:27.596000Z",
-      "primary_item": {
-        "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-        "title": "OpenChamber：一个基于代理的开发环境",
-        "url": "https://openchamber.dev",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
