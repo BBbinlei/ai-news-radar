@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:51:58.920137Z",
+  "generated_at": "2026-08-11T16:48:48.406361Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9681,
+        "recency": 0.9549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_de2ca3d7578d",
+      "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+          "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+          "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9063,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T10:00:00Z",
+      "latest_at": "2026-08-11T10:00:00Z",
+      "primary_item": {
+        "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+        "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9833,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +281,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8976,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -244,6 +306,68 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
         "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_db6826b82650",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7351,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -300,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7188,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "official",
@@ -329,147 +453,84 @@
       }
     },
     {
-      "story_id": "story_db6826b82650",
-      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f98cc01492f6",
+      "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7452,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
-      "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e5b664a37aa3",
-      "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
+          "id": "fd75b4c899b086a0b993c3ba8cef65c66910eb96",
+          "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:25:20Z"
         },
         {
-          "id": "545ada9b06de0f42927e05b9525557ec42d89805",
-          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "69c83358f56a60143ed47abeb5c13f84adb003ce",
+          "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T16:25:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hugging Face Blog",
-        "Readhub · AI"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
+          "id": "fd75b4c899b086a0b993c3ba8cef65c66910eb96",
+          "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:25:20Z"
         },
         {
-          "id": "545ada9b06de0f42927e05b9525557ec42d89805",
-          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "69c83358f56a60143ed47abeb5c13f84adb003ce",
+          "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T16:25:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
-      "importance_label": "官方更新",
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7129,
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T16:25:36Z",
-      "latest_at": "2026-08-10T17:22:29.188536Z",
+      "earliest_at": "2026-08-11T16:25:20Z",
+      "latest_at": "2026-08-11T16:25:20Z",
       "primary_item": {
-        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-        "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "fd75b4c899b086a0b993c3ba8cef65c66910eb96",
+        "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
+        "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -607,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9116,
+        "recency": 0.8992,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -669,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.8523,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,83 +960,63 @@
       }
     },
     {
-      "story_id": "story_d606c2d2ba98",
-      "title": "编写智能体时，哪种编程语言最合适？",
-      "url": "http://danluu.com/pl-tokens",
-      "primary_url": "http://danluu.com/pl-tokens",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_3eae35082480",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-          "title": "编写智能体时，哪种编程语言最合适？",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T04:58:14.908000Z"
-        },
-        {
-          "id": "3f605e2135681bafc88d9d9137a3212d505a6078",
-          "title": "编写智能体时，哪种编程语言最合适？ / What's the best programming language for coding agents?",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T16:28:58Z"
+          "published_at": "2026-08-11T16:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Google Cloud：Databases（RSS）"
       ],
       "items": [
         {
-          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-          "title": "编写智能体时，哪种编程语言最合适？",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T04:58:14.908000Z"
-        },
-        {
-          "id": "3f605e2135681bafc88d9d9137a3212d505a6078",
-          "title": "编写智能体时，哪种编程语言最合适？ / What's the best programming language for coding agents?",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T16:28:58Z"
+          "published_at": "2026-08-11T16:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8544,
-        "story_heat": 0.25
+        "recency": 0.9883,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T16:28:58Z",
-      "latest_at": "2026-08-11T04:58:14.908000Z",
+      "earliest_at": "2026-08-11T16:00:00Z",
+      "latest_at": "2026-08-11T16:00:00Z",
       "primary_item": {
-        "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-        "title": "编写智能体时，哪种编程语言最合适？",
-        "url": "http://danluu.com/pl-tokens",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1014,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7719,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,6 +1077,66 @@
         "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
         "url": "https://x.com/JensenHuang/status/2086934705207959965",
         "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d606c2d2ba98",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "url": "http://danluu.com/pl-tokens",
+      "primary_url": "http://danluu.com/pl-tokens",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
+          "title": "编写智能体时，哪种编程语言最合适？",
+          "url": "http://danluu.com/pl-tokens",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T04:58:14.908000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
+          "title": "编写智能体时，哪种编程语言最合适？",
+          "url": "http://danluu.com/pl-tokens",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T04:58:14.908000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8428,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T04:58:14.908000Z",
+      "latest_at": "2026-08-11T04:58:14.908000Z",
+      "primary_item": {
+        "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
+        "title": "编写智能体时，哪种编程语言最合适？",
+        "url": "http://danluu.com/pl-tokens",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1093,15 +1194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1155,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1216,15 +1317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8421,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,15 +1397,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,168 +1420,6 @@
         "id": "9fe99e338fca94bce036ee0949ab100cc72274f2",
         "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
         "url": "https://www.aibase.com/news/30238",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_85460702741f",
-      "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-      "url": "https://www.aibase.com/news/30228",
-      "primary_url": "https://www.aibase.com/news/30228",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-          "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-          "url": "https://www.aibase.com/news/30228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:39:59.072242Z"
-        },
-        {
-          "id": "bc0d9b74692185dda7d5bed19dd29905a4db987f",
-          "title": "AI 促进每周四天工作制？现实却是 AI 提效反向加剧员工「9006」重压",
-          "url": "https://www.aibase.com/zh/news/30228",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-          "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-          "url": "https://www.aibase.com/news/30228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:39:59.072242Z"
-        },
-        {
-          "id": "bc0d9b74692185dda7d5bed19dd29905a4db987f",
-          "title": "AI 促进每周四天工作制？现实却是 AI 提效反向加剧员工「9006」重压",
-          "url": "https://www.aibase.com/zh/news/30228",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8146,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T01:39:59.072242Z",
-      "latest_at": "2026-08-11T01:39:59.072242Z",
-      "primary_item": {
-        "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-        "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-        "url": "https://www.aibase.com/news/30228",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e237d1b6fa70",
-      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-      "url": "https://www.aibase.com/news/30230",
-      "primary_url": "https://www.aibase.com/news/30230",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:39:59.072242Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:39:59.072242Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8146,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T01:39:59.072242Z",
-      "latest_at": "2026-08-11T01:39:59.072242Z",
-      "primary_item": {
-        "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-        "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-        "url": "https://www.aibase.com/news/30230",
         "source": "AIbase",
         "source_name": "AIbase"
       }
