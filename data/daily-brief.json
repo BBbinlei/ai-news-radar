@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:34:05.911712Z",
+  "generated_at": "2026-08-12T20:34:20.326161Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8766,
-      "importance": 0.8766,
-      "importance_score": 0.8766,
+      "score": 0.8741,
+      "importance": 0.8741,
+      "importance_score": 0.8741,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9531,
+        "recency": 0.9394,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8585,
-      "importance": 0.8585,
-      "importance_score": 0.8585,
+      "score": 0.856,
+      "importance": 0.856,
+      "importance_score": 0.856,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9918,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,6 +144,68 @@
         "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
         "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_52be363e70b3",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9727,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9232,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,68 +268,6 @@
         "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ab799e9da743",
-      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.9229,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -308,7 +308,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -353,7 +353,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -363,15 +363,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8184,
+        "recency": 0.8066,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -388,6 +388,68 @@
         "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ab799e9da743",
+      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T14:00:51Z",
+      "latest_at": "2026-08-12T14:00:51Z",
+      "primary_item": {
+        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -425,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8221,
+        "recency": 0.8102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,21 +515,21 @@
       }
     },
     {
-      "story_id": "story_dad741422848",
-      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "story_id": "story_50336f408dcb",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "source_count": 1,
@@ -476,26 +538,26 @@
       ],
       "items": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
+        "ai_relevance": 0.87,
+        "recency": 0.9706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,12 +566,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
       "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -568,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,87 +715,6 @@
         "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
         "url": "https://www.ithome.com/0/989/001.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_72f52ad1b938",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        },
-        {
-          "id": "6d847b3ebace5350af849256b37529eb3f71a6ed",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        },
-        {
-          "id": "6d847b3ebace5350af849256b37529eb3f71a6ed",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7084,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T19:41:42Z",
-      "latest_at": "2026-08-11T19:41:42Z",
-      "primary_item": {
-        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -791,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -816,68 +797,6 @@
         "url": "https://x.ai/news/grok-4-6",
         "source": "xAI：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_81bd7a517074",
-      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7161,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:26:26Z",
-      "latest_at": "2026-08-11T20:26:26Z",
-      "primary_item": {
-        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -915,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8965,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -975,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,6 +916,66 @@
         "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
         "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
         "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_722d2c551110",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9956,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51.977000Z",
+      "latest_at": "2026-08-12T20:15:51.977000Z",
+      "primary_item": {
+        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1035,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,66 +1036,6 @@
         "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
         "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
         "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_98901d66db3b",
-      "title": "Gemini月活10亿，Gemma下载破10亿",
-      "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
-      "primary_url": "https://x.com/OfficialLoganK/status/2087262466703286652",
-      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4390f25d3c3e2f25da9cde375f677c3c866a82b0",
-          "title": "Gemini月活10亿，Gemma下载破10亿",
-          "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
-          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:38:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Logan Kilpatrick (@OfficialLoganK)"
-      ],
-      "items": [
-        {
-          "id": "4390f25d3c3e2f25da9cde375f677c3c866a82b0",
-          "title": "Gemini月活10亿，Gemma下载破10亿",
-          "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
-          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:38:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T19:38:46Z",
-      "latest_at": "2026-08-11T19:38:46Z",
-      "primary_item": {
-        "id": "4390f25d3c3e2f25da9cde375f677c3c866a82b0",
-        "title": "Gemini月活10亿，Gemma下载破10亿",
-        "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
-        "source": "X：Logan Kilpatrick (@OfficialLoganK)",
         "source_name": "AI HOT"
       }
     },
@@ -1155,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1296,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1323,63 +1242,165 @@
       }
     },
     {
-      "story_id": "story_ec0d34d30f20",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_456fc214b456",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:09:29.609312Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:09:29.609312Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.62,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9098,
-        "story_heat": 0.0
+        "recency": 0.8359,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
+      "earliest_at": "2026-08-12T08:09:29.609312Z",
+      "latest_at": "2026-08-12T08:09:29.609312Z",
       "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_31a51d9a09e9",
+      "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+      "url": "https://www.aibase.com/news/30283",
+      "primary_url": "https://www.aibase.com/news/30283",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+          "url": "https://www.aibase.com/news/30283",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:09:29.609312Z"
+        },
+        {
+          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
+          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
+          "url": "https://www.aibase.com/zh/news/30283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+          "url": "https://www.aibase.com/news/30283",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:09:29.609312Z"
+        },
+        {
+          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
+          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
+          "url": "https://www.aibase.com/zh/news/30283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8359,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T08:09:29.609312Z",
+      "latest_at": "2026-08-12T09:36:48.929191Z",
+      "primary_item": {
+        "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+        "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+        "url": "https://www.aibase.com/news/30283",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
