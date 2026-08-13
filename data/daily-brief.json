@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:50:14.119044Z",
+  "generated_at": "2026-08-13T14:16:49.984702Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7428,
+        "recency": 0.7274,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "OlmoEarth Studio 推出自定义嵌入导出功能 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
         "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d0656ae81e3d",
+      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T19:00:00Z",
+      "latest_at": "2026-08-12T19:00:00Z",
+      "primary_item": {
+        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -157,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "recency": 0.9398,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -182,68 +244,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
         "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d0656ae81e3d",
-      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7729,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T19:00:00Z",
-      "latest_at": "2026-08-12T19:00:00Z",
-      "primary_item": {
-        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7691,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,68 +305,6 @@
         "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9c2d2be8f210",
-      "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "primary_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7194,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:01:59Z",
-      "latest_at": "2026-08-12T14:01:59Z",
-      "primary_item": {
-        "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-        "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -405,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.9524,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -510,68 +448,6 @@
         "url": "https://www.aibase.com/news/30324",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab799e9da743",
-      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7192,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -609,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7674,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8471,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9547,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -776,6 +652,66 @@
         "url": "https://www.aibase.com/news/30323",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91f58f322619",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "primary_url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+          "title": "DeepSeek Harness v0.1 开发者预览版发布",
+          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T13:02:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：DeepSeek (@deepseek_ai)"
+      ],
+      "items": [
+        {
+          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+          "title": "DeepSeek Harness v0.1 开发者预览版发布",
+          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T13:02:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T13:02:03Z",
+      "latest_at": "2026-08-13T13:02:03Z",
+      "primary_item": {
+        "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+        "title": "DeepSeek Harness v0.1 开发者预览版发布",
+        "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+        "source": "X：DeepSeek (@deepseek_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -813,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7419,
+        "recency": 0.7266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,15 +828,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +990,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6399,
-      "importance": 0.6399,
-      "importance_score": 0.6399,
+      "score": 0.6369,
+      "importance": 0.6369,
+      "importance_score": 0.6369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8123,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1151,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.8994,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1350,15 +1286,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6152,
-      "importance": 0.6152,
-      "importance_score": 0.6152,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9689,
+        "recency": 0.9489,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1429,15 +1365,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.8994,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1457,138 +1393,163 @@
       }
     },
     {
-      "story_id": "story_52fa033e5f1f",
-      "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-      "url": "https://news.ycombinator.com/item?id=49271994",
-      "primary_url": "https://news.ycombinator.com/item?id=49271994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_77da1d8caea4",
+      "title": "Made by Google '26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "primary_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:38:16.958000Z"
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google '26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
         },
         {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "blog.florianherrengt.com",
-        "hackernews"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:38:16.958000Z"
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google '26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
         },
         {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5853,
-      "importance": 0.5853,
-      "importance_score": 0.5853,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8029,
-        "story_heat": 1.0
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7077,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-12T13:20:05Z",
-      "latest_at": "2026-08-12T21:38:16.958000Z",
+      "earliest_at": "2026-08-12T14:20:33Z",
+      "latest_at": "2026-08-12T14:20:33Z",
       "primary_item": {
-        "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-        "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-        "url": "https://news.ycombinator.com/item?id=49271994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+        "title": "Made by Google '26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_e386e6d144f0",
+      "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+      "url": "https://www.aibase.com/news/30315",
+      "primary_url": "https://www.aibase.com/news/30315",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T06:56:11.142726Z"
+        },
+        {
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T06:56:11.142726Z"
+        },
+        {
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8994,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T06:56:11.142726Z",
+      "latest_at": "2026-08-13T08:14:51.779811Z",
+      "primary_item": {
+        "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+        "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+        "url": "https://www.aibase.com/news/30315",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
