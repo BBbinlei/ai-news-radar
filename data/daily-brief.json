@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:26:26.031202Z",
+  "generated_at": "2026-08-13T18:24:33.963583Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -28,10 +28,20 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "OpenAI News",
         "Readhub · AI"
       ],
@@ -53,20 +63,29 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8667,
-      "importance": 0.8667,
-      "importance_score": 0.8667,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8894,
+      "importance": 0.8894,
+      "importance_score": 0.8894,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8981,
-        "story_heat": 0.25
+        "recency": 0.8856,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -82,6 +101,170 @@
         "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
         "url": "https://openai.com/index/previewing-ultrafast",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e83d70611f6b",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        },
+        {
+          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        },
+        {
+          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8736,
+      "importance": 0.8736,
+      "importance_score": 0.8736,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_76c77512e473",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        },
+        {
+          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        },
+        {
+          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9763,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8656,
-      "importance": 0.8656,
-      "importance_score": 0.8656,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9975,
+        "recency": 0.9836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,126 +331,84 @@
       }
     },
     {
-      "story_id": "story_e83d70611f6b",
-      "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
+      "story_id": "story_855fa77e93e1",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google DeepMind"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8667,
+      "importance": 0.8667,
+      "importance_score": 0.8667,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9947,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.8985,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T17:04:18Z",
-      "latest_at": "2026-08-13T17:04:18Z",
+      "earliest_at": "2026-08-13T11:00:00Z",
+      "latest_at": "2026-08-13T11:00:00Z",
       "primary_item": {
-        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_76c77512e473",
-      "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9901,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
-      "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
+        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7232,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +546,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8854,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -467,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7196,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -491,68 +632,6 @@
         "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9e022b7caa78",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8852,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
-      "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -591,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7774,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,15 +732,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.9021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -758,6 +837,68 @@
         "url": "https://www.aibase.com/news/30324",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9e022b7caa78",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8729,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
+      "primary_item": {
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -795,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7181,
+        "recency": 0.7081,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,21 +998,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7926,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T01:20:54.259000Z",
       "latest_at": "2026-08-13T01:20:54.259000Z",
@@ -918,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.9394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8933,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1059,15 +1199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9253,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,6 +1281,66 @@
         "title": "DeepSeek Harness v0.1 开发者预览版发布",
         "url": "https://x.com/deepseek_ai/status/2087887408440164663",
         "source": "X：DeepSeek (@deepseek_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fec4301fea3d",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "url": "https://cursor.com/blog/builds",
+      "primary_url": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9116,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T12:00:00Z",
+      "latest_at": "2026-08-13T12:00:00Z",
+      "primary_item": {
+        "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+        "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+        "url": "https://cursor.com/blog/builds",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1198,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1221,168 +1421,6 @@
         "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
         "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
         "url": "https://www.aibase.com/news/30317",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_796235c08104",
-      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-      "url": "https://www.aibase.com/news/30318",
-      "primary_url": "https://www.aibase.com/news/30318",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:14:51.779811Z"
-        },
-        {
-          "id": "75e24cec0594c48add750165f6576e330faa5240",
-          "title": "Anthropic 被曝拟 10 月上市，目标估值或超 2 万亿美元",
-          "url": "https://www.aibase.com/zh/news/30318",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:14:51.779811Z"
-        },
-        {
-          "id": "75e24cec0594c48add750165f6576e330faa5240",
-          "title": "Anthropic 被曝拟 10 月上市，目标估值或超 2 万亿美元",
-          "url": "https://www.aibase.com/zh/news/30318",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8757,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T08:14:51.779811Z",
-      "latest_at": "2026-08-13T09:37:46.273428Z",
-      "primary_item": {
-        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "url": "https://www.aibase.com/news/30318",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_887703856285",
-      "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-      "url": "https://www.aibase.com/news/30319",
-      "primary_url": "https://www.aibase.com/news/30319",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "url": "https://www.aibase.com/news/30319",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:14:51.779811Z"
-        },
-        {
-          "id": "c8fe24b6e7db12dd3044f83f28125f6e6cf0e618",
-          "title": "哈萨比斯卸任前密谋「AI 原子能机构」：已与美国财长通气，对标国际原子能机构",
-          "url": "https://www.aibase.com/zh/news/30319",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "url": "https://www.aibase.com/news/30319",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:14:51.779811Z"
-        },
-        {
-          "id": "c8fe24b6e7db12dd3044f83f28125f6e6cf0e618",
-          "title": "哈萨比斯卸任前密谋「AI 原子能机构」：已与美国财长通气，对标国际原子能机构",
-          "url": "https://www.aibase.com/zh/news/30319",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8757,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T08:14:51.779811Z",
-      "latest_at": "2026-08-13T09:37:46.273428Z",
-      "primary_item": {
-        "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-        "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-        "url": "https://www.aibase.com/news/30319",
         "source": "AIbase",
         "source_name": "AIbase"
       }
