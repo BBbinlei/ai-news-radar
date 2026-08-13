@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:54:21.959909Z",
+  "generated_at": "2026-08-13T11:40:00.128511Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7638,
+        "recency": 0.7554,
         "story_heat": 0.25
       },
       "category": "official",
@@ -157,15 +157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7948,
+        "recency": 0.7861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7908,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7398,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,6 +368,67 @@
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:16:42.199000Z",
+      "latest_at": "2026-08-13T11:16:42.199000Z",
+      "primary_item": {
+        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -424,15 +485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9891,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -486,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7396,
+        "recency": 0.7315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7891,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -610,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +751,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.971,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,15 +973,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7607,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1053,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1134,15 +1195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6441,
-      "importance": 0.6441,
-      "importance_score": 0.6441,
+      "score": 0.6424,
+      "importance": 0.6424,
+      "importance_score": 0.6424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8353,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1214,15 +1275,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9443,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1349,15 +1410,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6201,
-      "importance": 0.6201,
-      "importance_score": 0.6201,
+      "score": 0.6182,
+      "importance": 0.6182,
+      "importance_score": 0.6182,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9854,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1428,15 +1489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9443,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1453,141 +1514,6 @@
         "url": "https://www.aibase.com/news/30314",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_52fa033e5f1f",
-      "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-      "url": "https://news.ycombinator.com/item?id=49271994",
-      "primary_url": "https://news.ycombinator.com/item?id=49271994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:38:16.958000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "blog.florianherrengt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:38:16.958000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8256,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T13:20:05Z",
-      "latest_at": "2026-08-12T21:38:16.958000Z",
-      "primary_item": {
-        "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-        "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-        "url": "https://news.ycombinator.com/item?id=49271994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
