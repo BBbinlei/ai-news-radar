@@ -1,52 +1,134 @@
 {
-  "generated_at": "2026-08-13T16:24:06.434364Z",
+  "generated_at": "2026-08-13T17:26:26.031202Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9e022b7caa78",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "story_id": "story_6357d7795d21",
+      "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "primary_url": "https://openai.com/index/previewing-ultrafast",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
+          "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "5424f720f13b133b8464bd371a7eb5d82236d9a8",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
+          "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "5424f720f13b133b8464bd371a7eb5d82236d9a8",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8667,
+      "importance": 0.8667,
+      "importance_score": 0.8667,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8986,
+        "ai_relevance": 0.95,
+        "recency": 0.8981,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T10:00:00Z",
+      "latest_at": "2026-08-13T17:26:26.031202Z",
+      "primary_item": {
+        "id": "5175d87bcae80ab0d848d51674956034c540468a",
+        "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c1c988556190",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8656,
+      "importance": 0.8656,
+      "importance_score": 0.8656,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9975,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,13 +137,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
       "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI News",
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e83d70611f6b",
+      "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_76c77512e473",
+      "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9901,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7341,
+        "recency": 0.7232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,15 +405,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8979,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -261,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7305,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,6 +491,130 @@
         "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9e022b7caa78",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8852,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
+      "primary_item": {
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5fa28c256021",
+      "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "primary_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7774,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+        "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -323,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -403,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -465,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7289,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9671,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,6 +1022,66 @@
         "url": "https://www.aibase.com/news/30323",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6b099c141599",
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "primary_url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9918,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T16:52:23.676000Z",
+      "latest_at": "2026-08-13T16:52:23.676000Z",
+      "primary_item": {
+        "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+        "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+        "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -729,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -889,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -970,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,576 +1385,6 @@
         "url": "https://www.aibase.com/news/30319",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3daa30d9847f",
-      "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-      "primary_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b7eb1383206875cd57f20e2a13046b68dfd1697a",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
-        },
-        {
-          "id": "207fe486cf41e0d55d4e1087f8f5e7fd35c927fe",
-          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T10:23:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "b7eb1383206875cd57f20e2a13046b68dfd1697a",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
-        },
-        {
-          "id": "207fe486cf41e0d55d4e1087f8f5e7fd35c927fe",
-          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T10:23:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6326,
-      "importance": 0.6326,
-      "importance_score": 0.6326,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7716,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T22:26:37Z",
-      "latest_at": "2026-08-13T10:23:51Z",
-      "primary_item": {
-        "id": "b7eb1383206875cd57f20e2a13046b68dfd1697a",
-        "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_55cead6657f8",
-      "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-      "url": "https://www.aibase.com/news/30310",
-      "primary_url": "https://www.aibase.com/news/30310",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
-          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-          "url": "https://www.aibase.com/news/30310",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:56:11.142726Z"
-        },
-        {
-          "id": "d50f50cde30bd317ea63a19307a944ed2b0714af",
-          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-          "url": "https://www.aibase.com/zh/news/30310",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
-          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-          "url": "https://www.aibase.com/news/30310",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:56:11.142726Z"
-        },
-        {
-          "id": "d50f50cde30bd317ea63a19307a944ed2b0714af",
-          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-          "url": "https://www.aibase.com/zh/news/30310",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8722,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T06:56:11.142726Z",
-      "latest_at": "2026-08-13T06:56:11.142726Z",
-      "primary_item": {
-        "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
-        "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
-        "url": "https://www.aibase.com/news/30310",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7fe7ad3947d7",
-      "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8e82d1bbf4175f9ca10c9e480a51188d80296a26",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T10:39:02Z"
-        },
-        {
-          "id": "0d5ad6d5c814a1468742f1f19574e919c0e7125c",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch faces backlash over Amazon using content to train AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T07:32:07Z"
-        },
-        {
-          "id": "1a84a13d5907c15223a4ff6c624b212c35c75217",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users can block Amazon from using content for AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T06:44:53Z"
-        },
-        {
-          "id": "e00d4d5b01aa130001e11c11be52d2a58c034407",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T03:48:02.236000Z"
-        },
-        {
-          "id": "b5b09e19a94109428d2ad5f2d5af4884694b92e2",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users can now block Amazon from using their content to train AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T02:46:04Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "8e82d1bbf4175f9ca10c9e480a51188d80296a26",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T10:39:02Z"
-        },
-        {
-          "id": "0d5ad6d5c814a1468742f1f19574e919c0e7125c",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch faces backlash over Amazon using content to train AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T07:32:07Z"
-        },
-        {
-          "id": "1a84a13d5907c15223a4ff6c624b212c35c75217",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users can block Amazon from using content for AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T06:44:53Z"
-        },
-        {
-          "id": "e00d4d5b01aa130001e11c11be52d2a58c034407",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T03:48:02.236000Z"
-        },
-        {
-          "id": "b5b09e19a94109428d2ad5f2d5af4884694b92e2",
-          "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users can now block Amazon from using their content to train AI",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T02:46:04Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6065,
-      "importance": 0.6065,
-      "importance_score": 0.6065,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9203,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T02:46:04Z",
-      "latest_at": "2026-08-13T10:39:02Z",
-      "primary_item": {
-        "id": "8e82d1bbf4175f9ca10c9e480a51188d80296a26",
-        "title": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练人工智能 / Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-        "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b650bb1e15d8",
-      "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-      "url": "https://www.aibase.com/news/30314",
-      "primary_url": "https://www.aibase.com/news/30314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-          "url": "https://www.aibase.com/news/30314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:56:11.142726Z"
-        },
-        {
-          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
-          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
-          "url": "https://www.aibase.com/zh/news/30314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-          "url": "https://www.aibase.com/news/30314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:56:11.142726Z"
-        },
-        {
-          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
-          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
-          "url": "https://www.aibase.com/zh/news/30314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8722,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T06:56:11.142726Z",
-      "latest_at": "2026-08-13T06:56:11.142726Z",
-      "primary_item": {
-        "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-        "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-        "url": "https://www.aibase.com/news/30314",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dd53fcf32880",
-      "title": "显示 HN：MCP 内存 – 使用 Google 的 OKF 和 SQLite FTS5 的快速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "url": "https://news.ycombinator.com/item?id=49286073",
-      "primary_url": "https://news.ycombinator.com/item?id=49286073",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5324b30212c2bc9b47d6c6cc8330c290564a9ece",
-          "title": "显示 HN：MCP 内存 – 使用 Google 的 OKF 和 SQLite FTS5 的快速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "url": "https://news.ycombinator.com/item?id=49286073",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T15:17:47.050000Z"
-        },
-        {
-          "id": "b0b31941fb4406c15cc580bc9cf5ff3ff24511d2",
-          "title": "Show HN: MCP 内存——利用 Google 的 OKF 和 SQLite FTS5 实现的高速代理内存",
-          "url": "https://github.com/fellowgeek/mcp-memory",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T14:12:09.001000Z"
-        },
-        {
-          "id": "27c11982e265c8e044c483b751ab50b1ef9cf5a9",
-          "title": "Show HN: MCP 内存——利用 Google 的 OKF 和 SQLite FTS5 实现的高速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "url": "https://github.com/fellowgeek/mcp-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T13:57:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5324b30212c2bc9b47d6c6cc8330c290564a9ece",
-          "title": "显示 HN：MCP 内存 – 使用 Google 的 OKF 和 SQLite FTS5 的快速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "url": "https://news.ycombinator.com/item?id=49286073",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T15:17:47.050000Z"
-        },
-        {
-          "id": "b0b31941fb4406c15cc580bc9cf5ff3ff24511d2",
-          "title": "Show HN: MCP 内存——利用 Google 的 OKF 和 SQLite FTS5 实现的高速代理内存",
-          "url": "https://github.com/fellowgeek/mcp-memory",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T14:12:09.001000Z"
-        },
-        {
-          "id": "27c11982e265c8e044c483b751ab50b1ef9cf5a9",
-          "title": "Show HN: MCP 内存——利用 Google 的 OKF 和 SQLite FTS5 实现的高速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "url": "https://github.com/fellowgeek/mcp-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T13:57:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9842,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T13:57:47Z",
-      "latest_at": "2026-08-13T15:17:47.050000Z",
-      "primary_item": {
-        "id": "5324b30212c2bc9b47d6c6cc8330c290564a9ece",
-        "title": "显示 HN：MCP 内存 – 使用 Google 的 OKF 和 SQLite FTS5 的快速代理内存 / Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-        "url": "https://news.ycombinator.com/item?id=49286073",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_83ef0e78131d",
-      "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
-          "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T14:44:13.843000Z"
-        },
-        {
-          "id": "52eb0e9e3a91a0c53a1dc826be2bc0f758c166f5",
-          "title": "Anthropic称正就以60亿美元收购初创公司Decart进行谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T02:12:23.537000Z"
-        },
-        {
-          "id": "c814155293ee464fa3f0dbf6a69b8839aba2ad05",
-          "title": "Anthropic称正就以60亿美元收购初创公司Decart进行谈判 / Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T01:50:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
-          "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T14:44:13.843000Z"
-        },
-        {
-          "id": "52eb0e9e3a91a0c53a1dc826be2bc0f758c166f5",
-          "title": "Anthropic称正就以60亿美元收购初创公司Decart进行谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T02:12:23.537000Z"
-        },
-        {
-          "id": "c814155293ee464fa3f0dbf6a69b8839aba2ad05",
-          "title": "Anthropic称正就以60亿美元收购初创公司Decart进行谈判 / Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T01:50:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9762,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T01:50:27Z",
-      "latest_at": "2026-08-13T14:44:13.843000Z",
-      "primary_item": {
-        "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
-        "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
