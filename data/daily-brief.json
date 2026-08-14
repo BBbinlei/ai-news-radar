@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:09:31.747892Z",
+  "generated_at": "2026-08-14T15:13:02.466091Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9467,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7375,
+        "recency": 0.7263,
         "story_heat": 0.25
       },
       "category": "official",
@@ -201,6 +201,68 @@
         "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
         "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d556a48bace2",
+      "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8027,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T00:00:00Z",
+      "latest_at": "2026-08-14T00:00:00Z",
+      "primary_item": {
+        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+        "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -258,15 +320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7341,
+        "recency": 0.7229,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,68 +345,6 @@
         "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
         "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c1c988556190",
-      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7396,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:16:04Z",
-      "latest_at": "2026-08-13T17:16:04Z",
-      "primary_item": {
-        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -383,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7609,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,6 +407,68 @@
         "title": "许可数据质量改进 / License data quality improvements",
         "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c1c988556190",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7284,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
+      "primary_item": {
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -464,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.9213,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,6 +551,67 @@
         "url": "https://www.aibase.com/news/30362",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6c975d4feeb5",
+      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.989,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T14:27:14Z",
+      "latest_at": "2026-08-14T14:27:14Z",
+      "primary_item": {
+        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7588,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,15 +872,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7856,
+        "recency": 0.7737,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8815,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -970,15 +1093,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8815,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1104,15 +1227,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6578,
-      "importance": 0.6578,
-      "importance_score": 0.6578,
+      "score": 0.6558,
+      "importance": 0.6558,
+      "importance_score": 0.6558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 0.7519,
+        "recency": 0.7405,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1183,15 +1306,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8582,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1264,15 +1387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8582,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1345,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6034,
-      "importance": 0.6034,
-      "importance_score": 0.6034,
+      "score": 0.6009,
+      "importance": 0.6009,
+      "importance_score": 0.6009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.933,
+        "recency": 0.9188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8582,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1447,204 +1570,6 @@
         "id": "3abc4e5ad59239f87d86a15c37fe8ec36c957318",
         "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
         "url": "https://www.aibase.com/news/30341",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8f4802b23876",
-      "title": "“AI在家”第一部分：一盒废料",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "primary_url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "source": "jdagostino.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "935e588ecf15106f528d77366a10119a18b3277c",
-          "title": "“AI在家”第一部分：一盒废料",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "jdagostino.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T03:48:12.621000Z"
-        },
-        {
-          "id": "b0a43f13d41a0f924975dd8aee988b49ff9c3853",
-          "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
-          "url": "https://news.ycombinator.com/item?id=49288293",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T18:07:28.447000Z"
-        },
-        {
-          "id": "9b0f928093399392e73df4edd25a10c455cb8d4b",
-          "title": "“AI在家”第一部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-13T16:22:05Z"
-        },
-        {
-          "id": "5a4ecc9cf3eb687adc19a47b67b2f51898789e59",
-          "title": "“AI在家”第一部分：一盒废料 / We Have AI at Home Chapter 1: A Box of Scraps",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-13T16:22:05Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "jdagostino.github.io"
-      ],
-      "items": [
-        {
-          "id": "935e588ecf15106f528d77366a10119a18b3277c",
-          "title": "“AI在家”第一部分：一盒废料",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "jdagostino.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T03:48:12.621000Z"
-        },
-        {
-          "id": "b0a43f13d41a0f924975dd8aee988b49ff9c3853",
-          "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
-          "url": "https://news.ycombinator.com/item?id=49288293",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T18:07:28.447000Z"
-        },
-        {
-          "id": "9b0f928093399392e73df4edd25a10c455cb8d4b",
-          "title": "“AI在家”第一部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-13T16:22:05Z"
-        },
-        {
-          "id": "5a4ecc9cf3eb687adc19a47b67b2f51898789e59",
-          "title": "“AI在家”第一部分：一盒废料 / We Have AI at Home Chapter 1: A Box of Scraps",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-13T16:22:05Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8611,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T16:22:05Z",
-      "latest_at": "2026-08-14T03:48:12.621000Z",
-      "primary_item": {
-        "id": "935e588ecf15106f528d77366a10119a18b3277c",
-        "title": "“AI在家”第一部分：一盒废料",
-        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "source": "jdagostino.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bfa53412fd76",
-      "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-      "url": "https://www.aibase.com/news/30335",
-      "primary_url": "https://www.aibase.com/news/30335",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b10878e6a811459e373d1effc84a944e057262e2",
-          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-          "url": "https://www.aibase.com/news/30335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T03:33:55.235334Z"
-        },
-        {
-          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
-          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "url": "https://www.aibase.com/zh/news/30335",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b10878e6a811459e373d1effc84a944e057262e2",
-          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-          "url": "https://www.aibase.com/news/30335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T03:33:55.235334Z"
-        },
-        {
-          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
-          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "url": "https://www.aibase.com/zh/news/30335",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8582,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T03:33:55.235334Z",
-      "latest_at": "2026-08-14T03:33:55.235334Z",
-      "primary_item": {
-        "id": "b10878e6a811459e373d1effc84a944e057262e2",
-        "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-        "url": "https://www.aibase.com/news/30335",
         "source": "AIbase",
         "source_name": "AIbase"
       }
