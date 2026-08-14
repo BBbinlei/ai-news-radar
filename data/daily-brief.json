@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:01:39.496224Z",
+  "generated_at": "2026-08-14T20:53:06.423987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -75,15 +75,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7489,
+        "recency": 0.7396,
         "story_heat": 0.5
       },
       "category": "official",
@@ -100,68 +100,6 @@
         "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
         "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_61fc6209c742",
-      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9475,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
-      "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -257,15 +195,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8723,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -282,6 +220,68 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
         "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61fc6209c742",
+      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9359,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:17:46Z",
+      "latest_at": "2026-08-14T16:17:46Z",
+      "primary_item": {
+        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9435,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,6 +344,106 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8a4a811ddfc4",
+      "title": "Claude 文本水印机制如何运作",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "克劳德的文本水印如何工作 / How Claude's text watermarking works",
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:36:23.700000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "克劳德的文本水印如何工作 / How Claude's text watermarking works",
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:36:23.700000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9785,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T20:36:23.700000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -400,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.785,
+        "recency": 0.7754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,87 +587,6 @@
         "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8a4a811ddfc4",
-      "title": "Claude 文本水印机制如何运作",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9907,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T19:22:48.546000Z",
-      "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作",
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -624,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8595,
+        "recency": 0.8489,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -686,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -766,15 +785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8796,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -828,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8267,
+        "recency": 0.8166,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7218,
+        "recency": 0.7129,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1129,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1210,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1291,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6391,
-      "importance": 0.6391,
-      "importance_score": 0.6391,
+      "score": 0.6371,
+      "importance": 0.6371,
+      "importance_score": 0.6371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9466,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1370,15 +1389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7884,
+        "recency": 0.7787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1450,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6194,
-      "importance": 0.6194,
-      "importance_score": 0.6194,
+      "score": 0.6173,
+      "importance": 0.6173,
+      "importance_score": 0.6173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9525,
+        "recency": 0.9408,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1529,15 +1548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7884,
+        "recency": 0.7787,
         "story_heat": 0.25
       },
       "category": "industry",
