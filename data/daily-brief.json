@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:41:34.445656Z",
+  "generated_at": "2026-08-16T00:45:54.626991Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.9348,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,15 +137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8199,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -218,15 +218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6619,
-      "importance": 0.6619,
-      "importance_score": 0.6619,
+      "score": 0.6593,
+      "importance": 0.6593,
+      "importance_score": 0.6593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9342,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -354,15 +354,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.617,
-      "importance": 0.617,
-      "importance_score": 0.617,
+      "score": 0.6143,
+      "importance": 0.6143,
+      "importance_score": 0.6143,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9788,
+        "recency": 0.9637,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -451,15 +451,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9374,
+        "recency": 0.923,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -549,15 +549,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9031,
+        "recency": 0.8892,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -572,6 +572,85 @@
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
         "source": "allen.bargi.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_13fe377049bd",
+      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+      "url": "https://www.ithome.com/0/990/207.htm",
+      "primary_url": "https://www.ithome.com/0/990/207.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T23:32:41Z",
+      "latest_at": "2026-08-16T00:45:54.626991Z",
+      "primary_item": {
+        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+        "url": "https://www.ithome.com/0/990/207.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -647,15 +726,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.869,
+        "recency": 0.8556,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -764,15 +843,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.574,
-      "importance": 0.574,
-      "importance_score": 0.574,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8791,
+        "recency": 0.8656,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -843,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9531,
+        "recency": 0.9384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,15 +1177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7772,
+        "recency": 0.7652,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1176,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8741,
+        "recency": 0.8606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8297,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,15 +1432,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9868,
+        "recency": 0.9717,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1376,164 +1455,6 @@
         "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_540b917d9eee",
-      "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-      "url": "https://www.ithome.com/0/990/048.htm",
-      "primary_url": "https://www.ithome.com/0/990/048.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
-          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T06:25:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
-          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T06:25:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7868,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T06:25:45Z",
-      "latest_at": "2026-08-15T07:05:13.410859Z",
-      "primary_item": {
-        "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-        "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-        "url": "https://www.ithome.com/0/990/048.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a24a68501133",
-      "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
-          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T02:13:58.045000Z"
-        },
-        {
-          "id": "377314d71804123b539117226ad83100ddc18e96",
-          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
-          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T00:23:20.043000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
-          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T02:13:58.045000Z"
-        },
-        {
-          "id": "377314d71804123b539117226ad83100ddc18e96",
-          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
-          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T00:23:20.043000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4978,
-      "importance": 0.4978,
-      "importance_score": 0.4978,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7335,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T00:23:20.043000Z",
-      "latest_at": "2026-08-15T02:13:58.045000Z",
-      "primary_item": {
-        "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
-        "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1590,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8297,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,30 +1537,30 @@
       }
     },
     {
-      "story_id": "story_760bd4034f95",
-      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-      "url": "https://www.ithome.com/0/989/999.htm",
-      "primary_url": "https://www.ithome.com/0/989/999.htm",
+      "story_id": "story_540b917d9eee",
+      "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+      "url": "https://www.ithome.com/0/990/048.htm",
+      "primary_url": "https://www.ithome.com/0/990/048.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
+          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+          "url": "https://www.ithome.com/0/990/048.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
+          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
+          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+          "url": "https://www.ithome.com/0/990/048.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
+          "published_at": "2026-08-15T06:25:45Z"
         }
       ],
       "source_count": 2,
@@ -1649,127 +1570,207 @@
       ],
       "items": [
         {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
+          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+          "url": "https://www.ithome.com/0/990/048.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
+          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
+          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+          "url": "https://www.ithome.com/0/990/048.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
+          "published_at": "2026-08-15T06:25:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7326,
+        "recency": 0.7747,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T01:43:10Z",
-      "latest_at": "2026-08-15T02:08:48.774048Z",
+      "earliest_at": "2026-08-15T06:25:45Z",
+      "latest_at": "2026-08-15T07:05:13.410859Z",
       "primary_item": {
-        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-        "url": "https://www.ithome.com/0/989/999.htm",
+        "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+        "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+        "url": "https://www.ithome.com/0/990/048.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_a5eaeb028e06",
-      "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "source": "www.reuters.com",
+      "story_id": "story_6585397986fa",
+      "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
-          "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
+          "id": "9b534af4d903899a735a8130a35795f50995d60a",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T00:39:17.549000Z"
+          "published_at": "2026-08-15T10:30:00.744000Z"
         },
         {
-          "id": "253a25bcf7c62b09a817c9d210fb19b99efff2a9",
-          "title": "据《华尔街日报》报道，英伟达缩减了对OpenAI数据中心的2500亿美元担保额度",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T23:51:59.730000Z"
+          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:25:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.reuters.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
-          "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
+          "id": "9b534af4d903899a735a8130a35795f50995d60a",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T00:39:17.549000Z"
+          "published_at": "2026-08-15T10:30:00.744000Z"
         },
         {
-          "id": "253a25bcf7c62b09a817c9d210fb19b99efff2a9",
-          "title": "据《华尔街日报》报道，英伟达缩减了对OpenAI数据中心的2500亿美元担保额度",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T23:51:59.730000Z"
+          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:25:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.717,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T23:51:59.730000Z",
-      "latest_at": "2026-08-15T00:39:17.549000Z",
+      "earliest_at": "2026-08-15T10:25:02Z",
+      "latest_at": "2026-08-15T10:30:00.744000Z",
       "primary_item": {
-        "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
-        "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-        "source": "www.reuters.com",
+        "id": "9b534af4d903899a735a8130a35795f50995d60a",
+        "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+        "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6ebdd215fabf",
+      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://news.ycombinator.com/item?id=49313778",
+      "primary_url": "https://news.ycombinator.com/item?id=49313778",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:13:16.339000Z"
+        },
+        {
+          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T20:00:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:13:16.339000Z"
+        },
+        {
+          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T20:00:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9501,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T20:00:14Z",
+      "latest_at": "2026-08-15T21:13:16.339000Z",
+      "primary_item": {
+        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+        "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+        "url": "https://news.ycombinator.com/item?id=49313778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
