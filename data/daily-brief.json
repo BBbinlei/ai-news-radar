@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:43:38.246668Z",
+  "generated_at": "2026-08-17T02:14:22.443961Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,6 +21,15 @@
           "published_at": "2026-08-16T22:00:39Z"
         },
         {
+          "id": "a8f7dd520c79805babb8f9bba229b4ceb8c79656",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T23:45:09Z"
+        },
+        {
           "id": "91385b526bfe9ee224839162a06c4a96dee31c4d",
           "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
@@ -30,8 +39,9 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "Readhub · AI",
         "Simon Willison 博客"
       ],
@@ -46,6 +56,15 @@
           "published_at": "2026-08-16T22:00:39Z"
         },
         {
+          "id": "a8f7dd520c79805babb8f9bba229b4ceb8c79656",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T23:45:09Z"
+        },
+        {
           "id": "91385b526bfe9ee224839162a06c4a96dee31c4d",
           "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
@@ -55,17 +74,98 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9408,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T22:00:39Z",
+      "latest_at": "2026-08-16T23:45:09Z",
+      "primary_item": {
+        "id": "e37a636db32579233e4e64ee024855a5030f5857",
+        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ef461b3789bf",
+      "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+      "url": "https://www.aibase.com/news/30372",
+      "primary_url": "https://www.aibase.com/news/30372",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/zh/news/30372",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/zh/news/30372",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -74,14 +174,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T22:00:39Z",
-      "latest_at": "2026-08-16T22:43:50.918232Z",
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
       "primary_item": {
-        "id": "e37a636db32579233e4e64ee024855a5030f5857",
-        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
+        "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+        "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+        "url": "https://www.aibase.com/news/30372",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dd3ce53774db",
+      "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+      "url": "https://www.aibase.com/news/30379",
+      "primary_url": "https://www.aibase.com/news/30379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "url": "https://www.aibase.com/news/30379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "d9f3af5ac216b9cccd863cf7f5d134a918ce5406",
+          "title": "千问办公首发上线 GLM-5.3 与 DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "url": "https://www.aibase.com/zh/news/30379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "url": "https://www.aibase.com/news/30379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "d9f3af5ac216b9cccd863cf7f5d134a918ce5406",
+          "title": "千问办公首发上线 GLM-5.3 与 DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "url": "https://www.aibase.com/zh/news/30379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+        "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+        "url": "https://www.aibase.com/news/30379",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -100,20 +281,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-16T11:17:57.393000Z"
-        },
-        {
-          "id": "7220c05a173166ccb0abeca98bc421dc3d0fb02b",
-          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:12:53Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -125,28 +296,98 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-16T11:17:57.393000Z"
-        },
-        {
-          "id": "7220c05a173166ccb0abeca98bc421dc3d0fb02b",
-          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:12:53Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 0.8059,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-16T11:17:57.393000Z",
+      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "primary_item": {
+        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_525d24b22877",
+      "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+      "url": "https://www.aibase.com/news/30369",
+      "primary_url": "https://www.aibase.com/news/30369",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "cb24f8a839f2eaf560b0bff9e2fd325e33befe81",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/zh/news/30369",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "cb24f8a839f2eaf560b0bff9e2fd325e33befe81",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/zh/news/30369",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -155,14 +396,257 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T02:12:53Z",
-      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
       "primary_item": {
-        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-        "title": "新兴多智能体系统的模式与问题",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+        "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+        "url": "https://www.aibase.com/news/30369",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_120a28e00ea7",
+      "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+      "url": "https://www.aibase.com/news/30377",
+      "primary_url": "https://www.aibase.com/news/30377",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "url": "https://www.aibase.com/news/30377",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "6a0233c544174773ce49f0ce590bc78f882e6fa7",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "url": "https://www.aibase.com/zh/news/30377",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "url": "https://www.aibase.com/news/30377",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "6a0233c544174773ce49f0ce590bc78f882e6fa7",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "url": "https://www.aibase.com/zh/news/30377",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+        "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+        "url": "https://www.aibase.com/news/30377",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5243b55fd3e2",
+      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+      "url": "https://www.aibase.com/news/30374",
+      "primary_url": "https://www.aibase.com/news/30374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+        "url": "https://www.aibase.com/news/30374",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2dc2c342cc6e",
+      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+      "url": "https://www.aibase.com/news/30381",
+      "primary_url": "https://www.aibase.com/news/30381",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        },
+        {
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+        "url": "https://www.aibase.com/news/30381",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -257,15 +741,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5903,
+      "importance": 0.5903,
+      "importance_score": 0.5903,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 0.9696,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -283,13 +767,83 @@
       }
     },
     {
-      "story_id": "story_7b2c05cb77f7",
-      "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-      "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
-      "primary_url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
-      "source": "Reddit (热门)",
-      "source_name": "Info Flow",
+      "story_id": "story_2ed71d999b2d",
+      "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+      "url": "https://www.aibase.com/news/30370",
+      "primary_url": "https://www.aibase.com/news/30370",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
+        {
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+        "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+        "url": "https://www.aibase.com/news/30370",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7b2c05cb77f7",
+      "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T22:50:38Z"
+        },
         {
           "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
           "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
@@ -318,14 +872,24 @@
           "published_at": "2026-08-16T16:30:38Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Business Insider",
+        "Hacker News · 24h最热",
         "Reddit (热门)",
         "www.businessinsider.com"
       ],
       "items": [
         {
+          "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T22:50:38Z"
+        },
+        {
           "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
           "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
           "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
@@ -353,31 +917,190 @@
           "published_at": "2026-08-16T16:30:38Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5872,
+      "importance": 0.5872,
+      "importance_score": 0.5872,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9033,
-        "story_heat": 0.5
+        "recency": 0.9521,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-16T16:30:38Z",
-      "latest_at": "2026-08-16T17:41:11Z",
+      "latest_at": "2026-08-16T22:50:38Z",
       "primary_item": {
-        "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
-        "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-        "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
-        "source": "Reddit (热门)",
-        "source_name": "Info Flow"
+        "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
+        "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+        "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_7ec51ac786a3",
+      "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
+          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T01:58:00.413000Z"
+        },
+        {
+          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
+          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://news.ycombinator.com/item?id=49323686",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:45:01.102000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
+          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T01:58:00.413000Z"
+        },
+        {
+          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
+          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://news.ycombinator.com/item?id=49323686",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:45:01.102000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T21:45:01.102000Z",
+      "latest_at": "2026-08-17T01:58:00.413000Z",
+      "primary_item": {
+        "id": "6962d16e18858c5af97e060c22654b99471b85d1",
+        "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b838f73f732",
+      "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+      "url": "https://www.aibase.com/news/30376",
+      "primary_url": "https://www.aibase.com/news/30376",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+          "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "url": "https://www.aibase.com/news/30376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+          "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "url": "https://www.aibase.com/news/30376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:22.443961Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:22.443961Z",
+      "latest_at": "2026-08-17T02:14:22.443961Z",
+      "primary_item": {
+        "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+        "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+        "url": "https://www.aibase.com/news/30376",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -453,15 +1176,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5528,
-      "importance": 0.5528,
-      "importance_score": 0.5528,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9002,
+        "recency": 0.8807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -479,99 +1202,80 @@
       }
     },
     {
-      "story_id": "story_eb6ce119e52b",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "story_id": "story_4ec42b566a57",
+      "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+      "url": "https://news.ycombinator.com/item?id=49323136",
+      "primary_url": "https://news.ycombinator.com/item?id=49323136",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
+          "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
+          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+          "url": "https://news.ycombinator.com/item?id=49323136",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T15:14:34.175000Z"
+          "published_at": "2026-08-17T01:55:45.733000Z"
         },
         {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
+          "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
+          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:01:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "wildstatic.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
+          "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
+          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+          "url": "https://news.ycombinator.com/item?id=49323136",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T15:14:34.175000Z"
+          "published_at": "2026-08-17T01:55:45.733000Z"
         },
         {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
+          "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
+          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:01:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
-        "story_heat": 0.5
+        "recency": 0.9955,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:14:34.175000Z",
+      "earliest_at": "2026-08-16T20:01:13Z",
+      "latest_at": "2026-08-17T01:55:45.733000Z",
       "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "url": "https://news.ycombinator.com/item?id=49319814",
+        "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
+        "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+        "url": "https://news.ycombinator.com/item?id=49323136",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -630,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9986,
+        "recency": 0.9771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -788,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,15 +1590,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8049,
+        "recency": 0.7875,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -965,15 +1669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -988,716 +1692,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e81108c281d1",
-      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T18:30:21.826000Z"
-        },
-        {
-          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.195000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "finance.yahoo.com",
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T18:30:21.826000Z"
-        },
-        {
-          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.195000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9141,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T17:26:40.195000Z",
-      "latest_at": "2026-08-16T18:30:21.826000Z",
-      "primary_item": {
-        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9ffac573dcb5",
-      "title": "克劳德：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "platform.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "克劳德：系统提示 / Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "platform.claude.com"
-      ],
-      "items": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "克劳德：系统提示 / Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8628,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T12:48:21Z",
-      "latest_at": "2026-08-16T14:30:18.432000Z",
-      "primary_item": {
-        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-        "title": "克劳德：系统提示",
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "source": "platform.claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b9f31d789bca",
-      "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-      "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-      "primary_url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T12:21:59.554000Z"
-        },
-        {
-          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T09:33:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T12:21:59.554000Z"
-        },
-        {
-          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T09:33:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8365,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T09:33:01Z",
-      "latest_at": "2026-08-16T12:21:59.554000Z",
-      "primary_item": {
-        "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-        "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-        "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_18720c8fd598",
-      "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
-      "url": "https://www.ithome.com/0/990/423.htm",
-      "primary_url": "https://www.ithome.com/0/990/423.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
-          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
-          "url": "https://www.ithome.com/0/990/423.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
-          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
-          "url": "https://www.ithome.com/0/990/423.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:34:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
-          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
-          "url": "https://www.ithome.com/0/990/423.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
-          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
-          "url": "https://www.ithome.com/0/990/423.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:34:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T23:34:20Z",
-      "latest_at": "2026-08-17T00:43:38.246668Z",
-      "primary_item": {
-        "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
-        "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
-        "url": "https://www.ithome.com/0/990/423.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9b780e5528de",
-      "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "primary_url": "https://github.com/akitaonrails/ai-memory",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T11:29:51.730000Z"
-        },
-        {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T11:29:51.730000Z"
-        },
-        {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8261,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T11:12:12.594913Z",
-      "latest_at": "2026-08-16T11:29:51.730000Z",
-      "primary_item": {
-        "id": "e093aec71608c94ab78108d3149519fad3663164",
-        "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-        "url": "https://github.com/akitaonrails/ai-memory",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7a6396a7eebd",
-      "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-      "url": "https://www.ithome.com/0/990/368.htm",
-      "primary_url": "https://www.ithome.com/0/990/368.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "67fe24f91b6874eaca95e722c18e1b735817009a",
-          "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-          "url": "https://www.ithome.com/0/990/368.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:05:09Z"
-        },
-        {
-          "id": "97f7da0ce84daa91bd3d260bbac9db10c7070b60",
-          "title": "全球首个因反 AI 入狱者呼吁奥尔特曼、达里奥、扎克伯格“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-          "url": "https://www.ithome.com/0/990/368.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:05:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "67fe24f91b6874eaca95e722c18e1b735817009a",
-          "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-          "url": "https://www.ithome.com/0/990/368.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:05:09Z"
-        },
-        {
-          "id": "97f7da0ce84daa91bd3d260bbac9db10c7070b60",
-          "title": "全球首个因反 AI 入狱者呼吁奥尔特曼、达里奥、扎克伯格“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-          "url": "https://www.ithome.com/0/990/368.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:05:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8212,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T11:05:09Z",
-      "latest_at": "2026-08-16T11:05:09Z",
-      "primary_item": {
-        "id": "67fe24f91b6874eaca95e722c18e1b735817009a",
-        "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-        "url": "https://www.ithome.com/0/990/368.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_186740912b76",
-      "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "url": "https://news.ycombinator.com/item?id=49323932",
-      "primary_url": "https://news.ycombinator.com/item?id=49323932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:45:08.332000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:45:08.332000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9719,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:34:06Z",
-      "latest_at": "2026-08-16T22:45:08.332000Z",
-      "primary_item": {
-        "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-        "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-        "url": "https://news.ycombinator.com/item?id=49323932",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_425771fe0c90",
-      "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-      "url": "https://github.com/mldsveda/PyScrappy",
-      "primary_url": "https://github.com/mldsveda/PyScrappy",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T07:50:00.742000Z"
-        },
-        {
-          "id": "ce61fce5d8f3257d4d8ae1b4eb65b47e9e32c002",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器 / Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:46:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T07:50:00.742000Z"
-        },
-        {
-          "id": "ce61fce5d8f3257d4d8ae1b4eb65b47e9e32c002",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器 / Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:46:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7835,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T07:46:40Z",
-      "latest_at": "2026-08-16T07:50:00.742000Z",
-      "primary_item": {
-        "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-        "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-        "url": "https://github.com/mldsveda/PyScrappy",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_007e645643fb",
-      "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-      "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T10:45:57.134000Z"
-        },
-        {
-          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T10:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T10:45:57.134000Z"
-        },
-        {
-          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T10:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8174,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T10:30:01Z",
-      "latest_at": "2026-08-16T10:45:57.134000Z",
-      "primary_item": {
-        "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-        "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-        "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
