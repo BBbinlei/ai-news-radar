@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:03:28.692359Z",
+  "generated_at": "2026-08-18T14:59:23.896149Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8772,
-      "importance": 0.8772,
-      "importance_score": 0.8772,
+      "score": 0.8749,
+      "importance": 0.8749,
+      "importance_score": 0.8749,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9568,
+        "recency": 0.944,
         "story_heat": 0.25
       },
       "category": "official",
@@ -101,11 +101,21 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
@@ -116,24 +126,34 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8163,
-        "story_heat": 0.0
+        "recency": 0.8054,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -239,15 +259,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7851,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -301,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9568,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,15 +420,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.9132,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -462,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7272,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7679,
+        "recency": 0.7577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -549,125 +569,6 @@
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_28308b9ffb2f",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
-          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
-          "url": "https://news.ycombinator.com/item?id=49331220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:40:27.207000Z"
-        },
-        {
-          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
-          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.librarian.net"
-      ],
-      "items": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
-          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
-          "url": "https://news.ycombinator.com/item?id=49331220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:40:27.207000Z"
-        },
-        {
-          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
-          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7482,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T14:07:56Z",
-      "latest_at": "2026-08-17T17:58:12.144000Z",
-      "primary_item": {
-        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "url": "https://www.librarian.net/notoai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -724,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.9352,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,86 +650,6 @@
         "url": "https://www.aibase.com/news/30444",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_962d67b2da8d",
-      "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元",
-      "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-      "primary_url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "01dc7181a87a9a550c9d16621907e7c7540a8b4c",
-          "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元",
-          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T14:13:26Z"
-        },
-        {
-          "id": "1380017a530964701678226faaf1c34859133530",
-          "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元 / OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:13:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "01dc7181a87a9a550c9d16621907e7c7540a8b4c",
-          "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元",
-          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T14:13:26Z"
-        },
-        {
-          "id": "1380017a530964701678226faaf1c34859133530",
-          "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元 / OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:13:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T14:13:26Z",
-      "latest_at": "2026-08-17T14:13:26Z",
-      "primary_item": {
-        "id": "01dc7181a87a9a550c9d16621907e7c7540a8b4c",
-        "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元",
-        "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -866,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9031,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -926,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8159,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,15 +807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9348,
+        "recency": 0.9223,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1088,87 +909,6 @@
         "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
         "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "url": "https://www.aibase.com/news/30441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d274e2e9ef1d",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:42:00.116836Z"
-        },
-        {
-          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
-          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
-          "url": "https://www.ithome.com/0/991/074.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T06:15:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:42:00.116836Z"
-        },
-        {
-          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
-          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
-          "url": "https://www.ithome.com/0/991/074.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T06:15:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9255,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T06:15:12Z",
-      "latest_at": "2026-08-18T08:42:00.116836Z",
-      "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "url": "https://www.aibase.com/news/30439",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1227,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7569,
+        "recency": 0.7468,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1249,6 +989,167 @@
         "id": "4e9af5540cfb87db38c0d740293719051913bff7",
         "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
         "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d274e2e9ef1d",
+      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+      "url": "https://www.aibase.com/news/30439",
+      "primary_url": "https://www.aibase.com/news/30439",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "url": "https://www.aibase.com/news/30439",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:42:00.116836Z"
+        },
+        {
+          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
+          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+          "url": "https://www.ithome.com/0/991/074.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T06:15:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "url": "https://www.aibase.com/news/30439",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:42:00.116836Z"
+        },
+        {
+          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
+          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+          "url": "https://www.ithome.com/0/991/074.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T06:15:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9132,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T06:15:12Z",
+      "latest_at": "2026-08-18T08:42:00.116836Z",
+      "primary_item": {
+        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "url": "https://www.aibase.com/news/30439",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_28308b9ffb2f",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "url": "https://www.librarian.net/notoai",
+      "primary_url": "https://www.librarian.net/notoai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.librarian.net"
+      ],
+      "items": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7382,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T17:58:12.144000Z",
+      "latest_at": "2026-08-17T17:58:12.144000Z",
+      "primary_item": {
+        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "url": "https://www.librarian.net/notoai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1307,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.9132,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1388,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.904,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1468,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6009,
-      "importance": 0.6009,
-      "importance_score": 0.6009,
+      "score": 0.5991,
+      "importance": 0.5991,
+      "importance_score": 0.5991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.734,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.904,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1572,6 +1473,120 @@
         "url": "https://www.aibase.com/news/30434",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-17",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "ebc199a5cbed9810e41b24ccc4882fcbbafdaf02",
+          "title": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:52:11.109671Z"
+        },
+        {
+          "id": "5b847148ed119c1e07bac177abef0db5c396b9f2",
+          "title": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:52:11.109671Z"
+        },
+        {
+          "id": "4a28a52b2da5a6e2d9ddd1a64c787e0b35f138bc",
+          "title": "OpenAI设计负责人Ian Silber这期播客很适合设计师、产品经理、AI创业者看。他讲得很直接：AI已经能做出不错的界面和原型，设计师更要守住判断力——服务谁、解决什么、哪些体验值得保留。来一起看看，AI 时代，设计师该如何转型？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:17:02.248476Z"
+        },
+        {
+          "id": "2f08ad26c6400c2f9373ccc02ec9db8e5ba3c038",
+          "title": "最近模型更新快的，确实有点看不过来， 而且还都说自己很强 。DeepSeek V4 Pro、GLM-5.3 接连更新，豆包推出了 Seed-Evolving，DeepSeek 还发布了自己的 Harness。模型能力在涨，给模型提供工具和执行环境的 Harness 也在进化。梦飞这篇文章把5个国产编程模型放进了同一个真实的代码仓库，处理同一个 Bug，并用轨迹图记录读文件、搜索、修改、测试、报错全过程。来一起看看各个模型的表现效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:17:02.248476Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-08-17"
+      ],
+      "items": [
+        {
+          "id": "ebc199a5cbed9810e41b24ccc4882fcbbafdaf02",
+          "title": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:52:11.109671Z"
+        },
+        {
+          "id": "5b847148ed119c1e07bac177abef0db5c396b9f2",
+          "title": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:52:11.109671Z"
+        },
+        {
+          "id": "4a28a52b2da5a6e2d9ddd1a64c787e0b35f138bc",
+          "title": "OpenAI设计负责人Ian Silber这期播客很适合设计师、产品经理、AI创业者看。他讲得很直接：AI已经能做出不错的界面和原型，设计师更要守住判断力——服务谁、解决什么、哪些体验值得保留。来一起看看，AI 时代，设计师该如何转型？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:17:02.248476Z"
+        },
+        {
+          "id": "2f08ad26c6400c2f9373ccc02ec9db8e5ba3c038",
+          "title": "最近模型更新快的，确实有点看不过来， 而且还都说自己很强 。DeepSeek V4 Pro、GLM-5.3 接连更新，豆包推出了 Seed-Evolving，DeepSeek 还发布了自己的 Harness。模型能力在涨，给模型提供工具和执行环境的 Harness 也在进化。梦飞这篇文章把5个国产编程模型放进了同一个真实的代码仓库，处理同一个 Bug，并用轨迹图记录读文件、搜索、修改、测试、报错全过程。来一起看看各个模型的表现效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T16:17:02.248476Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.595,
+      "importance": 0.595,
+      "importance_score": 0.595,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7266,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T16:17:02.248476Z",
+      "latest_at": "2026-08-17T16:52:11.109671Z",
+      "primary_item": {
+        "id": "ebc199a5cbed9810e41b24ccc4882fcbbafdaf02",
+        "title": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-17",
+        "source_name": "WaytoAGI"
       }
     }
   ]
