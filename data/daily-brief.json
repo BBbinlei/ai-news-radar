@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T14:03:59.435783Z",
+  "generated_at": "2026-08-19T14:59:40.300831Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_22e214c52569",
-      "title": "LFM2.5 Q4\\_0 来自量化感知蒸馏的检查点 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
       "url": "https://huggingface.co/blog/LiquidAI/qad",
       "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
       "source": "Hugging Face Blog",
@@ -13,40 +13,141 @@
       "sources": [
         {
           "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
-          "title": "LFM2.5 Q4\\_0 来自量化感知蒸馏的检查点 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
           "url": "https://huggingface.co/blog/LiquidAI/qad",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-19T13:48:49Z"
+        },
+        {
+          "id": "0025d395dbf80e6df8820e884cf0f6e0aadf8519",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T13:48:49Z"
+        },
+        {
+          "id": "2575490f5f1cd08701af5ff9649df40a4e5682e1",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）",
+        "Readhub · AI"
       ],
       "items": [
         {
           "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
-          "title": "LFM2.5 Q4\\_0 来自量化感知蒸馏的检查点 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
           "url": "https://huggingface.co/blog/LiquidAI/qad",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-19T13:48:49Z"
+        },
+        {
+          "id": "0025d395dbf80e6df8820e884cf0f6e0aadf8519",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T13:48:49Z"
+        },
+        {
+          "id": "2575490f5f1cd08701af5ff9649df40a4e5682e1",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.907,
+      "importance": 0.907,
+      "importance_score": 0.907,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9964,
+        "recency": 0.9831,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T13:48:49Z",
+      "latest_at": "2026-08-19T14:59:40.300831Z",
+      "primary_item": {
+        "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+        "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "url": "https://huggingface.co/blog/LiquidAI/qad",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9ac0643f2427",
+      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,13 +156,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T13:48:49Z",
-      "latest_at": "2026-08-19T13:48:49Z",
+      "earliest_at": "2026-08-19T07:00:00Z",
+      "latest_at": "2026-08-19T07:00:00Z",
       "primary_item": {
-        "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
-        "title": "LFM2.5 Q4\\_0 来自量化感知蒸馏的检查点 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-        "url": "https://huggingface.co/blog/LiquidAI/qad",
-        "source": "Hugging Face Blog",
+        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.984,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,88 +225,6 @@
         "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
         "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_67f37d861d34",
-      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
-        },
-        {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
-        },
-        {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7593,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-18T20:46:15.476210Z",
-      "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7502,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "official",
@@ -288,6 +307,88 @@
         "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_67f37d861d34",
+      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        },
+        {
+          "id": "160fc557ba940badd17468c165904fcacea534fa",
+          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        },
+        {
+          "id": "160fc557ba940badd17468c165904fcacea534fa",
+          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7492,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T19:00:00Z",
+      "latest_at": "2026-08-18T20:46:15.476210Z",
+      "primary_item": {
+        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -364,15 +465,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.8842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -389,68 +490,6 @@
         "url": "https://www.aibase.com/news/30467",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e4563871866d",
-      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7929,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T22:00:00Z",
-      "latest_at": "2026-08-18T22:00:00Z",
-      "primary_item": {
-        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -488,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8109,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,6 +551,68 @@
         "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
         "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e4563871866d",
+      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7824,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T22:00:00Z",
+      "latest_at": "2026-08-18T22:00:00Z",
+      "primary_item": {
+        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -569,15 +670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -631,15 +732,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -711,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -773,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7925,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7982,
+        "recency": 0.7875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7715,
+        "recency": 0.7612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -994,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1075,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8456,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1156,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8456,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1308,15 +1409,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6261,
-      "importance": 0.6261,
-      "importance_score": 0.6261,
+      "score": 0.6243,
+      "importance": 0.6243,
+      "importance_score": 0.6243,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7604,
+        "recency": 0.7503,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1387,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.8316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1468,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.8316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1493,102 +1594,6 @@
         "url": "https://www.aibase.com/news/30453",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1fa6ecfb9685",
-      "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T08:05:57.269000Z"
-        },
-        {
-          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T01:42:02.547000Z"
-        },
-        {
-          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
-          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T23:18:19.985000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T08:05:57.269000Z"
-        },
-        {
-          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T01:42:02.547000Z"
-        },
-        {
-          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
-          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T23:18:19.985000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9174,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T23:18:19.985000Z",
-      "latest_at": "2026-08-19T08:05:57.269000Z",
-      "primary_item": {
-        "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-        "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
