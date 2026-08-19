@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:20:46.137504Z",
+  "generated_at": "2026-08-19T19:00:21.046960Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8986,
-      "importance": 0.8986,
-      "importance_score": 0.8986,
+      "score": 0.897,
+      "importance": 0.897,
+      "importance_score": 0.897,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9366,
+        "recency": 0.9278,
         "story_heat": 0.5
       },
       "category": "official",
@@ -147,7 +147,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9927,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.925,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,6 +288,106 @@
         "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f9b6fc261a9c",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ef8b413ddb995ccc0a5766917d1e57fec28bf264",
+          "title": "OpenRouter 宣布加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter 宣布加入 Stripe / Openrouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T17:32:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "ef8b413ddb995ccc0a5766917d1e57fec28bf264",
+          "title": "OpenRouter 宣布加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter 宣布加入 Stripe / Openrouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T17:32:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:32:38Z",
+      "latest_at": "2026-08-19T18:46:11.132000Z",
+      "primary_item": {
+        "id": "ef8b413ddb995ccc0a5766917d1e57fec28bf264",
+        "title": "OpenRouter 宣布加入 Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -325,15 +425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8489,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,15 +525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.8344,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -487,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7623,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -549,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,166 +676,65 @@
       }
     },
     {
-      "story_id": "story_67f37d861d34",
-      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "story_id": "story_e4563871866d",
+      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
-        },
-        {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-18T22:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
-        },
-        {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-18T22:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7138,
-        "story_heat": 0.25
+        "ai_relevance": 0.95,
+        "recency": 0.7384,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-18T20:46:15.476210Z",
+      "earliest_at": "2026-08-18T22:00:00Z",
+      "latest_at": "2026-08-18T22:00:00Z",
       "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f9b6fc261a9c",
-      "title": "OpenRouter 宣布加入 Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        },
-        {
-          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter Is Joining Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T17:32:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        },
-        {
-          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter Is Joining Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T17:32:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T00:00:00Z",
-      "latest_at": "2026-08-19T17:32:38Z",
-      "primary_item": {
-        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-        "title": "OpenRouter 宣布加入 Stripe",
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -773,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7791,
+        "recency": 0.7717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,15 +892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.745,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,15 +973,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,66 +998,6 @@
         "url": "https://www.aibase.com/news/30473",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5874235fe6b1",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "primary_url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7393,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T21:26:01.095000Z",
-      "latest_at": "2026-08-18T21:26:01.095000Z",
-      "primary_item": {
-        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://www.modular.com/blog/mojo-open-source",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1096,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,68 +1058,6 @@
         "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e4563871866d",
-      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7454,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T22:00:00Z",
-      "latest_at": "2026-08-18T22:00:00Z",
-      "primary_item": {
-        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1237,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,15 +1194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,6 +1217,147 @@
         "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
         "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
         "url": "https://www.aibase.com/news/30471",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5874235fe6b1",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "primary_url": "https://www.modular.com/blog/mojo-open-source",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7323,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T21:26:01.095000Z",
+      "latest_at": "2026-08-18T21:26:01.095000Z",
+      "primary_item": {
+        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "url": "https://www.modular.com/blog/mojo-open-source",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f4125ec43c6b",
+      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+      "url": "https://www.aibase.com/news/30457",
+      "primary_url": "https://www.aibase.com/news/30457",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T03:23:04.888393Z"
+        },
+        {
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T03:23:04.888393Z"
+        },
+        {
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7981,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T03:23:04.888393Z",
+      "latest_at": "2026-08-19T03:23:04.888393Z",
+      "primary_item": {
+        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+        "url": "https://www.aibase.com/news/30457",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1414,18 +1432,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-18T19:05:55.766650Z"
-        },
-        {
-          "id": "7b110a52e195cb038a75378bc938a716bf467f1f",
-          "title": "国产开源大模型百花齐放，这些模型能不能不只停留在网页和 API 里，而是真正装进自己的机器，连接本地文件、工具和工作流？ 作者这篇文章尽可能让任何小白玩家都可以轻松驾驭，实现模型本地部署并搭建一套自己的工作流，快来一起跟着试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T18:24:10.749640Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "source_names": [
         "社区更新 · 2026-08-18",
         "社区更新 · 2026-08-19"
@@ -1493,35 +1502,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-18T19:05:55.766650Z"
-        },
-        {
-          "id": "7b110a52e195cb038a75378bc938a716bf467f1f",
-          "title": "国产开源大模型百花齐放，这些模型能不能不只停留在网页和 API 里，而是真正装进自己的机器，连接本地文件、工具和工作流？ 作者这篇文章尽可能让任何小白玩家都可以轻松驾驭，实现模型本地部署并搭建一套自己的工作流，快来一起跟着试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T18:24:10.749640Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6678,
-      "importance": 0.6678,
-      "importance_score": 0.6678,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6661,
+      "importance": 0.6661,
+      "importance_score": 0.6661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9921,
+        "recency": 0.9827,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T18:24:10.749640Z",
+      "earliest_at": "2026-08-18T19:05:55.766650Z",
       "latest_at": "2026-08-19T17:47:41.502342Z",
       "primary_item": {
         "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
