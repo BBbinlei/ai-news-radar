@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:58:23.266116Z",
+  "generated_at": "2026-08-21T10:29:37.294774Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8706,
-      "importance": 0.8706,
-      "importance_score": 0.8706,
+      "score": 0.8696,
+      "importance": 0.8696,
+      "importance_score": 0.8696,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7813,
+        "recency": 0.7754,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8596,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,6 +162,433 @@
         "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
         "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
         "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2bf314b17c2a",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "primary_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        },
+        {
+          "id": "0b941d0c757d1527748bfac2a7610554d1bdb8fd",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究 / Every Model Cheats",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T13:56:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        },
+        {
+          "id": "0b941d0c757d1527748bfac2a7610554d1bdb8fd",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究 / Every Model Cheats",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T13:56:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9847,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T13:56:59Z",
+      "latest_at": "2026-08-21T09:25:43.682000Z",
+      "primary_item": {
+        "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_313e373c64c2",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "url": "https://www.aibase.com/news/30537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:58:23.266116Z"
+        },
+        {
+          "id": "d8e4d181c299efbdfbf5195475130fa8c12914a5",
+          "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
+          "url": "https://www.aibase.com/zh/news/30537",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "url": "https://www.aibase.com/news/30537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:58:23.266116Z"
+        },
+        {
+          "id": "d8e4d181c299efbdfbf5195475130fa8c12914a5",
+          "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
+          "url": "https://www.aibase.com/zh/news/30537",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:58:23.266116Z",
+      "latest_at": "2026-08-21T10:29:37.294774Z",
+      "primary_item": {
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "url": "https://www.aibase.com/news/30537",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b9b1ecfd122f",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7867,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
+      "primary_item": {
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_40c683e158b6",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:58:23.266116Z"
+        },
+        {
+          "id": "6ae3d426180abb814cf40169ba39e4c787d21283",
+          "title": "雷鸟推出 iO AI 眼镜，售价 2499 元支持全天候 AI 记忆",
+          "url": "https://www.aibase.com/zh/news/30535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:58:23.266116Z"
+        },
+        {
+          "id": "6ae3d426180abb814cf40169ba39e4c787d21283",
+          "title": "雷鸟推出 iO AI 眼镜，售价 2499 元支持全天候 AI 记忆",
+          "url": "https://www.aibase.com/zh/news/30535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:58:23.266116Z",
+      "latest_at": "2026-08-21T10:29:37.294774Z",
+      "primary_item": {
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "url": "https://www.aibase.com/news/30535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T09:26:04.727000Z",
+      "latest_at": "2026-08-21T09:26:04.727000Z",
+      "primary_item": {
+        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f67290731017",
+      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7573,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
+      "primary_item": {
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -220,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -248,21 +675,21 @@
       }
     },
     {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "story_id": "story_c23e436699dc",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "source_count": 1,
@@ -271,26 +698,26 @@
       ],
       "items": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7926,
+        "recency": 0.749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -299,12 +726,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
       "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -363,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,82 +818,21 @@
       }
     },
     {
-      "story_id": "story_cf9e7f8b7e08",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T09:26:04.727000Z",
-      "latest_at": "2026-08-21T09:26:04.727000Z",
-      "primary_item": {
-        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f67290731017",
-      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_db8a6edc5902",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -475,26 +841,26 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.763,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,12 +869,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -567,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -592,68 +958,6 @@
         "url": "https://www.aibase.com/news/30531",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -710,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -733,230 +1037,6 @@
         "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
         "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
         "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7546,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
-      "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a3c4bfa1a37e",
-      "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
-      "url": "https://www.aibase.com/news/30526",
-      "primary_url": "https://www.aibase.com/news/30526",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
-          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
-          "url": "https://www.aibase.com/news/30526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "0d124d7a26781ac4e3628fe77c53cf85c623b0e4",
-          "title": "SAP 联合 Team Liquid 推出 AI 语音应用，助力职业电竞数据分析",
-          "url": "https://www.aibase.com/zh/news/30526",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
-          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
-          "url": "https://www.aibase.com/news/30526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "0d124d7a26781ac4e3628fe77c53cf85c623b0e4",
-          "title": "SAP 联合 Team Liquid 推出 AI 语音应用，助力职业电竞数据分析",
-          "url": "https://www.aibase.com/zh/news/30526",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9513,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T06:31:08.395982Z",
-      "latest_at": "2026-08-21T07:35:33.600668Z",
-      "primary_item": {
-        "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
-        "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
-        "url": "https://www.aibase.com/news/30526",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fb9dba5038e4",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-      "url": "https://www.aibase.com/news/30527",
-      "primary_url": "https://www.aibase.com/news/30527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9513,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T06:31:08.395982Z",
-      "latest_at": "2026-08-21T07:35:33.600668Z",
-      "primary_item": {
-        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-        "url": "https://www.aibase.com/news/30527",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1068,15 +1148,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.633,
-      "importance": 0.633,
-      "importance_score": 0.633,
+      "score": 0.6319,
+      "importance": 0.6319,
+      "importance_score": 0.6319,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7988,
+        "recency": 0.7929,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1094,26 +1174,26 @@
       }
     },
     {
-      "story_id": "story_a20c73781736",
-      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-      "url": "https://www.aibase.com/news/30522",
-      "primary_url": "https://www.aibase.com/news/30522",
+      "story_id": "story_a3c4bfa1a37e",
+      "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+      "url": "https://www.aibase.com/news/30526",
+      "primary_url": "https://www.aibase.com/news/30526",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/news/30522",
+          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "url": "https://www.aibase.com/news/30526",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:49.274674Z"
+          "published_at": "2026-08-21T06:31:08.395982Z"
         },
         {
-          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/zh/news/30522",
+          "id": "0d124d7a26781ac4e3628fe77c53cf85c623b0e4",
+          "title": "SAP 联合 Team Liquid 推出 AI 语音应用，助力职业电竞数据分析",
+          "url": "https://www.aibase.com/zh/news/30526",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1127,18 +1207,18 @@
       ],
       "items": [
         {
-          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/news/30522",
+          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "url": "https://www.aibase.com/news/30526",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:49.274674Z"
+          "published_at": "2026-08-21T06:31:08.395982Z"
         },
         {
-          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/zh/news/30522",
+          "id": "0d124d7a26781ac4e3628fe77c53cf85c623b0e4",
+          "title": "SAP 联合 Team Liquid 推出 AI 语音应用，助力职业电竞数据分析",
+          "url": "https://www.aibase.com/zh/news/30526",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1147,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.9442,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1164,12 +1244,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T03:27:49.274674Z",
-      "latest_at": "2026-08-21T03:27:49.274674Z",
+      "earliest_at": "2026-08-21T06:31:08.395982Z",
+      "latest_at": "2026-08-21T07:35:33.600668Z",
       "primary_item": {
-        "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-        "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-        "url": "https://www.aibase.com/news/30522",
+        "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+        "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+        "url": "https://www.aibase.com/news/30526",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1284,15 +1364,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5904,
-      "importance": 0.5904,
-      "importance_score": 0.5904,
+      "score": 0.5893,
+      "importance": 0.5893,
+      "importance_score": 0.5893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8312,
+        "recency": 0.8249,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1310,26 +1390,26 @@
       }
     },
     {
-      "story_id": "story_d393b50ad8fb",
-      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-      "url": "https://www.aibase.com/news/30523",
-      "primary_url": "https://www.aibase.com/news/30523",
+      "story_id": "story_fb9dba5038e4",
+      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+      "url": "https://www.aibase.com/news/30527",
+      "primary_url": "https://www.aibase.com/news/30527",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-          "url": "https://www.aibase.com/news/30523",
+          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+          "url": "https://www.aibase.com/news/30527",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:49.274674Z"
+          "published_at": "2026-08-21T06:31:08.395982Z"
         },
         {
-          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
-          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
-          "url": "https://www.aibase.com/zh/news/30523",
+          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
+          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
+          "url": "https://www.aibase.com/zh/news/30527",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1343,18 +1423,18 @@
       ],
       "items": [
         {
-          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-          "url": "https://www.aibase.com/news/30523",
+          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+          "url": "https://www.aibase.com/news/30527",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:49.274674Z"
+          "published_at": "2026-08-21T06:31:08.395982Z"
         },
         {
-          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
-          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
-          "url": "https://www.aibase.com/zh/news/30523",
+          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
+          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
+          "url": "https://www.aibase.com/zh/news/30527",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1363,15 +1443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.9442,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1380,12 +1460,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T03:27:49.274674Z",
-      "latest_at": "2026-08-21T03:27:49.274674Z",
+      "earliest_at": "2026-08-21T06:31:08.395982Z",
+      "latest_at": "2026-08-21T07:35:33.600668Z",
       "primary_item": {
-        "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-        "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-        "url": "https://www.aibase.com/news/30523",
+        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+        "url": "https://www.aibase.com/news/30527",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1463,15 +1543,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.562,
+      "importance": 0.562,
+      "importance_score": 0.562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9583,
+        "recency": 0.9511,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1561,15 +1641,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9185,
+        "recency": 0.9117,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1583,104 +1663,6 @@
         "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
         "url": "https://annas-archive.gl/blog/physical-destruction.html",
         "source": "annas-archive.gl",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ad9e90903af4",
-      "title": "在欧盟，版权不保护由人工智能生成的内容",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "primary_url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "source": "mathstodon.xyz",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "728b3f954e7f57268632933cd7f557411da7d197",
-          "title": "在欧盟，版权不保护由人工智能生成的内容",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "mathstodon.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T02:13:46.266000Z"
-        },
-        {
-          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
-          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "url": "https://news.ycombinator.com/item?id=49382041",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T00:47:27.263000Z"
-        },
-        {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
-          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T00:15:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "mathstodon.xyz"
-      ],
-      "items": [
-        {
-          "id": "728b3f954e7f57268632933cd7f557411da7d197",
-          "title": "在欧盟，版权不保护由人工智能生成的内容",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "mathstodon.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T02:13:46.266000Z"
-        },
-        {
-          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
-          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "url": "https://news.ycombinator.com/item?id=49382041",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T00:47:27.263000Z"
-        },
-        {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
-          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T00:15:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8942,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T00:15:12Z",
-      "latest_at": "2026-08-21T02:13:46.266000Z",
-      "primary_item": {
-        "id": "728b3f954e7f57268632933cd7f557411da7d197",
-        "title": "在欧盟，版权不保护由人工智能生成的内容",
-        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "source": "mathstodon.xyz",
         "source_name": "Buzzing"
       }
     }
