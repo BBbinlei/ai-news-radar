@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:18:29.376448Z",
+  "generated_at": "2026-08-21T03:27:49.274674Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8871,
-      "importance": 0.8871,
-      "importance_score": 0.8871,
+      "score": 0.8845,
+      "importance": 0.8845,
+      "importance_score": 0.8845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8727,
+        "recency": 0.8583,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9602,
+        "recency": 0.9443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7567,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -226,6 +226,87 @@
         "url": "https://openai.com/index/introducing-ai-futures",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a20c73781736",
+      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+      "url": "https://www.aibase.com/news/30522",
+      "primary_url": "https://www.aibase.com/news/30522",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "url": "https://www.aibase.com/news/30522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T03:27:49.274674Z"
+        },
+        {
+          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
+          "url": "https://www.aibase.com/zh/news/30522",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "url": "https://www.aibase.com/news/30522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T03:27:49.274674Z"
+        },
+        {
+          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
+          "url": "https://www.aibase.com/zh/news/30522",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T03:27:49.274674Z",
+      "latest_at": "2026-08-21T03:27:49.274674Z",
+      "primary_item": {
+        "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+        "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+        "url": "https://www.aibase.com/news/30522",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -263,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8854,
+        "recency": 0.8707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -291,26 +372,26 @@
       }
     },
     {
-      "story_id": "story_882b6e804e53",
-      "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
-      "url": "https://www.aibase.com/news/30510",
-      "primary_url": "https://www.aibase.com/news/30510",
+      "story_id": "story_d393b50ad8fb",
+      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+      "url": "https://www.aibase.com/news/30523",
+      "primary_url": "https://www.aibase.com/news/30523",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
-          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
-          "url": "https://www.aibase.com/news/30510",
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "url": "https://www.aibase.com/news/30523",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
+          "published_at": "2026-08-21T03:27:49.274674Z"
         },
         {
-          "id": "199bca28ee8259042279f571c0b2b8954416702b",
-          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
-          "url": "https://www.aibase.com/zh/news/30510",
+          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
+          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
+          "url": "https://www.aibase.com/zh/news/30523",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -324,18 +405,18 @@
       ],
       "items": [
         {
-          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
-          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
-          "url": "https://www.aibase.com/news/30510",
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "url": "https://www.aibase.com/news/30523",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
+          "published_at": "2026-08-21T03:27:49.274674Z"
         },
         {
-          "id": "199bca28ee8259042279f571c0b2b8954416702b",
-          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
-          "url": "https://www.aibase.com/zh/news/30510",
+          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
+          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
+          "url": "https://www.aibase.com/zh/news/30523",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -361,93 +442,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T02:18:29.376448Z",
-      "latest_at": "2026-08-21T02:18:29.376448Z",
+      "earliest_at": "2026-08-21T03:27:49.274674Z",
+      "latest_at": "2026-08-21T03:27:49.274674Z",
       "primary_item": {
-        "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
-        "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
-        "url": "https://www.aibase.com/news/30510",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3df49afa2df8",
-      "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
-      "url": "https://www.aibase.com/news/30514",
-      "primary_url": "https://www.aibase.com/news/30514",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
-          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
-          "url": "https://www.aibase.com/news/30514",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
-        },
-        {
-          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
-          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
-          "url": "https://www.aibase.com/zh/news/30514",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
-          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
-          "url": "https://www.aibase.com/news/30514",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
-        },
-        {
-          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
-          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
-          "url": "https://www.aibase.com/zh/news/30514",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T02:18:29.376448Z",
-      "latest_at": "2026-08-21T02:18:29.376448Z",
-      "primary_item": {
-        "id": "c679541739540c3db1348e87a78a9a8a47af187c",
-        "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
-        "url": "https://www.aibase.com/news/30514",
+        "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+        "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+        "url": "https://www.aibase.com/news/30523",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8523,
+        "recency": 0.8382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,26 +515,26 @@
       }
     },
     {
-      "story_id": "story_1aec5ccab149",
-      "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
-      "url": "https://www.aibase.com/news/30515",
-      "primary_url": "https://www.aibase.com/news/30515",
+      "story_id": "story_55bf365d696d",
+      "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+      "url": "https://www.aibase.com/news/30521",
+      "primary_url": "https://www.aibase.com/news/30521",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
-          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
-          "url": "https://www.aibase.com/news/30515",
+          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+          "url": "https://www.aibase.com/news/30521",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
+          "published_at": "2026-08-21T03:27:49.274674Z"
         },
         {
-          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
-          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
-          "url": "https://www.aibase.com/zh/news/30515",
+          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
+          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
+          "url": "https://www.aibase.com/zh/news/30521",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -548,18 +548,18 @@
       ],
       "items": [
         {
-          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
-          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
-          "url": "https://www.aibase.com/news/30515",
+          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+          "url": "https://www.aibase.com/news/30521",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T02:18:29.376448Z"
+          "published_at": "2026-08-21T03:27:49.274674Z"
         },
         {
-          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
-          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
-          "url": "https://www.aibase.com/zh/news/30515",
+          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
+          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
+          "url": "https://www.aibase.com/zh/news/30521",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -585,12 +585,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T02:18:29.376448Z",
-      "latest_at": "2026-08-21T02:18:29.376448Z",
+      "earliest_at": "2026-08-21T03:27:49.274674Z",
+      "latest_at": "2026-08-21T03:27:49.274674Z",
       "primary_item": {
-        "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
-        "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
-        "url": "https://www.aibase.com/news/30515",
+        "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+        "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+        "url": "https://www.aibase.com/news/30521",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -630,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7875,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8621,
+        "recency": 0.8479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -712,188 +712,6 @@
         "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
         "url": "https://mistral.ai/news/agentic-search",
         "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_12b0d774f905",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "primary_url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "21692f84c16d2d2684e76b911b52a09001219157",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T20:27:01.660000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "21692f84c16d2d2684e76b911b52a09001219157",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T20:27:01.660000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T20:27:01.660000Z",
-      "latest_at": "2026-08-20T20:27:01.660000Z",
-      "primary_item": {
-        "id": "21692f84c16d2d2684e76b911b52a09001219157",
-        "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-        "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8431,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9ab95df01f33",
-      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "primary_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8617,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T16:00:00Z",
-      "latest_at": "2026-08-20T16:00:00Z",
-      "primary_item": {
-        "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -932,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.843,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -975,11 +793,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "d7e21f6342bb98a23f6662902d18baf5a38b83f6",
+          "title": "AI 训练数据需求激增，Micro1 年营收 8 个月从 1 亿美元增至 5 亿美元",
+          "url": "https://www.aibase.com/zh/news/30517",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -990,32 +818,185 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "d7e21f6342bb98a23f6662902d18baf5a38b83f6",
+          "title": "AI 训练数据需求激增，Micro1 年营收 8 个月从 1 亿美元增至 5 亿美元",
+          "url": "https://www.aibase.com/zh/news/30517",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9835,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-21T02:18:29.376448Z",
-      "latest_at": "2026-08-21T02:18:29.376448Z",
+      "latest_at": "2026-08-21T03:27:49.274674Z",
       "primary_item": {
         "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
         "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
         "url": "https://www.aibase.com/news/30517",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_db8a6edc5902",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8292,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
+      "primary_item": {
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_38df923a3c5f",
+      "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+      "url": "https://www.aibase.com/news/30519",
+      "primary_url": "https://www.aibase.com/news/30519",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "cac2238961e539ceb5cd32b271473347160568ff",
+          "title": "Adobe Firefly 音频工具全面上线，支持 AI 生成音乐、语音和音效",
+          "url": "https://www.aibase.com/zh/news/30519",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "cac2238961e539ceb5cd32b271473347160568ff",
+          "title": "Adobe Firefly 音频工具全面上线，支持 AI 生成音乐、语音和音效",
+          "url": "https://www.aibase.com/zh/news/30519",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T02:18:29.376448Z",
+      "latest_at": "2026-08-21T03:27:49.274674Z",
+      "primary_item": {
+        "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+        "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+        "url": "https://www.aibase.com/news/30519",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1127,15 +1108,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6498,
-      "importance": 0.6498,
-      "importance_score": 0.6498,
+      "score": 0.6472,
+      "importance": 0.6472,
+      "importance_score": 0.6472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8923,
+        "recency": 0.8776,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1153,123 +1134,163 @@
       }
     },
     {
-      "story_id": "story_38df923a3c5f",
-      "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
-      "url": "https://www.aibase.com/news/30519",
-      "primary_url": "https://www.aibase.com/news/30519",
+      "story_id": "story_882b6e804e53",
+      "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+      "url": "https://www.aibase.com/news/30510",
+      "primary_url": "https://www.aibase.com/news/30510",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
-          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
-          "url": "https://www.aibase.com/news/30519",
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "url": "https://www.aibase.com/news/30510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "199bca28ee8259042279f571c0b2b8954416702b",
+          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
+          "url": "https://www.aibase.com/zh/news/30510",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
-          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
-          "url": "https://www.aibase.com/news/30519",
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "url": "https://www.aibase.com/news/30510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "199bca28ee8259042279f571c0b2b8954416702b",
+          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
+          "url": "https://www.aibase.com/zh/news/30510",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9835,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-21T02:18:29.376448Z",
       "latest_at": "2026-08-21T02:18:29.376448Z",
       "primary_item": {
-        "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
-        "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
-        "url": "https://www.aibase.com/news/30519",
+        "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+        "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+        "url": "https://www.aibase.com/news/30510",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7f7cb191903b",
-      "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
-      "url": "https://www.aibase.com/news/30512",
-      "primary_url": "https://www.aibase.com/news/30512",
+      "story_id": "story_3df49afa2df8",
+      "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+      "url": "https://www.aibase.com/news/30514",
+      "primary_url": "https://www.aibase.com/news/30514",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
-          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
-          "url": "https://www.aibase.com/news/30512",
+          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/news/30514",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
+          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/zh/news/30514",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
-          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
-          "url": "https://www.aibase.com/news/30512",
+          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/news/30514",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
+          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/zh/news/30514",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9835,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-21T02:18:29.376448Z",
       "latest_at": "2026-08-21T02:18:29.376448Z",
       "primary_item": {
-        "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
-        "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
-        "url": "https://www.aibase.com/news/30512",
+        "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+        "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+        "url": "https://www.aibase.com/news/30514",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1384,15 +1405,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6079,
-      "importance": 0.6079,
-      "importance_score": 0.6079,
+      "score": 0.6052,
+      "importance": 0.6052,
+      "importance_score": 0.6052,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9284,
+        "recency": 0.9131,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1410,64 +1431,182 @@
       }
     },
     {
-      "story_id": "story_6e7cb27c60ca",
-      "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
-      "url": "https://www.aibase.com/news/30511",
-      "primary_url": "https://www.aibase.com/news/30511",
+      "story_id": "story_1aec5ccab149",
+      "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+      "url": "https://www.aibase.com/news/30515",
+      "primary_url": "https://www.aibase.com/news/30515",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
-          "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
-          "url": "https://www.aibase.com/news/30511",
+          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+          "url": "https://www.aibase.com/news/30515",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
+          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
+          "url": "https://www.aibase.com/zh/news/30515",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
-          "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
-          "url": "https://www.aibase.com/news/30511",
+          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+          "url": "https://www.aibase.com/news/30515",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T02:18:29.376448Z"
+        },
+        {
+          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
+          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
+          "url": "https://www.aibase.com/zh/news/30515",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9835,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-21T02:18:29.376448Z",
       "latest_at": "2026-08-21T02:18:29.376448Z",
       "primary_item": {
-        "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
-        "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
-        "url": "https://www.aibase.com/news/30511",
+        "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+        "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+        "url": "https://www.aibase.com/news/30515",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ad9e90903af4",
+      "title": "在欧盟，版权不保护由人工智能生成的内容",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "primary_url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "source": "mathstodon.xyz",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "728b3f954e7f57268632933cd7f557411da7d197",
+          "title": "在欧盟，版权不保护由人工智能生成的内容",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T02:13:46.266000Z"
+        },
+        {
+          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
+          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://news.ycombinator.com/item?id=49382041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T00:47:27.263000Z"
+        },
+        {
+          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T00:15:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "mathstodon.xyz"
+      ],
+      "items": [
+        {
+          "id": "728b3f954e7f57268632933cd7f557411da7d197",
+          "title": "在欧盟，版权不保护由人工智能生成的内容",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T02:13:46.266000Z"
+        },
+        {
+          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
+          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://news.ycombinator.com/item?id=49382041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T00:47:27.263000Z"
+        },
+        {
+          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T00:15:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T00:15:12Z",
+      "latest_at": "2026-08-21T02:13:46.266000Z",
+      "primary_item": {
+        "id": "728b3f954e7f57268632933cd7f557411da7d197",
+        "title": "在欧盟，版权不保护由人工智能生成的内容",
+        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+        "source": "mathstodon.xyz",
+        "source_name": "Buzzing"
       }
     }
   ]
