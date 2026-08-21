@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:49:33.549732Z",
+  "generated_at": "2026-08-21T12:28:51.879523Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8669,
-      "importance": 0.8669,
-      "importance_score": 0.8669,
+      "score": 0.8656,
+      "importance": 0.8656,
+      "importance_score": 0.8656,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7607,
+        "recency": 0.7535,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e42b7af4138c",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T11:59:48Z",
+      "latest_at": "2026-08-21T11:59:48Z",
+      "primary_item": {
+        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8369,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -184,6 +246,15 @@
           "published_at": "2026-08-21T09:26:04.727000Z"
         },
         {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
+        },
+        {
           "id": "c0e5aa36939a18104f0fbf98078d162328862503",
           "title": "DeepSeek-v4-flash-vision-exp",
           "url": "https://news.ycombinator.com/item?id=49386163",
@@ -191,21 +262,12 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-21T11:01:25.274000Z"
-        },
-        {
-          "id": "ba08e946e7231b07ae090980b0904a842725c102",
-          "title": "DeepSeek-v4-flash-vision-exp",
-          "url": "https://api-docs.deepseek.com/guides/vision",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T10:33:56Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "DeepSeek：API 更新日志",
-        "Hacker News (黑客新闻)",
+        "api-docs.deepseek.com",
         "hackernews"
       ],
       "items": [
@@ -219,6 +281,15 @@
           "published_at": "2026-08-21T09:26:04.727000Z"
         },
         {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
+        },
+        {
           "id": "c0e5aa36939a18104f0fbf98078d162328862503",
           "title": "DeepSeek-v4-flash-vision-exp",
           "url": "https://news.ycombinator.com/item?id=49386163",
@@ -226,28 +297,19 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-21T11:01:25.274000Z"
-        },
-        {
-          "id": "ba08e946e7231b07ae090980b0904a842725c102",
-          "title": "DeepSeek-v4-flash-vision-exp",
-          "url": "https://api-docs.deepseek.com/guides/vision",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T10:33:56Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9661,
+        "recency": 0.957,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -257,7 +319,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-21T09:26:04.727000Z",
-      "latest_at": "2026-08-21T11:01:25.274000Z",
+      "latest_at": "2026-08-21T11:49:31.581000Z",
       "primary_item": {
         "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
         "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
@@ -320,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.966,
+        "recency": 0.9569,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -401,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9644,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -463,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7717,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -544,15 +606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9644,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +668,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7429,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -687,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -715,21 +777,21 @@
       }
     },
     {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "story_id": "story_c23e436699dc",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "source_count": 1,
@@ -738,26 +800,26 @@
       ],
       "items": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7348,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "official",
@@ -766,12 +828,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
       "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -830,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -858,21 +920,21 @@
       }
     },
     {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_db8a6edc5902",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -881,26 +943,26 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7347,
+        "recency": 0.7279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,12 +971,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -973,15 +1035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1188,15 +1250,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6292,
-      "importance": 0.6292,
-      "importance_score": 0.6292,
+      "score": 0.6279,
+      "importance": 0.6279,
+      "importance_score": 0.6279,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7778,
+        "recency": 0.7704,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1267,15 +1329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1404,15 +1466,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5865,
-      "importance": 0.5865,
-      "importance_score": 0.5865,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.8016,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1483,15 +1545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1583,15 +1645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.933,
+        "recency": 0.9242,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1605,104 +1667,6 @@
         "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
         "url": "https://github.com/openai/codex/issues/37674",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_92d0acf4aa3a",
-      "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "primary_url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "source": "annas-archive.gl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f2e5c6a76f0b93bd11876695de802c3e464bcca4",
-          "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
-          "url": "https://annas-archive.gl/blog/physical-destruction.html",
-          "source": "annas-archive.gl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T04:05:18.645000Z"
-        },
-        {
-          "id": "7c6483484845cc06a4aa0152508b5d7e6c338248",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://news.ycombinator.com/item?id=49383026",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T03:16:36.831000Z"
-        },
-        {
-          "id": "fe992ecd16b587c574bebc1af23bdf67ab479169",
-          "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://annas-archive.gl/blog/physical-destruction.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T02:37:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "annas-archive.gl",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f2e5c6a76f0b93bd11876695de802c3e464bcca4",
-          "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
-          "url": "https://annas-archive.gl/blog/physical-destruction.html",
-          "source": "annas-archive.gl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T04:05:18.645000Z"
-        },
-        {
-          "id": "7c6483484845cc06a4aa0152508b5d7e6c338248",
-          "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://news.ycombinator.com/item?id=49383026",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T03:16:36.831000Z"
-        },
-        {
-          "id": "fe992ecd16b587c574bebc1af23bdf67ab479169",
-          "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧 / AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://annas-archive.gl/blog/physical-destruction.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T02:37:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8943,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T02:37:47Z",
-      "latest_at": "2026-08-21T04:05:18.645000Z",
-      "primary_item": {
-        "id": "f2e5c6a76f0b93bd11876695de802c3e464bcca4",
-        "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
-        "url": "https://annas-archive.gl/blog/physical-destruction.html",
-        "source": "annas-archive.gl",
         "source_name": "Buzzing"
       }
     }
