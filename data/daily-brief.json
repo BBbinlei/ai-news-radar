@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:56:15.361776Z",
+  "generated_at": "2026-08-21T16:24:50.069510Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7168,
+        "recency": 0.7119,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_87fedaf94c82",
+      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:07:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:07:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9958,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T16:07:15Z",
+      "latest_at": "2026-08-21T16:07:15Z",
+      "primary_item": {
+        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9447,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -220,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7944,
+        "recency": 0.789,
         "story_heat": 0.25
       },
       "category": "official",
@@ -249,21 +311,21 @@
       }
     },
     {
-      "story_id": "story_8049599f3b1e",
-      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
-      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "story_id": "story_eb308b8c2b22",
+      "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-21T16:03:36Z"
         }
       ],
       "source_count": 1,
@@ -272,26 +334,26 @@
       ],
       "items": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-21T16:03:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7886,
+        "ai_relevance": 0.91,
+        "recency": 0.9949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,12 +362,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T23:29:34Z",
-      "latest_at": "2026-08-20T23:29:34Z",
+      "earliest_at": "2026-08-21T16:03:36Z",
+      "latest_at": "2026-08-21T16:03:36Z",
       "primary_item": {
-        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+        "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -383,15 +445,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.9041,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.9112,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -550,68 +612,6 @@
         "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7272,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -649,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -790,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.9112,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -815,6 +815,68 @@
         "url": "https://www.aibase.com/news/30535",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8049599f3b1e",
+      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7832,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
+      "primary_item": {
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -871,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -896,6 +958,68 @@
         "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b9b1ecfd122f",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7222,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
+      "primary_item": {
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -952,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.8804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1033,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.8804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.8804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1248,15 +1372,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6211,
-      "importance": 0.6211,
-      "importance_score": 0.6211,
+      "score": 0.6202,
+      "importance": 0.6202,
+      "importance_score": 0.6202,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7329,
+        "recency": 0.7279,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1327,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.8669,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1355,280 +1479,101 @@
       }
     },
     {
-      "story_id": "story_fb9dba5038e4",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-      "url": "https://www.aibase.com/news/30527",
-      "primary_url": "https://www.aibase.com/news/30527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:31:08.395982Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8728,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T06:31:08.395982Z",
-      "latest_at": "2026-08-21T07:35:33.600668Z",
-      "primary_item": {
-        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-        "url": "https://www.aibase.com/news/30527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2969c76a397a",
-      "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-      "url": "https://news.ycombinator.com/item?id=49384477",
-      "primary_url": "https://news.ycombinator.com/item?id=49384477",
+      "story_id": "story_18da23f22c10",
+      "title": "Show HN：AgentSight – AI 代理的 eBPF 可观察性，无需更改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+      "url": "https://news.ycombinator.com/item?id=49389493",
+      "primary_url": "https://news.ycombinator.com/item?id=49389493",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ad34e8eb72e9938064bc9097ad970b3fc58ddb88",
-          "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-          "url": "https://news.ycombinator.com/item?id=49384477",
+          "id": "afa113548a69b3ccf2ac8f765eecf021f2dea856",
+          "title": "Show HN：AgentSight – AI 代理的 eBPF 可观察性，无需更改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://news.ycombinator.com/item?id=49389493",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T07:19:17.661000Z"
+          "published_at": "2026-08-21T16:01:48.890000Z"
         },
         {
-          "id": "65bf3389305c47d6df356eb5d533204646038a4c",
-          "title": "Show HN: Argentic——一款专为AI爬虫程序设计的L402 Lightning收费站",
-          "url": "https://argentic.network",
-          "source": "argentic.network",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T06:29:36.063000Z"
-        },
-        {
-          "id": "2e841cb423d388637ca5248f038a8ac445dd8923",
-          "title": "Show HN: Argentic——一款专为AI爬虫程序设计的L402 Lightning收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-          "url": "https://argentic.network",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T06:24:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "argentic.network",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ad34e8eb72e9938064bc9097ad970b3fc58ddb88",
-          "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-          "url": "https://news.ycombinator.com/item?id=49384477",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T07:19:17.661000Z"
-        },
-        {
-          "id": "65bf3389305c47d6df356eb5d533204646038a4c",
-          "title": "Show HN: Argentic——一款专为AI爬虫程序设计的L402 Lightning收费站",
-          "url": "https://argentic.network",
-          "source": "argentic.network",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T06:29:36.063000Z"
-        },
-        {
-          "id": "2e841cb423d388637ca5248f038a8ac445dd8923",
-          "title": "Show HN: Argentic——一款专为AI爬虫程序设计的L402 Lightning收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-          "url": "https://argentic.network",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T06:24:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5497,
-      "importance": 0.5497,
-      "importance_score": 0.5497,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.883,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T06:24:16Z",
-      "latest_at": "2026-08-21T07:19:17.661000Z",
-      "primary_item": {
-        "id": "ad34e8eb72e9938064bc9097ad970b3fc58ddb88",
-        "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-        "url": "https://news.ycombinator.com/item?id=49384477",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f8d5e817777c",
-      "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "primary_url": "https://github.com/openai/codex/issues/37674",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4f6170c6f49dbb580b2689a3343cd5624940b6af",
-          "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
-          "url": "https://github.com/openai/codex/issues/37674",
+          "id": "636702669fe6af9ceb32b97c949e1261d0a8722d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-21T07:01:25.605000Z"
+          "published_at": "2026-08-21T15:33:50.265000Z"
         },
         {
-          "id": "ce31b0b0c812d5b9a8c32b46a3edbaf271115058",
-          "title": "Codex on AWS 基岩错误导致 10 倍费用 / Codex on AWS bedrock bug causing 10x charges",
-          "url": "https://news.ycombinator.com/item?id=49383326",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T03:46:38.493000Z"
-        },
-        {
-          "id": "5501e6dd44004845065f0374df411a0441cba133",
-          "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞 / Codex on AWS bedrock bug causing 10x charges",
-          "url": "https://github.com/openai/codex/issues/37674",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T03:17:43Z"
+          "id": "6c74965648c87370fadc8caa3fa06dc9e155e51d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:21:10Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "4f6170c6f49dbb580b2689a3343cd5624940b6af",
-          "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
-          "url": "https://github.com/openai/codex/issues/37674",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T07:01:25.605000Z"
-        },
-        {
-          "id": "ce31b0b0c812d5b9a8c32b46a3edbaf271115058",
-          "title": "Codex on AWS 基岩错误导致 10 倍费用 / Codex on AWS bedrock bug causing 10x charges",
-          "url": "https://news.ycombinator.com/item?id=49383326",
+          "id": "afa113548a69b3ccf2ac8f765eecf021f2dea856",
+          "title": "Show HN：AgentSight – AI 代理的 eBPF 可观察性，无需更改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://news.ycombinator.com/item?id=49389493",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T03:46:38.493000Z"
+          "published_at": "2026-08-21T16:01:48.890000Z"
         },
         {
-          "id": "5501e6dd44004845065f0374df411a0441cba133",
-          "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞 / Codex on AWS bedrock bug causing 10x charges",
-          "url": "https://github.com/openai/codex/issues/37674",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T03:17:43Z"
+          "id": "636702669fe6af9ceb32b97c949e1261d0a8722d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T15:33:50.265000Z"
+        },
+        {
+          "id": "6c74965648c87370fadc8caa3fa06dc9e155e51d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:21:10Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.9945,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T03:17:43Z",
-      "latest_at": "2026-08-21T07:01:25.605000Z",
+      "earliest_at": "2026-08-21T15:21:10Z",
+      "latest_at": "2026-08-21T16:01:48.890000Z",
       "primary_item": {
-        "id": "4f6170c6f49dbb580b2689a3343cd5624940b6af",
-        "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
-        "url": "https://github.com/openai/codex/issues/37674",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "afa113548a69b3ccf2ac8f765eecf021f2dea856",
+        "title": "Show HN：AgentSight – AI 代理的 eBPF 可观察性，无需更改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+        "url": "https://news.ycombinator.com/item?id=49389493",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
