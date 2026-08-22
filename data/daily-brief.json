@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:07:42.433727Z",
+  "generated_at": "2026-08-22T07:52:08.673624Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8052,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7586,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8044,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7311,
+        "recency": 0.7233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8211,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.7289,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.7779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.7232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -548,66 +548,6 @@
         "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
         "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44d20b9afbbb",
-      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
-          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25.415000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
-          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25.415000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8266,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:56:25.415000Z",
-      "latest_at": "2026-08-21T17:56:25.415000Z",
-      "primary_item": {
-        "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
-        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -665,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.7289,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -745,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.827,
+        "recency": 0.8182,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7211,
+        "recency": 0.7134,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -847,86 +787,6 @@
         "id": "8b4934413b6222572539508e765a783f252dafa6",
         "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
         "url": "https://www.aibase.com/news/30533",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5ea74f6764a4",
-      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-      "url": "https://www.aibase.com/news/30529",
-      "primary_url": "https://www.aibase.com/news/30529",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
-          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
-          "url": "https://www.aibase.com/zh/news/30529",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
-          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
-          "url": "https://www.aibase.com/zh/news/30529",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:35:33.600668Z",
-      "latest_at": "2026-08-21T07:35:33.600668Z",
-      "primary_item": {
-        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "url": "https://www.aibase.com/news/30529",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1056,15 +916,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6493,
-      "importance": 0.6493,
-      "importance_score": 0.6493,
+      "score": 0.6477,
+      "importance": 0.6477,
+      "importance_score": 0.6477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.8433,
+        "recency": 0.8343,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1079,86 +939,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-21",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_3c2b88d25603",
-      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-      "url": "https://www.aibase.com/news/30531",
-      "primary_url": "https://www.aibase.com/news/30531",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "45d0edd5e7f89d278589be6d43d36132b2edd928",
-          "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/zh/news/30531",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "45d0edd5e7f89d278589be6d43d36132b2edd928",
-          "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/zh/news/30531",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:35:33.600668Z",
-      "latest_at": "2026-08-21T08:28:55.227319Z",
-      "primary_item": {
-        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "url": "https://www.aibase.com/news/30531",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1215,15 +995,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
+      "score": 0.5903,
+      "importance": 0.5903,
+      "importance_score": 0.5903,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8693,
+        "recency": 0.8601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,86 +1018,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_68ba77daf669",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "9b750b7223e4919d63ef006e57acd8da94ce18a6",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/zh/news/30530",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:33.600668Z"
-        },
-        {
-          "id": "9b750b7223e4919d63ef006e57acd8da94ce18a6",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/zh/news/30530",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:35:33.600668Z",
-      "latest_at": "2026-08-21T08:28:55.227319Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1411,15 +1111,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5659,
-      "importance": 0.5659,
-      "importance_score": 0.5659,
+      "score": 0.5643,
+      "importance": 0.5643,
+      "importance_score": 0.5643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8338,
+        "recency": 0.8249,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1528,15 +1228,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8205,
+        "recency": 0.8118,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1554,81 +1254,417 @@
       }
     },
     {
-      "story_id": "story_58096ad1a5e9",
-      "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-      "url": "https://hub.baai.ac.cn/view/57317",
-      "primary_url": "https://hub.baai.ac.cn/view/57317",
+      "story_id": "story_631f4e2ee377",
+      "title": "越会用 AI 的人，学习能力退化得越快",
+      "url": "https://news.pedaily.cn/202608/567987.shtml",
+      "primary_url": "https://news.pedaily.cn/202608/567987.shtml",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9751,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T04:57:05.996013Z",
-      "latest_at": "2026-08-22T05:22:50.603344Z",
+      "earliest_at": "2026-08-22T04:09:04Z",
+      "latest_at": "2026-08-22T07:52:08.673624Z",
       "primary_item": {
-        "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-        "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-        "url": "https://hub.baai.ac.cn/view/57317",
+        "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+        "title": "越会用 AI 的人，学习能力退化得越快",
+        "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4602d0d95525",
+      "title": "《重罪法庭》：化身AI，犯下罪行",
+      "url": "https://www.felonybench.com",
+      "primary_url": "https://www.felonybench.com",
+      "source": "www.felonybench.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        },
+        {
+          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
+          "url": "https://www.felonybench.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:17:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.felonybench.com"
+      ],
+      "items": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        },
+        {
+          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
+          "url": "https://www.felonybench.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:17:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8148,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T15:17:04Z",
+      "latest_at": "2026-08-21T17:41:21.638000Z",
+      "primary_item": {
+        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+        "title": "《重罪法庭》：化身AI，犯下罪行",
+        "url": "https://www.felonybench.com",
+        "source": "www.felonybench.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7b8d3d36b349",
+      "title": "当 GPU 读取内存时会发生什么",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "source": "blog.doubleword.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
+          "title": "当 GPU 读取内存时会发生什么",
+          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T01:41:21.550000Z"
+        },
+        {
+          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
+          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
+          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T16:16:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.doubleword.ai"
+      ],
+      "items": [
+        {
+          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
+          "title": "当 GPU 读取内存时会发生什么",
+          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T01:41:21.550000Z"
+        },
+        {
+          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
+          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
+          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T16:16:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9146,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T16:16:42Z",
+      "latest_at": "2026-08-22T01:41:21.550000Z",
+      "primary_item": {
+        "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
+        "title": "当 GPU 读取内存时会发生什么",
+        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+        "source": "blog.doubleword.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_10fabbb42c94",
+      "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+      "primary_url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T01:09:21Z"
+        },
+        {
+          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T21:41:42.040000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T01:09:21Z"
+        },
+        {
+          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T21:41:42.040000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9076,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T21:41:42.040000Z",
+      "latest_at": "2026-08-22T01:09:21Z",
+      "primary_item": {
+        "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+        "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_7bdcf8563e0c",
+      "title": "优步如何利用人工智能向你收取更高费用",
+      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+          "title": "优步如何利用人工智能向你收取更高费用",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T20:53:21.744000Z"
+        },
+        {
+          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
+          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:37:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+          "title": "优步如何利用人工智能向你收取更高费用",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T20:53:21.744000Z"
+        },
+        {
+          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
+          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:37:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8534,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T20:37:42Z",
+      "latest_at": "2026-08-21T20:53:21.744000Z",
+      "primary_item": {
+        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+        "title": "优步如何利用人工智能向你收取更高费用",
+        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
