@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:13:20.478401Z",
+  "generated_at": "2026-08-22T16:46:43.628436Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.72,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7101,
-      "importance": 0.7101,
-      "importance_score": 0.7101,
+      "score": 0.7091,
+      "importance": 0.7091,
+      "importance_score": 0.7091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -215,6 +215,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:46:43.628436Z"
+        },
+        {
           "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
           "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -296,13 +305,22 @@
           "published_at": "2026-08-21T18:30:30.624599Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "社区更新 · 2026-08-21",
         "社区更新 · 2026-08-22"
       ],
       "items": [
         {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:46:43.628436Z"
+        },
+        {
           "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
           "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -384,17 +402,17 @@
           "published_at": "2026-08-21T18:30:30.624599Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6761,
+      "importance": 0.6761,
+      "importance_score": 0.6761,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 1.0,
+        "recency": 0.992,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -402,7 +420,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-21T18:30:30.624599Z",
-      "latest_at": "2026-08-22T16:13:20.478401Z",
+      "latest_at": "2026-08-22T16:46:43.628436Z",
       "primary_item": {
         "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
         "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
@@ -465,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5727,
-      "importance": 0.5727,
-      "importance_score": 0.5727,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7623,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -491,119 +509,180 @@
       }
     },
     {
-      "story_id": "story_fd3f5bbbc04e",
-      "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "url": "https://news.ycombinator.com/item?id=49390463",
-      "primary_url": "https://news.ycombinator.com/item?id=49390463",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_f5886f0c0a05",
+      "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "primary_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:32:30.720000Z"
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:01:52.614000Z"
-        },
-        {
-          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "id": "9076a298cc336bb0bd0ad40be34063ff26d6b939",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T16:27:52Z"
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:27:52Z"
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:32:30.720000Z"
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:01:52.614000Z"
-        },
-        {
-          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "id": "9076a298cc336bb0bd0ad40be34063ff26d6b939",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T16:27:52Z"
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:27:52Z"
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5474,
-      "importance": 0.5474,
-      "importance_score": 0.5474,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5643,
+      "importance": 0.5643,
+      "importance_score": 0.5643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7312,
-        "story_heat": 0.75
+        "recency": 0.9637,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T16:27:52Z",
-      "latest_at": "2026-08-21T18:32:30.720000Z",
+      "earliest_at": "2026-08-22T06:29:39.085000Z",
+      "latest_at": "2026-08-22T14:13:05Z",
       "primary_item": {
-        "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-        "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "url": "https://news.ycombinator.com/item?id=49390463",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+        "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_3e284d11e91a",
+      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9939,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:04:51Z",
+      "latest_at": "2026-08-22T16:21:29.526000Z",
+      "primary_item": {
+        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -660,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9886,
+        "recency": 0.9807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -683,85 +762,6 @@
         "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f5886f0c0a05",
-      "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "primary_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "6b5323f77928ec0afca9261f89039277b620693a",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T06:29:39.085000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "6b5323f77928ec0afca9261f89039277b620693a",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T06:29:39.085000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9715,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T06:29:39.085000Z",
-      "latest_at": "2026-08-22T14:13:05Z",
-      "primary_item": {
-        "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-        "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -818,15 +818,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -897,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -975,15 +975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9119,
+        "recency": 0.9046,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1054,15 +1054,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8864,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1077,401 +1077,6 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7b8d3d36b349",
-      "title": "当 GPU 读取内存时会发生什么",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "source": "blog.doubleword.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
-        },
-        {
-          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:16:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.doubleword.ai"
-      ],
-      "items": [
-        {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
-        },
-        {
-          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:16:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8107,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T16:16:42Z",
-      "latest_at": "2026-08-22T01:41:21.550000Z",
-      "primary_item": {
-        "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-        "title": "当 GPU 读取内存时会发生什么",
-        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10fabbb42c94",
-      "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-      "primary_url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-22T01:09:21Z"
-        },
-        {
-          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T21:41:42.040000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-22T01:09:21Z"
-        },
-        {
-          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T21:41:42.040000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8045,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T21:41:42.040000Z",
-      "latest_at": "2026-08-22T01:09:21Z",
-      "primary_item": {
-        "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-        "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_a53af4b5fcbb",
-      "title": "openai / 法典 / openai / codex",
-      "url": "https://github.com/openai/codex",
-      "primary_url": "https://github.com/openai/codex",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:40:02.983000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:40:02.983000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.966,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:40:02.983000Z",
-      "latest_at": "2026-08-22T13:49:38.492473Z",
-      "primary_item": {
-        "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-        "title": "openai / 法典 / openai / codex",
-        "url": "https://github.com/openai/codex",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_61f4070b9f50",
-      "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:32:30.720000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot (科技资讯)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:32:30.720000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7468,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:32:30.720000Z",
-      "latest_at": "2026-08-21T20:00:00Z",
-      "primary_item": {
-        "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-        "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-        "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_4602d0d95525",
-      "title": "《重罪法庭》：化身AI，犯下罪行",
-      "url": "https://www.felonybench.com",
-      "primary_url": "https://www.felonybench.com",
-      "source": "www.felonybench.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.felonybench.com"
-      ],
-      "items": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7222,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T17:23:02Z",
-      "latest_at": "2026-08-21T17:41:21.638000Z",
-      "primary_item": {
-        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-        "title": "《重罪法庭》：化身AI，犯下罪行",
-        "url": "https://www.felonybench.com",
-        "source": "www.felonybench.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1547,15 +1152,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7312,
+        "recency": 0.7253,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1568,6 +1173,401 @@
         "id": "721a9425e613cdd0c1994fe2006d638afb40fa82",
         "title": "Show HN：Proliferate - 适用于任何编码代理的开源、自托管 Codex / Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
         "url": "https://news.ycombinator.com/item?id=49390739",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_10fabbb42c94",
+      "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+      "primary_url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T01:09:21Z"
+        },
+        {
+          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T21:41:42.040000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T01:09:21Z"
+        },
+        {
+          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
+          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T21:41:42.040000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.798,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T21:41:42.040000Z",
+      "latest_at": "2026-08-22T01:09:21Z",
+      "primary_item": {
+        "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
+        "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_a53af4b5fcbb",
+      "title": "openai / 法典 / openai / codex",
+      "url": "https://github.com/openai/codex",
+      "primary_url": "https://github.com/openai/codex",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+          "title": "openai / 法典 / openai / codex",
+          "url": "https://github.com/openai/codex",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
+          "title": "openai / 法典 / openai /      codex",
+          "url": "https://github.com/openai/codex",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:40:02.983000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+          "title": "openai / 法典 / openai / codex",
+          "url": "https://github.com/openai/codex",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
+          "title": "openai / 法典 / openai /      codex",
+          "url": "https://github.com/openai/codex",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:40:02.983000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9583,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:40:02.983000Z",
+      "latest_at": "2026-08-22T13:49:38.492473Z",
+      "primary_item": {
+        "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+        "title": "openai / 法典 / openai / codex",
+        "url": "https://github.com/openai/codex",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_61f4070b9f50",
+      "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
+          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T20:00:00Z"
+        },
+        {
+          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
+          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
+          "url": "https://news.ycombinator.com/item?id=49357530",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T18:32:30.720000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot (科技资讯)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
+          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T20:00:00Z"
+        },
+        {
+          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
+          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
+          "url": "https://news.ycombinator.com/item?id=49357530",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T18:32:30.720000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7408,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T18:32:30.720000Z",
+      "latest_at": "2026-08-21T20:00:00Z",
+      "primary_item": {
+        "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
+        "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+        "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4602d0d95525",
+      "title": "《重罪法庭》：化身AI，犯下罪行",
+      "url": "https://www.felonybench.com",
+      "primary_url": "https://www.felonybench.com",
+      "source": "www.felonybench.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.felonybench.com"
+      ],
+      "items": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7165,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T17:23:02Z",
+      "latest_at": "2026-08-21T17:41:21.638000Z",
+      "primary_item": {
+        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+        "title": "《重罪法庭》：化身AI，犯下罪行",
+        "url": "https://www.felonybench.com",
+        "source": "www.felonybench.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c302d2d33537",
+      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+      "url": "https://news.ycombinator.com/item?id=49396590",
+      "primary_url": "https://news.ycombinator.com/item?id=49396590",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
+        },
+        {
+          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
+        },
+        {
+          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8587,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:33:06Z",
+      "latest_at": "2026-08-22T06:13:58.237000Z",
+      "primary_item": {
+        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+        "url": "https://news.ycombinator.com/item?id=49396590",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1625,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8551,
+        "recency": 0.8482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1704,15 +1704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
