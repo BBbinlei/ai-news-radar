@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:13:18.649598Z",
+  "generated_at": "2026-08-23T11:42:39.312920Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8614,
+        "recency": 0.8554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,15 +230,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6343,
-      "importance": 0.6343,
-      "importance_score": 0.6343,
+      "score": 0.6334,
+      "importance": 0.6334,
+      "importance_score": 0.6334,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7601,
+        "recency": 0.7547,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -253,6 +253,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch /      hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9938,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:13:18.649598Z",
+      "latest_at": "2026-08-23T11:16:45.227000Z",
+      "primary_item": {
+        "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+        "title": "NousResearch /      hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -309,15 +388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9938,
+        "recency": 0.9868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -388,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -486,15 +565,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8321,
+        "recency": 0.8262,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -564,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9522,
+        "recency": 0.9455,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -662,15 +741,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.7649,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,15 +819,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.895,
+        "recency": 0.8887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +917,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7442,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -917,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8649,
+        "recency": 0.8588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,6 +1019,85 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a83a8caace8",
+      "title": "anthropics /      claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9938,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:13:18.649598Z",
+      "latest_at": "2026-08-23T11:16:45.227000Z",
+      "primary_item": {
+        "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+        "title": "anthropics /      claude-plugins-community",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -996,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.986,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8162,
+        "recency": 0.8104,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,15 +1312,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.813,
+        "recency": 0.8073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.769,
+        "recency": 0.7636,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1311,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7615,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1390,15 +1548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.498,
-      "importance": 0.498,
-      "importance_score": 0.498,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7342,
+        "recency": 0.7291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,239 +1574,82 @@
       }
     },
     {
-      "story_id": "story_b8c0ed27bcb3",
-      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-      "url": "https://news.ycombinator.com/item?id=49399642",
-      "primary_url": "https://news.ycombinator.com/item?id=49399642",
-      "source": "hackernews",
+      "story_id": "story_cb08435a825e",
+      "title": "freestylefly /      awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "github",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
-          "source": "hackernews",
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
+          "published_at": "2026-08-23T11:16:45.227000Z"
         },
         {
-          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:39:07Z"
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
-          "source": "hackernews",
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
+          "published_at": "2026-08-23T11:16:45.227000Z"
         },
         {
-          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:39:07Z"
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7922,
+        "recency": 0.9938,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T13:39:07Z",
-      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "earliest_at": "2026-08-23T11:13:18.649598Z",
+      "latest_at": "2026-08-23T11:16:45.227000Z",
       "primary_item": {
-        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-        "url": "https://news.ycombinator.com/item?id=49399642",
-        "source": "hackernews",
+        "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+        "title": "freestylefly /      awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3f3be91b4072",
-      "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-      "url": "https://www.ithome.com/0/993/193.htm",
-      "primary_url": "https://www.ithome.com/0/993/193.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
-          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T07:11:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
-          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T07:11:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9532,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T07:11:05Z",
-      "latest_at": "2026-08-23T07:54:10.645734Z",
-      "primary_item": {
-        "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-        "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-        "url": "https://www.ithome.com/0/993/193.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0cbbcd53f19c",
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "primary_url": "https://twitter.com/moxie/status/2091218652133732491",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        },
-        {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        },
-        {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7815,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:08:56Z",
-      "latest_at": "2026-08-22T18:08:56Z",
-      "primary_item": {
-        "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-        "title": "Scrap",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
