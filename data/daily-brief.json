@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:43:46.361847Z",
+  "generated_at": "2026-08-23T16:14:22.852574Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.845,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,15 +159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8071,
+        "recency": 0.8012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -185,135 +185,120 @@
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-22",
-      "source_name": "WaytoAGI",
+      "story_id": "story_36a58a3d5841",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://news.ycombinator.com/item?id=49409073",
+      "primary_url": "https://news.ycombinator.com/item?id=49409073",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
-          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T17:12:43.634262Z"
+          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
+          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+          "url": "https://news.ycombinator.com/item?id=49409073",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T15:58:02.012000Z"
         },
         {
-          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
-          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:46:43.628436Z"
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
         },
         {
-          "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
-          "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
         },
         {
-          "id": "7eafeacdacde848a3ef20fde0b3d8159cc66614c",
-          "title": "Minke v0.2.0基于DeepSeek Harness的架构，借助Cordis插件树做扩展，实现了移动端远程控制本地Agent主机。它不走传统画面投屏，只同步任务、文件、终端状态，项目与运行环境依旧留存于本地电脑。一起来看看具体的开发细节！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
-        },
-        {
-          "id": "cdef1810742356f977d4d57ac8dfd91609af5c8d",
-          "title": "很多人改AI生成的文案，第一反应是删“首先其次”、加点口语、把检测分降下去。但所谓AI味，本质上是“均值味”——选词太稳、节奏太平、结构太顺、口癖太像模型。作者这篇文章深度拆解了AI文本检测的底层逻辑，提出了一个跨四层的“结构化离群”统一框架，或许可以帮到你！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
+          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T14:23:09Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-08-22"
+        "Hacker News (黑客新闻)",
+        "Lobsters (技术社区)",
+        "ericpardee.github.io",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
-          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T17:12:43.634262Z"
+          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
+          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+          "url": "https://news.ycombinator.com/item?id=49409073",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T15:58:02.012000Z"
         },
         {
-          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
-          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:46:43.628436Z"
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
         },
         {
-          "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
-          "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
         },
         {
-          "id": "7eafeacdacde848a3ef20fde0b3d8159cc66614c",
-          "title": "Minke v0.2.0基于DeepSeek Harness的架构，借助Cordis插件树做扩展，实现了移动端远程控制本地Agent主机。它不走传统画面投屏，只同步任务、文件、终端状态，项目与运行环境依旧留存于本地电脑。一起来看看具体的开发细节！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
-        },
-        {
-          "id": "cdef1810742356f977d4d57ac8dfd91609af5c8d",
-          "title": "很多人改AI生成的文案，第一反应是删“首先其次”、加点口语、把检测分降下去。但所谓AI味，本质上是“均值味”——选词太稳、节奏太平、结构太顺、口癖太像模型。作者这篇文章深度拆解了AI文本检测的底层逻辑，提出了一个跨四层的“结构化离群”统一框架，或许可以帮到你！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:13:20.478401Z"
+          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T14:23:09Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6257,
-      "importance": 0.6257,
-      "importance_score": 0.6257,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.54,
-        "ai_relevance": 0.67,
-        "recency": 0.7122,
-        "story_heat": 1.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T16:13:20.478401Z",
-      "latest_at": "2026-08-22T17:12:43.634262Z",
+      "earliest_at": "2026-08-23T14:23:09Z",
+      "latest_at": "2026-08-23T15:58:02.012000Z",
       "primary_item": {
-        "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
-        "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-22",
-        "source_name": "WaytoAGI"
+        "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
+        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+        "url": "https://news.ycombinator.com/item?id=49409073",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -370,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -393,6 +378,84 @@
         "url": "https://www.huxiu.com/article/4885316.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-22",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
+          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T17:12:43.634262Z"
+        },
+        {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:46:43.628436Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-08-22"
+      ],
+      "items": [
+        {
+          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
+          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T17:12:43.634262Z"
+        },
+        {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:46:43.628436Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7171,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:46:43.628436Z",
+      "latest_at": "2026-08-22T17:12:43.634262Z",
+      "primary_item": {
+        "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
+        "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-22",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -449,15 +512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9561,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -527,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9451,
+        "recency": 0.9382,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,15 +748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9236,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -783,15 +846,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7796,
+        "recency": 0.7739,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -862,15 +925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8922,
+        "recency": 0.8856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,15 +1081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8386,
+        "recency": 0.8324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9788,
+        "recency": 0.9716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1176,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8104,
+        "recency": 0.8044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,15 +1318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1334,15 +1397,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7647,
+        "recency": 0.7591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1356,164 +1419,6 @@
         "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:14:39.949000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:14:39.949000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4959,
-      "importance": 0.4959,
-      "importance_score": 0.4959,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7227,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:14:39.949000Z",
-      "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3e284d11e91a",
-      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7136,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:04:51Z",
-      "latest_at": "2026-08-22T16:21:29.526000Z",
-      "primary_item": {
-        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1571,15 +1476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1594,6 +1499,85 @@
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:47:32.649796Z",
+      "primary_item": {
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
