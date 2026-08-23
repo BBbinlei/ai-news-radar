@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:19:05.432722Z",
+  "generated_at": "2026-08-23T03:27:30.672069Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,15 +231,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6531,
-      "importance": 0.6531,
-      "importance_score": 0.6531,
+      "score": 0.6506,
+      "importance": 0.6506,
+      "importance_score": 0.6506,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.8643,
+        "recency": 0.8502,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -329,15 +329,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9462,
+        "recency": 0.9308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,12 +372,12 @@
           "published_at": "2026-08-22T17:09:20.269000Z"
         },
         {
-          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
           "title": "新的MCP路线图 / New MCP Roadmap",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
@@ -393,7 +393,7 @@
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.modelcontextprotocol.io"
       ],
       "items": [
@@ -407,12 +407,12 @@
           "published_at": "2026-08-22T17:09:20.269000Z"
         },
         {
-          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
           "title": "新的MCP路线图 / New MCP Roadmap",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
@@ -427,15 +427,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8761,
+        "recency": 0.8618,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,6 +450,85 @@
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
         "source": "blog.modelcontextprotocol.io",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_01b6e0d9d555",
+      "title": "AI Agent 安全新趋势：Authority 概念兴起",
+      "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4885226.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "78f0ef88871a34e36c68db993353853323e1d139",
+          "title": "AI Agent 安全新趋势：Authority 概念兴起",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
+          "title": "AI Agent 安全正在出现一个新的词：Authority",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T02:20:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "78f0ef88871a34e36c68db993353853323e1d139",
+          "title": "AI Agent 安全新趋势：Authority 概念兴起",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
+          "title": "AI Agent 安全正在出现一个新的词：Authority",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T02:20:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T02:20:38Z",
+      "latest_at": "2026-08-23T03:27:30.672069Z",
+      "primary_item": {
+        "id": "78f0ef88871a34e36c68db993353853323e1d139",
+        "title": "AI Agent 安全新趋势：Authority 概念兴起",
+        "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -506,15 +585,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9835,
+        "recency": 0.9675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -529,85 +608,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5e014506cb40",
-      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "url": "https://www.ithome.com/0/993/133.htm",
-      "primary_url": "https://www.ithome.com/0/993/133.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9783,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T00:15:10Z",
-      "latest_at": "2026-08-23T00:47:47.972191Z",
-      "primary_item": {
-        "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-        "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-        "url": "https://www.ithome.com/0/993/133.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -683,15 +683,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8397,
+        "recency": 0.826,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -762,15 +762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9282,
+        "recency": 0.913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9246,
+        "recency": 0.9095,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,15 +920,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,15 +998,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8887,
+        "recency": 0.8742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8745,
+        "recency": 0.8603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.866,
+        "recency": 0.8519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1234,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.835,
+        "recency": 0.8213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1313,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8226,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1336,6 +1336,85 @@
         "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_5e014506cb40",
+      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+      "url": "https://www.ithome.com/0/993/133.htm",
+      "primary_url": "https://www.ithome.com/0/993/133.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
+          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+          "url": "https://www.ithome.com/0/993/133.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
+          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+          "url": "https://www.ithome.com/0/993/133.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T00:15:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
+          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+          "url": "https://www.ithome.com/0/993/133.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
+          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+          "url": "https://www.ithome.com/0/993/133.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T00:15:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9623,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T00:15:10Z",
+      "latest_at": "2026-08-23T00:47:47.972191Z",
+      "primary_item": {
+        "id": "e602cedc366e4d05b60c4435793b5e916357701d",
+        "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+        "url": "https://www.ithome.com/0/993/133.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1391,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8905,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,15 +1548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8891,
+        "recency": 0.8746,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1492,84 +1571,6 @@
         "url": "https://thinkinginpython.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_26cdac3b7078",
-      "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-      "url": "https://hub.baai.ac.cn/view/57342",
-      "primary_url": "https://hub.baai.ac.cn/view/57342",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
-          "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-          "url": "https://hub.baai.ac.cn/view/57342",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7e0ba46da07de8f2f74ad11f7fe30559b2efd4e4",
-          "title": "英矽智能上线虚拟衰老细胞页面，并发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-          "url": "https://hub.baai.ac.cn/view/57342",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
-          "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-          "url": "https://hub.baai.ac.cn/view/57342",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7e0ba46da07de8f2f74ad11f7fe30559b2efd4e4",
-          "title": "英矽智能上线虚拟衰老细胞页面，并发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-          "url": "https://hub.baai.ac.cn/view/57342",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8768,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:46:43.628436Z",
-      "latest_at": "2026-08-22T17:12:43.634262Z",
-      "primary_item": {
-        "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
-        "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
-        "url": "https://hub.baai.ac.cn/view/57342",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1626,15 +1627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8545,
+        "recency": 0.8406,
         "story_heat": 0.25
       },
       "category": "watch",
