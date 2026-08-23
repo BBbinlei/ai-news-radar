@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:51:45.175422Z",
+  "generated_at": "2026-08-23T14:14:44.184542Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8681,
+        "recency": 0.8633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,15 +230,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6292,
-      "importance": 0.6292,
-      "importance_score": 0.6292,
+      "score": 0.6285,
+      "importance": 0.6285,
+      "importance_score": 0.6285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7316,
+        "recency": 0.7276,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -253,6 +253,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_fa9eacb063cb",
+      "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+      "url": "https://www.ithome.com/0/993/301.htm",
+      "primary_url": "https://www.ithome.com/0/993/301.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
+          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:53:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
+          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:53:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T13:53:40Z",
+      "latest_at": "2026-08-23T14:14:44.184542Z",
+      "primary_item": {
+        "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+        "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+        "url": "https://www.ithome.com/0/993/301.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -309,15 +388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -387,15 +466,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9709,
+        "recency": 0.9656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -466,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.9581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,85 +568,6 @@
         "url": "https://github.com/NousResearch/hermes-agent",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_61266559dfa6",
-      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-      "url": "https://www.ithome.com/0/993/248.htm",
-      "primary_url": "https://www.ithome.com/0/993/248.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
-          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T10:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
-          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T10:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9566,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T10:01:14Z",
-      "latest_at": "2026-08-23T10:47:32.649796Z",
-      "primary_item": {
-        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-        "url": "https://www.ithome.com/0/993/248.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -624,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9488,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -722,15 +722,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8009,
+        "recency": 0.7965,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,15 +801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9371,
+        "recency": 0.9319,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,15 +879,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9165,
+        "recency": 0.9115,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -957,15 +957,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8615,
+        "recency": 0.8568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -980,104 +980,6 @@
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f5886f0c0a05",
-      "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-      "url": "https://news.ycombinator.com/item?id=49399941",
-      "primary_url": "https://news.ycombinator.com/item?id=49399941",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "48da43d39783dc61a4d0024adb33178582f5a4fa",
-          "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://news.ycombinator.com/item?id=49399941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:45:31.966000Z"
-        },
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "15664614551c14a0ad235475e6998fd289277aa8",
-          "title": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T14:13:05Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "48da43d39783dc61a4d0024adb33178582f5a4fa",
-          "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://news.ycombinator.com/item?id=49399941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:45:31.966000Z"
-        },
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "15664614551c14a0ad235475e6998fd289277aa8",
-          "title": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T14:13:05Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7163,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T14:13:05Z",
-      "latest_at": "2026-08-22T14:45:31.966000Z",
-      "primary_item": {
-        "id": "48da43d39783dc61a4d0024adb33178582f5a4fa",
-        "title": "挖掘我工作的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-        "url": "https://news.ycombinator.com/item?id=49399941",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1134,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8325,
+        "recency": 0.8279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.9581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,6 +1138,85 @@
         "url": "https://github.com/anthropics/claude-plugins-community",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9514,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:47:32.649796Z",
+      "primary_item": {
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1292,15 +1273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7856,
+        "recency": 0.7813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,160 +1299,82 @@
       }
     },
     {
-      "story_id": "story_543f347056f8",
-      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-      "url": "https://www.ithome.com/0/993/242.htm",
-      "primary_url": "https://www.ithome.com/0/993/242.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_45f68b1865d1",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229",
+      "primary_url": "https://news.ycombinator.com/item?id=49401229",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:14:39.949000Z"
         },
         {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:14:39.949000Z"
         },
         {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9491,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T09:49:59Z",
-      "latest_at": "2026-08-23T10:14:38.288887Z",
+      "earliest_at": "2026-08-22T16:23:09Z",
+      "latest_at": "2026-08-22T17:14:39.949000Z",
       "primary_item": {
-        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-        "url": "https://www.ithome.com/0/993/242.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6c66d05f07e2",
-      "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T17:02:06Z"
-        },
-        {
-          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:10:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)"
-      ],
-      "items": [
-        {
-          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T17:02:06Z"
-        },
-        {
-          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:10:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7403,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T14:10:05Z",
-      "latest_at": "2026-08-22T17:02:06Z",
-      "primary_item": {
-        "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-        "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
+        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://news.ycombinator.com/item?id=49401229",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1528,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7331,
+        "recency": 0.729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1607,15 +1510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.9581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1630,6 +1533,85 @@
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_18837430aeb7",
+      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T20:46:35Z",
+      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "primary_item": {
+        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
