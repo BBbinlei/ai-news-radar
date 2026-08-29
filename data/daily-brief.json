@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T19:01:27.242760Z",
+  "generated_at": "2026-08-29T21:50:33.214640Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7598,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,130 +62,6 @@
         "title": "Codex CLI 0.151.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_362e2edecbfb",
-      "title": "GitHub Copilot in Visual Studio — August update",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7214,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:24:20Z",
-      "latest_at": "2026-08-28T20:24:20Z",
-      "primary_item": {
-        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-        "title": "GitHub Copilot in Visual Studio — August update",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fe43888c26b1",
-      "title": "GitHub Copilot weekly releases — August 24",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot weekly releases — August 24",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot weekly releases — August 24",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7195,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:13:22Z",
-      "latest_at": "2026-08-28T20:13:22Z",
-      "primary_item": {
-        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-        "title": "GitHub Copilot weekly releases — August 24",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -224,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -303,15 +179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7797,
+        "recency": 0.7486,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -538,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.637,
+      "importance": 0.637,
+      "importance_score": 0.637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9601,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -655,15 +531,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5863,
-      "importance": 0.5863,
-      "importance_score": 0.5863,
+      "score": 0.5795,
+      "importance": 0.5795,
+      "importance_score": 0.5795,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9473,
+        "recency": 0.9095,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -677,6 +553,341 @@
         "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
         "url": "https://lwn.net/Articles/1091231",
         "source": "lwn.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6472bbcb1287",
+      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "newsletter.eng-leadership.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "newsletter.eng-leadership.com"
+      ],
+      "items": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9785,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "primary_item": {
+        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "source": "newsletter.eng-leadership.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_697adcd01e97",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://news.ycombinator.com/item?id=49492184",
+      "primary_url": "https://news.ycombinator.com/item?id=49492184",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9967,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T18:38:52Z",
+      "latest_at": "2026-08-29T21:36:53.423000Z",
+      "primary_item": {
+        "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+        "title": "LLMs are making me lose my savviness",
+        "url": "https://news.ycombinator.com/item?id=49492184",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_73be14de88e6",
+      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+      "url": "https://github.com/todotge/canonical-basis",
+      "primary_url": "https://github.com/todotge/canonical-basis",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
+        },
+        {
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
+        },
+        {
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9785,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T20:16:54Z",
+      "latest_at": "2026-08-29T20:20:15.547000Z",
+      "primary_item": {
+        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+        "url": "https://github.com/todotge/canonical-basis",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dde286af26fd",
+      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
+        },
+        {
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
+        },
+        {
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.971,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T19:05:05Z",
+      "latest_at": "2026-08-29T19:48:15.596000Z",
+      "primary_item": {
+        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -734,15 +945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -757,243 +968,6 @@
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6472bbcb1287",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://news.ycombinator.com/item?id=49491568",
-      "primary_url": "https://news.ycombinator.com/item?id=49491568",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T17:19:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T17:19:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.994,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T18:36:32.292000Z",
-      "primary_item": {
-        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://news.ycombinator.com/item?id=49491568",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_29a8261d3470",
-      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9221,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:05:01Z",
-      "latest_at": "2026-08-29T13:24:41.103000Z",
-      "primary_item": {
-        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0110e72feee3",
-      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "primary_url": "https://github.com/stemdeckapp/stemdeck",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T10:12:23.295000Z"
-        },
-        {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T10:12:23.295000Z"
-        },
-        {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8804,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:24:13Z",
-      "latest_at": "2026-08-29T10:12:23.295000Z",
-      "primary_item": {
-        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-        "url": "https://github.com/stemdeckapp/stemdeck",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1050,15 +1024,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8374,
+        "recency": 0.804,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,6 +1046,85 @@
         "title": "我不小心把LLM内存变成了程序分析",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis",
         "source": "pwning.systems",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9928173748ab",
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "arbustoemchamas.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arbustoemchamas.substack.com"
+      ],
+      "items": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T06:11:18Z",
+      "latest_at": "2026-08-29T06:12:16.489000Z",
+      "primary_item": {
+        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "arbustoemchamas.substack.com",
         "source_name": "Buzzing"
       }
     },
@@ -1129,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1152,85 +1205,6 @@
         "url": "https://github.com/tashfeenahmed/freellmapi",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
-      ],
-      "items": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.831,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
-      "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1287,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1366,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7965,
+        "recency": 0.7648,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1445,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7935,
+        "recency": 0.7619,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1524,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7929,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,6 +1521,85 @@
         "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8854,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
