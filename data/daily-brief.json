@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T02:39:41.126060Z",
+  "generated_at": "2026-08-30T08:44:13.681226Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -65,6 +65,67 @@
       }
     },
     {
+      "story_id": "story_c71bc92556e6",
+      "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-30T04:21:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-30T04:21:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9386,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T04:21:04Z",
+      "latest_at": "2026-08-30T04:21:04Z",
+      "primary_item": {
+        "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+        "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
       "story_id": "story_dab2710a3e78",
       "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
       "url": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -80,11 +141,21 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-29T22:47:53Z"
+        },
+        {
+          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T23:43:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
@@ -95,152 +166,42 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-29T22:47:53Z"
+        },
+        {
+          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T23:43:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
+        "recency": 0.8663,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T23:43:24Z",
       "primary_item": {
         "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
         "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
         "url": "https://www.dwarkesh.com/p/openai-huggingface",
         "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e896a4b3791",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:00:22.003000Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
-      "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7587,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:32:16.981000Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
-      "primary_item": {
-        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -333,15 +294,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6254,
-      "importance": 0.6254,
-      "importance_score": 0.6254,
+      "score": 0.6119,
+      "importance": 0.6119,
+      "importance_score": 0.6119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8956,
+        "recency": 0.8204,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -359,119 +320,100 @@
       }
     },
     {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "lwn.net",
+      "story_id": "story_0620f79b66d9",
+      "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "source": "embracethered.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T05:40:15.465000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "HN Algolia · AI 24h",
         "Lobsters (技术社区)",
-        "lwn.net",
-        "www.phoronix.com"
+        "embracethered.com"
       ],
       "items": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T05:40:15.465000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8483,
-        "story_heat": 0.75
+        "recency": 0.9567,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "earliest_at": "2026-08-30T05:04:10Z",
+      "latest_at": "2026-08-30T05:40:15.465000Z",
       "primary_item": {
-        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "url": "https://lwn.net/Articles/1091231",
-        "source": "lwn.net",
+        "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+        "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+        "source": "embracethered.com",
         "source_name": "Buzzing"
       }
     },
@@ -502,18 +444,18 @@
           "published_at": "2026-08-29T18:36:32.292000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
           "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
           "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "newsletter.eng-leadership.com"
       ],
@@ -537,26 +479,26 @@
           "published_at": "2026-08-29T18:36:32.292000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
           "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
           "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5551,
-      "importance": 0.5551,
-      "importance_score": 0.5551,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9127,
+        "recency": 0.8361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -571,6 +513,104 @@
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "source": "newsletter.eng-leadership.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b2727cbce15",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://news.ycombinator.com/item?id=49489982",
+      "primary_url": "https://news.ycombinator.com/item?id=49489982",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "lwn.net"
+      ],
+      "items": [
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8154,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T14:02:10Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
+      "primary_item": {
+        "id": "530b878515479cfee39827671c67e698af01cd81",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://news.ycombinator.com/item?id=49489982",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -627,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,15 +746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9127,
+        "recency": 0.8361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -785,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9057,
+        "recency": 0.8296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9025,
+        "recency": 0.8267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8956,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -965,85 +1005,6 @@
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8902,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T18:36:32.292000Z",
-      "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1100,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,85 +1084,6 @@
         "url": "https://www.ithome.com/0/996/057.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
-      ],
-      "items": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7442,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
-      "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1258,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8956,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8919,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1360,6 +1242,164 @@
         "url": "https://github.com/rysh-ai/rysh-cli-code",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8154,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
+      "primary_item": {
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6b08cd3b6d93",
+      "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "primary_url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8023,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:20:16.082000Z",
+      "latest_at": "2026-08-29T17:28:53Z",
+      "primary_item": {
+        "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+        "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1416,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8259,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,15 +1614,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
