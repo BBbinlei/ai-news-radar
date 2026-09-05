@@ -72,6 +72,7 @@ The public site should directly track these high-signal official sources:
 - Hugging Face Blog RSS
 - GitHub AI & ML RSS
 - GitHub Changelog RSS
+- ML Papers of the Week (GitHub Atom)
 
 Aggregator sites may already surface some of these updates, but they are not
 guaranteed to be complete or timely. Keep these official sources as a stable
@@ -87,8 +88,10 @@ baseline, then let the aggregator layer add breadth.
 - **Curated AI media RSS**: reads a small set of public RSS/Atom feeds that add
   coverage without requiring login: The Decoder AI News, TechCrunch AI, The
   Verge RSS with strict AI-title filtering, MarkTechPost Research with research
-  filtering, VentureBeat AI, Artificial Intelligence News, and Claude Code
-  GitHub releases. These feeds are capped per source and pass through the same
+  filtering, VentureBeat AI, Artificial Intelligence News, Claude Code
+  GitHub releases, MIT News AI, Wired AI (strict AI-title filtering),
+  The Gradient, Andrej Karpathy Blog, Lilian Weng Blog, Sebastian Ruder Blog,
+  and arXiv cs.AI. These feeds are capped per source and pass through the same
   AI relevance scoring as the rest of the radar. Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
