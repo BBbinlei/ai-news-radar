@@ -1,235 +1,214 @@
 {
-  "generated_at": "2026-09-06T22:34:50.075357Z",
+  "generated_at": "2026-09-08T05:28:42.820105Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a8e8f9dc895a",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6aff23f6ac5c",
+      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+      "url": "https://www.aibase.com/news/30898",
+      "primary_url": "https://www.aibase.com/news/30898",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         },
         {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8699,
-      "importance": 0.8699,
-      "importance_score": 0.8699,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8219,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T09:00:00Z",
-      "latest_at": "2026-09-06T18:33:46.745000Z",
-      "primary_item": {
-        "id": "07df97fa324316a3761be85953d935f46ac91560",
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-        "url": "https://openai.com/index/an-alien-mind",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_19672c4832d4",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         },
         {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
-      "importance_label": "官方更新",
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8101,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T08:00:00Z",
-      "latest_at": "2026-09-06T08:00:00Z",
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
       "primary_item": {
-        "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+        "url": "https://www.aibase.com/news/30898",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6f9290dbd1a1",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_09f466e518b1",
+      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
+          "published_at": "2026-09-07T18:12:41Z"
+        },
+        {
+          "id": "283b6bd8933df0511b647de5a53aeeb29df7b39e",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T18:12:41Z"
+        },
+        {
+          "id": "283b6bd8933df0511b647de5a53aeeb29df7b39e",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8498,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T18:12:41Z",
+      "latest_at": "2026-09-07T18:12:41Z",
+      "primary_item": {
+        "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -237,79 +216,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
+      "earliest_at": "2026-09-08T00:17:23Z",
+      "latest_at": "2026-09-08T00:17:23Z",
       "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ec06a66103fb",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_c63f53fe3e05",
+      "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+      "url": "https://www.aibase.com/news/30891",
+      "primary_url": "https://www.aibase.com/news/30891",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
+          "id": "696dc4ce3987a8143927bc1955480481ca77f2be",
+          "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+          "url": "https://www.aibase.com/news/30891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         },
         {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
+          "id": "3bd14a0e1f31da97f04869f277f1f8b7b7cc4c5d",
+          "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+          "url": "https://www.aibase.com/zh/news/30891",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
+          "id": "696dc4ce3987a8143927bc1955480481ca77f2be",
+          "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+          "url": "https://www.aibase.com/news/30891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         },
         {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
+          "id": "3bd14a0e1f31da97f04869f277f1f8b7b7cc4c5d",
+          "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+          "url": "https://www.aibase.com/zh/news/30891",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7959,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -318,618 +297,798 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T06:46:16Z",
-      "latest_at": "2026-09-06T06:46:16Z",
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
       "primary_item": {
-        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "url": "https://www.ithome.com/0/998/927.htm",
+        "id": "696dc4ce3987a8143927bc1955480481ca77f2be",
+        "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
+        "url": "https://www.aibase.com/news/30891",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f4b0267f1dc7",
+      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+      "url": "https://www.ithome.com/0/999/313.htm",
+      "primary_url": "https://www.ithome.com/0/999/313.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "url": "https://www.ithome.com/0/999/313.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T07:46:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "url": "https://www.ithome.com/0/999/313.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T07:46:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7309,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T07:46:08Z",
+      "latest_at": "2026-09-07T07:46:08Z",
+      "primary_item": {
+        "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+        "url": "https://www.ithome.com/0/999/313.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-06",
-      "source_name": "WaytoAGI",
+      "story_id": "story_bbe3c5f6085e",
+      "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
+      "url": "https://x.com/MistralAI/status/2097188835897586083",
+      "primary_url": "https://x.com/MistralAI/status/2097188835897586083",
+      "source": "X：Mistral AI (@MistralAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-          "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "1f0452afdd98d4462ab967a3410879304d4b7074",
-          "title": "很多人用AI做 PPT，第一步就卡在“到底该用哪个工具”。作者把Codex 里常见的 PPT Skill 按场景进行了划分。经常做培训、汇报、演讲的人，可以直接拿它当选型清单，少踩一些“格式交不了、后期改不动”的坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "573eaefee7951dad0a0cbd71b3c2452c8d7e8fcc",
-          "title": "最近看Agent论文，很容易被一堆新名词绕晕；本周精选的10篇论文帮你把这一周真正值得关注的方向拎了出来。内容覆盖长上下文怎么降低成本，编码Agent如何连续性开发，Skill 怎么从运行经验里实现自我进化，长任务怎样用显式状态替代无限聊天记录，以及推荐系统、电商经营、研究类Agent、长期记忆和持久化Agent的新评测。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "c4f38f1044be95feafc8afcc24fc72c30f1da68b",
-          "title": "这篇文章把 KV 缓存工程拆成一张清晰的地图：从公式看成本来源，再对比GQA/MQA、跨层共享、滑动窗口、MLA、量化、驱逐、分页、前缀复用、CPU 卸载等12种方案，讲清楚了每种方式到底省了什么、代价是什么。做 LLM 推理部署、长上下文应用和成本优化的朋友，可以读一读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "96a23166b98cdbade6ba095925ae987fc3f87b56",
-          "title": "这篇文章适合养宠人、智能家居玩家，以及想用WorkBuddy跑通第一个Agent项目的小白看。作者借助Agent对接家用监控摄像头，实现了自动查找宠物、定时巡检、生成宠物日记与异常提醒。项目已经开源，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "d619e2d9fa235e782d033b9501d69b8d41313b63",
-          "title": "这篇长文复盘了 2022‑2025 开源模型的发展历程。纵览 LLaMA 引爆社区、国产模型崛起、DeepSeek‑R1 搅动全球市场，直至 OpenAI 重新拥抱开放权重的行业转折。可以帮你从权重、代码、数据、许可证四个维度甄别模型的真实开放程度，跳出参数崇拜，看懂开源模型给普通开发者带来的机会与价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
-          "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "fea17ab7f258030d5fdaabfc4d0c4beef13cce78",
-          "title": "大模型排行榜的很多分数其实没那么“干净”：题目会被刷爆、训练数据可能污染测试集，甚至标准答案本身也会出错。这篇大模型评测指南从 MMLU、GSM8K 到 SWE-bench、Terminal-Bench，拆解了评测集为什么会失效，模型怎么 reward hacking，榜单又该怎样被审计。读完再看跑分，你会更知道该问哪些关键问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "2e14807015a6063955606488f70833eccde42de8",
-          "title": "每次新模型发布，很多人都会问“哪个最好用”，但其实是很多基础概念大家都没搞懂。这篇文章搭建了一套针对小白的 AI 认知地图，还结合大量现实案例拆解了大模型幻觉成因，梳理了海内外主流模型谱系，并对照实际工作场景给出了选型思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "4bcebd353042a4170d49e6f5342291946dcf39f3",
-          "title": "这篇文章适合想用 AI 做网页的小白、设计师、产品和前端入门者看。作者把流程拆得很详细，大家准备做网站前，可以先照着这个思路跑一遍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
+          "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
+          "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
+          "url": "https://x.com/MistralAI/status/2097188835897586083",
+          "source": "X：Mistral AI (@MistralAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:02:37Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-09-05",
-        "社区更新 · 2026-09-06"
+        "X：Mistral AI (@MistralAI)"
       ],
       "items": [
         {
-          "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-          "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "1f0452afdd98d4462ab967a3410879304d4b7074",
-          "title": "很多人用AI做 PPT，第一步就卡在“到底该用哪个工具”。作者把Codex 里常见的 PPT Skill 按场景进行了划分。经常做培训、汇报、演讲的人，可以直接拿它当选型清单，少踩一些“格式交不了、后期改不动”的坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "573eaefee7951dad0a0cbd71b3c2452c8d7e8fcc",
-          "title": "最近看Agent论文，很容易被一堆新名词绕晕；本周精选的10篇论文帮你把这一周真正值得关注的方向拎了出来。内容覆盖长上下文怎么降低成本，编码Agent如何连续性开发，Skill 怎么从运行经验里实现自我进化，长任务怎样用显式状态替代无限聊天记录，以及推荐系统、电商经营、研究类Agent、长期记忆和持久化Agent的新评测。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "c4f38f1044be95feafc8afcc24fc72c30f1da68b",
-          "title": "这篇文章把 KV 缓存工程拆成一张清晰的地图：从公式看成本来源，再对比GQA/MQA、跨层共享、滑动窗口、MLA、量化、驱逐、分页、前缀复用、CPU 卸载等12种方案，讲清楚了每种方式到底省了什么、代价是什么。做 LLM 推理部署、长上下文应用和成本优化的朋友，可以读一读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "96a23166b98cdbade6ba095925ae987fc3f87b56",
-          "title": "这篇文章适合养宠人、智能家居玩家，以及想用WorkBuddy跑通第一个Agent项目的小白看。作者借助Agent对接家用监控摄像头，实现了自动查找宠物、定时巡检、生成宠物日记与异常提醒。项目已经开源，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "d619e2d9fa235e782d033b9501d69b8d41313b63",
-          "title": "这篇长文复盘了 2022‑2025 开源模型的发展历程。纵览 LLaMA 引爆社区、国产模型崛起、DeepSeek‑R1 搅动全球市场，直至 OpenAI 重新拥抱开放权重的行业转折。可以帮你从权重、代码、数据、许可证四个维度甄别模型的真实开放程度，跳出参数崇拜，看懂开源模型给普通开发者带来的机会与价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:27:03.105271Z"
-        },
-        {
-          "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
-          "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "fea17ab7f258030d5fdaabfc4d0c4beef13cce78",
-          "title": "大模型排行榜的很多分数其实没那么“干净”：题目会被刷爆、训练数据可能污染测试集，甚至标准答案本身也会出错。这篇大模型评测指南从 MMLU、GSM8K 到 SWE-bench、Terminal-Bench，拆解了评测集为什么会失效，模型怎么 reward hacking，榜单又该怎样被审计。读完再看跑分，你会更知道该问哪些关键问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "2e14807015a6063955606488f70833eccde42de8",
-          "title": "每次新模型发布，很多人都会问“哪个最好用”，但其实是很多基础概念大家都没搞懂。这篇文章搭建了一套针对小白的 AI 认知地图，还结合大量现实案例拆解了大模型幻觉成因，梳理了海内外主流模型谱系，并对照实际工作场景给出了选型思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
-        },
-        {
-          "id": "4bcebd353042a4170d49e6f5342291946dcf39f3",
-          "title": "这篇文章适合想用 AI 做网页的小白、设计师、产品和前端入门者看。作者把流程拆得很详细，大家准备做网站前，可以先照着这个思路跑一遍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T04:54:47.016423Z"
+          "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
+          "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
+          "url": "https://x.com/MistralAI/status/2097188835897586083",
+          "source": "X：Mistral AI (@MistralAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:02:37Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6588,
-      "importance": 0.6588,
-      "importance_score": 0.6588,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T05:02:37Z",
+      "latest_at": "2026-09-08T05:02:37Z",
+      "primary_item": {
+        "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
+        "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
+        "url": "https://x.com/MistralAI/status/2097188835897586083",
+        "source": "X：Mistral AI (@MistralAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3216b1335458",
+      "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
+      "url": "https://www.aibase.com/news/30890",
+      "primary_url": "https://www.aibase.com/news/30890",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
+          "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
+          "url": "https://www.aibase.com/news/30890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "5965757d604a6059514d18891ae3c842497e620c",
+          "title": "张一鸣亲自督导，字节跳动或将推出实时生成虚拟世界 AI 模型",
+          "url": "https://www.aibase.com/zh/news/30890",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
+          "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
+          "url": "https://www.aibase.com/news/30890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "5965757d604a6059514d18891ae3c842497e620c",
+          "title": "张一鸣亲自督导，字节跳动或将推出实时生成虚拟世界 AI 模型",
+          "url": "https://www.aibase.com/zh/news/30890",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
+      "primary_item": {
+        "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
+        "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
+        "url": "https://www.aibase.com/news/30890",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_78ff4d69894a",
+      "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+      "url": "https://www.aibase.com/news/30884",
+      "primary_url": "https://www.aibase.com/news/30884",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "url": "https://www.aibase.com/news/30884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "588d718f87bd9dcc19ce9ade17ff3ea50f053450",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "url": "https://www.aibase.com/zh/news/30884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "url": "https://www.aibase.com/news/30884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "588d718f87bd9dcc19ce9ade17ff3ea50f053450",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "url": "https://www.aibase.com/zh/news/30884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
+      "primary_item": {
+        "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+        "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+        "url": "https://www.aibase.com/news/30884",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_47ee76b38cb3",
+      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
+      "url": "https://www.aibase.com/news/30889",
+      "primary_url": "https://www.aibase.com/news/30889",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
+          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
+          "url": "https://www.aibase.com/news/30889",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
+          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
+          "url": "https://www.aibase.com/news/30889",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
+      "primary_item": {
+        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
+        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
+        "url": "https://www.aibase.com/news/30889",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-07",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
+          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
+          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-09-07"
+      ],
+      "items": [
+        {
+          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
+          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
+          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        },
+        {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9421,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T04:54:47.016423Z",
-      "latest_at": "2026-09-06T18:27:03.105271Z",
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
       "primary_item": {
-        "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-        "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
+        "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+        "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-06",
+        "source": "社区更新 · 2026-09-07",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_fd3208099b40",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_e147e3b4c260",
+      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+      "url": "https://www.aibase.com/news/30887",
+      "primary_url": "https://www.aibase.com/news/30887",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "413c9317217041fa663f33a43e44569aa925f114",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
+          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
+          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+          "url": "https://www.aibase.com/news/30887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "413c9317217041fa663f33a43e44569aa925f114",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
+          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
+          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+          "url": "https://www.aibase.com/news/30887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9722,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-06T16:37:55Z",
-      "latest_at": "2026-09-06T20:37:34.137636Z",
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
       "primary_item": {
-        "id": "413c9317217041fa663f33a43e44569aa925f114",
-        "title": "How we monitor internal coding agents for misalignment",
-        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
+        "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+        "url": "https://www.aibase.com/news/30887",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5b887074ff6d",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source": "beza1e1.tuxen.de",
+      "story_id": "story_7dca434f16ba",
+      "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "mcpherrin.ca",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
+          "published_at": "2026-09-08T04:11:44.229000Z"
         },
         {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "beza1e1.tuxen.de"
-      ],
-      "items": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.912,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T15:00:19Z",
-      "latest_at": "2026-09-06T16:12:11.446000Z",
-      "primary_item": {
-        "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-        "title": "我对人工智能的看法",
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "source": "beza1e1.tuxen.de",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7cd9cbd432cc",
-      "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
-      "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-      "primary_url": "https://martinalderson.com/posts/ai-safety-vs-security",
-      "source": "martinalderson.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
-          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-          "source": "martinalderson.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T20:56:00.786000Z"
-        },
-        {
-          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
-          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T20:47:52Z"
+          "published_at": "2026-09-08T04:05:34Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T01:16:59Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Lobsters (技术社区)",
-        "martinalderson.com"
+        "mcpherrin.ca"
       ],
       "items": [
         {
-          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
-          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-          "source": "martinalderson.com",
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T20:56:00.786000Z"
+          "published_at": "2026-09-08T04:11:44.229000Z"
         },
         {
-          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
-          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T20:47:52Z"
+          "published_at": "2026-09-08T04:05:34Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T01:16:59Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5925,
+      "importance": 0.5925,
+      "importance_score": 0.5925,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9765,
-        "story_heat": 0.25
+        "recency": 0.9816,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T20:47:52Z",
-      "latest_at": "2026-09-06T20:56:00.786000Z",
+      "earliest_at": "2026-09-08T01:16:59Z",
+      "latest_at": "2026-09-08T04:11:44.229000Z",
       "primary_item": {
-        "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
-        "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
-        "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-        "source": "martinalderson.com",
+        "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+        "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "source": "mcpherrin.ca",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_258125f8f472",
-      "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
-      "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-      "primary_url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_1ef5a8b0ee06",
+      "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+      "url": "https://www.aibase.com/news/30897",
+      "primary_url": "https://www.aibase.com/news/30897",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
-          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
-          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T19:51:53.152000Z"
-        },
-        {
-          "id": "a736d65ad0abfb3632e17e44fa2588d3372a6572",
-          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备” / OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
-          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T19:26:04Z"
+          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
+          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "url": "https://www.aibase.com/news/30897",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
-          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
-          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T19:51:53.152000Z"
-        },
-        {
-          "id": "a736d65ad0abfb3632e17e44fa2588d3372a6572",
-          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备” / OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
-          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T19:26:04Z"
+          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
+          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "url": "https://www.aibase.com/news/30897",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9615,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-06T19:26:04Z",
-      "latest_at": "2026-09-06T19:51:53.152000Z",
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
       "primary_item": {
-        "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
-        "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
-        "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
+        "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+        "url": "https://www.aibase.com/news/30897",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e752bff20023",
-      "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "primary_url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "story_id": "story_7a53f4b3fa8e",
+      "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+      "url": "https://www.aibase.com/news/30899",
+      "primary_url": "https://www.aibase.com/news/30899",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
+          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "url": "https://www.aibase.com/news/30899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
+          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "url": "https://www.aibase.com/news/30899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
+      "primary_item": {
+        "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
+        "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+        "url": "https://www.aibase.com/news/30899",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+      "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+      "primary_url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
-          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T17:49:47Z"
+          "published_at": "2026-09-08T02:53:51Z"
         },
         {
-          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
-          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T17:49:47Z"
+          "published_at": "2026-09-08T00:40:45Z"
         }
       ],
       "source_count": 2,
@@ -938,727 +1097,374 @@
       ],
       "items": [
         {
-          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
-          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T17:49:47Z"
+          "published_at": "2026-09-08T02:53:51Z"
         },
         {
-          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
-          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T17:49:47Z"
+          "published_at": "2026-09-08T00:40:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9337,
+        "recency": 0.9634,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T17:49:47Z",
-      "latest_at": "2026-09-06T17:49:47Z",
+      "earliest_at": "2026-09-08T00:40:45Z",
+      "latest_at": "2026-09-08T02:53:51Z",
       "primary_item": {
-        "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
-        "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+        "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+        "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_0c2a0b5dc5ee",
-      "title": "利用代码审查推动可持续的AI编码开发",
-      "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-      "primary_url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-      "source": "cacm.acm.org",
+      "story_id": "story_af5a9540264b",
+      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-          "title": "利用代码审查推动可持续的AI编码开发",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "cacm.acm.org",
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T16:43:06.097000Z"
+          "published_at": "2026-09-07T23:57:48.244000Z"
         },
         {
-          "id": "3229d72075b36622f24128425c5a6723c068524e",
-          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:41:01Z"
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "cacm.acm.org"
+        "BBC News",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-          "title": "利用代码审查推动可持续的AI编码开发",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "cacm.acm.org",
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T16:43:06.097000Z"
+          "published_at": "2026-09-07T23:57:48.244000Z"
         },
         {
-          "id": "3229d72075b36622f24128425c5a6723c068524e",
-          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:41:01Z"
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9188,
+        "recency": 0.9234,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T16:41:01Z",
-      "latest_at": "2026-09-06T16:43:06.097000Z",
+      "earliest_at": "2026-09-07T23:05:12Z",
+      "latest_at": "2026-09-07T23:57:48.244000Z",
       "primary_item": {
-        "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-        "title": "利用代码审查推动可持续的AI编码开发",
-        "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-        "source": "cacm.acm.org",
+        "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_ae0c2e3335c6",
-      "title": "安装在机械臂上的GPT-6 Astra",
-      "url": "https://openai.robocurve.org/gpt-6-astra",
-      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
-      "source": "openai.robocurve.org",
+      "story_id": "story_e9bd5549cb2e",
+      "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
+      "url": "https://www.aibase.com/news/30894",
+      "primary_url": "https://www.aibase.com/news/30894",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
+          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
+          "url": "https://www.aibase.com/news/30894",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
+          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
+          "url": "https://www.aibase.com/news/30894",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T05:28:42.820105Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:28:42.820105Z",
+      "latest_at": "2026-09-08T05:28:42.820105Z",
+      "primary_item": {
+        "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
+        "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
+        "url": "https://www.aibase.com/news/30894",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8fb31a39b25a",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "vllm.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
+          "published_at": "2026-09-07T17:40:59.747000Z"
         },
         {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T04:55:28.339000Z"
-        },
-        {
-          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
-          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T01:52:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "openai.robocurve.org"
-      ],
-      "items": [
-        {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
-        },
-        {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T04:55:28.339000Z"
-        },
-        {
-          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
-          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T01:52:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7751,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T01:52:45Z",
-      "latest_at": "2026-09-06T04:56:10.649000Z",
-      "primary_item": {
-        "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-        "title": "安装在机械臂上的GPT-6 Astra",
-        "url": "https://openai.robocurve.org/gpt-6-astra",
-        "source": "openai.robocurve.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4aff7db928cd",
-      "title": "开放/技能 / openai /      skills",
-      "url": "https://github.com/openai/skills",
-      "primary_url": "https://github.com/openai/skills",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:02:37.416000Z"
-        },
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:02:37.416000Z"
-        },
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9099,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:01:59.576282Z",
-      "latest_at": "2026-09-06T16:02:37.416000Z",
-      "primary_item": {
-        "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-        "title": "开放/技能 / openai /      skills",
-        "url": "https://github.com/openai/skills",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_38b7289f705e",
-      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-      "url": "https://www.36kr.com/p/3971642393686535",
-      "primary_url": "https://www.36kr.com/p/3971642393686535",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9098,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T09:04:32.743356Z",
-      "latest_at": "2026-09-06T16:01:59.576282Z",
-      "primary_item": {
-        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-        "url": "https://www.36kr.com/p/3971642393686535",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7737bba1b986",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source": "keepitfree.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "keepitfree.ai"
-      ],
-      "items": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.902,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T14:34:34Z",
-      "latest_at": "2026-09-06T15:26:17.429000Z",
-      "primary_item": {
-        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-        "title": "人工智能关机——保持人性",
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-        "source": "keepitfree.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bbc054e1f15a",
-      "title": "人工智能、工具与转型",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "primary_url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "source": "www.ben-evans.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
-          "title": "人工智能、工具与转型",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "www.ben-evans.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T14:22:15.057000Z"
-        },
-        {
-          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
-          "title": "人工智能、工具与转型 / AI, Tools and Transformation",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T02:12:46Z"
+          "published_at": "2026-09-07T09:26:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.ben-evans.com"
+        "vllm.ai"
       ],
       "items": [
         {
-          "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
-          "title": "人工智能、工具与转型",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "www.ben-evans.com",
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T14:22:15.057000Z"
+          "published_at": "2026-09-07T17:40:59.747000Z"
         },
         {
-          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
-          "title": "人工智能、工具与转型 / AI, Tools and Transformation",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T02:12:46Z"
+          "published_at": "2026-09-07T09:26:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8882,
+        "recency": 0.8434,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T02:12:46Z",
-      "latest_at": "2026-09-06T14:22:15.057000Z",
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T17:40:59.747000Z",
       "primary_item": {
-        "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
-        "title": "人工智能、工具与转型",
-        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-        "source": "www.ben-evans.com",
+        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+        "title": "基于AMD GPU的vLLM中的推测性解码",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "vllm.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_826679545639",
-      "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
-      "url": "https://mathstodon.xyz/@tao/117207856734787448",
-      "primary_url": "https://mathstodon.xyz/@tao/117207856734787448",
-      "source": "mathstodon.xyz",
+      "story_id": "story_56e608b540ff",
+      "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+      "url": "https://news.ycombinator.com/item?id=49598441",
+      "primary_url": "https://news.ycombinator.com/item?id=49598441",
+      "source": "news.ycombinator.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
-          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
-          "url": "https://mathstodon.xyz/@tao/117207856734787448",
-          "source": "mathstodon.xyz",
+          "id": "edc0eadfe478e4799081115df691094d17673972",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T07:48:53.501000Z"
+          "published_at": "2026-09-07T13:59:27.293000Z"
         },
         {
-          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
-          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
-          "url": "https://mathstodon.xyz/@tao/117207856734787448",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T07:45:24Z"
+          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-07T13:49:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "mathstodon.xyz"
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
       ],
       "items": [
         {
-          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
-          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
-          "url": "https://mathstodon.xyz/@tao/117207856734787448",
-          "source": "mathstodon.xyz",
+          "id": "edc0eadfe478e4799081115df691094d17673972",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T07:48:53.501000Z"
+          "published_at": "2026-09-07T13:59:27.293000Z"
         },
         {
-          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
-          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
-          "url": "https://mathstodon.xyz/@tao/117207856734787448",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T07:45:24Z"
+          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-07T13:49:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.808,
+        "recency": 0.7996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T07:45:24Z",
-      "latest_at": "2026-09-06T07:48:53.501000Z",
+      "earliest_at": "2026-09-07T13:49:22Z",
+      "latest_at": "2026-09-07T13:59:27.293000Z",
       "primary_item": {
-        "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
-        "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
-        "url": "https://mathstodon.xyz/@tao/117207856734787448",
-        "source": "mathstodon.xyz",
+        "id": "edc0eadfe478e4799081115df691094d17673972",
+        "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+        "url": "https://news.ycombinator.com/item?id=49598441",
+        "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_fc526c0c8fab",
-      "title": "WorldFlowAI / everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "primary_url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T04:26:18.909000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T04:26:18.909000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7748,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T04:26:18.909000Z",
-      "latest_at": "2026-09-06T04:54:47.016423Z",
-      "primary_item": {
-        "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-        "title": "WorldFlowAI / everything-claude-code",
-        "url": "https://github.com/WorldFlowAI/everything-claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f2769b9ac609",
-      "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-      "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+      "story_id": "story_d8552f3c7c0d",
+      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
+          "published_at": "2026-09-07T13:59:38.134000Z"
         },
         {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
+          "published_at": "2026-09-07T13:30:01Z"
         }
       ],
       "source_count": 2,
@@ -1668,128 +1474,49 @@
       ],
       "items": [
         {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
+          "published_at": "2026-09-07T13:59:38.134000Z"
         },
         {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
+          "published_at": "2026-09-07T13:30:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.7996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T17:05:25Z",
-      "latest_at": "2026-09-06T17:30:50.842000Z",
+      "earliest_at": "2026-09-07T13:30:01Z",
+      "latest_at": "2026-09-07T13:59:38.134000Z",
       "primary_item": {
-        "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-        "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-        "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_00143ffe2cbd",
-      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T12:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T12:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8707,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T12:30:00Z",
-      "latest_at": "2026-09-06T12:59:29.223390Z",
-      "primary_item": {
-        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
