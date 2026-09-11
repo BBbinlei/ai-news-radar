@@ -1,44 +1,49 @@
 {
-  "generated_at": "2026-09-08T05:28:42.820105Z",
+  "generated_at": "2026-09-11T15:35:15.604496Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
+          "title": "DeepSeek V4.1 Flash 正式发布：更强、更快、更普惠",
+          "url": "https://www.oschina.net/news/502405/deepseek-v4-1-flash-ga",
+          "summary": "DeepSeek 发布 V4.1 Flash，采用非对称 MoE 架构，550B 总参数仅激活 8B/16B，Agent 基准大幅跃升，并宣布次日降价 60%。"
+        },
+        {
           "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
           "url": "https://juejin.cn/post/7681626346015916068",
-          "summary": "OpenAI 发布 GPT-6 Astra，宣称进入 AGI 时代，但发布过程混乱，CEO 奥尔特曼致歉。"
+          "summary": "OpenAI 发布 GPT-6 Astra，宣称进入 AGI 时代，单价涨至 2.5 倍，并在抗体预测等科学任务上登顶。"
         },
         {
-          "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-          "url": "https://www.qbitai.com/2026/09/485431.html",
-          "summary": "OpenAI 另一款模型 Sol 内测曝光，速度比 GPT-6 Astra 快 6 倍，引发关注。"
+          "title": "OpenAI 推出全双工语音模型 GPT-Live-1",
+          "url": "https://www.aibase.com/news/30996",
+          "summary": "OpenAI 发布全双工语音模型 GPT-Live-1，告别卡顿与机械感，并同步开放 API，每分钟 0.05 美元。"
         },
         {
-          "title": "宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗",
-          "url": "https://www.aibase.com/news/30892",
-          "summary": "宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗，展示具身智能新突破。"
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "url": "https://www.aibase.com/news/31001",
+          "summary": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1，面向复杂声学场景的语音分离与识别。"
         },
         {
-          "title": "微信开源多模态嵌入模型 WeMM-Embedding，日调用量达 10 亿次",
-          "url": "https://www.aibase.com/news/30896",
-          "summary": "微信开源 WeMM-Embedding 多模态嵌入模型，日调用量破 10 亿，用于朋友圈搜索和视频号推荐。"
+          "title": "英伟达发布开源工具 PAIR，可将家里闲置电脑变成私有 AI 集群",
+          "url": "https://www.oschina.net/news/502351/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx",
+          "summary": "英伟达开源 PAIR 工具，把家用闲置电脑组成私有 AI 集群，降低本地大模型部署门槛。"
         },
         {
-          "title": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "url": "https://www.aibase.com/news/30893",
-          "summary": "小鹏人形机器人自动化生产线启用，核心制程自动化率超 80%，加速量产。"
+          "title": "全球首个 3D 原生城市世界模型 ABot-Earth 0.7 发布",
+          "url": "https://www.qbitai.com/2026/09/486900.html",
+          "summary": "全球首个 3D 原生城市世界模型 ABot-Earth 0.7 发布，构建 AI 理解真实世界的入口。"
         },
         {
-          "title": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "url": "https://www.aibase.com/news/30900",
-          "summary": "快手可灵 AI 宣布亮相多伦多国际电影节，拓展影视应用场景。"
+          "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+          "url": "https://www.aibase.com/news/30992",
+          "summary": "OpenAI 将 Codex 能力封装为 Agents API，提供托管会话与沙箱，方便开发者构建智能体应用。"
         },
         {
-          "title": "微信支付智能眼镜 SDK 正式上线，Rokid 成首家适配品牌",
-          "url": "https://www.aibase.com/news/30901",
-          "summary": "微信支付发布智能眼镜 SDK，Rokid 首家适配，实现抬眼支付。"
+          "title": "Cursor 发布 Projects 功能，一人指挥数千个 AI 智能体承包大型开发",
+          "url": "https://www.aibase.com/news/30993",
+          "summary": "Cursor 推出 Projects 功能，支持单人同时调度数千个 AI 智能体，承接大型开发任务。"
         }
       ]
     },
@@ -46,34 +51,44 @@
       "label": "金融",
       "items": [
         {
-          "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-          "url": "https://x.com/MistralAI/status/2097188835897586083",
-          "summary": "法国 AI 公司 Mistral 完成 30 亿欧元 D 轮融资，估值达 240 亿美元，三星领投。"
+          "title": "甲骨文的资本支出指引提振了人工智能服务器需求，惠普企业和戴尔股价飙升 11%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-dell-surge-145118783.html",
+          "summary": "甲骨文资本支出指引提振 AI 服务器需求，惠普企业、戴尔股价大涨 11%，超微上涨 7%。"
         },
         {
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "url": "https://www.aibase.com/news/30898",
-          "summary": "Anthropic 放弃以 60 亿美元收购 Decart，尽职调查后交易告吹。"
+          "title": "中国人工智能开发商 Z.AI 启动 50 亿美元香港股票及可转换债券发行",
+          "url": "https://reut.rs/4xPowHJ",
+          "summary": "中国 AI 开发商 Z.AI 启动 50 亿美元香港股票及可转债发行，条款清单已披露。"
         },
         {
-          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "url": "https://www.aibase.com/news/30894",
-          "summary": "Anthropic 11 个月投入 5170 亿美元锁定 14.8GW 算力，并启动自建数据中心。"
+          "title": "DeepSeek 要上市了？梁文锋为什么最终还是走向资本市场",
+          "url": "https://www.huxiu.com/article/4890587.html?f=rss",
+          "summary": "市场传闻 DeepSeek 筹备上市，梁文锋态度转向资本市场，引发对其融资路径的讨论。"
         },
         {
-          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-          "url": "https://www.qbitai.com/2026/09/485784.html",
-          "summary": "深度智控获宁德时代、沙特阿美等战略投资，布局物理 AI 算力与能源基础设施。"
+          "title": "50% 都在赔钱，算力中心大量吃灰",
+          "url": "https://www.36kr.com/p/3977503000509447",
+          "summary": "报道称约半数算力中心处于亏损状态，大量 GPU 资源闲置吃灰，行业供需错配问题凸显。"
         },
         {
-          "title": "英伟达砸130亿美元买下一个平台，黄仁勋到底在怕什么？",
-          "url": "https://juejin.cn/post/7681266980104683526",
-          "summary": "英伟达斥资 130 亿美元收购某平台，引发对其竞争压力的讨论。"
+          "title": "AI 本来是软件生意，为什么正在变成资本密集型产业？",
+          "url": "https://www.huxiu.com/article/4890588.html?f=rss",
+          "summary": "分析指出 AI 正从轻资产软件生意转向资本密集型产业，算力与基础设施投入成为竞争壁垒。"
         },
         {
-          "title": "Anthropic和OpenAI的银行家们力推公司在IPO后获得顶级信用评级",
-          "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
-          "summary": "Anthropic 和 OpenAI 的银行家推动 IPO 后获得顶级信用评级，为资本运作铺路。"
+          "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机",
+          "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
+          "summary": "迈克尔·伯里买入名贵葡萄酒，作为对冲美元贬值和 AI 泡沫风险的另类资产配置。"
+        },
+        {
+          "title": "比尔·阿克曼押注人工智能将使这家传统企业更加强大",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-bets-ai-old-143700072.html",
+          "summary": "比尔·阿克曼押注 AI 将强化某传统企业，反映资本对 AI 改造传统行业的乐观预期。"
+        },
+        {
+          "title": "GSA 称 OpenAI 将以基于用量的交易取代每年 1 美元的美国机构试点",
+          "url": "https://www.techmeme.com/260911/p18",
+          "summary": "OpenAI 与美国 GSA 的政府试点从每年 1 美元改为按用量计费，10 月起提供 50% 折扣并开放 GPT-6 Astra。"
         }
       ]
     },
@@ -81,29 +96,39 @@
       "label": "学术",
       "items": [
         {
-          "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-          "url": "https://www.qbitai.com/2026/09/485108.html",
-          "summary": "菲尔兹奖得主参与的大模型项目在 ARC-AGI 3 基准上取得突破，结合端侧与云端模型。"
+          "title": "ECCV 上，顶尖学者们开始研究如何让 AI 做生意了",
+          "url": "https://hub.baai.ac.cn/view/57875",
+          "summary": "ECCV 出现让 AI 学习商业决策与经营的研究方向，探索智能体在真实商业场景中的落地。"
         },
         {
-          "title": "李飞飞最新访谈：如何预测一个未被拍下的世界",
-          "url": "https://www.mittrchina.com/news/detail/16918",
-          "summary": "李飞飞在访谈中探讨空间智能与预测未拍摄世界的研究方向。"
+          "title": "中科院 × 字节提出直播间模拟器：让大模型还原用户如何被环境一步步改变 | EMNLP'26",
+          "url": "https://hub.baai.ac.cn/view/57877",
+          "summary": "中科院与字节提出直播间模拟器，用大模型还原用户受环境逐步影响的过程，被 EMNLP'26 收录。"
         },
         {
-          "title": "Import AI 472：DeepMind的“作弊”数学智能体；民粹主义的人工智能政策；以及Forethought提出的“夜警”理论",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZHVGTXZacTVSQWN2YXlLdzdORktNSlRhQTZDU29GaVhXREhFN0l5dU9rdVpkRFhyVHhZYTRfLVcwUjBfc3V1YVh4MmhpOVJpUWtqcXRoblJtYXZfYmwxMW9rbGk3d2ozcmtGcXhUVXE1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "Import AI 周报涵盖 DeepMind 数学智能体、AI 政策等研究动态。"
+          "title": "NMRL：面向电商点击率预估的原生多模态表征学习范式",
+          "url": "https://hub.baai.ac.cn/view/57873",
+          "summary": "提出 NMRL 原生多模态表征学习范式，用于电商点击率预估，提升多模态特征融合效果。"
         },
         {
-          "title": "英矽智能AI肺病新药研究：服药4周生理年龄年轻约3岁",
-          "url": "https://www.mittrchina.com/news/detail/16919",
-          "summary": "英矽智能 AI 肺病新药研究显示服药 4 周生理年龄年轻约 3 岁，抗衰老潜力。"
+          "title": "GPT-6 登顶第一，AlphaFold 之后最大震撼，成抗体预测最强 AI",
+          "url": "https://www.36kr.com/p/3978455065508609",
+          "summary": "GPT-6 在抗体预测任务上登顶，被认为继 AlphaFold 之后生物领域最大震撼。"
         },
         {
-          "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-          "url": "https://www.qbitai.com/2026/09/485056.html",
-          "summary": "智象发布具身世界模型 HiDream-O1-Embodied，实现全模态技术闭环。"
+          "title": "基于 17 年月球数据训练的开源 AI 模型发布，可绘制冰层、陨石坑和火山分布图",
+          "url": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html",
+          "summary": "基于 17 年月球数据训练的开源 AI 模型发布，可绘制月球冰层、陨石坑与火山分布。"
+        },
+        {
+          "title": "《Agent 评测白皮书》系列 01：Agent 评测全览",
+          "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+          "summary": "美团发布 Agent 评测白皮书首篇，系统梳理智能体评测的维度、方法与挑战。"
+        },
+        {
+          "title": "一款监测火鸡的 AI 系统能提前三周预测体重，准确率达 93%",
+          "url": "https://phys.org/news/2026-09-turkey-ai-body-weight-weeks.html",
+          "summary": "AI 系统通过监测火鸡提前三周预测体重，准确率达 93%，展示农业场景的 AI 应用潜力。"
         }
       ]
     },
@@ -111,34 +136,44 @@
       "label": "八卦",
       "items": [
         {
-          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
-          "url": "https://www.aibase.com/news/30884",
-          "summary": "Matt Clifford 因在 Anthropic 任职引发利益冲突，辞去 ARIA 主席职务。"
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "url": "https://www.aibase.com/news/30999",
+          "summary": "Anthropic 披露今年已阻止多起利用 AI 研发生物武器的尝试，并称 Claude 被用于导弹与间谍软件研发。"
         },
         {
-          "title": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
-          "url": "https://www.aibase.com/news/30891",
-          "summary": "OpenAI 首席科学家警告 AI 可能很快自我进化，呼吁业界自愿放缓。"
+          "title": "Anthropic 预训练研究员宣布离职，称 AI 实验室拿人类生命押注超级智能",
+          "url": "https://www.oschina.net/news/502394",
+          "summary": "Anthropic 预训练研究员离职并公开批评 AI 实验室在拿人类生命押注超级智能。"
         },
         {
-          "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
-          "url": "https://www.aibase.com/news/30890",
-          "summary": "字节跳动 CEO 张一鸣亲自督导，或推出实时生成虚拟世界的 AI 模型。"
+          "title": "OpenAI 再爆惊天丑闻，窃走 20 年成果，顶级数学家怒了",
+          "url": "https://www.36kr.com/p/3978455165713160",
+          "summary": "OpenAI 被指窃取数学家 20 年研究成果用于基准测试，引发顶级数学家公开愤怒。"
         },
         {
-          "title": "两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云",
-          "url": "https://www.huxiu.com/article/4889423.html?f=rss",
-          "summary": "有研究员发现两个 Token 就能让 Kimi 模仿 Claude，引发对中国大模型蒸馏的质疑。"
+          "title": "OpenAI 把「末日论者」请进董事会，刚上任就开炮：AI 可能杀死多数人",
+          "url": "https://hub.baai.ac.cn/view/57878",
+          "summary": "OpenAI 将末日论者引入董事会，新董事上任即警告 AI 可能杀死多数人，内部路线分歧公开化。"
         },
         {
-          "title": "ChatGPT、Claude、Grok 同时宕机，没人解释为什么",
-          "url": "https://www.oschina.net/news/502312/chatgpt-grok-claude-outage-down",
-          "summary": "ChatGPT、Claude、Grok 三大 AI 同时宕机，原因未明，引发用户不满。"
+          "title": "中国机器人初创公司 JoyIn 称 OpenAI 复制了其想法和网站",
+          "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
+          "summary": "中国机器人初创公司 JoyIn 指控 OpenAI 抄袭其创意与网站设计，双方陷入公开争议。"
         },
         {
-          "title": "DeepSeek一口气扩招150人，0个AI研究岗",
-          "url": "https://www.36kr.com/p/3974040294388232",
-          "summary": "DeepSeek 扩招 150 人但无 AI 研究岗，引发对其研发方向的猜测。"
+          "title": "马特·穆伦韦格在 Slack 中告诉 Automattic 员工，他重新掌控了公司",
+          "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster",
+          "summary": "Automattic CEO 被罢免后，马特·穆伦韦格在 Slack 宣布重新掌控公司，管理层动荡公开化。"
+        },
+        {
+          "title": "开源项目维护者怒了：“用 AI 刷 PR 刷简历，请去别的地方”",
+          "url": "https://www.oschina.net/news/502353/flooding-contributions",
+          "summary": "开源维护者公开怒斥用 AI 批量刷 PR 刷简历的行为，呼吁停止污染开源社区。"
+        },
+        {
+          "title": "啊？Anthropic 最高 320 万招销售，只为服务 Meta",
+          "url": "https://www.qbitai.com/2026/09/487573.html",
+          "summary": "Anthropic 被曝以最高 320 万美元年薪招聘销售，专门服务 Meta 这一大客户。"
         }
       ]
     }
