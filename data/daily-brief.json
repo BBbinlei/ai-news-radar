@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:08:09.555048Z",
+  "generated_at": "2026-09-13T21:31:12.630250Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9005,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,21 +181,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-13T05:56:03Z",
       "latest_at": "2026-09-13T05:56:03Z",
@@ -204,86 +203,6 @@
         "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
         "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83b26543b013",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "primary_url": "https://x.com/trq212/status/2098860941391872132",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        },
-        {
-          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thariq",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        },
-        {
-          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7137,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T19:46:58Z",
-      "latest_at": "2026-09-12T19:46:58Z",
-      "primary_item": {
-        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "source": "X：Thariq (@trq212)",
         "source_name": "AI HOT"
       }
     },
@@ -322,15 +241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -408,36 +327,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-13T07:33:31.408770Z"
-        },
-        {
-          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
-          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
-        },
-        {
-          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
-          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
-        },
-        {
-          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
-          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-09-12",
         "社区更新 · 2026-09-13"
@@ -496,53 +388,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-13T07:33:31.408770Z"
-        },
-        {
-          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
-          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
-        },
-        {
-          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
-          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
-        },
-        {
-          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
-          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T19:31:27.136926Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6631,
+      "importance": 0.6631,
+      "importance_score": 0.6631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9662,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T19:31:27.136926Z",
+      "earliest_at": "2026-09-13T07:33:31.408770Z",
       "latest_at": "2026-09-13T19:08:09.555048Z",
       "primary_item": {
         "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
@@ -550,200 +415,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-13",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_22407f1a50da",
-      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
-        },
-        {
-          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:28:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
-        },
-        {
-          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:28:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6107,
-      "importance": 0.6107,
-      "importance_score": 0.6107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7193,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T20:19:16Z",
-      "latest_at": "2026-09-12T20:28:29Z",
-      "primary_item": {
-        "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-        "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-      "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-      "primary_url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        },
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        },
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5827,
-      "importance": 0.5827,
-      "importance_score": 0.5827,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9273,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T19:28:24Z",
-      "latest_at": "2026-09-13T13:54:25Z",
-      "primary_item": {
-        "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-        "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-        "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -800,15 +471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5761,
-      "importance": 0.5761,
-      "importance_score": 0.5761,
+      "score": 0.5706,
+      "importance": 0.5706,
+      "importance_score": 0.5706,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9021,
+        "recency": 0.8716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,15 +569,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9955,
+        "recency": 0.9619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -921,6 +592,103 @@
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9613,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T04:41:15.291000Z",
+      "latest_at": "2026-09-13T18:47:26Z",
+      "primary_item": {
+        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+        "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -996,15 +764,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.905,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1075,15 +843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.9609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,6 +865,85 @@
         "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
         "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ee8a008297ce",
+      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:39.759000Z"
+        },
+        {
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T17:10:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:39.759000Z"
+        },
+        {
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T17:10:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9465,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T17:10:40Z",
+      "latest_at": "2026-09-13T17:42:39.759000Z",
+      "primary_item": {
+        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1154,15 +1001,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9796,
+        "recency": 0.9465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1176,85 +1023,6 @@
         "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
         "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_106d06eb2624",
-      "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-      "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-      "primary_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
-        },
-        {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
-        },
-        {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9581,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T16:01:38Z",
-      "latest_at": "2026-09-13T16:10:27.930000Z",
-      "primary_item": {
-        "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-        "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-        "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1330,15 +1098,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7817,
+        "recency": 0.7553,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1409,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.8839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1488,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.8839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1567,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8427,
+        "recency": 0.8142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1646,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.9609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1672,81 +1440,239 @@
       }
     },
     {
-      "story_id": "story_16316487dc98",
-      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "primary_url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "withspecific.com",
+      "story_id": "story_106d06eb2624",
+      "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+      "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "primary_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
+          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
+          "published_at": "2026-09-13T16:10:27.930000Z"
         },
         {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
+          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:01:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "withspecific.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
+          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
+          "published_at": "2026-09-13T16:10:27.930000Z"
         },
         {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
+          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:01:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7731,
+        "recency": 0.9257,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T20:25:48Z",
-      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "earliest_at": "2026-09-13T16:01:38Z",
+      "latest_at": "2026-09-13T16:10:27.930000Z",
       "primary_item": {
-        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "source": "withspecific.com",
+        "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+        "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+        "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4ee70cea304a",
+      "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+      "primary_url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:00:00Z"
+        },
+        {
+          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
+          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+          "source": "NYTimes (纽约时报热榜)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:15:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NYTimes (纽约时报热榜)",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:00:00Z"
+        },
+        {
+          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
+          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+          "source": "NYTimes (纽约时报热榜)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:15:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7435,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T00:15:54Z",
+      "latest_at": "2026-09-13T01:00:00Z",
+      "primary_item": {
+        "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+        "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+        "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_2c5c7e800d9a",
+      "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
+      "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
+          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
+          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:37:37.025000Z"
+        },
+        {
+          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
+          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
+          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:30:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
+          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
+          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:37:37.025000Z"
+        },
+        {
+          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
+          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
+          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:30:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8422,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T09:30:02Z",
+      "latest_at": "2026-09-13T09:37:37.025000Z",
+      "primary_item": {
+        "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
+        "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
+        "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
