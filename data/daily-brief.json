@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:48:07.557904Z",
+  "generated_at": "2026-09-14T02:34:22.947292Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.8534,
+      "importance": 0.8534,
+      "importance_score": 0.8534,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8713,
+        "recency": 0.8371,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +144,168 @@
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb9800d7049f",
+      "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+      "url": "https://www.aibase.com/news/31005",
+      "primary_url": "https://www.aibase.com/news/31005",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "8f18a490c90ff0f0c93ecf959d2e9d6278a89e53",
+          "title": "OpenAI 确认暂缓上市计划，Sam Altman 称 2026 年 IPO 并不明智",
+          "url": "https://www.aibase.com/zh/news/31005",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "8f18a490c90ff0f0c93ecf959d2e9d6278a89e53",
+          "title": "OpenAI 确认暂缓上市计划，Sam Altman 称 2026 年 IPO 并不明智",
+          "url": "https://www.aibase.com/zh/news/31005",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+        "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "url": "https://www.aibase.com/news/31005",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b9659be7057",
+      "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+      "url": "https://www.aibase.com/news/31010",
+      "primary_url": "https://www.aibase.com/news/31010",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "url": "https://www.aibase.com/news/31010",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "cdc4c962849c65adbd881ad0f5dc9846d1d584f5",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "url": "https://www.aibase.com/zh/news/31010",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "url": "https://www.aibase.com/news/31010",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "cdc4c962849c65adbd881ad0f5dc9846d1d584f5",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "url": "https://www.aibase.com/zh/news/31010",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+        "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+        "url": "https://www.aibase.com/news/31010",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -181,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7726,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -207,63 +369,246 @@
       }
     },
     {
-      "story_id": "story_9d39bd39e651",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_5e7aa341e18f",
+      "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+      "url": "https://www.aibase.com/news/31011",
+      "primary_url": "https://www.aibase.com/news/31011",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "url": "https://www.aibase.com/news/31011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "0e09372d0c51c19dfe6dc1f896417e089b7c1927",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "url": "https://www.aibase.com/zh/news/31011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "url": "https://www.aibase.com/news/31011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "0e09372d0c51c19dfe6dc1f896417e089b7c1927",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "url": "https://www.aibase.com/zh/news/31011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.62,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9273,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-13T18:34:31Z",
-      "latest_at": "2026-09-13T18:34:31Z",
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
       "primary_item": {
-        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
+        "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+        "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+        "url": "https://www.aibase.com/news/31011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_05eea6af7f84",
+      "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+      "url": "https://www.aibase.com/news/31013",
+      "primary_url": "https://www.aibase.com/news/31013",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/news/31013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
+          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/31013",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/news/31013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
+          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/31013",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+        "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+        "url": "https://www.aibase.com/news/31013",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2858a717ecf6",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "url": "https://www.aibase.com/news/31007",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -392,15 +737,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6575,
-      "importance": 0.6575,
-      "importance_score": 0.6575,
+      "score": 0.6509,
+      "importance": 0.6509,
+      "importance_score": 0.6509,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9348,
+        "recency": 0.8982,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -415,6 +760,249 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-13",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_04f3bf49422f",
+      "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+      "url": "https://www.aibase.com/news/31009",
+      "primary_url": "https://www.aibase.com/news/31009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "url": "https://www.aibase.com/news/31009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
+          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
+          "url": "https://www.aibase.com/zh/news/31009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "url": "https://www.aibase.com/news/31009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
+          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
+          "url": "https://www.aibase.com/zh/news/31009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+        "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+        "url": "https://www.aibase.com/news/31009",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b35030784059",
+      "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+      "url": "https://www.aibase.com/news/31015",
+      "primary_url": "https://www.aibase.com/news/31015",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/news/31015",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "b756273825a7a568f523c22593b420833ca9928b",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/zh/news/31015",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/news/31015",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "b756273825a7a568f523c22593b420833ca9928b",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/zh/news/31015",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+        "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+        "url": "https://www.aibase.com/news/31015",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f6ba130b7a70",
+      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+      "url": "https://www.aibase.com/news/31006",
+      "primary_url": "https://www.aibase.com/news/31006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:36:02Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "url": "https://www.aibase.com/news/31006",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -490,15 +1078,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9803,
+        "recency": 0.9418,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -569,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8433,
+        "recency": 0.8102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -592,6 +1180,87 @@
         "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
         "source": "The Verge AI",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1d9ed0bfb41e",
+      "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+      "url": "https://www.aibase.com/news/31012",
+      "primary_url": "https://www.aibase.com/news/31012",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+          "url": "https://www.aibase.com/news/31012",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
+          "url": "https://www.aibase.com/zh/news/31012",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+          "url": "https://www.aibase.com/news/31012",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T02:34:22.947292Z"
+        },
+        {
+          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
+          "url": "https://www.aibase.com/zh/news/31012",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T02:34:22.947292Z",
+      "latest_at": "2026-09-14T02:34:22.947292Z",
+      "primary_item": {
+        "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+        "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+        "url": "https://www.aibase.com/news/31012",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -667,15 +1336,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5518,
+      "importance": 0.5518,
+      "importance_score": 0.5518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.8942,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -711,7 +1380,7 @@
         },
         {
           "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "title": "保罗·A·M·狄拉克 (Paul A. M. Dirac)，弗里德里希·洪德 (Friedrich Hund) 访谈 (1982) [视频] / Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
           "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -745,7 +1414,7 @@
         },
         {
           "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "title": "保罗·A·M·狄拉克 (Paul A. M. Dirac)，弗里德里希·洪德 (Friedrich Hund) 访谈 (1982) [视频] / Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
           "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -764,15 +1433,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5517,
+      "importance": 0.5517,
+      "importance_score": 0.5517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.8937,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -787,6 +1456,84 @@
         "url": "https://www.youtube.com/watch?v=koclOnlde0E",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_5c30ba8a42b1",
+      "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:29:16.467000Z",
+      "latest_at": "2026-09-14T02:07:13.390000Z",
+      "primary_item": {
+        "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+        "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -862,15 +1609,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -888,810 +1635,80 @@
       }
     },
     {
-      "story_id": "story_c121eaf78a25",
-      "title": "AI recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:49:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:49:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T18:49:44Z",
-      "latest_at": "2026-09-13T23:48:07.557904Z",
-      "primary_item": {
-        "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-        "title": "AI recursive self-improvement might not come so quickly after all",
-        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_58e536e7446d",
-      "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-      "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-      "source": "www.businessinsider.com",
+      "story_id": "story_29e9d078f61b",
+      "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "www.businessinsider.com",
+          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T21:23:31.600000Z"
+          "published_at": "2026-09-14T01:03:29.688000Z"
         },
         {
-          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T20:55:24Z"
+          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:08:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "news.google.com"
       ],
       "items": [
         {
-          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "www.businessinsider.com",
+          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T21:23:31.600000Z"
+          "published_at": "2026-09-14T01:03:29.688000Z"
         },
         {
-          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T20:55:24Z"
+          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:08:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9658,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T20:55:24Z",
-      "latest_at": "2026-09-13T21:23:31.600000Z",
+      "earliest_at": "2026-09-13T22:08:25Z",
+      "latest_at": "2026-09-14T01:03:29.688000Z",
       "primary_item": {
-        "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-        "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-        "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4e3f293e3094",
-      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.039000Z"
-        },
-        {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:52:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.039000Z"
-        },
-        {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:52:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9297,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T16:52:33Z",
-      "latest_at": "2026-09-13T18:45:18.039000Z",
-      "primary_item": {
-        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_543492d80546",
-      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:38.853000Z"
-        },
-        {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T15:44:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:38.853000Z"
-        },
-        {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T15:44:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9158,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T15:44:38Z",
-      "latest_at": "2026-09-13T17:42:38.853000Z",
-      "primary_item": {
-        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_29a046c34d36",
-      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "source": "xeiaso.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xeiaso.net"
-      ],
-      "items": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7308,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:53:30Z",
-      "latest_at": "2026-09-13T02:05:04.827000Z",
-      "primary_item": {
-        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-        "source": "xeiaso.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fca275d6d6bc",
-      "title": "“全华班”打造的AI程序员，估值480亿美元",
-      "url": "https://www.36kr.com/p/3981230650522630",
-      "primary_url": "https://www.36kr.com/p/3981230650522630",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8553,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T07:33:31.408770Z",
-      "latest_at": "2026-09-13T12:58:32.468987Z",
-      "primary_item": {
-        "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-        "title": "“全华班”打造的AI程序员，估值480亿美元",
-        "url": "https://www.36kr.com/p/3981230650522630",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9a589f3bdb96",
-      "title": "拥抱脸/变形金刚 / huggingface / transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "primary_url": "https://github.com/huggingface/transformers",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-          "title": "拥抱脸/变形金刚 / huggingface / transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9759290a661c2260cc7aa79e655210a738376956",
-          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-13T12:44:44.636000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-          "title": "拥抱脸/变形金刚 / huggingface / transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9759290a661c2260cc7aa79e655210a738376956",
-          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-13T12:44:44.636000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8553,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T12:44:44.636000Z",
-      "latest_at": "2026-09-13T12:58:32.468987Z",
-      "primary_item": {
-        "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-        "title": "拥抱脸/变形金刚 / huggingface / transformers",
-        "url": "https://github.com/huggingface/transformers",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ae1c0b143270",
-      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "yoshuabengio.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
-        },
-        {
-          "id": "a6c3eff31077ac67b7cf18c7b773d0b19f63670d",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "yoshuabengio.org"
-      ],
-      "items": [
-        {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
-        },
-        {
-          "id": "a6c3eff31077ac67b7cf18c7b773d0b19f63670d",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7878,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T01:22:31Z",
-      "latest_at": "2026-09-13T07:17:17.819000Z",
-      "primary_item": {
-        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "source": "yoshuabengio.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_40ae80140ac4",
-      "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.270000Z"
-        },
-        {
-          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:20:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.270000Z"
-        },
-        {
-          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:20:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9297,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T18:20:22Z",
-      "latest_at": "2026-09-13T18:45:18.270000Z",
-      "primary_item": {
-        "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-        "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ee8a008297ce",
-      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9158,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T17:10:40Z",
-      "latest_at": "2026-09-13T17:42:39.759000Z",
-      "primary_item": {
-        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-        "source": "www.businessinsider.com",
+        "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+        "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     }
