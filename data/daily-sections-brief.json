@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-09-13T21:31:12.630250Z",
+  "generated_at": "2026-09-16T18:58:45.834229Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "summary": "Perplexity 将端到端系统交给 GPT-6 Astra，展示大模型在搜索问答链路中的深度整合。"
+          "title": "Anthropic 将 Claude Chat 与 Cowork 合并为统一产品，新增 Docs、Slides 功能",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "summary": "Claude 把聊天与协作合并为一个界面，并直接生成可编辑文档和幻灯片，正面挑战 Gemini 的办公套件。"
         },
         {
-          "title": "OpenAI 关停史上最快模型 Spark，发布到下线仅 7 个月",
-          "url": "https://hub.baai.ac.cn/view/57934",
-          "summary": "OpenAI 下线曾号称史上最快的模型 Spark，生命周期仅 7 个月，折射模型迭代节奏之快。"
+          "title": "OpenAI 把 Codex 做成 API：Agents API 开放托管会话与沙箱",
+          "url": "https://www.oschina.net/news/502418",
+          "summary": "OpenAI 将 Codex 能力封装为 Agents API，提供托管会话与沙箱，让开发者更容易构建自主编程代理。"
         },
         {
-          "title": "ElevenLabs 通过应用和 API 提供 Music v2.5，含免费和 Pro 档",
-          "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options",
-          "summary": "ElevenLabs 发布 Music v2.5，通过应用与 API 开放，并设免费与 Pro 两档。"
+          "title": "谷歌在 Google Home 中添加 MCP 集成，让第三方 AI 代理控制智能家居",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "summary": "Google Home 接入 MCP 标准，任何 AI 代理都能分析家庭数据并控制设备，智能家居进入代理化时代。"
         },
         {
-          "title": "蚂蚁灵波开源三款 LingBot-World 2.0 世界模型",
-          "url": "https://www.ithome.com/1/001/863.htm",
-          "summary": "蚂蚁灵波开源三款世界模型，其中 Small 版参数 1.3B，面向消费级单卡 GPU。"
+          "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端",
+          "url": "https://juejin.cn/post/7685188623412133898",
+          "summary": "DeepSeek 官方仓库出现 Harness 桌面端，暗示其正从模型层向开发者工具与端侧应用延伸。"
         },
         {
-          "title": "Google 为 Android 上的 AI 代理建了安全笼，但里面还是空的",
-          "url": "https://www.androidpolice.com/android-ai-agent-permissions-cage-built-before-agents-arrive",
-          "summary": "Google 在 Android 上预建 AI 代理权限框架，但代理生态尚未跟上，安全笼暂时空置。"
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "url": "https://www.oschina.net/news/502427/xiaomi-cocktailasr-1",
+          "summary": "小米开源 CocktailASR-1，专攻鸡尾酒会场景下的目标说话人识别，工业级语音模型再添国产选项。"
         },
         {
-          "title": "RayNeo iO 无摄像头智能眼镜主打 AI 无关的 Siri Recap 式功能",
-          "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/rayneos-io-camera-free-smart-glasses-boast-an-ai-agnostic-version-of-the-siri-recap-feature-coming-to-apple-watch-and-im-not-sure-if-i-love-or-hate-it",
-          "summary": "RayNeo 推出无摄像头智能眼镜 iO，提供不绑定特定 AI 的摘要回顾功能。"
+          "title": "阶跃星辰发布 StepAudio 3 系列五款语音 AI 模型，多项指标全球第一",
+          "url": "https://hub.baai.ac.cn/view/58010",
+          "summary": "阶跃星辰一次性发布五款语音模型，多项评测登顶，语音 AI 竞争进入白热化。"
         },
         {
-          "title": "Apple 据报正在研发 iPhone 游戏手柄",
-          "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-          "summary": "Apple 被曝正在开发 iPhone 游戏手柄，或进一步强化移动游戏生态。"
+          "title": "生数科技发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
+          "url": "https://hub.baai.ac.cn/view/58020",
+          "summary": "Vidu S2 主打实时互动与实时改视频，并适配头显，视频生成向可编辑、可交互演进。"
         },
         {
-          "title": "Lyft 加入 Robotaxi 战局",
-          "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat",
-          "summary": "Lyft 正式入局 Robotaxi，自动驾驶出行竞争再添一家平台玩家。"
+          "title": "苹果被曝用自研 M8 Ultra 芯片构建企业级 AI 服务器",
+          "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips",
+          "summary": "苹果可能重返服务器市场，以 M8 Ultra 芯片打造企业 AI 服务器，从 AI 热潮中分一杯羹。"
         }
       ]
     },
@@ -51,44 +51,39 @@
       "label": "金融",
       "items": [
         {
-          "title": "Anthropic 已选择纳斯达克进行备受期待的 IPO",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
-          "summary": "Anthropic 选定纳斯达克作为 IPO 上市地，AI 巨头资本化进入新阶段。"
+          "title": "DeepSeek 冲刺科创板，5000 亿估值引关注",
+          "url": "https://juejin.cn/post/7684102772083195958",
+          "summary": "DeepSeek 被传以 5000 亿估值冲刺科创板，国产大模型第一股争夺战升温。"
         },
         {
-          "title": "Anthropic 在 IPO 前锁定 5170 亿美元计算资源——但仍远远不够",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
-          "summary": "Anthropic 在 IPO 前锁定高达 5170 亿美元算力资源，规模惊人但仍显不足。"
+          "title": "Arcee AI 以 10 亿美元投前估值完成 B 轮，开放权重模型受资本追捧",
+          "url": "https://thenextweb.com/news/arcee-ai-series-b-1bn-valuation-open-weight-trinity",
+          "summary": "Arcee AI 仅花约 2000 万美元训出 Trinity，B 轮估值超 10 亿美元，开放权重模型路线获资本认可。"
         },
         {
-          "title": "英伟达或将向 Anthropic 的 2 万亿美元 IPO 注资 100 亿美元",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUY1U1I2OXg0ZkhOdzQ4emlKOExjUDNXbzNqOHJFX0ZDbEt6QnRXT1lVNmdOZ05kbFVLX1RJRlhmcXdhT21uYTJfUmR3azE4MG5Kc1RJcUFxUFBiZjhIeUI4cjFfU0FMVXI4bndiN3pXNlJpd2R3YVRsUlA5X1pSaTFSMERoRDFMTThUdjdNS0hEZzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "英伟达据报可能向 Anthropic 估值 2 万亿美元的 IPO 注资 100 亿美元，亚马逊押注更大。"
+          "title": "Delos Data 融资 1 亿美元，开发连接数据中心 AI 芯片的网络芯片",
+          "url": "https://www.techmeme.com/260916/p40",
+          "summary": "Delos Data 获 Matrix、Playground 等 1 亿美元投资，瞄准 AI 数据中心内部互联瓶颈。"
         },
         {
-          "title": "Z.ai 在香港融资 50 亿美元，含 30 亿美元零息债券",
-          "url": "https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds",
-          "summary": "Z.ai 在香港完成 50 亿美元融资，其中包含 30 亿美元零息可转债。"
+          "title": "Anthropic 签下澳大利亚首份数据中心协议，锁定 2.16 吉瓦容量",
+          "url": "https://www.aibase.com/news/31099",
+          "summary": "Anthropic 在澳大利亚锁定 2.16 吉瓦数据中心容量，2027 年投运，算力军备竞赛再落一子。"
         },
         {
-          "title": "萨姆·阿尔特曼称 OpenAI 在 2026 年上市将“不妥”",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjJ1SFg4UWo3aVpUQXBVckd2WU8xMjhZNUdMb3VjT2xubkM4MGJCVUluR1kwa2E5dW5HZ2lkcENfRVRlcHNfdVFsTFQ4MmhYMlBOcER0R3lKbEJ2d0R2el9MUUVJX3RLVEN5SFlxUVphNHRhLTkyNW1vbk9sbTQ5UkNwZEFSU0dreFdTRjBqQmdsT19Tdk00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "Altman 以安全为由排除 OpenAI 2026 年上市，与 Anthropic 的 IPO 动作形成对照。"
+          "title": "Fortell 用 AI 和 1.63 亿美元挑战助听器垄断",
+          "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+          "summary": "Fortell 获 1.63 亿美元融资，以 AI 技术切入助听器市场，试图打破传统巨头垄断。"
         },
         {
-          "title": "拉里·埃里森取消 75 亿美元甲骨文股票出售",
-          "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
-          "summary": "甲骨文创始人埃里森取消 75 亿美元股票出售计划，引发市场对其意图的猜测。"
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "summary": "OpenAI 正式试水广告，推出 Sponsored Agents 并接入 HubSpot、Shopify，AI 商业化路径再拓宽。"
         },
         {
-          "title": "高盛：AI 推动标普 500 企业一半的盈利增长",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
-          "summary": "高盛指出 AI 贡献了标普 500 企业约一半盈利增长，数据利弊兼有。"
-        },
-        {
-          "title": "Insight Partners 的 Devin Parekh 谈为何在别人押注 OpenAI 和 Anthropic 时选择分散投资",
-          "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
-          "summary": "Insight Partners 合伙人解释为何不把全部筹码押在 OpenAI 和 Anthropic 上，而选择分散布局。"
+          "title": "CFO 们正为 2027 年前 AI 成本上升做准备",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cfos-brace-higher-ai-costs-091444325.html",
+          "summary": "企业 CFO 普遍预期 AI 相关成本将在 2027 年前显著上升，预算压力开始向财务端传导。"
         }
       ]
     },
@@ -96,44 +91,39 @@
       "label": "学术",
       "items": [
         {
-          "title": "普林斯顿研究者提出循环环状 Transformer（RLT），跨每个 token 携带解码器状态",
-          "url": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt",
-          "summary": "普林斯顿提出 RLT 架构，以无界时间深度在每个 token 上固定 96 个块，携带解码器状态。"
+          "title": "清华稳准智能联合发布 LimiX-2，结构化数据基础模型登顶国际评测",
+          "url": "https://www.qbitai.com/2026/09/490400.html",
+          "summary": "LimiX-2 专注结构化数据，在国际评测榜单登顶，为表格类数据提供基础模型新范式。"
         },
         {
-          "title": "Anthropic 用 Claude 形式化费马大定理，但仍耗时 11 天",
-          "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
-          "summary": "Anthropic 用 Claude 完成费马大定理的形式化，过程耗时 11 天，展示 AI 在数学证明中的潜力与局限。"
+          "title": "ZDTaichu5.0-9B 国产开源，空间具身智能断层领先",
+          "url": "https://www.qbitai.com/2026/09/490839.html",
+          "summary": "国产 9B 多模态模型 ZDTaichu5.0 在空间具身智能任务上断层领先，跻身全球第一梯队。"
         },
         {
-          "title": "AI 帮助显微镜在样本中识别出最具信息量的纳米级特征",
-          "url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
-          "summary": "AI 辅助显微镜自动识别样本中最具信息量的纳米级特征，提升成像效率。"
+          "title": "AI 工具将任何论文转化为可协作、可回答复杂查询的“代理”",
+          "url": "https://www.nature.com/articles/d41586-026-02899-2",
+          "summary": "新工具把静态论文变成可交互代理，能协作并回答复杂问题，或改变学术阅读与传播方式。"
         },
         {
-          "title": "AI 实现 3D 膜图谱绘制自动化，短时间达到与人工绘制相同效果",
-          "url": "https://phys.org/news/2026-09-ai-automates-3d-membrane-manual.html",
-          "summary": "AI 自动化 3D 膜图谱绘制，在极短时间内达到与人工绘制相当的效果。"
+          "title": "AI 揭示露脊鲸新型夜间觅食行为",
+          "url": "https://phys.org/news/2026-09-ai-reveals-nighttime-behaviors-whales.html",
+          "summary": "AI 分析声学数据发现露脊鲸夜间觅食新行为，展示 AI 在生态研究中的发现能力。"
         },
         {
-          "title": "AI 递归自我改进可能不会来得那么快",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "summary": "MIT 科技评论文章认为 AI 递归自我改进的速度可能被高估，短期内不会迅速到来。"
+          "title": "Google DeepMind 成立跨学科研究所，探讨 AGI 重大问题",
+          "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi",
+          "summary": "DeepMind 新设跨学科研究所，汇聚多领域学者研究 AGI 带来的重大社会与科学问题。"
         },
         {
-          "title": "Astra 和 Fable 仍在研究 2025 年对齐评估方法的简单变体",
-          "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-          "summary": "LessWrong 帖子讨论 Astra 和 Fable 仍在基于 2025 年对齐评估方法做简单变体研究。"
+          "title": "Anthropic 与 Novo Nordisk 合作，用 Claude Science 加速药物发现",
+          "url": "https://thenextweb.com/news/novo-anthropic-claude-science-drug-discovery",
+          "summary": "诺和诺德将测试 Anthropic 的 Claude Science 平台，AI 辅助药物研发再添大药厂案例。"
         },
         {
-          "title": "Transformer 电路的数学框架（2021）",
-          "url": "https://transformer-circuits.pub/2021/framework/index.html",
-          "summary": "Transformer Circuits 经典数学框架文章被重新关注，为机制可解释性提供基础工具。"
-        },
-        {
-          "title": "1400 行代码从零学起深度学习",
-          "url": "https://github.com/NoSavedDATA/Neve_benchmarks",
-          "summary": "GitHub 项目以 1400 行代码从零实现深度学习，适合作为教学与基准参考。"
+          "title": "NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首秀中领先",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+          "summary": "NVIDIA 新一代 Vera Rubin NVL72 在 MLPerf 推理基准首次亮相即取得领先性能。"
         }
       ]
     },
@@ -141,44 +131,44 @@
       "label": "八卦",
       "items": [
         {
-          "title": "达里奥·阿莫德伊称 AI 行业对该技术风险“撒了谎”",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOay1kS3l4dFZvOE9GOHhTWmxIS2pybGxCQlJKLW5KemRoT3VIaWk2cEN4UFFuZzdCNHNhTmdkZlZBcm1RUzhqdmd2WUR5X1Z3SDlQRDlQVVRsbnlHY0w4OUN3RkxfcWhTdjBtVnNoQWZXdXJFSVVMcHltTEZCQXNDN2RHWnlmWm1LQzVXcWt0RmN1NURzRnhxRlpKRWI0UFMwamtSX0ZpOWtteGJBM0VlOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "summary": "Anthropic CEO 阿莫德伊公开称行业对 AI 风险长期撒谎，言论引发广泛争议。"
+          "title": "黄仁勋台上接特朗普电话开免提：AI 不会减速",
+          "url": "https://juejin.cn/post/7685320540698361899",
+          "summary": "黄仁勋在公开场合接特朗普电话并开免提，全场听到“AI 不会减速”，政治与 AI 加速主义同框。"
         },
         {
-          "title": "特朗普拒绝 Anthropic、OpenAI 和 xAI CEO 放缓 AI 的呼吁",
-          "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
-          "summary": "特朗普拒绝多家 AI 公司 CEO 的放缓呼吁，称“谁赢得 AI 谁就赢得一切”。"
+          "title": "DeepMind 安全研究员拒绝 OpenAI 和 Anthropic 邀约，离职转向独立测评",
+          "url": "https://www.mittrchina.com/news/detail/16961",
+          "summary": "DeepMind 安全研究员拒绝两大巨头邀约，选择独立做 AI 测评，安全与商业的张力再受关注。"
         },
         {
-          "title": "奥巴马敦促民主党将 AI 监管置于议程核心位置",
-          "url": "https://nyti.ms/46i9jTF",
-          "summary": "奥巴马警告 AI 落入私人手中可能危险，敦促民主党制定明确的 AI 保障计划。"
+          "title": "扎克伯格与 Meta 远离放缓 AI 发展的呼吁",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmZNbEtRUFV1Q1MwMEtYMlhVMkE4eTRrZ3VJNUxYUzlwbG4xbkZvSWJOUElzZW5hV2Z4NEhsSFcwcTVDaGl2OHp2VjViUXE3Y1JqSkRmMGQxUDlnQl9LZmVHakg5ajhwcGRUN3dHY2RkeTdLNlRSTVZzcF9FRGdRcUtpR05sVDhkNlNDbGNIWFM",
+          "summary": "扎克伯格明确与“协调放缓 AI”的呼吁保持距离，Meta 继续全速推进，行业路线分歧公开化。"
         },
         {
-          "title": "大卫·萨克斯：OpenAI 和 Anthropic 无需监管来控制前沿模型发展步伐",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "summary": "特朗普前 AI 事务负责人萨克斯反对监管前沿模型节奏，并称两家公司不应索取回报。"
+          "title": "OpenAI 质疑苹果与马斯克旗下 X、SpaceXAI 协议的保密条款",
+          "url": "https://reut.rs/4hymDsn",
+          "summary": "OpenAI 要求披露苹果与 X、SpaceXAI 所谓协议，法官命令后者解释为何放弃对苹果的反垄断指控。"
         },
         {
-          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "summary": "Anthropic 披露胡塞组织利用 Claude Code 开发导弹制导软件，引发 AI 滥用担忧。"
+          "title": "硅谷科技巨头安保人员计划罢工，谷歌、OpenAI、Anthropic 办公室或受影响",
+          "url": "https://www.aibase.com/news/31100",
+          "summary": "硅谷多家 AI 巨头安保人员计划罢工，劳资矛盾蔓延至 AI 公司后勤体系。"
         },
         {
-          "title": "加里·谭希望美国开放式 AI 实验室也能“蒸馏”前沿模型",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "summary": "YC 的 Garry Tan 主张美国开放权重实验室也应能蒸馏前沿模型，引发开放与安全之争。"
+          "title": "沃伦支持暂停人工智能发展",
+          "url": "https://www.axios.com/2026/09/16/warren-ai-pause",
+          "summary": "参议员沃伦公开支持暂停 AI 发展，AI 监管辩论进入美国政治主流议程。"
         },
         {
-          "title": "伯尼·桑德斯提议对推进超级智能的 AI 开发者判处 20 年监禁",
-          "url": "https://www.reddit.com/r/technology/comments/1wfcsdl/bernie_sanders_proposes_20_year_prison_sentence",
-          "summary": "桑德斯提议将鲁莽推进超级智能的 AI 开发者刑罚与非法研发核武器看齐，最高 20 年监禁。"
+          "title": "Anthropic 政策主管：赢得 AI 竞赛是确保安全的关键",
+          "url": "https://www.politico.com/news/2026/09/16/anthropic-policy-chief-says-winning-ai-race-key-for-safety-01078981",
+          "summary": "Anthropic 政策主管称赢得竞赛才能保障安全，与“暂停”派形成鲜明对立。"
         },
         {
-          "title": "迈克·约翰逊称国会不带头监管 AI 安全，科技公司应自行负责",
-          "url": "http://dlvr.it/TVST48",
-          "summary": "众议长约翰逊表示 AI 安全应由科技公司承担责任，国会不打算主导立法。"
+          "title": "法国财长：呼吁放缓 AI 符合美国 AI 领军企业利益",
+          "url": "https://reut.rs/4AimLEM",
+          "summary": "法国财政部长指责美国 AI 巨头借“放缓”呼声维护自身优势，国际 AI 治理博弈加剧。"
         }
       ]
     }
