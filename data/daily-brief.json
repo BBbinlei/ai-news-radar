@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:07:08.108281Z",
+  "generated_at": "2026-09-20T16:54:04.840075Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7831,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,106 @@
         "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc9a8f12e485",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9317,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9468,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -201,67 +301,6 @@
         "url": "https://www.aibase.com/news/31201",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc9a8f12e485",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.984,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T12:00:00Z",
-      "primary_item": {
-        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -318,15 +357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9468,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -346,62 +385,63 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "source": "公众号：阶跃星辰（Step）",
+      "story_id": "story_7652446ef5af",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
+          "published_at": "2026-09-20T13:52:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：阶跃星辰（Step）"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
+          "published_at": "2026-09-20T13:52:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T02:00:00Z",
-      "latest_at": "2026-09-20T02:00:00Z",
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
       "primary_item": {
-        "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-        "source": "公众号：阶跃星辰（Step）",
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
@@ -459,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -540,15 +580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -755,15 +795,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6496,
-      "importance": 0.6496,
-      "importance_score": 0.6496,
+      "score": 0.642,
+      "importance": 0.642,
+      "importance_score": 0.642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.7987,
+        "recency": 0.7562,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -834,15 +874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -915,15 +955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
+      "score": 0.6018,
+      "importance": 0.6018,
+      "importance_score": 0.6018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7806,
+        "recency": 0.7391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,198 +981,181 @@
       }
     },
     {
-      "story_id": "story_049bec628a51",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
+      "story_id": "story_f983adbde42c",
+      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+      "url": "https://www.aibase.com/news/31184",
+      "primary_url": "https://www.aibase.com/news/31184",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/news/31184",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T13:07:08.108281Z"
+          "published_at": "2026-09-20T02:34:07.070492Z"
+        },
+        {
+          "id": "91784577e2dbe901b3845c6e98e021a640685183",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/zh/news/31184",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/news/31184",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T13:07:08.108281Z"
+          "published_at": "2026-09-20T02:34:07.070492Z"
+        },
+        {
+          "id": "91784577e2dbe901b3845c6e98e021a640685183",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/zh/news/31184",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.813,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T13:07:08.108281Z",
-      "latest_at": "2026-09-20T13:07:08.108281Z",
+      "earliest_at": "2026-09-20T02:34:07.070492Z",
+      "latest_at": "2026-09-20T02:34:07.070492Z",
       "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "url": "https://www.aibase.com/news/31205",
+        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+        "url": "https://www.aibase.com/news/31184",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_35721eb82dbc",
-      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "erichgrunewald.substack.com",
+      "story_id": "story_1bcdc6d0dde0",
+      "title": "你能分辨出哪些图片是AI生成的吗？",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "source": "slop-sense.labtoagi.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
+          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+          "title": "你能分辨出哪些图片是AI生成的吗？",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "slop-sense.labtoagi.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "published_at": "2026-09-20T15:44:20.618000Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-19T23:02:34Z"
         },
         {
-          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
-          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
-          "url": "https://news.ycombinator.com/item?id=49767937",
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "url": "https://news.ycombinator.com/item?id=49770847",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-19T23:02:34Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热",
-        "erichgrunewald.substack.com",
-        "hackernews"
+        "hackernews",
+        "slop-sense.labtoagi.com"
       ],
       "items": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
+          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+          "title": "你能分辨出哪些图片是AI生成的吗？",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "slop-sense.labtoagi.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "published_at": "2026-09-20T15:44:20.618000Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-19T23:02:34Z"
         },
         {
-          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
-          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
-          "url": "https://news.ycombinator.com/item?id=49767937",
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "url": "https://news.ycombinator.com/item?id=49770847",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-19T23:02:34Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5815,
-      "importance": 0.5815,
-      "importance_score": 0.5815,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7816,
-        "story_heat": 1.0
+        "recency": 0.9834,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "earliest_at": "2026-09-19T23:02:34Z",
+      "latest_at": "2026-09-20T15:44:20.618000Z",
       "primary_item": {
-        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "erichgrunewald.substack.com",
+        "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+        "title": "你能分辨出哪些图片是AI生成的吗？",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+        "source": "slop-sense.labtoagi.com",
         "source_name": "Buzzing"
       }
     },
@@ -1209,15 +1232,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9959,
+        "recency": 0.943,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1235,162 +1258,242 @@
       }
     },
     {
-      "story_id": "story_a7041e9bc97d",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
+      "story_id": "story_3366ad930328",
+      "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单",
+      "url": "https://www.aibase.com/news/31183",
+      "primary_url": "https://www.aibase.com/news/31183",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
+          "id": "3fc3c916d09241df01b464e0151b93ca9fcf2817",
+          "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单",
+          "url": "https://www.aibase.com/news/31183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T13:07:08.108281Z"
+          "published_at": "2026-09-20T02:34:07.070492Z"
+        },
+        {
+          "id": "8d8f1bce2f902de5259d4ef018b7a0efbad4a5b3",
+          "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率减半、价格不变，流式语音识别登顶榜单",
+          "url": "https://www.aibase.com/zh/news/31183",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
+          "id": "3fc3c916d09241df01b464e0151b93ca9fcf2817",
+          "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单",
+          "url": "https://www.aibase.com/news/31183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T13:07:08.108281Z"
+          "published_at": "2026-09-20T02:34:07.070492Z"
+        },
+        {
+          "id": "8d8f1bce2f902de5259d4ef018b7a0efbad4a5b3",
+          "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率减半、价格不变，流式语音识别登顶榜单",
+          "url": "https://www.aibase.com/zh/news/31183",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.813,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T13:07:08.108281Z",
-      "latest_at": "2026-09-20T13:07:08.108281Z",
+      "earliest_at": "2026-09-20T02:34:07.070492Z",
+      "latest_at": "2026-09-20T02:34:07.070492Z",
       "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "url": "https://www.aibase.com/news/31204",
+        "id": "3fc3c916d09241df01b464e0151b93ca9fcf2817",
+        "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单",
+        "url": "https://www.aibase.com/news/31183",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-      "primary_url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_60f379c3b3ff",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
+      "source": "softwarecrisis.dev",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "27b952bed470e590361211f95fe267238ccb5220",
-          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-20T04:46:34Z"
-        },
-        {
-          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
-          "title": "人工智能与科学的核心悖论 陶哲轩",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:10:46.255000Z"
-        },
-        {
-          "id": "7986f66b731b099f0ff24c259ea60c70c4751e22",
-          "title": "人工智能与科学的核心悖论 陶哲轩 / The paradox at the heart of AI and science | Terence Tao",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T16:53:14Z"
+          "published_at": "2026-09-20T12:20:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
+        "softwarecrisis.dev"
       ],
       "items": [
         {
-          "id": "27b952bed470e590361211f95fe267238ccb5220",
-          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-20T04:46:34Z"
-        },
-        {
-          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
-          "title": "人工智能与科学的核心悖论 陶哲轩",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:10:46.255000Z"
-        },
-        {
-          "id": "7986f66b731b099f0ff24c259ea60c70c4751e22",
-          "title": "人工智能与科学的核心悖论 陶哲轩 / The paradox at the heart of AI and science | Terence Tao",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T16:53:14Z"
+          "published_at": "2026-09-20T12:20:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
-        "story_heat": 0.5
+        "recency": 0.9796,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T16:53:14Z",
-      "latest_at": "2026-09-20T04:46:34Z",
+      "earliest_at": "2026-09-20T12:20:13Z",
+      "latest_at": "2026-09-20T15:28:23.669000Z",
       "primary_item": {
-        "id": "27b952bed470e590361211f95fe267238ccb5220",
-        "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-        "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "url": "https://softwarecrisis.dev/letters/llmentalist",
+        "source": "softwarecrisis.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8bfe2a2350a2",
+      "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co",
+      "primary_url": "https://pirateface.co",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9767,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:16:07Z",
+      "latest_at": "2026-09-20T15:16:07Z",
+      "primary_item": {
+        "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+        "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1447,15 +1550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1525,15 +1628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9886,
+        "recency": 0.936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1551,161 +1654,82 @@
       }
     },
     {
-      "story_id": "story_b6ad19eb6a85",
-      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_d9e220dea7b7",
+      "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "primary_url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
+          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:07:10Z"
         },
         {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
+          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
+          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.282000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
+          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:07:10Z"
         },
         {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
+          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
+          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.282000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.9333,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T11:37:10Z",
-      "latest_at": "2026-09-20T11:37:10Z",
+      "earliest_at": "2026-09-20T07:19:35.282000Z",
+      "latest_at": "2026-09-20T12:07:10Z",
       "primary_item": {
-        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_c70d1bc1bd08",
-      "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-      "url": "https://faceanalysisai.com",
-      "primary_url": "https://faceanalysisai.com",
-      "source": "faceanalysisai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-          "url": "https://faceanalysisai.com",
-          "source": "faceanalysisai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T08:55:15.986000Z"
-        },
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "faceanalysisai.com"
-      ],
-      "items": [
-        {
-          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-          "url": "https://faceanalysisai.com",
-          "source": "faceanalysisai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T08:55:15.986000Z"
-        },
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9412,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T08:48:35Z",
-      "latest_at": "2026-09-20T08:55:15.986000Z",
-      "primary_item": {
-        "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-        "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-        "url": "https://faceanalysisai.com",
-        "source": "faceanalysisai.com",
-        "source_name": "Buzzing"
+        "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+        "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
