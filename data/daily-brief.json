@@ -1,233 +1,291 @@
 {
-  "generated_at": "2026-09-21T15:12:56.012600Z",
+  "generated_at": "2026-09-22T17:26:44.132082Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c701b57089c5",
-      "title": "像物理学家一样修剪法学硕士：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "story_id": "story_0c90c73c08cf",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "primary_url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a58405996672d080264a33742ee41cde0d801b04",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:53:30.664000Z"
+        },
+        {
+          "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
+          "title": "克劳德 作品5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T16:51:25.134000Z"
+        },
+        {
+          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "title": "克劳德 作品5.5 / Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:29:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "a58405996672d080264a33742ee41cde0d801b04",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:53:30.664000Z"
+        },
+        {
+          "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
+          "title": "克劳德 作品5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T16:51:25.134000Z"
+        },
+        {
+          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "title": "克劳德 作品5.5 / Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:29:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:29:05Z",
+      "latest_at": "2026-09-22T16:53:30.664000Z",
+      "primary_item": {
+        "id": "a58405996672d080264a33742ee41cde0d801b04",
+        "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_98acfe91fd30",
+      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-          "title": "像物理学家一样修剪法学硕士：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T13:44:34Z"
+          "published_at": "2026-09-22T00:00:00Z"
+        },
+        {
+          "id": "bdfcbd36b2a4a5b02666684c5e4d7a68864a5bc5",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-          "title": "像物理学家一样修剪法学硕士：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T13:44:34Z"
+          "published_at": "2026-09-22T00:00:00Z"
+        },
+        {
+          "id": "bdfcbd36b2a4a5b02666684c5e4d7a68864a5bc5",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.979,
-        "story_heat": 0.0
+        "recency": 0.7773,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T13:44:34Z",
-      "latest_at": "2026-09-21T13:44:34Z",
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
       "primary_item": {
-        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-        "title": "像物理学家一样修剪法学硕士：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+        "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_d1749ba76a98",
-      "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "primary_url": "https://openai.com/index/v7",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-          "url": "https://openai.com/index/v7",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-          "url": "https://openai.com/index/v7",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8027,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T00:00:00Z",
-      "latest_at": "2026-09-21T00:00:00Z",
-      "primary_item": {
-        "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-        "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-        "url": "https://openai.com/index/v7",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c14c68917721",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_5dc131998993",
+      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
+          "published_at": "2026-09-22T14:35:15Z"
         },
         {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
+          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Meta’s Muse has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "9d51278628e1f637d71fc288dc4592b75038b3ba",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-21T22:46:21.154000Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.buchodi.com"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
+          "published_at": "2026-09-22T14:35:15Z"
         },
         {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
+          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Meta’s Muse has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "9d51278628e1f637d71fc288dc4592b75038b3ba",
+          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-21T22:46:21.154000Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7371,
+        "recency": 0.9596,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -236,113 +294,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "earliest_at": "2026-09-21T22:46:21.154000Z",
+      "latest_at": "2026-09-22T14:35:15Z",
       "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+        "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c8db3b672c97",
-      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
-      "url": "https://www.ithome.com/1/005/418.htm",
-      "primary_url": "https://www.ithome.com/1/005/418.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_578c4003252d",
+      "title": "Deprecation notice: All-platform CodeQL bundle",
+      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
-          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
-          "url": "https://www.ithome.com/1/005/418.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T11:52:52Z"
-        },
-        {
-          "id": "0ee08a51b24c2b7896b6a041192b4b49247977b5",
-          "title": "科技巨头因 AI 购物起争端：亚马逊封禁 Meta Muse 智能体",
-          "url": "https://www.ithome.com/1/005/418.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T11:52:52Z"
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "Deprecation notice: All-platform CodeQL bundle",
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
-          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
-          "url": "https://www.ithome.com/1/005/418.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T11:52:52Z"
-        },
-        {
-          "id": "0ee08a51b24c2b7896b6a041192b4b49247977b5",
-          "title": "科技巨头因 AI 购物起争端：亚马逊封禁 Meta Muse 智能体",
-          "url": "https://www.ithome.com/1/005/418.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T11:52:52Z"
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "Deprecation notice: All-platform CodeQL bundle",
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.953,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8897,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T11:52:52Z",
-      "latest_at": "2026-09-21T11:52:52Z",
+      "earliest_at": "2026-09-22T09:21:03Z",
+      "latest_at": "2026-09-22T09:21:03Z",
       "primary_item": {
-        "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
-        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
-        "url": "https://www.ithome.com/1/005/418.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+        "title": "Deprecation notice: All-platform CodeQL bundle",
+        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_eb792e0fc342",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "primary_url": "https://huggingface.co/blog/tokenizers-v1",
+      "story_id": "story_2960c64a019e",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-          "title": "tokenizers v1: encode, decode and scaling, measured",
-          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
+          "published_at": "2026-09-22T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -351,26 +390,26 @@
       ],
       "items": [
         {
-          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-          "title": "tokenizers v1: encode, decode and scaling, measured",
-          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
+          "published_at": "2026-09-22T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8027,
+        "ai_relevance": 1.0,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -379,37 +418,98 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T00:00:00Z",
-      "latest_at": "2026-09-21T00:00:00Z",
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
       "primary_item": {
-        "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-        "title": "tokenizers v1: encode, decode and scaling, measured",
-        "url": "https://huggingface.co/blog/tokenizers-v1",
+        "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+        "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "url": "https://huggingface.co/blog/evaleval-aisi",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9d9bdcd8c26f",
-      "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-      "url": "https://www.aibase.com/news/31240",
-      "primary_url": "https://www.aibase.com/news/31240",
+      "story_id": "story_3f2d890918eb",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+      "url": "https://x.com/mark_k/status/2102437510731219218",
+      "primary_url": "https://x.com/mark_k/status/2102437510731219218",
+      "source": "@mark_k",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "@mark_k"
+      ],
+      "items": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:38:58Z",
+      "latest_at": "2026-09-22T16:38:58Z",
+      "primary_item": {
+        "id": "f954331306c3da6009c3265f549120d3121642d6",
+        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+        "url": "https://x.com/mark_k/status/2102437510731219218",
+        "source": "@mark_k",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3561f5bc6e1f",
+      "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
+      "url": "https://www.aibase.com/news/31275",
+      "primary_url": "https://www.aibase.com/news/31275",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "749e770d05615b34278e234511bee1d1d638c41f",
-          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-          "url": "https://www.aibase.com/news/31240",
+          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
+          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
+          "url": "https://www.aibase.com/news/31275",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "published_at": "2026-09-22T17:26:44.132082Z"
         },
         {
-          "id": "ace43d11b8ec25418c7fabce8c0dbbb8375c0633",
-          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-          "url": "https://www.aibase.com/zh/news/31240",
+          "id": "dc7bed0f2c266735e5c4f348a7c183a66cc42721",
+          "title": "比尔・盖茨谈 AI：像亲手创造的「外星人」，社会讨论还远未跟上",
+          "url": "https://www.aibase.com/zh/news/31275",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -423,18 +523,18 @@
       ],
       "items": [
         {
-          "id": "749e770d05615b34278e234511bee1d1d638c41f",
-          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-          "url": "https://www.aibase.com/news/31240",
+          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
+          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
+          "url": "https://www.aibase.com/news/31275",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "published_at": "2026-09-22T17:26:44.132082Z"
         },
         {
-          "id": "ace43d11b8ec25418c7fabce8c0dbbb8375c0633",
-          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-          "url": "https://www.aibase.com/zh/news/31240",
+          "id": "dc7bed0f2c266735e5c4f348a7c183a66cc42721",
+          "title": "比尔・盖茨谈 AI：像亲手创造的「外星人」，社会讨论还远未跟上",
+          "url": "https://www.aibase.com/zh/news/31275",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -460,160 +560,589 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
+      "earliest_at": "2026-09-22T17:26:44.132082Z",
+      "latest_at": "2026-09-22T17:26:44.132082Z",
       "primary_item": {
-        "id": "749e770d05615b34278e234511bee1d1d638c41f",
-        "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-        "url": "https://www.aibase.com/news/31240",
+        "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
+        "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
+        "url": "https://www.aibase.com/news/31275",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-      "source": "公众号：月之暗面（Kimi）",
+      "story_id": "story_0c905d43868e",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
-          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-          "source": "公众号：月之暗面（Kimi）",
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T07:54:32Z"
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:41:45Z",
+      "latest_at": "2026-09-22T16:41:45Z",
+      "primary_item": {
+        "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+        "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+        "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_11e6cde07112",
+      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
+          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:14Z"
         },
         {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
+          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
+          "title": "v2.1.280",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:38:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：月之暗面（Kimi）"
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
       ],
       "items": [
         {
-          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
-          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-          "source": "公众号：月之暗面（Kimi）",
+          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
+          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code：GitHub Releases（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T07:54:32Z"
+          "published_at": "2026-09-22T16:38:14Z"
         },
         {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
+          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
+          "title": "v2.1.280",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:38:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9884,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:38:14Z",
+      "latest_at": "2026-09-22T16:38:14Z",
+      "primary_item": {
+        "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
+        "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f34404644702",
+      "title": "Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "Refreshed repository pull requests page generally available",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "Refreshed repository pull requests page generally available",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7935,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
+      "primary_item": {
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "Refreshed repository pull requests page generally available",
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_46b9bbf1e74c",
+      "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+      "url": "https://x.com/OpenRouter/status/2102438921213014078",
+      "primary_url": "https://x.com/OpenRouter/status/2102438921213014078",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "532b9aafd26e50f01008c5b21312b333f57f8659",
+          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+          "url": "https://x.com/OpenRouter/status/2102438921213014078",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:44:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "532b9aafd26e50f01008c5b21312b333f57f8659",
+          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+          "url": "https://x.com/OpenRouter/status/2102438921213014078",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:44:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9899,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:44:34Z",
+      "latest_at": "2026-09-22T16:44:34Z",
+      "primary_item": {
+        "id": "532b9aafd26e50f01008c5b21312b333f57f8659",
+        "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+        "url": "https://x.com/OpenRouter/status/2102438921213014078",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ef9483a0fef1",
+      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+      "url": "https://x.com/bcherny/status/2102439069053747549",
+      "primary_url": "https://x.com/bcherny/status/2102439069053747549",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
-        "story_heat": 0.25
+        "recency": 0.99,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T07:54:32Z",
+      "earliest_at": "2026-09-22T16:45:10Z",
+      "latest_at": "2026-09-22T16:45:10Z",
       "primary_item": {
-        "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
-        "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-        "source": "公众号：月之暗面（Kimi）",
+        "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+        "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+        "url": "https://x.com/bcherny/status/2102439069053747549",
+        "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1c1253212e36",
-      "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
-      "url": "https://www.aibase.com/news/31239",
-      "primary_url": "https://www.aibase.com/news/31239",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d647d6ac131e",
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "primary_url": "https://x.com/arena/status/2102416020678008986",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
-          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
-          "url": "https://www.aibase.com/news/31239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        },
-        {
-          "id": "cc15f05b612ab7688838ffbec7f150b7336466d3",
-          "title": "月之暗面推出 Kimi Code Desktop 桌面端，把 AI 编程 Agent 直接搬上 macOS 和 Windows",
-          "url": "https://www.aibase.com/zh/news/31239",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
-          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
-          "url": "https://www.aibase.com/news/31239",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        },
-        {
-          "id": "cc15f05b612ab7688838ffbec7f150b7336466d3",
-          "title": "月之暗面推出 Kimi Code Desktop 桌面端，把 AI 编程 Agent 直接搬上 macOS 和 Windows",
-          "url": "https://www.aibase.com/zh/news/31239",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T15:13:34Z",
+      "latest_at": "2026-09-22T15:13:34Z",
+      "primary_item": {
+        "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+        "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+        "url": "https://x.com/arena/status/2102416020678008986",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb8ad85c459c",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "primary_url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7773,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "url": "https://huggingface.co/blog/omlx",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5a2caff47bb4",
+      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+      "url": "https://x.com/claudeai/status/2102435511222890900",
+      "primary_url": "https://x.com/claudeai/status/2102435511222890900",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
+          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+          "url": "https://x.com/claudeai/status/2102435511222890900",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
+          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+          "url": "https://x.com/claudeai/status/2102435511222890900",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9867,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:31:01Z",
+      "latest_at": "2026-09-22T16:31:01Z",
+      "primary_item": {
+        "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
+        "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+        "url": "https://x.com/claudeai/status/2102435511222890900",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
+        {
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:18:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：小米 MiMo",
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
+        {
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:18:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8005,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,926 +1151,256 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
+      "earliest_at": "2026-09-21T20:18:52Z",
+      "latest_at": "2026-09-22T02:02:03Z",
       "primary_item": {
-        "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
-        "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
-        "url": "https://www.aibase.com/news/31239",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+        "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d1046eb2f610",
+      "title": "何夕2077 AI 深度信号周报 2026 W38",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7615,
+        "recency": 0.8633,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
+      "earliest_at": "2026-09-22T07:16:08Z",
+      "latest_at": "2026-09-22T07:16:08Z",
       "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+        "title": "何夕2077 AI 深度信号周报 2026 W38",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_bb5dceabc7e5",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_6bc6365216c2",
+      "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+      "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "ecfd41ec1219cf0611e41cefa61d10f8855e6ee2",
+          "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+          "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
+          "published_at": "2026-09-22T11:00:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "X：Kimi.ai (@Kimi_Moonshot)"
       ],
       "items": [
         {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "ecfd41ec1219cf0611e41cefa61d10f8855e6ee2",
+          "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+          "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
+          "published_at": "2026-09-22T11:00:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T02:50:40Z",
+      "earliest_at": "2026-09-22T11:00:01Z",
+      "latest_at": "2026-09-22T11:00:01Z",
       "primary_item": {
-        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "ecfd41ec1219cf0611e41cefa61d10f8855e6ee2",
+        "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+        "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8fca2699b05a",
-      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-      "url": "https://www.aibase.com/news/31241",
-      "primary_url": "https://www.aibase.com/news/31241",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_035e6172b7a8",
+      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "primary_url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "source": "LlamaIndex：产品、工程与评测",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/news/31241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+          "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+          "source": "LlamaIndex：产品、工程与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:38:40.870000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "LlamaIndex：产品、工程与评测"
       ],
       "items": [
         {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/news/31241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+          "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+          "source": "LlamaIndex：产品、工程与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:38:40.870000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9604,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
+      "earliest_at": "2026-09-22T14:38:40.870000Z",
+      "latest_at": "2026-09-22T14:38:40.870000Z",
       "primary_item": {
-        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-        "url": "https://www.aibase.com/news/31241",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+        "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+        "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+        "source": "LlamaIndex：产品、工程与评测",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6f2ad66232ac",
-      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-      "url": "https://www.aibase.com/news/31237",
-      "primary_url": "https://www.aibase.com/news/31237",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_bdad4d18a972",
+      "title": "GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "url": "https://www.aibase.com/news/31237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "url": "https://www.aibase.com/news/31237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
       "primary_item": {
-        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-        "url": "https://www.aibase.com/news/31237",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0f8570f5c4b6",
-      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-      "url": "https://www.aibase.com/news/31234",
-      "primary_url": "https://www.aibase.com/news/31234",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/news/31234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/news/31234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
-      "primary_item": {
-        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-        "url": "https://www.aibase.com/news/31234",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_85b0b9bb1d20",
-      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-      "url": "https://www.aibase.com/news/31238",
-      "primary_url": "https://www.aibase.com/news/31238",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "url": "https://www.aibase.com/news/31238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "url": "https://www.aibase.com/news/31238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
-      "primary_item": {
-        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-        "url": "https://www.aibase.com/news/31238",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ef6362531a2e",
-      "title": "为什么MCP一直都是个糟糕的主意？",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "maharship.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
-          "title": "为什么MCP一直都是个糟糕的主意？",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "maharship.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T06:27:15.988000Z"
-        },
-        {
-          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
-          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
-          "title": "MCP was always a bad idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1000f26d2ec8a619bba18822d0aa99a08fd4ea9c",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "maharship.com"
-      ],
-      "items": [
-        {
-          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
-          "title": "为什么MCP一直都是个糟糕的主意？",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "maharship.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T06:27:15.988000Z"
-        },
-        {
-          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
-          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
-          "title": "MCP was always a bad idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1000f26d2ec8a619bba18822d0aa99a08fd4ea9c",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5994,
-      "importance": 0.5994,
-      "importance_score": 0.5994,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8812,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-21T06:27:15.988000Z",
-      "primary_item": {
-        "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
-        "title": "为什么MCP一直都是个糟糕的主意？",
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "maharship.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-09-20"
-      ],
-      "items": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:11:22.648483Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.599,
-      "importance": 0.599,
-      "importance_score": 0.599,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7489,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:11:22.648483Z",
-      "latest_at": "2026-09-20T19:11:22.648483Z",
-      "primary_item": {
-        "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-        "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-20",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_fe9b8db9865d",
-      "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-      "url": "https://www.aibase.com/news/31236",
-      "primary_url": "https://www.aibase.com/news/31236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
-      "primary_item": {
-        "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-        "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-        "url": "https://www.aibase.com/news/31236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cb03d7f13be9",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7451,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T18:50:18Z",
-      "latest_at": "2026-09-20T18:50:18Z",
-      "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_b3a6ebf575f9",
-      "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "primary_url": "https://github.com/aru-labs/lossless-memory",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
-          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T12:35:14.494000Z"
-        },
-        {
-          "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
-          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T12:28:17Z"
-        },
-        {
-          "id": "cc71221b224965dc74790655bba58405044334c3",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "url": "https://news.ycombinator.com/item?id=49786419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T12:28:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
-          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T12:35:14.494000Z"
-        },
-        {
-          "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
-          "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T12:28:17Z"
-        },
-        {
-          "id": "cc71221b224965dc74790655bba58405044334c3",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "url": "https://news.ycombinator.com/item?id=49786419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T12:28:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9628,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T12:28:17Z",
-      "latest_at": "2026-09-21T12:35:14.494000Z",
-      "primary_item": {
-        "id": "683ed6d436b0115c0accf30bd49d890d5b12325c",
-        "title": "Show HN: 无损记忆——一款绝不进行总结的个人AI记忆系统",
-        "url": "https://github.com/aru-labs/lossless-memory",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_62ef79af4c6f",
-      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-      "url": "https://www.aibase.com/news/31233",
-      "primary_url": "https://www.aibase.com/news/31233",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "url": "https://www.aibase.com/news/31233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "url": "https://www.aibase.com/news/31233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T15:12:56.012600Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T15:12:56.012600Z",
-      "latest_at": "2026-09-21T15:12:56.012600Z",
-      "primary_item": {
-        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-        "url": "https://www.aibase.com/news/31233",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise adds credential inventory exports",
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
