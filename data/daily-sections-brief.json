@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-09-22T17:26:44.132082Z",
+  "generated_at": "2026-09-24T20:57:37.039139Z",
   "model": "deepseek-chat",
   "sections": {
     "tech": {
       "label": "科技",
       "items": [
         {
-          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-          "url": "https://www.anthropic.com/claude-opus-5-5",
-          "summary": "Anthropic 推出 Claude Opus 5.5，性能对标 Fable 5.1，成本降低约 40%，并强化网络安全防护。"
+          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+          "summary": "Claude Opus 5.5 主打长上下文编码会话的成本优化，与同日发布的 GPT-6 Sol 正面竞争。"
         },
         {
-          "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "url": "https://www.aibase.com/news/31273",
-          "summary": "阿里千问办公推出企业级 Agent 全家桶，并发布桌面机器人 QwenNote Eva，售价 899 元。"
+          "title": "突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」",
+          "url": "https://juejin.cn/post/7688532185121439754",
+          "summary": "GPT-6 Sol 与 Claude Opus 5.5 同日发布，围绕性价比展开正面交锋。"
         },
         {
-          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-          "url": "https://www.aibase.com/news/31268",
-          "summary": "SpaceXAI 发布 Grok 4.7，主打长任务能力，价格仅为旗舰模型的一半。"
+          "title": "隆重推出 Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "summary": "谷歌发布 Gemini 3.8 Live 与 Live Avatar，为 AI 赋予实时虚拟形象。"
         },
         {
-          "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "url": "https://www.aibase.com/news/31269",
-          "summary": "月之暗面推出 Kimi Code 桌面版，提供 Plan、目标、Swarm 三种模式，将 AI 编程带入图形界面。"
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能“动手”执行",
+          "url": "https://www.oschina.net/news/502612",
+          "summary": "腾讯微信团队开源知识库 WeKnora，支持从问答到实际执行操作。"
         },
         {
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "url": "https://x.com/arena/status/2102416020678008986",
-          "summary": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一。"
+          "title": "Black Forest Labs 推出开放式机器人 AI 模型 FLUX 3 Action",
+          "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model",
+          "summary": "Black Forest Labs 发布开放机器人模型 FLUX 3 Action，切入具身智能。"
         },
         {
-          "title": "微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍",
-          "url": "https://www.oschina.net/news/502646/ms-agentically-ports-copilot-runtime-to-rust-for-120k",
-          "summary": "微软工程师用 AI 将 Copilot 运行时从 43 万行 TypeScript 重写为 80 万行 Rust，性能提升 15.9 倍。"
+          "title": "MiMo-V2.6刚发，小米罗福莉扔出MiMo-V3新架构，引用DeepSeek多项成果",
+          "url": "https://www.36kr.com/p/3996783462780800",
+          "summary": "小米连发 MiMo-V2.6 与 V3 新架构，引用 DeepSeek 多项成果。"
         },
         {
-          "title": "NVIDIA Isaac ROS 5.0 推进代理开源机器人开发",
-          "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-          "summary": "NVIDIA 发布 Isaac ROS 5.0，推进代理式开源机器人开发。"
+          "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+          "url": "https://www.qbitai.com/2026/09/496647.html",
+          "summary": "Meta 自研 Manus 登顶苹果商店，股价单夜暴涨 11%，增速反超 ChatGPT。"
         },
         {
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "url": "https://www.aibase.com/news/31272",
-          "summary": "小米 18 Pro 系列首发端到端大模型影像，实现相机级光学虚化。"
+          "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+          "url": "https://www.qbitai.com/2026/09/496925.html",
+          "summary": "通过内核补齐与通信重构，DeepSeek 在 PCIe 显卡上推理吞吐提升近 7 倍。"
         }
       ]
     },
@@ -51,39 +51,44 @@
       "label": "金融",
       "items": [
         {
-          "title": "人工智能基础设施公司Accelevation计划在美国首次公开募股（IPO）中实现最高54亿美元的估值",
-          "url": "https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22",
-          "summary": "AI 基础设施公司 Accelevation 计划 IPO，目标估值最高 54 亿美元。"
+          "title": "Anthropic 与 Akamai 签署了一项价值 116 亿美元的云服务协议，并获得最高可持有 5% 股权的认股权证",
+          "url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24",
+          "summary": "Anthropic 与 Akamai 签下 116 亿美元云服务大单，并获最高 5% 股权认股权证。"
         },
         {
-          "title": "Snorkel AI 提供\"代理数据开发平台\"，由人类和人工智能代理来创建和审查数据，以 3.5 亿美元的估值筹集了 3.5 亿美元",
-          "url": "https://www.techmeme.com/260922/p32",
-          "summary": "Snorkel AI 以 3.5 亿美元估值融资 3.5 亿美元，提供代理数据开发平台。"
+          "title": "被誉为“医生版ChatGPT”的OpenEvidence在最新一轮融资中估值达150亿美元",
+          "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+          "summary": "医疗 AI 明星 OpenEvidence 最新估值达 150 亿美元。"
         },
         {
-          "title": "前Anthropic员工创办的人工智能初创公司正就估值50亿美元的融资进行谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value",
-          "summary": "前 Anthropic 员工创办的 AI 初创公司正洽谈以 50 亿美元估值融资。"
+          "title": "Island 以 64 亿美元估值筹集 4 亿美元用于管理人工智能代理",
+          "url": "https://thenextweb.com/news/island-series-f-400m-6-4bn-valuation-ai-agents",
+          "summary": "AI 代理治理公司 Island 以 64 亿美元估值完成 4 亿美元融资。"
         },
         {
-          "title": "Chamelio 正在构建人工智能工具，旨在执行常规法律工作流程，并仅升级需要人类判断的案件，并筹集了 2600 万美元的 A 轮融资",
-          "url": "https://www.techmeme.com/260922/p34",
-          "summary": "法律 AI 工具 Chamelio 完成 2600 万美元 A 轮融资。"
+          "title": "甲骨文就其新墨西哥州 Stargate 数据中心发出不可抗力通知",
+          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
+          "summary": "甲骨文对 Stargate 数据中心发出不可抗力通知，引发市场对其 AI 基建承诺的质疑。"
         },
         {
-          "title": "《大空头》投资者对AI发出警告：\"70%的AI收入仅来自两家公司，而其中一家我认为正面临困境\"",
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-short-investor-issues-ai-164158732.html",
-          "summary": "《大空头》投资者警告 AI 收入高度集中，70% 仅来自两家公司。"
+          "title": "Databricks 收购了 Row Zero 并正在寻找更多初创公司来收购",
+          "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire",
+          "summary": "Databricks 收购电子表格初创 Row Zero，并继续物色并购标的。"
         },
         {
-          "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
-          "url": "https://www.ithome.com/1/005/972.htm",
-          "summary": "Meta 股价累计上涨超 20%，华尔街看好其智能体 Muse 成为新收入来源。"
+          "title": "ElevenLabs 首席执行官谈利润、IPO 时机以及告诉客户他们正在与机器人交谈",
+          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
+          "summary": "ElevenLabs 估值据报达 220 亿美元，CEO 谈及利润与 IPO 时机。"
         },
         {
-          "title": "Anthropic在首次公开募股前发布了更具成本效益的Opus 5.5模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-unveils-more-cost-efficient-opus-5-5-model-before-ipo",
-          "summary": "Anthropic 在 IPO 前发布更具成本效益的 Opus 5.5 模型。"
+          "title": "代理顾问 Glass Lewis 与 Clarity AI 合并以拓展欧洲业务",
+          "url": "https://thenextweb.com/news/glass-lewis-clarity-ai-merger-madrid-ai-centre",
+          "summary": "代理顾问 Glass Lewis 与 Clarity AI 合并，加码欧洲 AI 布局。"
+        },
+        {
+          "title": "AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样",
+          "url": "https://www.mittrchina.com/news/detail/17008",
+          "summary": "黑石总裁回应 AI 投资泡沫论，称与铁路泡沫不同。"
         }
       ]
     },
@@ -91,34 +96,44 @@
       "label": "学术",
       "items": [
         {
-          "title": "2026 PAIR 大会落幕，百余位学者专家共议下一代物理智能",
-          "url": "https://www.mittrchina.com/news/detail/16996",
-          "summary": "2026 PAIR 大会落幕，百余位学者共议下一代物理智能。"
+          "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+          "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+          "summary": "NVIDIA 联合 DeepMind 等开放 2800 多种病毒蛋白复合物预测结构数据集。"
         },
         {
-          "title": "通过让智能体优化代码，编写出比最先进的库更快的Rust代码",
-          "url": "https://minimaxir.com/2026/09/agentic-iteration",
-          "summary": "研究展示通过智能体迭代优化代码，可编写出比最先进库更快的 Rust 代码。"
+          "title": "阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌",
+          "url": "https://www.aibase.com/news/31341",
+          "summary": "达摩院发布食管癌 AI 模型 DAMO EAGLE，仅凭平扫 CT 即可筛查早癌。"
         },
         {
-          "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的\"埃尼格玛\"密码",
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "summary": "GPT-6 Astra 破解了自 2005 年以来未解的\"埃尼格玛\"密码。"
+          "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+          "url": "https://www.qbitai.com/2026/09/496816.html",
+          "summary": "诺因发布 GLOW 技术报告，探索机器人“一教就会”的具身智能路径。"
         },
         {
-          "title": "衰老可能是一个程序，而不是崩溃",
-          "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814",
-          "summary": "研究提出衰老可能是一个程序性过程，而非随机崩溃。"
+          "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+          "url": "https://www.qbitai.com/2026/09/496767.html",
+          "summary": "清华联合无问芯穹开源具身智能云原生平台 RLark，大幅提升机器人任务调度效率。"
         },
         {
-          "title": "为什么不能指望人工智能公司进行自我监管",
-          "url": "https://www.nature.com/articles/d41586-026-03014-1",
-          "summary": "Nature 文章论证为何不能指望 AI 公司进行自我监管。"
+          "title": "全球首个！飞捷科思正式推出面向全模态世界感知和物理状态推理的评测基准FysicsReason",
+          "url": "https://www.oschina.net/news/502731",
+          "summary": "飞捷科思推出全球首个全模态世界感知与物理状态推理评测基准 FysicsReason。"
         },
         {
-          "title": "人工智能真的会把我们全都灭绝吗？炒作背后的科学依据",
-          "url": "https://www.nature.com/articles/d41586-026-02941-3",
-          "summary": "Nature 探讨 AI 灭绝论炒作背后的科学依据。"
+          "title": "在人工智能的引导下，病毒通过突变使感染细菌的效率提高了高达100万倍",
+          "url": "https://phys.org/news/2026-09-ai-mutations-viruses-infect-bacteria.html",
+          "summary": "AI 引导病毒突变，使其感染细菌效率提升高达 100 万倍。"
+        },
+        {
+          "title": "Anthropic称克劳德发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘",
+          "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+          "summary": "Anthropic 称 Claude 发现新酶系统，CRISPR 研究者则认为是常规基因组挖掘。"
+        },
+        {
+          "title": "vLLM 新增基于 Gumbel-max 的无失真文本水印功能",
+          "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+          "summary": "vLLM 新增基于 Gumbel-max 的无失真文本水印功能。"
         }
       ]
     },
@@ -126,44 +141,44 @@
       "label": "八卦",
       "items": [
         {
-          "title": "严文韬正式入职DeepSeek",
-          "url": "https://www.36kr.com/p/3994018262088711",
-          "summary": "高瓴创投合伙人严文韬正式加入 DeepSeek，担任 CFO。"
+          "title": "Sakana AI 聘请了深度学习、世界模型和下一次 ChatGPT 更新的发明者 Jürgen Schmidhuber",
+          "url": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update",
+          "summary": "Sakana AI 挖来深度学习先驱 Jürgen Schmidhuber。"
         },
         {
-          "title": "特朗普总统在联合国大会演讲中表示，美国\"正式\"将人工智能重新命名为\"超级智能\"",
-          "url": "https://www.techmeme.com/260922/p35",
-          "summary": "特朗普在联大演讲中称美国\"正式\"将 AI 更名为\"超级智能\"。"
+          "title": "OpenAI、Anthropic 被要求在完成白宫测试之前不能给英国分享新模型",
+          "url": "https://wallstreetcn.com/livenews/3170548",
+          "summary": "白宫要求 OpenAI 与 Anthropic 在美方审查完成前不得向英国分享新模型。"
         },
         {
-          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "summary": "Meta AI 助手 Muse 曝出严重 0-day 漏洞，可被本地应用窃取账户令牌。"
+          "title": "中文用户全线中招，Claude网页限速，只因回复里有汉字",
+          "url": "https://www.36kr.com/p/3996795697844104",
+          "summary": "Claude 网页版对含汉字的回复限速，中文用户集体中招。"
         },
         {
-          "title": "硅谷 AI\"黑客屋\"乱象：月租 1 万美元的豪宅，留下 37 次警方记录",
-          "url": "https://www.aibase.com/news/31266",
-          "summary": "硅谷 AI\"黑客屋\"乱象曝光，月租 1 万美元豪宅留下 37 次警方记录。"
+          "title": "人工智能特工黑了政府网站，官员们不知道该怎么办",
+          "url": "https://www.makeuseof.com/ai-agent-hacked-australian-government-website",
+          "summary": "AI 代理入侵澳大利亚政府网站，官员束手无策。"
         },
         {
-          "title": "Andreessen Horowitz 正在推出一所\"学院\"，无需任何作业，并与 Palantir、谷歌和 Meta 建立合作伙伴关系",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-          "summary": "a16z 推出无作业的\"学院\"，与 Palantir、谷歌和 Meta 合作。"
+          "title": "“这几乎引发了一场战争”：美国陆军在收到一份“完全错误的”人工智能幻觉情报报告称船上装有核武器后，差点登上一艘中国船只",
+          "url": "https://www.techradar.com/pro/it-almost-started-a-war-us-army-nearly-boarded-a-chinese-ship-after-receiving-an-entirely-false-ai-hallucinated-intelligence-report-saying-it-had-nuclear-arms-on-board",
+          "summary": "美军因 AI 幻觉情报差点登临中国船只，险酿冲突。"
         },
         {
-          "title": "消息称 DeepSeek 本周参加联合国安理会，讲解 AI 安全风险",
-          "url": "https://www.ithome.com/1/005/990.htm",
-          "summary": "消息称 DeepSeek 本周参加联合国安理会，讲解 AI 安全风险。"
+          "title": "黄仁勋像超级恶棍一样谈论人工智能和气候变化",
+          "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+          "summary": "黄仁勋谈 AI 与气候变化时的言论被批像超级反派。"
         },
         {
-          "title": "Siri AI 集体诉讼和解网站现已上线",
-          "url": "https://daringfireball.net/linked/2026/09/22/siri-ai-settlements",
-          "summary": "Siri AI 集体诉讼和解网站上线。"
+          "title": "彼得·蒂尔抨击教皇关于人工智能的通谕是送给中国共产党的一份“礼物”",
+          "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+          "summary": "彼得·蒂尔抨击教皇 AI 通谕，称其是送给中共的“礼物”。"
         },
         {
-          "title": "IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水",
-          "url": "https://juejin.cn/post/7687493428759117875",
-          "summary": "一名员工在 4 人 AI 小公司领着比公司年收入还高的薪水。"
+          "title": "Netflix 因在《旺卡》真人秀中使用人工智能生成的吉恩·怀尔德声音而面临强烈反对",
+          "url": "https://www.techradar.com/streaming/netflix/netflix-is-disgusting-wonkas-golden-ticket-receives-huge-backlash-to-its-ai-gene-wilder-voice-and-i-saw-it-coming-from-a-mile-away",
+          "summary": "Netflix 在《旺卡》真人秀中用 AI 生成吉恩·怀尔德声音，引发强烈反弹。"
         }
       ]
     }
