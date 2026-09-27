@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:26:07.266532Z",
+  "generated_at": "2026-09-27T18:33:38.085538Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -46,11 +46,21 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -91,20 +101,29 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8604,
+      "importance": 0.8604,
+      "importance_score": 0.8604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
-        "story_heat": 0.75
+        "recency": 0.8768,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -176,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.8292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,147 +279,6 @@
         "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
         "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
         "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5e312e5a8d40",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-      "url": "https://x.com/arena/status/2103893011164017018",
-      "primary_url": "https://x.com/arena/status/2103893011164017018",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7342,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T17:02:36Z",
-      "latest_at": "2026-09-26T17:02:36Z",
-      "primary_item": {
-        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-        "url": "https://x.com/arena/status/2103893011164017018",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb055a4409b6",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7205,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "url": "https://www.ithome.com/1/007/444.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -477,15 +355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "score": 0.6088,
+      "importance": 0.6088,
+      "importance_score": 0.6088,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9422,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -500,6 +378,300 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-26",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_4aa8cdc749d3",
+      "title": "不存在“失控”的人工智能代理",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "source": "eoinhiggins.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+          "title": "不存在“失控”的人工智能代理",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "eoinhiggins.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:51:03.203000Z"
+        },
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "eoinhiggins.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+          "title": "不存在“失控”的人工智能代理",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "eoinhiggins.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:51:03.203000Z"
+        },
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9898,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T16:19:46Z",
+      "latest_at": "2026-09-27T17:51:03.203000Z",
+      "primary_item": {
+        "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+        "title": "不存在“失控”的人工智能代理",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "source": "eoinhiggins.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b04934350ff5",
+      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "primary_url": "https://earnanhonestdollar.com/bench",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "330618c59ae0d8634153906de4a6207254685661",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://news.ycombinator.com/item?id=49868753",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:24:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "330618c59ae0d8634153906de4a6207254685661",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://news.ycombinator.com/item?id=49868753",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:24:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9834,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T17:24:17Z",
+      "latest_at": "2026-09-27T17:24:17Z",
+      "primary_item": {
+        "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+        "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+        "url": "https://earnanhonestdollar.com/bench",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_52125ba00b41",
+      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+      "url": "https://tinyaiarena.com",
+      "primary_url": "https://tinyaiarena.com",
+      "source": "tinyaiarena.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T16:00:00.241000Z"
+        },
+        {
+          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "tinyaiarena.com"
+      ],
+      "items": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T16:00:00.241000Z"
+        },
+        {
+          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5643,
+      "importance": 0.5643,
+      "importance_score": 0.5643,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9637,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T15:51:28Z",
+      "latest_at": "2026-09-27T16:00:00.241000Z",
+      "primary_item": {
+        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+        "url": "https://tinyaiarena.com",
+        "source": "tinyaiarena.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -536,20 +708,10 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-27T02:07:23Z"
-        },
-        {
-          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Lobsters (技术社区)",
         "www.privatemode.ai"
       ],
@@ -580,35 +742,26 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-27T02:07:23Z"
-        },
-        {
-          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.959,
-        "story_heat": 0.75
+        "recency": 0.9036,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:49:04Z",
+      "earliest_at": "2026-09-27T02:07:23Z",
       "latest_at": "2026-09-27T11:32:15.779000Z",
       "primary_item": {
         "id": "2c07064135493a697f86987ecc808851d594ee81",
@@ -619,109 +772,187 @@
       }
     },
     {
-      "story_id": "story_819e92326da0",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_6cbde97d8260",
+      "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T16:34:59Z"
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T21:07:08Z"
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "The Verge"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T16:34:59Z"
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T21:07:08Z"
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7294,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T16:34:59Z",
-      "latest_at": "2026-09-26T21:07:08Z",
+      "earliest_at": "2026-09-27T02:43:12.986155Z",
+      "latest_at": "2026-09-27T18:33:38.085538Z",
       "primary_item": {
-        "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-        "title": "OpenAI pauses training of its ‘most capable models’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+        "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_fa0a47e1b5bd",
-      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "story_id": "story_774f7412d1a3",
+      "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
+        },
+        {
+          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:32:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
+        },
+        {
+          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:32:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T17:32:02Z",
+      "latest_at": "2026-09-27T17:32:02Z",
+      "primary_item": {
+        "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+        "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_a9972c37e8d1",
+      "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+      "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "primary_url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T17:18:54.824000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T16:55:13Z"
         }
       ],
       "source_count": 2,
@@ -731,304 +962,48 @@
       ],
       "items": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T17:18:54.824000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T16:55:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9482,
+        "recency": 0.9822,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T10:00:01Z",
-      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "earliest_at": "2026-09-27T16:55:13Z",
+      "latest_at": "2026-09-27T17:18:54.824000Z",
       "primary_item": {
-        "id": "6e8a72db35aa150e337602a81210a750676285f7",
-        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+        "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+        "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_71ac5a164a1d",
-      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T10:26:25Z",
-      "primary_item": {
-        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_a922caa29d65",
-      "title": "一位代理通过DNS连接到一个外部聊天机器人",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source": "alignment.openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "alignment.openai.com"
-      ],
-      "items": [
-        {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9413,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T15:43:46Z",
-      "latest_at": "2026-09-27T10:14:33.203000Z",
-      "primary_item": {
-        "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-        "title": "一位代理通过DNS连接到一个外部聊天机器人",
-        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-        "source": "alignment.openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_755e3dc914b2",
-      "title": "DeepSeek 弹性计算 (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "primary_url": "https://arxiv.org/abs/2609.22978",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7999,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T18:22:41Z",
-      "latest_at": "2026-09-26T22:58:22.682000Z",
-      "primary_item": {
-        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-        "title": "DeepSeek 弹性计算 (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "arxiv.org",
         "source_name": "Buzzing"
       }
     },
@@ -1086,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.8412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1112,82 +1087,82 @@
       }
     },
     {
-      "story_id": "story_7614f7cbe655",
-      "title": "管住 AI，成了一门新生意",
-      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_a62f66c93218",
+      "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "primary_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T15:45:11.702000Z"
         },
         {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:39:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T15:45:11.702000Z"
         },
         {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:39:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8444,
+        "recency": 0.9603,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T00:36:28Z",
-      "latest_at": "2026-09-27T02:43:12.986155Z",
+      "earliest_at": "2026-09-27T15:39:24Z",
+      "latest_at": "2026-09-27T15:45:11.702000Z",
       "primary_item": {
-        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-        "title": "管住 AI，成了一门新生意",
-        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+        "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+        "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1244,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7939,
+        "recency": 0.7479,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7812,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,242 +1319,6 @@
         "id": "772ea7f73094f82fd60c4825914e651a4688c675",
         "title": "mobile-next / mobile-mcp",
         "url": "https://github.com/mobile-next/mobile-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2f2f5e9bd898",
-      "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-      "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "primary_url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
-        },
-        {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
-        },
-        {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9413,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T09:50:01Z",
-      "latest_at": "2026-09-27T10:14:34.505000Z",
-      "primary_item": {
-        "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-        "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-        "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_464712ef80ec",
-      "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "primary_url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7415,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T17:43:11Z",
-      "latest_at": "2026-09-26T17:43:11Z",
-      "primary_item": {
-        "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-        "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_7773ad411618",
-      "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "primary_url": "https://github.com/anthropics/claude-code-action",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7812,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T21:10:23.718000Z",
-      "latest_at": "2026-09-26T21:20:02.928176Z",
-      "primary_item": {
-        "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-        "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-        "url": "https://github.com/anthropics/claude-code-action",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
@@ -1638,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5045,
-      "importance": 0.5045,
-      "importance_score": 0.5045,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.7258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1661,6 +1400,322 @@
         "url": "https://arxiv.org/abs/2608.23642",
         "source": "arxiv.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_71ac5a164a1d",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8894,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T10:26:25Z",
+      "primary_item": {
+        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_e6f2eebb259b",
+      "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+      "primary_url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
+          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:57:24Z"
+        },
+        {
+          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
+          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49859982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T19:57:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
+          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:57:24Z"
+        },
+        {
+          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
+          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49859982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T19:57:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7215,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T19:57:24Z",
+      "latest_at": "2026-09-26T19:57:24Z",
+      "primary_item": {
+        "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
+        "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
+        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_7614f7cbe655",
+      "title": "管住 AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7955,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T00:36:28Z",
+      "latest_at": "2026-09-27T02:43:12.986155Z",
+      "primary_item": {
+        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+        "title": "管住 AI，成了一门新生意",
+        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7773ad411618",
+      "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "primary_url": "https://github.com/anthropics/claude-code-action",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
+          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
+          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T21:10:23.718000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
+          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
+          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T21:10:23.718000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.736,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T21:10:23.718000Z",
+      "latest_at": "2026-09-26T21:20:02.928176Z",
+      "primary_item": {
+        "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
+        "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
+        "url": "https://github.com/anthropics/claude-code-action",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
