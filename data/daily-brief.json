@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T18:33:38.085538Z",
+  "generated_at": "2026-09-27T21:44:39.416041Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_9fe0a063f817",
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8604,
-      "importance": 0.8604,
-      "importance_score": 0.8604,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8768,
+        "recency": 0.8374,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.792,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -285,13 +285,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
+      "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-26",
+      "source": "社区更新 · 2026-09-27",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
+          "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
+          "id": "80a1f204080656307afd43a312c49f49baca8323",
+          "title": "作者抢先装上还没正式官宣的 DeepSeek Harness 桌面版，实测了它的登录引导、任务模式、插件系统和完整思维链展示，并用“读取本地环境，生成一个模拟 macOS 的演示网页”做了对比测试。结果很反常识：便宜的 DeepSeek V4.1 flash 在 Harness 里还原出了非常接近本机桌面的交互效果，速度快、过程清晰；而同定位的 GPT-6 Luna 反而更像凭理解重画了一版。模型之外，任务规划和执行框架可能才是下一轮差距。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
+          "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
+          "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
           "id": "bbb61f9a61f4469936d30dd7c303c5f3d097684d",
           "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -308,24 +335,42 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-27T08:45:09.733856Z"
-        },
-        {
-          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
-          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-26T21:20:02.928176Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-09-25",
-        "社区更新 · 2026-09-26"
+        "社区更新 · 2026-09-26",
+        "社区更新 · 2026-09-27"
       ],
       "items": [
         {
+          "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
+          "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
+          "id": "80a1f204080656307afd43a312c49f49baca8323",
+          "title": "作者抢先装上还没正式官宣的 DeepSeek Harness 桌面版，实测了它的登录引导、任务模式、插件系统和完整思维链展示，并用“读取本地环境，生成一个模拟 macOS 的演示网页”做了对比测试。结果很反常识：便宜的 DeepSeek V4.1 flash 在 Harness 里还原出了非常接近本机桌面的交互效果，速度快、过程清晰；而同定位的 GPT-6 Luna 反而更像凭理解重画了一版。模型之外，任务规划和执行框架可能才是下一轮差距。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
+          "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
+          "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T21:44:39.416041Z"
+        },
+        {
           "id": "bbb61f9a61f4469936d30dd7c303c5f3d097684d",
           "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -342,42 +387,150 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-27T08:45:09.733856Z"
-        },
-        {
-          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
-          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-26T21:20:02.928176Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6088,
-      "importance": 0.6088,
-      "importance_score": 0.6088,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6858,
+      "importance": 0.6858,
+      "importance_score": 0.6858,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4968,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9422,
-        "story_heat": 0.5
+        "ai_relevance": 0.69,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T21:20:02.928176Z",
-      "latest_at": "2026-09-27T14:26:07.266532Z",
+      "earliest_at": "2026-09-27T08:45:09.733856Z",
+      "latest_at": "2026-09-27T21:44:39.416041Z",
       "primary_item": {
-        "id": "bbb61f9a61f4469936d30dd7c303c5f3d097684d",
-        "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
+        "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
+        "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-26",
+        "source": "社区更新 · 2026-09-27",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T18:54:12.868000Z"
+        },
+        {
+          "id": "221233d15f416eef397070c5cc84e201c5520703",
+          "title": "FM 合成发明者 John Chowning 的口述历史 [视频] / Oral history of John Chowning, inventor of FM synthesis [video]",
+          "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T18:02:43Z"
+        },
+        {
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
+        },
+        {
+          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:32:02Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T18:54:12.868000Z"
+        },
+        {
+          "id": "221233d15f416eef397070c5cc84e201c5520703",
+          "title": "FM 合成发明者 John Chowning 的口述历史 [视频] / Oral history of John Chowning, inventor of FM synthesis [video]",
+          "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T18:02:43Z"
+        },
+        {
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
+        },
+        {
+          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:32:02Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5886,
+      "importance": 0.5886,
+      "importance_score": 0.5886,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9598,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T17:32:02Z",
+      "latest_at": "2026-09-27T18:54:12.868000Z",
+      "primary_item": {
+        "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+        "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -453,15 +606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.569,
-      "importance": 0.569,
-      "importance_score": 0.569,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9898,
+        "recency": 0.9453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -551,15 +704,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9834,
+        "recency": 0.9393,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -649,15 +802,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9204,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -746,15 +899,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9036,
+        "recency": 0.863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -772,54 +925,55 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "story_id": "story_9c046be3cf17",
+      "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "primary_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
-          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:20:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
-          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:20:00Z"
         }
       ],
       "item_count": 2,
@@ -839,93 +993,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T02:43:12.986155Z",
-      "latest_at": "2026-09-27T18:33:38.085538Z",
+      "earliest_at": "2026-09-27T19:20:00Z",
+      "latest_at": "2026-09-27T21:44:39.416041Z",
       "primary_item": {
-        "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-        "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+        "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+        "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+        "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9853,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T17:32:02Z",
-      "latest_at": "2026-09-27T17:32:02Z",
-      "primary_item": {
-        "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
-        "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -982,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9822,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1061,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8412,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,6 +1159,84 @@
         "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
         "source": "blog.bustikiller.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9551,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T02:43:12.986155Z",
+      "latest_at": "2026-09-27T18:33:38.085538Z",
+      "primary_item": {
+        "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+        "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1140,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.9171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1183,18 +1336,18 @@
           "published_at": "2026-09-26T22:26:55.052000Z"
         },
         {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "id": "8882243747d2b680700b5be08735873006e2916e",
           "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
           "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
           "published_at": "2026-09-26T22:15:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "HN Algolia · AI 24h",
         "news.ycombinator.com"
       ],
       "items": [
@@ -1208,26 +1361,26 @@
           "published_at": "2026-09-26T22:26:55.052000Z"
         },
         {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "id": "8882243747d2b680700b5be08735873006e2916e",
           "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
           "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
           "published_at": "2026-09-26T22:15:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5004,
-      "importance": 0.5004,
-      "importance_score": 0.5004,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7479,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,178 +1398,20 @@
       }
     },
     {
-      "story_id": "story_890d693f27fb",
-      "title": "mobile-next / mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "primary_url": "https://github.com/mobile-next/mobile-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.736,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T21:10:23.718000Z",
-      "latest_at": "2026-09-26T21:20:02.928176Z",
-      "primary_item": {
-        "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-        "title": "mobile-next / mobile-mcp",
-        "url": "https://github.com/mobile-next/mobile-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d1c9c2119b74",
-      "title": "人工智能代理将人类排除在决策循环之外",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "primary_url": "https://arxiv.org/abs/2608.23642",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7258,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T19:21:56Z",
-      "latest_at": "2026-09-26T20:22:04.648000Z",
-      "primary_item": {
-        "id": "104ac66a9ec2dfa132aa394419796937917021de",
-        "title": "人工智能代理将人类排除在决策循环之外",
-        "url": "https://arxiv.org/abs/2608.23642",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
       "story_id": "story_71ac5a164a1d",
       "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021",
       "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
           "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T10:26:25Z"
         },
         {
@@ -1431,17 +1426,17 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
           "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T10:26:25Z"
         },
         {
@@ -1456,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.8494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1474,90 +1469,90 @@
       "earliest_at": "2026-09-27T10:26:25Z",
       "latest_at": "2026-09-27T10:26:25Z",
       "primary_item": {
-        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+        "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
         "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "url": "https://arxiv.org/abs/2609.25021",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_e6f2eebb259b",
-      "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "primary_url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_fa0a47e1b5bd",
+      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
         },
         {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
         },
         {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4957,
-      "importance": 0.4957,
-      "importance_score": 0.4957,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7215,
+        "recency": 0.8532,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T19:57:24Z",
-      "latest_at": "2026-09-26T19:57:24Z",
+      "earliest_at": "2026-09-27T10:00:01Z",
+      "latest_at": "2026-09-27T10:45:08.393000Z",
       "primary_item": {
-        "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-        "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "6e8a72db35aa150e337602a81210a750676285f7",
+        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1614,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7955,
+        "recency": 0.7598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1640,82 +1635,82 @@
       }
     },
     {
-      "story_id": "story_7773ad411618",
-      "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "primary_url": "https://github.com/anthropics/claude-code-action",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_2f2f5e9bd898",
+      "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+      "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+      "primary_url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:14:34.505000Z"
         },
         {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
+          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T09:50:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-          "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:14:34.505000Z"
         },
         {
-          "id": "e028310be3b6b9b7099c61447ea90248615766d2",
-          "title": "人类学 / 克劳德代码行动 / anthropics /      claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
+          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T09:50:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.736,
+        "recency": 0.847,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T21:10:23.718000Z",
-      "latest_at": "2026-09-26T21:20:02.928176Z",
+      "earliest_at": "2026-09-27T09:50:01Z",
+      "latest_at": "2026-09-27T10:14:34.505000Z",
       "primary_item": {
-        "id": "b4389dce753704ca7a2c90bc4850ba4e6c0dd99a",
-        "title": "人类学 / 克劳德代码行动 / anthropics / claude-code-action",
-        "url": "https://github.com/anthropics/claude-code-action",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+        "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+        "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
