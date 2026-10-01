@@ -1,106 +1,67 @@
 {
-  "generated_at": "2026-10-01T07:23:09.735783Z",
+  "generated_at": "2026-10-01T14:38:15.148127Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6a91381a4292",
-      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
+      "story_id": "story_2bced9c6e490",
+      "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
+      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
+          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+          "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
+          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
-          "title": "OpenAI 挫败协同模型蒸馏行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-01T14:00:51Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Readhub · AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
+          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+          "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
+          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
-          "title": "OpenAI 挫败协同模型蒸馏行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-01T14:00:51Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7396,
-        "story_heat": 0.5
+        "ai_relevance": 0.87,
+        "recency": 0.991,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T10:30:00Z",
-      "latest_at": "2026-10-01T07:23:09.735783Z",
+      "earliest_at": "2026-10-01T14:00:51Z",
+      "latest_at": "2026-10-01T14:00:51Z",
       "primary_item": {
-        "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-        "source": "OpenAI News",
+        "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+        "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
+        "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -158,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8487,
+        "recency": 0.7644,
         "story_heat": 0.25
       },
       "category": "official",
@@ -187,21 +148,21 @@
       }
     },
     {
-      "story_id": "story_d12535d4e632",
-      "title": "Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "story_id": "story_619fccc0d225",
+      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "Opt-in dist-tag permissions for npm trusted publishing",
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "source_count": 1,
@@ -210,26 +171,26 @@
       ],
       "items": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "Opt-in dist-tag permissions for npm trusted publishing",
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8614,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,14 +199,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T21:03:09Z",
-      "latest_at": "2026-09-30T21:03:09Z",
+      "earliest_at": "2026-10-01T13:01:31Z",
+      "latest_at": "2026-10-01T13:01:31Z",
       "primary_item": {
-        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "Opt-in dist-tag permissions for npm trusted publishing",
-        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0d41a58e9bee",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "primary_url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
+        },
+        {
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T12:05:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
+        },
+        {
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T12:05:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.964,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T12:05:49Z",
+      "latest_at": "2026-10-01T12:05:49Z",
+      "primary_item": {
+        "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -321,15 +363,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8336,
+        "recency": 0.7507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -402,15 +444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7899,
+        "recency": 0.7114,
         "story_heat": 0.25
       },
       "category": "official",
@@ -427,6 +469,391 @@
         "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
         "url": "https://deepmind.google/blog/introducing-synthid-bio",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d53090d93605",
+      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "primary_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Berkeley RDI：Blog（AI 安全与评测）"
+      ],
+      "items": [
+        {
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9006,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T07:23:09.735783Z",
+      "latest_at": "2026-10-01T07:23:09.735783Z",
+      "primary_item": {
+        "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+        "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fa3d1425cbe7",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8669,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
+      "primary_item": {
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b0443d9889b",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "url": "https://modal.com/blog/modal-clusters-generally-available",
+      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
+      "source": "Modal 官方工程博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Modal 官方工程博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T14:38:15.148127Z",
+      "latest_at": "2026-10-01T14:38:15.148127Z",
+      "primary_item": {
+        "id": "10475e511695c99db79c08d74b401b4da02fb238",
+        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+        "url": "https://modal.com/blog/modal-clusters-generally-available",
+        "source": "Modal 官方工程博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_373fab5c5505",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7818,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
+      "primary_item": {
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f584ffddbc7",
+      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7769,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T21:09:24Z",
+      "latest_at": "2026-09-30T21:09:24Z",
+      "primary_item": {
+        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d12535d4e632",
+      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
+      "primary_item": {
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "Opt-in dist-tag permissions for npm trusted publishing",
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -484,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7246,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -512,572 +939,62 @@
       }
     },
     {
-      "story_id": "story_40e72bec9edf",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7839,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
-      "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "HydraFusion in VS Code and the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d53090d93605",
-      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-      "primary_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "story_id": "story_ee61659f9646",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "primary_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
-          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null
+          "published_at": "2026-10-01T10:54:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Berkeley RDI：Blog（AI 安全与评测）"
+        "Ethan Mollick：One Useful Thing（RSS）"
       ],
       "items": [
         {
-          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
-          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null
+          "published_at": "2026-10-01T10:54:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T07:23:09.735783Z",
-      "latest_at": "2026-10-01T07:23:09.735783Z",
-      "primary_item": {
-        "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
-        "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-        "source": "Berkeley RDI：Blog（AI 安全与评测）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b5e5e43443d2",
-      "title": "帮助小型企业将人工智能发挥作用 / Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "primary_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "帮助小型企业将人工智能发挥作用 / Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "帮助小型企业将人工智能发挥作用 / Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7343,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T10:00:00Z",
-      "latest_at": "2026-09-30T10:00:00Z",
-      "primary_item": {
-        "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-        "title": "帮助小型企业将人工智能发挥作用 / Helping small businesses put AI to work",
-        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fa3d1425cbe7",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9625,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T04:44:34Z",
-      "latest_at": "2026-10-01T04:44:34Z",
-      "primary_item": {
-        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-        "url": "https://x.com/thsottiaux/status/2105519215092584786",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_373fab5c5505",
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "primary_url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8681,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T21:35:38Z",
-      "latest_at": "2026-09-30T21:35:38Z",
-      "primary_item": {
-        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-        "url": "https://x.com/arena/status/2105411271525052418",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f584ffddbc7",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8627,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T21:09:24Z",
-      "latest_at": "2026-09-30T21:09:24Z",
-      "primary_item": {
-        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6caab1facf6a",
-      "title": "GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8102,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T16:48:24Z",
-      "latest_at": "2026-09-30T16:48:24Z",
-      "primary_item": {
-        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
-        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c943108bbbb2",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
+      "earliest_at": "2026-10-01T10:54:12Z",
+      "latest_at": "2026-10-01T10:54:12Z",
       "primary_item": {
-        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_433c6b8fa491",
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "primary_url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7634,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T12:41:30Z",
-      "latest_at": "2026-09-30T12:41:30Z",
-      "primary_item": {
-        "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-        "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-        "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1116,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1142,81 +1059,81 @@
       }
     },
     {
-      "story_id": "story_a0ce837e4743",
-      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_c943108bbbb2",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T00:09:22Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T00:09:22Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9009,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-01T00:09:22Z",
-      "latest_at": "2026-10-01T00:09:22Z",
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
       "primary_item": {
-        "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5294bab58d74",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "story_id": "story_6caab1facf6a",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "source_count": 1,
@@ -1225,26 +1142,26 @@
       ],
       "items": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7724,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1253,12 +1170,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T13:30:24Z",
-      "latest_at": "2026-09-30T13:30:24Z",
+      "earliest_at": "2026-09-30T16:48:24Z",
+      "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
-        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-        "title": "X25519-only TLS ends for GHE.com on October 7",
-        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+        "title": "GitHub Advanced Security trials for GitHub Team",
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1298,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1324,63 +1241,231 @@
       }
     },
     {
-      "story_id": "story_56c6f03b2323",
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-      "primary_url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_15b832525770",
+      "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+      "url": "https://www.aibase.com/news/31443",
+      "primary_url": "https://www.aibase.com/news/31443",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
+          "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+          "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+          "url": "https://www.aibase.com/news/31443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T18:23:09.735783Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
+          "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+          "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+          "url": "https://www.aibase.com/news/31443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T18:23:09.735783Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
+      "earliest_at": "2026-09-30T18:23:09.735783Z",
+      "latest_at": "2026-09-30T18:23:09.735783Z",
       "primary_item": {
-        "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
+        "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+        "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+        "url": "https://www.aibase.com/news/31443",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "OpenAI DevDay发布重磅个人Agent产品dots，可以在后台持续执行任务，搭配ChatGPT Space实现人机协同，但仅面向高价付费套餐。作者发现了一个开源平替方案Rakazo，不仅支持私有化部署，还拥有近乎一致的自动化能力，兼容多类大模型，权限可控，数据留存自己手中。如果你想搭建专属AI同事，又不想支付高额订阅成本，这份对比与部署指南极具参考价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-30",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "656cdbcf6903d1bb105fa653199bdb7929b6b152",
+          "title": "2026 OpenAI DevDay一次性释放20余项重磅更新。整理收集了大家的一些解读，一起来看看有哪些是值得关注的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "3c152cacfc7fc5b687939c828716e236097c7a9c",
+          "title": "OpenAI DevDay发布重磅个人Agent产品dots，可以在后台持续执行任务，搭配ChatGPT Space实现人机协同，但仅面向高价付费套餐。作者发现了一个开源平替方案Rakazo，不仅支持私有化部署，还拥有近乎一致的自动化能力，兼容多类大模型，权限可控，数据留存自己手中。如果你想搭建专属AI同事，又不想支付高额订阅成本，这份对比与部署指南极具参考价值。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "72dfff170cd54ddc825b16a08a5b1744b501d9a7",
+          "title": "Opus 5.5 出来这一周，被各种AI视频刷屏了。像素动画、界面动效、游戏史短片、AI 发展史纪录片，每一个都特别精细。这篇文章就给朋友们分享下怎么用Claude Opus 5.5 做AI视频。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "9a428e5674cf987781b486f22b50270c9292d039",
+          "title": "「爆款开场计划」AI短片大赛已经到了第 3、4 周，一起来看看这两周的优质项目：哪些开场够抓人，哪些故事能撑住，哪些脑洞有长成 IP 的可能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "8f6c9e6683db1efbde18d5b5d9bf655c5f3b8cc5",
+          "title": "作者把用Opus 5.5 做视频的整套流程拆解了下，如果你也想理解 AI 视频背后“到底是怎么跑起来”，或者想上手试试，不要错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "1de9bbb96cd9b0dac31d5c50c6360a14827e8af8",
+          "title": "开源模型更新太快，很多人只记得头部大厂发布会，真正适合业务试水的细分模型反而容易漏掉。作者把9月开源的 42 个模型做了一次月度盘点，从 DeepSeek-V4.1-Flash、Qwen-Image-2.1，到Jev、时间序列、自动驾驶、图像生成、文档解析、语音识别、GUI Agent、金融、医学、世界模型等方向都扫了一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "866811b714eacaaf8c0f2a319712dadff038504d",
+          "title": "谷歌Gemini 4 Argon 一发布，就直接拿跑分、长上下文和 Agent 能力对标 GPT-6 Astra、Claude Opus 5.5。18 项测试里 Argon 多项第一，DeepSWE、AutomationBench 表现突出；输出上限拉到 100 万 token，支持文本、图像、视频、语音输入；价格、缓存折扣和开放节奏也都列出来了。一起看看谷歌这次到底是跑分好看，还是又真杀回来了。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-09-30"
+      ],
+      "items": [
+        {
+          "id": "656cdbcf6903d1bb105fa653199bdb7929b6b152",
+          "title": "2026 OpenAI DevDay一次性释放20余项重磅更新。整理收集了大家的一些解读，一起来看看有哪些是值得关注的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "3c152cacfc7fc5b687939c828716e236097c7a9c",
+          "title": "OpenAI DevDay发布重磅个人Agent产品dots，可以在后台持续执行任务，搭配ChatGPT Space实现人机协同，但仅面向高价付费套餐。作者发现了一个开源平替方案Rakazo，不仅支持私有化部署，还拥有近乎一致的自动化能力，兼容多类大模型，权限可控，数据留存自己手中。如果你想搭建专属AI同事，又不想支付高额订阅成本，这份对比与部署指南极具参考价值。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "72dfff170cd54ddc825b16a08a5b1744b501d9a7",
+          "title": "Opus 5.5 出来这一周，被各种AI视频刷屏了。像素动画、界面动效、游戏史短片、AI 发展史纪录片，每一个都特别精细。这篇文章就给朋友们分享下怎么用Claude Opus 5.5 做AI视频。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "9a428e5674cf987781b486f22b50270c9292d039",
+          "title": "「爆款开场计划」AI短片大赛已经到了第 3、4 周，一起来看看这两周的优质项目：哪些开场够抓人，哪些故事能撑住，哪些脑洞有长成 IP 的可能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "8f6c9e6683db1efbde18d5b5d9bf655c5f3b8cc5",
+          "title": "作者把用Opus 5.5 做视频的整套流程拆解了下，如果你也想理解 AI 视频背后“到底是怎么跑起来”，或者想上手试试，不要错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "1de9bbb96cd9b0dac31d5c50c6360a14827e8af8",
+          "title": "开源模型更新太快，很多人只记得头部大厂发布会，真正适合业务试水的细分模型反而容易漏掉。作者把9月开源的 42 个模型做了一次月度盘点，从 DeepSeek-V4.1-Flash、Qwen-Image-2.1，到Jev、时间序列、自动驾驶、图像生成、文档解析、语音识别、GUI Agent、金融、医学、世界模型等方向都扫了一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        },
+        {
+          "id": "866811b714eacaaf8c0f2a319712dadff038504d",
+          "title": "谷歌Gemini 4 Argon 一发布，就直接拿跑分、长上下文和 Agent 能力对标 GPT-6 Astra、Claude Opus 5.5。18 项测试里 Argon 多项第一，DeepSWE、AutomationBench 表现突出；输出上限拉到 100 万 token，支持文本、图像、视频、语音输入；价格、缓存折扣和开放节奏也都列出来了。一起看看谷歌这次到底是跑分好看，还是又真杀回来了。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-01T07:23:09.735783Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6596,
+      "importance": 0.6596,
+      "importance_score": 0.6596,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.54,
+        "ai_relevance": 0.67,
+        "recency": 0.9006,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T07:23:09.735783Z",
+      "latest_at": "2026-10-01T07:23:09.735783Z",
+      "primary_item": {
+        "id": "3c152cacfc7fc5b687939c828716e236097c7a9c",
+        "title": "OpenAI DevDay发布重磅个人Agent产品dots，可以在后台持续执行任务，搭配ChatGPT Space实现人机协同，但仅面向高价付费套餐。作者发现了一个开源平替方案Rakazo，不仅支持私有化部署，还拥有近乎一致的自动化能力，兼容多类大模型，权限可控，数据留存自己手中。如果你想搭建专属AI同事，又不想支付高额订阅成本，这份对比与部署指南极具参考价值。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-30",
+        "source_name": "WaytoAGI"
       }
     }
   ]
