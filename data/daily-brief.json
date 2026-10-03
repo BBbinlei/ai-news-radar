@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:31:14.864329Z",
+  "generated_at": "2026-10-03T10:51:20.292550Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8256,
+        "recency": 0.7644,
         "story_heat": 0.25
       },
       "category": "official",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8108,
+        "recency": 0.7507,
         "story_heat": 0.25
       },
       "category": "official",
@@ -163,68 +163,6 @@
         "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
         "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c50f0986cd4e",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8619,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8147,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,6 +226,149 @@
         "url": "https://huggingface.co/blog/allenai/astabrief",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c50f0986cd4e",
+      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.798,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8023f1ca7887",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        },
+        {
+          "id": "6cc9ac7f368f4949d51e3f6f9e8333c51ef2833e",
+          "title": "旗下智能体频繁“闯祸”，OpenAI 每天要烧掉超 50 万美元来调查",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        },
+        {
+          "id": "6cc9ac7f368f4949d51e3f6f9e8333c51ef2833e",
+          "title": "旗下智能体频繁“闯祸”，OpenAI 每天要烧掉超 50 万美元来调查",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9365,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
+      "primary_item": {
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -325,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8108,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "official",
@@ -387,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9011,
+        "recency": 0.8343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8517,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,15 +592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -590,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7879,
+        "recency": 0.7295,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -651,15 +732,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8482,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -711,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,246 +814,6 @@
         "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
         "url": "https://www.primeintellect.ai/blog/prime-inference",
         "source": "Prime Intellect（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b7a4cac8ba63",
-      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T05:31:14.864329Z",
-      "latest_at": "2026-10-03T05:31:14.864329Z",
-      "primary_item": {
-        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_faf4acfaabab",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T07:23:13Z",
-      "latest_at": "2026-10-02T07:23:13Z",
-      "primary_item": {
-        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b3403e5e5ad",
-      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "source": "Baseten 工程博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Baseten 工程博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T21:09:34Z",
-      "latest_at": "2026-10-02T21:09:34Z",
-      "primary_item": {
-        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-        "source": "Baseten 工程博客（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0408845a7a94",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:11:30Z",
-      "latest_at": "2026-10-02T19:11:30Z",
-      "primary_item": {
-        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "url": "https://x.com/AIatMeta/status/2106099776035152231",
-        "source": "X：AI at Meta (@AIatMeta)",
         "source_name": "AI HOT"
       }
     },
@@ -1011,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7912,
+        "recency": 0.7325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1036,86 +877,6 @@
         "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d59de4d941f9",
-      "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-      "url": "https://allenai.org/blog/astabrief",
-      "primary_url": "https://allenai.org/blog/astabrief",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T08:00:00Z"
-        },
-        {
-          "id": "dafaaccf0fd3d7569c4d3d04b423ee0b277ab92a",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T21:25:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ai2 / Allen Institute for AI（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T08:00:00Z"
-        },
-        {
-          "id": "dafaaccf0fd3d7569c4d3d04b423ee0b277ab92a",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T21:25:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7145,
-      "importance": 0.7145,
-      "importance_score": 0.7145,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7329,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T08:00:00Z",
-      "latest_at": "2026-10-02T21:25:25Z",
-      "primary_item": {
-        "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-        "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-        "url": "https://allenai.org/blog/astabrief",
-        "source": "Ai2 / Allen Institute for AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1153,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7907,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1275,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7907,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1300,6 +1061,359 @@
         "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_39b9fbb58d7c",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6103,
+      "importance": 0.6103,
+      "importance_score": 0.6103,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:11:27Z",
+      "latest_at": "2026-10-02T19:03:03Z",
+      "primary_item": {
+        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_e35138269f8b",
+      "title": "Show HN: 开发了一个开源的乐高AI生成器",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "primary_url": "https://github.com/anteloc/ldraw-nova",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "4833224933c4812b26db59323c17c75baab29f24",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T20:00:15Z"
+        },
+        {
+          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
+          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "4833224933c4812b26db59323c17c75baab29f24",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T20:00:15Z"
+        },
+        {
+          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
+          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9412,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T20:00:15Z",
+      "latest_at": "2026-10-03T06:39:44.372000Z",
+      "primary_item": {
+        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+        "title": "Show HN: 开发了一个开源的乐高AI生成器",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
+      "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+      "primary_url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
+          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
+          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:22:04.817000Z"
+        },
+        {
+          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T20:59:54.195000Z"
+        },
+        {
+          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
+          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
+          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T18:09:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
+          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
+          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:22:04.817000Z"
+        },
+        {
+          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T20:59:54.195000Z"
+        },
+        {
+          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
+          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
+          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T18:09:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8471,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:09:38Z",
+      "latest_at": "2026-10-02T23:22:04.817000Z",
+      "primary_item": {
+        "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
+        "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
+        "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5981ed276f26",
+      "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+      "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "primary_url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T09:47:55.404000Z"
+        },
+        {
+          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:30:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T09:47:55.404000Z"
+        },
+        {
+          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:30:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T09:30:02Z",
+      "latest_at": "2026-10-03T09:47:55.404000Z",
+      "primary_item": {
+        "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+        "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+        "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
